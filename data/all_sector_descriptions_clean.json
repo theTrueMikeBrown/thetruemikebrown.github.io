@@ -358,7 +358,12 @@
       "PLAYER_SHIP_SYLVAN_3"
     ],
     "coordinates": [],
-    "secret_warps": []
+    "secret_warps": [],
+    "sectorRange": {
+      "minSector": 0,
+      "maxSector": 0
+    },
+    "zone": "CIVILIAN"
   },
   {
     "name": "FINAL",
@@ -652,7 +657,12 @@
       "PLAYER_SHIP_SYLVAN_3"
     ],
     "coordinates": [],
-    "secret_warps": []
+    "secret_warps": [],
+    "sectorRange": {
+      "minSector": 7,
+      "maxSector": 7
+    },
+    "zone": "HOSTILE"
   },
   {
     "name": "SECTOR_FEDERATION",
@@ -954,7 +964,12 @@
       "PLAYER_SHIP_SYLVAN_3"
     ],
     "coordinates": [],
-    "secret_warps": []
+    "secret_warps": [],
+    "sectorRange": {
+      "minSector": 1,
+      "maxSector": 4
+    },
+    "zone": "CIVILIAN"
   },
   {
     "name": "SECTOR_FEDERATION_UNIQUE",
@@ -1263,7 +1278,12 @@
       "PLAYER_SHIP_SYLVAN_3"
     ],
     "coordinates": [],
-    "secret_warps": []
+    "secret_warps": [],
+    "sectorRange": {
+      "minSector": 3,
+      "maxSector": 6
+    },
+    "zone": "CIVILIAN"
   },
   {
     "name": "SECTOR_UNION",
@@ -1583,7 +1603,12 @@
     "coordinates": [
       "coords_spider"
     ],
-    "secret_warps": []
+    "secret_warps": [],
+    "sectorRange": {
+      "minSector": 1,
+      "maxSector": 4
+    },
+    "zone": "CIVILIAN"
   },
   {
     "name": "SECTOR_UNION_UNIQUE",
@@ -1937,7 +1962,12 @@
     "coordinates": [
       "coords_spider"
     ],
-    "secret_warps": []
+    "secret_warps": [],
+    "sectorRange": {
+      "minSector": 3,
+      "maxSector": 6
+    },
+    "zone": "CIVILIAN"
   },
   {
     "name": "SECTOR_MILITIA_UNIQUE",
@@ -2255,7 +2285,12 @@
     "coordinates": [
       "coords_spider"
     ],
-    "secret_warps": []
+    "secret_warps": [],
+    "sectorRange": {
+      "minSector": 3,
+      "maxSector": 6
+    },
+    "zone": "CIVILIAN"
   },
   {
     "name": "SECTOR_HARMONY",
@@ -2563,7 +2598,12 @@
     "coordinates": [],
     "secret_warps": [
       "SECRET_AUGMENTED"
-    ]
+    ],
+    "sectorRange": {
+      "minSector": 1,
+      "maxSector": 4
+    },
+    "zone": "CIVILIAN"
   },
   {
     "name": "SECTOR_HARMONY_UNIQUE",
@@ -2885,7 +2925,12 @@
     "coordinates": [],
     "secret_warps": [
       "SECRET_AUGMENTED"
-    ]
+    ],
+    "sectorRange": {
+      "minSector": 3,
+      "maxSector": 6
+    },
+    "zone": "CIVILIAN"
   },
   {
     "name": "SECTOR_MINISTRY",
@@ -3177,7 +3222,12 @@
       "PLAYER_SHIP_SYLVAN_3"
     ],
     "coordinates": [],
-    "secret_warps": []
+    "secret_warps": [],
+    "sectorRange": {
+      "minSector": 2,
+      "maxSector": 4
+    },
+    "zone": "CIVILIAN"
   },
   {
     "name": "SECTOR_MINISTRY_UNIQUE",
@@ -3471,7 +3521,12 @@
       "PLAYER_SHIP_ZOLTAN"
     ],
     "coordinates": [],
-    "secret_warps": []
+    "secret_warps": [],
+    "sectorRange": {
+      "minSector": 5,
+      "maxSector": 6
+    },
+    "zone": "CIVILIAN"
   },
   {
     "name": "SECTOR_MONK_UNIQUE",
@@ -3758,7 +3813,12 @@
       "PLAYER_SHIP_SYLVAN_3"
     ],
     "coordinates": [],
-    "secret_warps": []
+    "secret_warps": [],
+    "sectorRange": {
+      "minSector": 3,
+      "maxSector": 6
+    },
+    "zone": "NEBULA"
   },
   {
     "name": "SECTOR_GATHERING",
@@ -4083,7 +4143,12 @@
       "PLAYER_SHIP_SYLVAN_3"
     ],
     "coordinates": [],
-    "secret_warps": []
+    "secret_warps": [],
+    "sectorRange": {
+      "minSector": 1,
+      "maxSector": 4
+    },
+    "zone": "CIVILIAN"
   },
   {
     "name": "SECTOR_GATHERING_UNIQUE",
@@ -4423,7 +4488,12 @@
       "PLAYER_SHIP_SYLVAN_3"
     ],
     "coordinates": [],
-    "secret_warps": []
+    "secret_warps": [],
+    "sectorRange": {
+      "minSector": 3,
+      "maxSector": 6
+    },
+    "zone": "CIVILIAN"
   },
   {
     "name": "SECTOR_FREEMANTIS",
@@ -4714,7 +4784,12 @@
       "PLAYER_SHIP_SYLVAN_3"
     ],
     "coordinates": [],
-    "secret_warps": []
+    "secret_warps": [],
+    "sectorRange": {
+      "minSector": 1,
+      "maxSector": 4
+    },
+    "zone": "CIVILIAN"
   },
   {
     "name": "SECTOR_FREEMANTIS_UNIQUE",
@@ -5019,7 +5094,12 @@
       "PLAYER_SHIP_SYLVAN_3"
     ],
     "coordinates": [],
-    "secret_warps": []
+    "secret_warps": [],
+    "sectorRange": {
+      "minSector": 3,
+      "maxSector": 6
+    },
+    "zone": "CIVILIAN"
   },
   {
     "name": "SECTOR_IMPERIAL",
@@ -5375,7 +5455,12 @@
       "PLAYER_SHIP_SYLVAN_3"
     ],
     "coordinates": [],
-    "secret_warps": []
+    "secret_warps": [],
+    "sectorRange": {
+      "minSector": 2,
+      "maxSector": 4
+    },
+    "zone": "CIVILIAN"
   },
   {
     "name": "SECTOR_IMPERIAL_UNIQUE",
@@ -5744,7 +5829,12 @@
     "coordinates": [
       "coords_rhyme"
     ],
-    "secret_warps": []
+    "secret_warps": [],
+    "sectorRange": {
+      "minSector": 5,
+      "maxSector": 6
+    },
+    "zone": "HOSTILE"
   },
   {
     "name": "SECTOR_OUTCAST",
@@ -6071,7 +6161,12 @@
       "PLAYER_SHIP_SYLVAN_3"
     ],
     "coordinates": [],
-    "secret_warps": []
+    "secret_warps": [],
+    "sectorRange": {
+      "minSector": 1,
+      "maxSector": 4
+    },
+    "zone": "CIVILIAN"
   },
   {
     "name": "SECTOR_OUTCAST_UNIQUE",
@@ -6412,7 +6507,12 @@
     "coordinates": [],
     "secret_warps": [
       "SECRET_ORIGINS_RUWEN"
-    ]
+    ],
+    "sectorRange": {
+      "minSector": 3,
+      "maxSector": 6
+    },
+    "zone": "CIVILIAN"
   },
   {
     "name": "SECTOR_UNEXPLORED_GENERIC",
@@ -6743,7 +6843,12 @@
       "PLAYER_SHIP_SYLVAN_3"
     ],
     "coordinates": [],
-    "secret_warps": []
+    "secret_warps": [],
+    "sectorRange": {
+      "minSector": 2,
+      "maxSector": 4
+    },
+    "zone": "NEBULA"
   },
   {
     "name": "SECTOR_ASTEROID_GENERIC",
@@ -7080,7 +7185,12 @@
       "PLAYER_SHIP_SYLVAN_3"
     ],
     "coordinates": [],
-    "secret_warps": []
+    "secret_warps": [],
+    "sectorRange": {
+      "minSector": 2,
+      "maxSector": 4
+    },
+    "zone": "NEBULA"
   },
   {
     "name": "SECTOR_STARGROVE_UNIQUE",
@@ -7347,7 +7457,12 @@
       "PLAYER_SHIP_AUTO_FED"
     ],
     "coordinates": [],
-    "secret_warps": []
+    "secret_warps": [],
+    "sectorRange": {
+      "minSector": 5,
+      "maxSector": 6
+    },
+    "zone": "NEBULA"
   },
   {
     "name": "SECTOR_ABANDONED_GENERIC",
@@ -7683,7 +7798,12 @@
       "PLAYER_SHIP_SYLVAN_3"
     ],
     "coordinates": [],
-    "secret_warps": []
+    "secret_warps": [],
+    "sectorRange": {
+      "minSector": 2,
+      "maxSector": 4
+    },
+    "zone": "NEUTRAL"
   },
   {
     "name": "SECTOR_ABANDONED_GENERIC_HEKTAR",
@@ -7997,7 +8117,12 @@
     "coordinates": [
       "coords_hektar"
     ],
-    "secret_warps": []
+    "secret_warps": [],
+    "sectorRange": {
+      "minSector": 2,
+      "maxSector": 4
+    },
+    "zone": "NEUTRAL"
   },
   {
     "name": "SECTOR_SEPARATIST",
@@ -8327,7 +8452,12 @@
     "coordinates": [],
     "secret_warps": [
       "SECRET_AUGMENTED"
-    ]
+    ],
+    "sectorRange": {
+      "minSector": 1,
+      "maxSector": 4
+    },
+    "zone": "NEUTRAL"
   },
   {
     "name": "SECTOR_SEPARATIST_UNIQUE",
@@ -8650,7 +8780,12 @@
     "coordinates": [],
     "secret_warps": [
       "SECRET_AUGMENTED"
-    ]
+    ],
+    "sectorRange": {
+      "minSector": 3,
+      "maxSector": 6
+    },
+    "zone": "NEUTRAL"
   },
   {
     "name": "SECTOR_CONFEDERATE",
@@ -9006,7 +9141,12 @@
       "PLAYER_SHIP_SYLVAN_3"
     ],
     "coordinates": [],
-    "secret_warps": []
+    "secret_warps": [],
+    "sectorRange": {
+      "minSector": 2,
+      "maxSector": 4
+    },
+    "zone": "NEUTRAL"
   },
   {
     "name": "SECTOR_CONFEDERATE_UNIQUE",
@@ -9378,7 +9518,12 @@
       "PLAYER_SHIP_VAMPWEED"
     ],
     "coordinates": [],
-    "secret_warps": []
+    "secret_warps": [],
+    "sectorRange": {
+      "minSector": 3,
+      "maxSector": 6
+    },
+    "zone": "NEUTRAL"
   },
   {
     "name": "SECTOR_GENIOCRACY",
@@ -9673,7 +9818,12 @@
       "PLAYER_SHIP_SYLVAN_3"
     ],
     "coordinates": [],
-    "secret_warps": []
+    "secret_warps": [],
+    "sectorRange": {
+      "minSector": 2,
+      "maxSector": 4
+    },
+    "zone": "NEBULA"
   },
   {
     "name": "SECTOR_GENIOCRACY_UNIQUE",
@@ -9970,7 +10120,12 @@
       "PLAYER_SHIP_SYLVAN_3"
     ],
     "coordinates": [],
-    "secret_warps": []
+    "secret_warps": [],
+    "sectorRange": {
+      "minSector": 5,
+      "maxSector": 6
+    },
+    "zone": "NEBULA"
   },
   {
     "name": "SECTOR_REPUBLIC",
@@ -10296,7 +10451,12 @@
       "PLAYER_SHIP_SYLVAN_3"
     ],
     "coordinates": [],
-    "secret_warps": []
+    "secret_warps": [],
+    "sectorRange": {
+      "minSector": 2,
+      "maxSector": 4
+    },
+    "zone": "NEBULA"
   },
   {
     "name": "SECTOR_REPUBLIC_UNIQUE",
@@ -10661,7 +10821,12 @@
       "PLAYER_SHIP_TONY"
     ],
     "coordinates": [],
-    "secret_warps": []
+    "secret_warps": [],
+    "sectorRange": {
+      "minSector": 5,
+      "maxSector": 6
+    },
+    "zone": "NEBULA"
   },
   {
     "name": "SECTOR_REPUBLIC_HEKTAR",
@@ -10952,7 +11117,12 @@
     "coordinates": [
       "coords_hektar"
     ],
-    "secret_warps": []
+    "secret_warps": [],
+    "sectorRange": {
+      "minSector": 2,
+      "maxSector": 4
+    },
+    "zone": "NEBULA"
   },
   {
     "name": "SECTOR_PIRATE",
@@ -11279,7 +11449,12 @@
       "PLAYER_SHIP_SYLVAN_3"
     ],
     "coordinates": [],
-    "secret_warps": []
+    "secret_warps": [],
+    "sectorRange": {
+      "minSector": 2,
+      "maxSector": 4
+    },
+    "zone": "NEUTRAL"
   },
   {
     "name": "SECTOR_PIRATE_UNIQUE",
@@ -11722,7 +11897,12 @@
     "coordinates": [
       "coords_rhyme"
     ],
-    "secret_warps": []
+    "secret_warps": [],
+    "sectorRange": {
+      "minSector": 5,
+      "maxSector": 6
+    },
+    "zone": "NEUTRAL"
   },
   {
     "name": "SECTOR_PIRATE_HEKTAR",
@@ -12027,7 +12207,12 @@
     "coordinates": [
       "coords_hektar"
     ],
-    "secret_warps": []
+    "secret_warps": [],
+    "sectorRange": {
+      "minSector": 2,
+      "maxSector": 4
+    },
+    "zone": "NEUTRAL"
   },
   {
     "name": "SECTOR_VAGABOND",
@@ -12320,7 +12505,12 @@
       "PLAYER_SHIP_SYLVAN_3"
     ],
     "coordinates": [],
-    "secret_warps": []
+    "secret_warps": [],
+    "sectorRange": {
+      "minSector": 2,
+      "maxSector": 4
+    },
+    "zone": "NEBULA"
   },
   {
     "name": "SECTOR_VAGABOND_UNIQUE",
@@ -12634,7 +12824,12 @@
     "coordinates": [
       "coords_rhyme"
     ],
-    "secret_warps": []
+    "secret_warps": [],
+    "sectorRange": {
+      "minSector": 5,
+      "maxSector": 6
+    },
+    "zone": "NEBULA"
   },
   {
     "name": "SECTOR_LOSTSUN_UNIQUE",
@@ -12937,7 +13132,12 @@
       "PLAYER_SHIP_LOSTSUN"
     ],
     "coordinates": [],
-    "secret_warps": []
+    "secret_warps": [],
+    "sectorRange": {
+      "minSector": 5,
+      "maxSector": 6
+    },
+    "zone": "NEUTRAL"
   },
   {
     "name": "SECTOR_CLAN_UNIQUE",
@@ -13260,7 +13460,12 @@
       "PLAYER_SHIP_STUPIDGHOST"
     ],
     "coordinates": [],
-    "secret_warps": []
+    "secret_warps": [],
+    "sectorRange": {
+      "minSector": 3,
+      "maxSector": 6
+    },
+    "zone": "NEBULA"
   },
   {
     "name": "SECTOR_LANIUS_UNIQUE",
@@ -13563,7 +13768,12 @@
     "coordinates": [
       "coords_rhyme"
     ],
-    "secret_warps": []
+    "secret_warps": [],
+    "sectorRange": {
+      "minSector": 5,
+      "maxSector": 6
+    },
+    "zone": "NEUTRAL"
   },
   {
     "name": "SECTOR_REBEL",
@@ -13857,7 +14067,12 @@
     "coordinates": [
       "coords_jerry"
     ],
-    "secret_warps": []
+    "secret_warps": [],
+    "sectorRange": {
+      "minSector": 2,
+      "maxSector": 4
+    },
+    "zone": "HOSTILE"
   },
   {
     "name": "SECTOR_REBEL_UNIQUE",
@@ -14172,7 +14387,12 @@
     "coordinates": [
       "coords_jerry"
     ],
-    "secret_warps": []
+    "secret_warps": [],
+    "sectorRange": {
+      "minSector": 5,
+      "maxSector": 6
+    },
+    "zone": "HOSTILE"
   },
   {
     "name": "SECTOR_AUTO",
@@ -14473,7 +14693,12 @@
     ],
     "ship_unlocks": [],
     "coordinates": [],
-    "secret_warps": []
+    "secret_warps": [],
+    "sectorRange": {
+      "minSector": 2,
+      "maxSector": 4
+    },
+    "zone": "HOSTILE"
   },
   {
     "name": "SECTOR_AUTO_UNIQUE",
@@ -14805,7 +15030,12 @@
     "coordinates": [
       "coords_rhyme"
     ],
-    "secret_warps": []
+    "secret_warps": [],
+    "sectorRange": {
+      "minSector": 5,
+      "maxSector": 6
+    },
+    "zone": "HOSTILE"
   },
   {
     "name": "SECTOR_HIVE",
@@ -15092,7 +15322,12 @@
     ],
     "ship_unlocks": [],
     "coordinates": [],
-    "secret_warps": []
+    "secret_warps": [],
+    "sectorRange": {
+      "minSector": 2,
+      "maxSector": 4
+    },
+    "zone": "HOSTILE"
   },
   {
     "name": "SECTOR_HIVE_UNIQUE",
@@ -15379,7 +15614,12 @@
       "PLAYER_SHIP_SUZERAIN"
     ],
     "coordinates": [],
-    "secret_warps": []
+    "secret_warps": [],
+    "sectorRange": {
+      "minSector": 5,
+      "maxSector": 6
+    },
+    "zone": "HOSTILE"
   },
   {
     "name": "SECTOR_THEOCRACY",
@@ -15661,7 +15901,12 @@
     ],
     "ship_unlocks": [],
     "coordinates": [],
-    "secret_warps": []
+    "secret_warps": [],
+    "sectorRange": {
+      "minSector": 2,
+      "maxSector": 4
+    },
+    "zone": "HOSTILE"
   },
   {
     "name": "SECTOR_THEOCRACY_UNIQUE",
@@ -15985,7 +16230,12 @@
     "coordinates": [],
     "secret_warps": [
       "SECRET_ORIGINS"
-    ]
+    ],
+    "sectorRange": {
+      "minSector": 5,
+      "maxSector": 6
+    },
+    "zone": "HOSTILE"
   },
   {
     "name": "SECTOR_KLEPTOCRACY",
@@ -16308,7 +16558,12 @@
     "coordinates": [
       "coords_nights"
     ],
-    "secret_warps": []
+    "secret_warps": [],
+    "sectorRange": {
+      "minSector": 2,
+      "maxSector": 4
+    },
+    "zone": "NEBULA"
   },
   {
     "name": "SECTOR_KLEPTOCRACY_UNIQUE",
@@ -16643,7 +16898,12 @@
     "coordinates": [
       "coords_nights"
     ],
-    "secret_warps": []
+    "secret_warps": [],
+    "sectorRange": {
+      "minSector": 5,
+      "maxSector": 6
+    },
+    "zone": "NEBULA"
   },
   {
     "name": "SECTOR_KLEPTOCRACY_HEKTAR",
@@ -16941,7 +17201,12 @@
       "coords_hektar",
       "coords_nights"
     ],
-    "secret_warps": []
+    "secret_warps": [],
+    "sectorRange": {
+      "minSector": 2,
+      "maxSector": 4
+    },
+    "zone": "NEBULA"
   },
   {
     "name": "SECTOR_DUSKBRINGER",
@@ -17219,7 +17484,12 @@
     ],
     "ship_unlocks": [],
     "coordinates": [],
-    "secret_warps": []
+    "secret_warps": [],
+    "sectorRange": {
+      "minSector": 2,
+      "maxSector": 4
+    },
+    "zone": "HOSTILE"
   },
   {
     "name": "SECTOR_DUSKBRINGER_UNIQUE",
@@ -17523,7 +17793,12 @@
       "PLAYER_SHIP_PEACEKEEPER"
     ],
     "coordinates": [],
-    "secret_warps": []
+    "secret_warps": [],
+    "sectorRange": {
+      "minSector": 5,
+      "maxSector": 6
+    },
+    "zone": "HOSTILE"
   },
   {
     "name": "SECTOR_DYNASTY",
@@ -17829,7 +18104,12 @@
       "PLAYER_SHIP_SYLVAN_3"
     ],
     "coordinates": [],
-    "secret_warps": []
+    "secret_warps": [],
+    "sectorRange": {
+      "minSector": 2,
+      "maxSector": 4
+    },
+    "zone": "NEBULA"
   },
   {
     "name": "SECTOR_DYNASTY_UNIQUE",
@@ -18155,7 +18435,12 @@
     "coordinates": [
       "coords_rhyme"
     ],
-    "secret_warps": []
+    "secret_warps": [],
+    "sectorRange": {
+      "minSector": 5,
+      "maxSector": 6
+    },
+    "zone": "NEBULA"
   },
   {
     "name": "SECTOR_COALITION",
@@ -18439,7 +18724,12 @@
     ],
     "ship_unlocks": [],
     "coordinates": [],
-    "secret_warps": []
+    "secret_warps": [],
+    "sectorRange": {
+      "minSector": 2,
+      "maxSector": 4
+    },
+    "zone": "HOSTILE"
   },
   {
     "name": "SECTOR_COALITION_UNIQUE",
@@ -18743,7 +19033,12 @@
     "coordinates": [
       "coords_hive"
     ],
-    "secret_warps": []
+    "secret_warps": [],
+    "sectorRange": {
+      "minSector": 5,
+      "maxSector": 6
+    },
+    "zone": "NEBULA"
   },
   {
     "name": "SECTOR_MORPH_UNIQUE",
@@ -19037,7 +19332,12 @@
       "PLAYER_SHIP_SYLVAN_3"
     ],
     "coordinates": [],
-    "secret_warps": []
+    "secret_warps": [],
+    "sectorRange": {
+      "minSector": 5,
+      "maxSector": 6
+    },
+    "zone": "NEBULA"
   },
   {
     "name": "SECTOR_HACKER_UNIQUE",
@@ -19300,7 +19600,12 @@
     "coordinates": [
       "coords_rhyme"
     ],
-    "secret_warps": []
+    "secret_warps": [],
+    "sectorRange": {
+      "minSector": 5,
+      "maxSector": 6
+    },
+    "zone": "CIVILIAN"
   },
   {
     "name": "SECRET_SPIDER",
