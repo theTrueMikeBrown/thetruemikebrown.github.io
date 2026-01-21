@@ -1,0 +1,5822 @@
+[
+  {
+    "augBlueprint": {
+      "name": "IMMUNE",
+      "title": "Immunity",
+      "desc": "Nanomachines, son! They harden in response to physical trauma! YOU CAN'T HURT ME!",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "ION_ARMOR",
+      "title": "Reverse Ion Field",
+      "desc": "Protects your ship from ion damage, giving a 50% chance to negate it entirely.",
+      "cost": "45",
+      "bp": "8",
+      "rarity": "0",
+      "stackable": "true",
+      "value": "0.50"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "CLOAK_FIRE",
+      "title": "Stealth Weapons",
+      "desc": "Prevents your weapon fire from disrupting your cloak, allowing you to shoot at will while cloaked.",
+      "cost": "50",
+      "bp": "8",
+      "rarity": "0",
+      "stackable": "false",
+      "value": "0.15"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "AUTO_COOLDOWN",
+      "title": "Automated Re-loader",
+      "desc": "Cooldown between weapon shots is improved by 10 percent.",
+      "cost": "40",
+      "bp": "5",
+      "rarity": "0",
+      "stackable": "true",
+      "value": "0.10"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "SHIELD_RECHARGE",
+      "title": "Shield Charge Booster",
+      "desc": "Boosts the ship's shield recharge rate by 15 percent.",
+      "cost": "45",
+      "bp": "5",
+      "rarity": "0",
+      "stackable": "true",
+      "value": "0.15"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "FTL_BOOSTER",
+      "title": "FTL Recharge Booster",
+      "desc": "The ship's FTL Drive powers up 25 percent faster.",
+      "cost": "50",
+      "bp": "4",
+      "rarity": "0",
+      "stackable": "true",
+      "value": "0.25"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "FTL_JUMPER",
+      "title": "Adv. FTL Navigation",
+      "desc": "Allows the ship to jump to any previously visited Beacon.",
+      "cost": "50",
+      "bp": "5",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "FTL_JAMMER",
+      "title": "FTL Jammer",
+      "desc": "Scramble enemy ships' FTL computers, doubling the time it takes for them to jump.",
+      "cost": "30",
+      "bp": "4",
+      "rarity": "0",
+      "value": "2",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "ANURAK_PRAYER",
+      "title": "Anurak's Prayer",
+      "desc": "A.k.a. delicious soup.",
+      "cost": "0",
+      "bp": "8",
+      "rarity": "0",
+      "stackable": "true"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "FOR_MULTIVERSE",
+      "title": "This ship was made for Multiverse!",
+      "desc": "This ship was made for Multiverse.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false",
+      "bp": "0"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "FEDERATION_DATABASE",
+      "title": "The Federation Database",
+      "desc": "Grants various blue options to read more about certain things during events.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false",
+      "bp": "0"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "NO_WEAPON",
+      "title": "Disable starting weapon",
+      "desc": "It's evil, I know",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false",
+      "bp": "0"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "SKIP_START",
+      "title": "Disable start prep",
+      "desc": "This is for Sally, needs it for EH in the base mod",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false",
+      "bp": "0"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "STAGE_2",
+      "title": "FLAGSHIP STAGE 2",
+      "desc": "YOU SHOULD NEVER SEE THIS",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false",
+      "bp": "0"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "STAGE_3",
+      "title": "FLAGSHIP STAGE 3",
+      "desc": "YOU SHOULD NEVER SEE THIS",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false",
+      "bp": "0"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "DRONE_AI_ENABLED",
+      "title": "AI MODE",
+      "desc": "Enables AI mode for crew drones.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false",
+      "bp": "0"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "MARKER_STAGE3_SURGE1",
+      "title": "POWER SURGE",
+      "desc": "YOU SHOULD NEVER SEE THIS",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false",
+      "bp": "0"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "MARKER_STAGE3_SURGE2",
+      "title": "POWER SURGE",
+      "desc": "YOU SHOULD NEVER SEE THIS",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false",
+      "bp": "0"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "MARKER_STAGE3_SURGE3",
+      "title": "POWER SURGE",
+      "desc": "YOU SHOULD NEVER SEE THIS",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false",
+      "bp": "0"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "MARKER_MFK_SURGE",
+      "title": "POWER SURGE",
+      "desc": "YOU SHOULD NEVER SEE THIS",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false",
+      "bp": "0"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "SHIP_MULTIVERSE",
+      "title": "Multiverse Cruiser",
+      "desc": "YOU SHOULD NEVER SEE THIS",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false",
+      "bp": "0"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "SHIP_PLEASURE",
+      "title": "Pleasure Cruiser",
+      "desc": "YOU SHOULD NEVER SEE THIS",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false",
+      "bp": "0"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "SHIP_TUCO",
+      "title": "Tuco Cruiser",
+      "desc": "YOU SHOULD NEVER SEE THIS",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false",
+      "bp": "0"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "SHIP_GAMBLING",
+      "title": "Gambling Cruiser",
+      "desc": "YOU SHOULD NEVER SEE THIS",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false",
+      "bp": "0"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "SHIP_TUCO_GOLD",
+      "title": "Golden Tuco Cruiser",
+      "desc": "YOU SHOULD NEVER SEE THIS",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false",
+      "bp": "0"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "SHIP_GHOSTHUNTER",
+      "title": "Ghost Hunter Cruiser",
+      "desc": "YOU SHOULD NEVER SEE THIS",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false",
+      "bp": "0"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "SHIP_ANCIENT",
+      "title": "Ancient Cruiser",
+      "desc": "YOU SHOULD NEVER SEE THIS",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false",
+      "bp": "0"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "SHIP_SIREN",
+      "title": "Rhyme Cruiser",
+      "desc": "YOU SHOULD NEVER SEE THIS",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false",
+      "bp": "0"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "SHIP_AUGMENTED",
+      "title": "Augmented Cruiser",
+      "desc": "YOU SHOULD NEVER SEE THIS",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false",
+      "bp": "0"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "SHIP_ENGI",
+      "title": "Engi Cruiser",
+      "desc": "YOU SHOULD NEVER SEE THIS",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false",
+      "bp": "0"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "SHIP_ZOLTAN",
+      "title": "Zoltan Cruiser",
+      "desc": "YOU SHOULD NEVER SEE THIS",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false",
+      "bp": "0"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "SHIP_ZOLTAN_OLD",
+      "title": "Organic Zoltan Cruiser",
+      "desc": "YOU SHOULD NEVER SEE THIS",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false",
+      "bp": "0"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "SHIP_DUSKBRINGER",
+      "title": "Duskbringer Cruiser",
+      "desc": "YOU SHOULD NEVER SEE THIS",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false",
+      "bp": "0"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "SHIP_MONK",
+      "title": "Zoltan Cruiser",
+      "desc": "YOU SHOULD NEVER SEE THIS",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false",
+      "bp": "0"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "SHIP_HIVE",
+      "title": "Hive Cruiser",
+      "desc": "YOU SHOULD NEVER SEE THIS",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false",
+      "bp": "0"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "SHIP_FREEMANTIS",
+      "title": "Free Mantis Cruiser",
+      "desc": "YOU SHOULD NEVER SEE THIS",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false",
+      "bp": "0"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "SHIP_ROCK",
+      "title": "Rock Cruiser",
+      "desc": "YOU SHOULD NEVER SEE THIS",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false",
+      "bp": "0"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "SHIP_OUTCAST",
+      "title": "Outcast Cruiser",
+      "desc": "YOU SHOULD NEVER SEE THIS",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false",
+      "bp": "0"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "SHIP_LOSTSUN",
+      "title": "Lost Sun Cruiser",
+      "desc": "YOU SHOULD NEVER SEE THIS",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false",
+      "bp": "0"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "SHIP_CULTIST",
+      "title": "Cultist Cruiser",
+      "desc": "YOU SHOULD NEVER SEE THIS",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false",
+      "bp": "0"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "SHIP_CRYSTAL",
+      "title": "Crystal Cruiser",
+      "desc": "YOU SHOULD NEVER SEE THIS",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false",
+      "bp": "0"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "SHIP_SLUG",
+      "title": "Slug Cruiser",
+      "desc": "YOU SHOULD NEVER SEE THIS",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false",
+      "bp": "0"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "SHIP_COALITION",
+      "title": "Coalition Cruiser",
+      "desc": "YOU SHOULD NEVER SEE THIS",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false",
+      "bp": "0"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "SHIP_ORCHID",
+      "title": "Convenat Cruiser",
+      "desc": "YOU SHOULD NEVER SEE THIS",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false",
+      "bp": "0"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "SHIP_VAMPWEED",
+      "title": "Confederate Cruiser",
+      "desc": "YOU SHOULD NEVER SEE THIS",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false",
+      "bp": "0"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "SHIP_SHELL",
+      "title": "Shell Cruiser",
+      "desc": "YOU SHOULD NEVER SEE THIS",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false",
+      "bp": "0"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "SHIP_MORPH",
+      "title": "Morph Cruiser",
+      "desc": "YOU SHOULD NEVER SEE THIS",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false",
+      "bp": "0"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "SHIP_LEECH",
+      "title": "Leech Cruiser",
+      "desc": "YOU SHOULD NEVER SEE THIS",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false",
+      "bp": "0"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "SHIP_LANIUS",
+      "title": "Lanius Cruiser",
+      "desc": "YOU SHOULD NEVER SEE THIS",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false",
+      "bp": "0"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "SHIP_SALT",
+      "title": "Sodium Cruiser",
+      "desc": "YOU SHOULD NEVER SEE THIS",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false",
+      "bp": "0"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "SHIP_SPIDER",
+      "title": "Spider Cruiser",
+      "desc": "YOU SHOULD NEVER SEE THIS",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false",
+      "bp": "0"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "SHIP_DYNASTY",
+      "title": "Dynasty Cruiser",
+      "desc": "YOU SHOULD NEVER SEE THIS",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false",
+      "bp": "0"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "SHIP_UNION",
+      "title": "Civilian Cruiser",
+      "desc": "YOU SHOULD NEVER SEE THIS",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false",
+      "bp": "0"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "SHIP_FEDERATION",
+      "title": "Federation Cruiser",
+      "desc": "YOU SHOULD NEVER SEE THIS",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false",
+      "bp": "0"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "SHIP_REBEL",
+      "title": "Rebel Cruiser",
+      "desc": "YOU SHOULD NEVER SEE THIS",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false",
+      "bp": "0"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "SHIP_AUTO",
+      "title": "C.U.R.A. Cruiser",
+      "desc": "YOU SHOULD NEVER SEE THIS",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false",
+      "bp": "0"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "SHIP_AUTO_FED",
+      "title": "Federation Auto-Cruiser",
+      "desc": "YOU SHOULD NEVER SEE THIS",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false",
+      "bp": "0"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "SHIP_TECH",
+      "title": "Technician Cruiser",
+      "desc": "YOU SHOULD NEVER SEE THIS",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false",
+      "bp": "0"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "SHIP_KESTREL",
+      "title": "Kestrel Cruiser",
+      "desc": "YOU SHOULD NEVER SEE THIS",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false",
+      "bp": "0"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "SHIP_STEALTH",
+      "title": "Stealth Cruiser",
+      "desc": "YOU SHOULD NEVER SEE THIS",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false",
+      "bp": "0"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "SHIP_ANGEL",
+      "title": "Federation Cruiser",
+      "desc": "YOU SHOULD NEVER SEE THIS",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false",
+      "bp": "0"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "SHIP_ALPHA",
+      "title": "Alpha Cruiser",
+      "desc": "YOU SHOULD NEVER SEE THIS",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false",
+      "bp": "0"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "SHIP_GHOST",
+      "title": "Ghost Cruiser",
+      "desc": "YOU SHOULD NEVER SEE THIS",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false",
+      "bp": "0"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "SHIP_PIRATE",
+      "title": "Pirate Cruiser",
+      "desc": "YOU SHOULD NEVER SEE THIS",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false",
+      "bp": "0"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "SHIP_SPLICE",
+      "title": "Splice Cruiser",
+      "desc": "YOU SHOULD NEVER SEE THIS",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false",
+      "bp": "0"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "SHIP_PROTOTYPE",
+      "title": "Prototype Cruiser",
+      "desc": "YOU SHOULD NEVER SEE THIS",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false",
+      "bp": "0"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "SHIP_PONY",
+      "title": "Equinoid Cruiser",
+      "desc": "YOU SHOULD NEVER SEE THIS",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false",
+      "bp": "0"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "SHIP_FLAGSHIP",
+      "title": "Flagship",
+      "desc": "YOU SHOULD NEVER SEE THIS",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false",
+      "bp": "0"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "SHIP_GYGES",
+      "title": "The Gyges",
+      "desc": "YOU SHOULD NEVER SEE THIS",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false",
+      "bp": "0"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "SHIP_SYLVAN",
+      "title": "Sylvan's Cruiser",
+      "desc": "YOU SHOULD NEVER SEE THIS",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false",
+      "bp": "0"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "SHIP_TULLY",
+      "title": "Tully's Cruiser",
+      "desc": "YOU SHOULD NEVER SEE THIS",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false",
+      "bp": "0"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "SHIP_LIMIT",
+      "title": "Limit Cruiser",
+      "desc": "YOU SHOULD NEVER SEE THIS",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false",
+      "bp": "0"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "SHIP_PROPHET",
+      "title": "Prophet of the Great Eye",
+      "desc": "YOU SHOULD NEVER SEE THIS",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false",
+      "bp": "0"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "TASK_SCHOOLID",
+      "title": "Task Marker",
+      "desc": "Easy Task.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false",
+      "bp": "0"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "TASK_DRAWING",
+      "title": "Task Marker",
+      "desc": "Easy Task.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false",
+      "bp": "0"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "TASK_CRUSH",
+      "title": "Task Marker",
+      "desc": "Easy Task.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false",
+      "bp": "0"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "TASK_TOILET",
+      "title": "Task Marker",
+      "desc": "Easy Task.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false",
+      "bp": "0"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "TASK_PLUSHIE",
+      "title": "Task Marker",
+      "desc": "Easy Task.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false",
+      "bp": "0"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "TASK_PETE",
+      "title": "Task Marker",
+      "desc": "Intermediate Task.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false",
+      "bp": "0"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "TASK_USB",
+      "title": "Task Marker",
+      "desc": "Intermediate Task.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false",
+      "bp": "0"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "TASK_SURVIVOR",
+      "title": "Task Marker",
+      "desc": "Intermediate Task.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false",
+      "bp": "0"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "TASK_WEDDING",
+      "title": "Task Marker",
+      "desc": "Intermediate Task.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false",
+      "bp": "0"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "TASK_WILL",
+      "title": "Task Marker",
+      "desc": "Intermediate Task.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false",
+      "bp": "0"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "TASK_SCANDAL",
+      "title": "Task Marker",
+      "desc": "Intermediate Task.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false",
+      "bp": "0"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "TASK_TORTURE",
+      "title": "Task Marker",
+      "desc": "Hard Task.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false",
+      "bp": "0"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "TASK_OUTPOST",
+      "title": "Task Marker",
+      "desc": "Hard Task.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false",
+      "bp": "0"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "TASK_SHIP",
+      "title": "Task Marker",
+      "desc": "Hard Task.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false",
+      "bp": "0"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "TASK_DUSK",
+      "title": "Task Marker",
+      "desc": "Hard Task.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false",
+      "bp": "0"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "TASK_CONTRACT",
+      "title": "Task Marker",
+      "desc": "Hard Task.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false",
+      "bp": "0"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "COMIC_DEVORAK",
+      "title": "Devorak Comic",
+      "desc": "It's a comic book.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false",
+      "bp": "0"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "COMIC_TULLY",
+      "title": "Tully Comic",
+      "desc": "It's a comic book.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false",
+      "bp": "0"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "COMIC_WAR",
+      "title": "Fed-Mantis War Comic",
+      "desc": "It's a comic book.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false",
+      "bp": "0"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "TRINKET_WAR",
+      "title": "Totem of war",
+      "desc": "-8% weapon cooldown",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false",
+      "bp": "0"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "TRINKET_SPEED",
+      "title": "Emblem of speed",
+      "desc": "+20% crew speed and FTL",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false",
+      "bp": "0"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "TRINKET_SHIELD",
+      "title": "Ingot of Fortitude",
+      "desc": "+20% shield charge and +10% sabotage resistance",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false",
+      "bp": "0"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "HAT_RANGER",
+      "title": "Ranger's Hat",
+      "desc": "Doubled range damage",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false",
+      "bp": "0"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "HAT_MASK",
+      "title": "Gas Mask",
+      "desc": "Your crew are immune to suffocation",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false",
+      "bp": "0"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "HAT_FEDORA",
+      "title": "Fedora",
+      "desc": "Your crew use short-range teleportation",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false",
+      "bp": "0"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "UPG_ARM_SCRAP",
+      "title": "Scrap Arm",
+      "desc": ".",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "true"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "SCRAP_COLLECTOR",
+      "title": "Scrap Arm [M]",
+      "desc": "Allows the ship to collect 10% more scrap from any source.\n\t\n\t[M] - As a modular arm upgrade, it does not take up your ship's arm slot and can stack with whichever arm you choose. It cannot however be internalized like external [X] augments.",
+      "cost": "50",
+      "bp": "8",
+      "rarity": "0",
+      "stackable": "true",
+      "value": "0.10"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "UPG_ARM_MAGNETIC",
+      "title": "Magnetic Arm",
+      "desc": ".",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "true"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "MAGNET_ARM",
+      "title": "Magnetic Arm [M]",
+      "desc": "A modified scrap recovery arm, which is short range and only collects scrap as effectively as your own crew, but much faster. Useful for time-sensitive situations, allowing you to salvage supplies in Rebel fleet controlled beacons and empty beacons.\n\t\n\t[M] - As a modular arm upgrade, it does not take up your ship's arm slot and can stack with a different arm. It cannot however be internalized like external [X] augments.",
+      "cost": "65",
+      "rarity": "0",
+      "stackable": "true"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "UPG_ARM_DRONES",
+      "title": "Recovery Arm",
+      "desc": ".",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "true"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "DRONE_RECOVERY",
+      "title": "Drone Arm [M]",
+      "desc": "Non-destroyed Combat and Defense drones will be retrieved when jumping, allowing their parts to be reused.\n\t\n\t[M] - As a modular arm upgrade, it does not take up your ship's arm slot and can stack with a different arm. It cannot however be internalized like external [X] augments.",
+      "cost": "50",
+      "bp": "8",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "UPG_ARM_REPAIR",
+      "title": "Repair Arm",
+      "desc": ".",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "true"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "REPAIR_ARM",
+      "title": "Repair Arm [M]",
+      "desc": "Repairs your hull every time you collect scrap, but reduces scrap collected by 10%. Will not take scrap when your hull is at full capacity.\n\t\n\t[M] - As a modular arm upgrade, it does not take up your ship's arm slot and can stack with a different arm. It cannot however be internalized like external [X] augments.",
+      "cost": "50",
+      "bp": "8",
+      "rarity": "0",
+      "stackable": "false",
+      "value": "0.10"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "UPG_TECH_SEALANT",
+      "title": "Sealant",
+      "desc": ".",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "true"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "EX_BREACH_SEALANT",
+      "title": "Sealant [X]",
+      "desc": "Breaches are slowly and automatically repaired.\n    \n\t[X] - As an external system upgrade, this augment will provide its normal effect but take up an augment slot. Can be converted for free to the internal version under the internal upgrade menu, in the On-board Tech category.",
+      "cost": "55",
+      "bp": "8",
+      "rarity": "0",
+      "stackable": "false",
+      "value": "1.f"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "UPG_TECH_EXTINGUISHERS",
+      "title": "Extinguishers",
+      "desc": ".",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "true"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "EX_FIRE_EXTINGUISHERS",
+      "title": "Extinguishers [X]",
+      "desc": "Automatically put out fires throughout the ship.\n    \n\t[X] - As an external system upgrade, this augment will provide its normal effect but take up an augment slot. Can be converted for free to the internal version under the internal upgrade menu, in the On-board Tech category.",
+      "cost": "65",
+      "bp": "8",
+      "rarity": "0",
+      "stackable": "false",
+      "value": "1.f"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "UPG_TECH_BYPASS",
+      "title": "Zoltan Bypass",
+      "desc": ".",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "true"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "EX_ZOLTAN_BYPASS",
+      "title": "Hard-Light Bypass [X]",
+      "desc": "Allows crew/bomb teleportation and mind control to work through Super Shields.\n    \n\t[X] - As an external system upgrade, this augment will provide its normal effect but take up an augment slot. Can be converted for free to the internal version under the internal upgrade menu, in the On-board Tech category.",
+      "cost": "55",
+      "bp": "8",
+      "rarity": "0",
+      "stackable": "false",
+      "value": "0.0"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "UPG_TECH_LIFEFORM",
+      "title": "Lifeform Scanner",
+      "desc": ".",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "true"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "EX_LIFE_SCANNER",
+      "title": "Lifeform Scanner [X]",
+      "desc": "Detects the location of any life forms, even when sensors don't function.\n    \n\t[X] - As an external system upgrade, this augment will provide its normal effect but take up an augment slot. Can be converted for free to the internal version under the internal upgrade menu, in the On-board Tech category.",
+      "cost": "40",
+      "bp": "8",
+      "rarity": "0",
+      "stackable": "false",
+      "value": "0.0"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "UPG_TECH_SCRAMBLER",
+      "title": "Defense Scrambler",
+      "desc": ".",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "true"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "UPG_TECH_SCRAMBLER_ENEMY",
+      "title": "Defense Scrambler",
+      "desc": ".",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "true"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "EX_DEFENSE_SCRAMBLER",
+      "title": "Def. Scrambler [X]",
+      "desc": "Prevents enemy defense drones from targeting anything.\n    \n\t[X] - As an external system upgrade, this augment will provide its normal effect but take up an augment slot. Can be converted for free to the internal version under the internal upgrade menu, in the On-board Tech category.",
+      "cost": "80",
+      "bp": "8",
+      "rarity": "0",
+      "stackable": "false",
+      "value": "0.0"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "UPG_TECH_RESPIRATOR",
+      "title": "Respirator",
+      "desc": ".",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "true"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "EX_O2_MASKS",
+      "title": "Respirators [X]",
+      "desc": "Crew take half damage from low oxygen.\n    \n\t[X] - As an external system upgrade, this augment will provide its normal effect but take up an augment slot. Can be converted for free to the internal version under the internal upgrade menu, in the On-board Tech category.",
+      "cost": "50",
+      "bp": "8",
+      "rarity": "0",
+      "stackable": "false",
+      "value": "0.5"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "UPG_PILOT_REPAIR",
+      "title": "Logistical Assistant",
+      "desc": "Upgrade - Pilot system is repaired faster.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "true"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "UPG_PILOT_REROUTE",
+      "title": "Expanded Circuitry",
+      "desc": "Upgrade - Bonus power in Pilot system is rerouted to Engine system.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "EX_PILOT_REROUTE",
+      "title": "Expanded Circuitry [X]",
+      "desc": "Crew and drones which provide bonus power will power Engines while in Piloting.\n    \n\t[X] - As an external system upgrade, this augment will provide its normal effect but take up an augment slot. Can be converted for free to the internal version under the internal upgrade menu, in the Piloting category.",
+      "cost": "15",
+      "bp": "8",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "UPG_DOOR_NOPHASE",
+      "title": "Emancipation Grills",
+      "desc": "Upgrade - All crew can no longer phase through your doors or use handheld teleporters on your ship.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "true"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "UPG_AETHER_ENGINES",
+      "title": "Aether Overdrive",
+      "desc": "Upgrade - An upgrade for your engines.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "true"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "UPG_AETHER_SCANNERS",
+      "title": "Anomaly Detector",
+      "desc": "Upgrade - An upgrade for your scanners.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "true"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "UPG_AETHER_TRANSLATOR",
+      "title": "Runic Translator",
+      "desc": "Upgrade - An upgrade for your scanners.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "true"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "UPG_AETHER_PREIGNITER",
+      "title": "Aether Overcharger",
+      "desc": "Upgrade - An upgrade for your weapons.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "true"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "UPG_AETHER_SHIELDS",
+      "title": "Aether Shielding",
+      "desc": "Upgrade - An upgrade for your shields.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "true"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "UPG_ENGINES_JUMPER",
+      "title": "LR Jump",
+      "desc": ".",
+      "cost": "50",
+      "bp": "5",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "EX_FTL_JUMPER",
+      "title": "Long-Ranged Jump [X]",
+      "desc": "Allows the ship to jump to any previously visited Beacon.\n    \n\t[X] - As an external system upgrade, this augment will provide its normal effect but take up an augment slot. Can be converted for free to the internal version under the internal upgrade menu, in the Engines category.",
+      "cost": "50",
+      "bp": "5",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "UPG_ENGINES_PERFORMANCE",
+      "title": "Performance Upgrade",
+      "desc": ".",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "true"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "EX_FTL_BOOSTER",
+      "title": "FTL Booster [X]",
+      "desc": "The ship's FTL Drive powers up 30% faster.\n    \n\t[X] - As an external system upgrade, this augment will provide its normal effect but take up an augment slot. Can be converted for free to the internal version under the internal upgrade menu, in the Engines category.",
+      "cost": "25",
+      "bp": "4",
+      "rarity": "0",
+      "stackable": "true",
+      "value": "0.3"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "UPG_SHIELD_ION",
+      "title": "Ion Field",
+      "desc": ".",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "true"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "EX_ION_ARMOR",
+      "title": "Ion Field [X]",
+      "desc": "Protects your ship from ion damage, giving a 50% chance to negate it entirely.\n    \n\t[X] - As an external system upgrade, this augment will provide its normal effect but take up an augment slot. Can be converted for free to the internal version under the internal upgrade menu if you have the Shields system.",
+      "cost": "45",
+      "bp": "8",
+      "rarity": "0",
+      "stackable": "true",
+      "value": "0.50"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "UPG_SHIELDS_PERFORMANCE",
+      "title": "Performance Upgrade",
+      "desc": ".",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "true"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "EX_SHIELD_RECHARGE",
+      "title": "Shield Charge Boost [X]",
+      "desc": "Boosts the ship's shield recharge rate by 17%.\n    \n\t[X] - As an external system upgrade, this augment will provide its normal effect but take up an augment slot. Can be converted for free to the internal version under the internal upgrade menu if you have the Shields system.",
+      "cost": "45",
+      "bp": "5",
+      "rarity": "0",
+      "stackable": "true",
+      "value": "0.15"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "UPG_SHIELDS_STUN",
+      "title": "Electrical Insulation",
+      "desc": "Upgrade - Your crew are immune to stun while in the shield room.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "true"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "UPG_WEAPONS_PERFORMANCE",
+      "title": "Performance Upgrade",
+      "desc": ".",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "true"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "EX_AUTO_COOLDOWN",
+      "title": "Re-loader [X]",
+      "desc": "The fire rate of your Weapons and Artillery is improved by 10%.\n    \n\t[X] - As an external system upgrade, this augment will provide its normal effect but take up an augment slot. Can be converted for free to the internal version under the internal upgrade menu, in the Weapons category.",
+      "cost": "60",
+      "bp": "5",
+      "rarity": "0",
+      "stackable": "true",
+      "value": "0.10"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "UPG_WEAPONS_REPLICATOR",
+      "title": "Explosive Replicator",
+      "desc": ".",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "EX_EXPLOSIVE_REPLICATOR",
+      "title": "Explosive Replicator [X]",
+      "desc": "Grants a 50% chance to ignore the ammo cost when shooting a missile consuming weapon.\n\tEffect stack multiplicatively with weapons replication chance.\n\tDoes NOT stack with the internal version.\n    \n\t[X] - As an external system upgrade, this augment will provide its normal effect but take up an augment slot. Can be converted for free to the internal version under the internal upgrade menu, in the Weapons category.",
+      "cost": "60",
+      "bp": "8",
+      "rarity": "0",
+      "stackable": "false",
+      "value": "0.5"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "UPG_ARTILLERY_TARGETING",
+      "title": "Targeting Override",
+      "desc": ".",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "EX_ARTILLERY_TARGETING",
+      "title": "Targeting Override [X]",
+      "desc": "Allows manual targeting of artillery, but improved precision increases charge time by 50%.\n    \n\t[X] - As an external system upgrade, this augment will provide its normal effect but take up an augment slot. Can be converted for free to the internal version under the internal upgrade menu, in the Weapons category.",
+      "cost": "60",
+      "bp": "5",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "UPG_CLOAK_FIRE",
+      "title": "Shadow Weaponry",
+      "desc": ".",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "true"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "EX_CLOAK_FIRE",
+      "title": "Shadow Weaponry [X]",
+      "desc": "Prevents your weapon fire from disrupting your cloak, allowing you to shoot at will while cloaked.\n    \n\t[X] - As an external system upgrade, this augment will provide its normal effect but take up an augment slot. Can be converted for free to the internal version under the internal upgrade menu if you have the Cloaking system.",
+      "cost": "60",
+      "bp": "8",
+      "rarity": "0",
+      "stackable": "false",
+      "value": "0.15"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "UPG_TELEPORTER_HEAL",
+      "title": "Reconstructive Teleporter",
+      "desc": ".",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "true"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "EX_TELEPORT_HEAL",
+      "title": "Reconstructive Tele. [X]",
+      "desc": "Crew gets fully healed by teleportation.\n    \n\t[X] - As an external system upgrade, this augment will provide its normal effect but take up an augment slot. Can be converted for free to the internal version under the internal upgrade menu if you have the Crew Teleporter system.",
+      "cost": "70",
+      "bp": "8",
+      "rarity": "0",
+      "stackable": "false",
+      "value": "1.f"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "UPG_TELEPORTER_POWER",
+      "title": "Self-Powered Teleporter",
+      "desc": "Powers the Teleporter system",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "true",
+      "value": "3"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "EX_MEDBAY_NANO",
+      "title": "Med-Bots [X]",
+      "desc": "While Medbay is powered, crew passively heal at 25% speed of the current Medbay level.\n\t\n\t[X] - As an external system upgrade, this augment will provide its normal effect but take up an augment slot. Can be converted for free to the internal version under the internal upgrade menu if you have the Medbay system.",
+      "cost": "50",
+      "rarity": "0",
+      "stackable": "true"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "UPG_MEDBAY_NANO",
+      "title": "Med-Bots",
+      "desc": ".",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "true"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "EX_MEDBAY_SPEED",
+      "title": "Medical Stimulants [X]",
+      "desc": "While Medbay is powered, crew gain an extra 25% movement speed for each powered level of Medbay.\n\t\n\t[X] - As an external system upgrade, this augment will provide its normal effect but take up an augment slot. Can be converted for free to the internal version under the internal upgrade menu if you have the Medbay system.",
+      "cost": "40",
+      "rarity": "0",
+      "stackable": "true"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "UPG_MEDBAY_SPEED",
+      "title": "Medical Stimulants",
+      "desc": ".",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "true"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "EX_MEDBAY_RESISTANCE",
+      "title": "Safety Blankets [X]",
+      "desc": "Crew gain complete fire and suffocation resistance while in the Medbay.\n\t\n\t[X] - As an external system upgrade, this augment will provide its normal effect but take up an augment slot. Can be converted for free to the internal version under the internal upgrade menu if you have the Medbay system.",
+      "cost": "20",
+      "rarity": "0",
+      "stackable": "true"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "UPG_MEDBAY_RESISTANCE",
+      "title": "Safety Blankets",
+      "desc": ".",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "true"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "UPG_CLONEBAY_DNA",
+      "title": "Backup DNA",
+      "desc": ".",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "true"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "EX_BACKUP_DNA",
+      "title": "Backup DNA [X]",
+      "desc": "Your crew is safe in clone storage even if the system is off, hacked, or broken.\n    \n\t[X] - As an external system upgrade, this augment will provide its normal effect but take up an augment slot. Can be converted for free to the internal version under the internal upgrade menu if you have the Clone Bay system.",
+      "cost": "40",
+      "bp": "8",
+      "rarity": "0",
+      "stackable": "false",
+      "value": "0.0"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "UPG_DRONE_SPEED",
+      "title": "Drone Boost",
+      "desc": ".",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "EX_DRONE_SPEED",
+      "title": "Drone Booster [X]",
+      "desc": "Your crew drones gain 40% movement speed and a 25% boost to combat/sabotage damage, repair/extinguishing speed, and a 15% boost to crew healing wherever applicable.\n    \n\t[X] - As an external system upgrade, this augment will provide its normal effect but take up an augment slot. Can be converted for free to the internal version under the internal upgrade menu if you have the Drone Control system.",
+      "cost": "50",
+      "bp": "9",
+      "rarity": "0",
+      "value": "0.25",
+      "stackable": "true"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "UPG_MIND_IMMUNITY",
+      "title": "Tinfoil Array",
+      "desc": ".",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "true"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "EX_MIND_IMMUNITY",
+      "title": "Tinfoil Array [X]",
+      "desc": "While Mind Control is powered to lvl 3, all allied crew gain complete MC immunity and adjacent vision on any ship.\n    \n\t[X] - As an external system upgrade, this augment will provide its normal effect but take up an augment slot. Can be converted for free to the internal version under the internal upgrade menu if you have the Mind Control system.",
+      "cost": "65",
+      "bp": "4",
+      "rarity": "0",
+      "value": "2",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "UPG_MIND_BUFF",
+      "title": "Cerebral Overcharge",
+      "desc": ".",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "true"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "EX_MIND_BUFF",
+      "title": "Cerebral Overcharge [X]",
+      "desc": "While MC is powered, allied crew gain a 15% buff to repair and combat damage, and heal 50% faster.\n    \n\t[X] - As an external system upgrade, this augment will provide its normal effect but take up an augment slot. Can be converted for free to the internal version under the internal upgrade menu if you have the Mind Control system.",
+      "cost": "35",
+      "bp": "4",
+      "rarity": "0",
+      "value": "2",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "UPG_MIND_KILLSWITCH",
+      "title": "Neural Killswitch",
+      "desc": "Gain ability to harm each controlled enemy crew once for 45 dmg",
+      "cost": "25",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "UPG_HACK_JAMMER",
+      "title": "FTL Jammer",
+      "desc": ".",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "true"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "EX_FTL_JAMMER",
+      "title": "FTL Jammer [X]",
+      "desc": "Scramble enemy ships' FTL computers, doubling the time it takes for them to jump.\n    \n\t[X] - As an external system upgrade, this augment will provide its normal effect but take up an augment slot. Can be converted for free to the internal version under the internal upgrade menu if you have the Hacking system.",
+      "cost": "30",
+      "bp": "4",
+      "rarity": "0",
+      "value": "2",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "UPG_HACK_STUN",
+      "title": "Neural Disruptor",
+      "desc": ".",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "true"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "EX_HACKING_STUN",
+      "title": "Neural Disrupt. [X]",
+      "desc": "All crew inside a room during a Hacking Pulse will be stunned for the duration.\n    \n\t[X] - As an external system upgrade, this augment will provide its normal effect but take up an augment slot. Can be converted for free to the internal version under the internal upgrade menu if you have the Hacking system.",
+      "cost": "40",
+      "rarity": "0",
+      "stackable": "false",
+      "value": "0.0"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "UPG_BATTERY_BOOSTER",
+      "title": "Performance Upgrade",
+      "desc": {},
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "true"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "EX_BATTERY_BOOSTER",
+      "title": "Battery Charger [X]",
+      "desc": "Backup Battery's lock time is reduced by 80%.\n    \n[X] - As an external system upgrade, this augment will provide its normal effect but take up an augment slot. Can be converted for free to the internal version under the internal upgrade menu if you have the Backup Battery subsystem.",
+      "cost": "40",
+      "bp": "8",
+      "rarity": "0",
+      "stackable": "false",
+      "value": "0.5"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "DEBUG_GENERATOR",
+      "title": "DEBUG",
+      "desc": "YOU SHOULD NEVER SEE THIS.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "UPG_BATTERY_GENERATOR",
+      "title": "Emergency Generator",
+      "desc": ".",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "EX_BATTERY_GENERATOR",
+      "title": "Emergency Generator [X]",
+      "desc": "A backup generator for use in combat. Removes the power and fuel cost of combat augments.\n\t\n[X] - As an external system upgrade, this augment will provide its normal effect but take up an augment slot. Can be converted for free to the internal version under the internal upgrade menu if you have the Backup Battery subsystem.",
+      "cost": "45",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "LAB_INSTALLED",
+      "title": "Laboratory",
+      "desc": "The player has installed the lab.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false",
+      "bp": "0"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "LAB_UPGRADE",
+      "title": "Laboratory Upgrade",
+      "desc": "The player has installed the lab upgrade.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false",
+      "bp": "0"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "LAB_HUMAN_INSTALLED",
+      "title": "Human",
+      "desc": "Human upgrade installed.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "LAB_HUMAN_DIVERSE",
+      "title": "Diversification",
+      "desc": "Humans gain a 12% buff in movement speed, combat damage, repair speed, and health.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "LAB_HUMAN_TEAMWORK",
+      "title": "Teamwork Neurons",
+      "desc": "Humans gain 15% repair speed and combat damage for each human in the room minus themselves.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "LAB_HUMAN_INTUITION",
+      "title": "Natural Intuition",
+      "desc": "Human crew start at level 2 skills.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "LAB_HUMAN_BASIC_SACRIFICE",
+      "title": "Martyrdom Instincts",
+      "desc": "Your regular humans are prioritized first in crew loss events.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "LAB_MEDIC_OATH",
+      "title": "Hippocratic Oath",
+      "desc": "Your medics lose the ability to fight but gives a protective aura to allied crew (excluding themselves) in the same room that grants them 95% resistance to hazards.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "LAB_ENGINEER_DRONES",
+      "title": "Field Training",
+      "desc": "Your engineers lose their repair bonus but heal your crew drones at 5hp/s and buff their combat damage and repair speed by 15%.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "LAB_ENGI_INSTALLED",
+      "title": "Engi",
+      "desc": "Engi upgrade installed.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "LAB_ENGI_COMBAT",
+      "title": "Combat Systems",
+      "desc": ".",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "EX_LAB_ENGI_COMBAT",
+      "title": "[L] Combat Systems",
+      "desc": "Engi crew gain standard combat damage and 10 Max Health, but lose 25% of their repair speed.\n\t\n\t[L] - As an external lab upgrade, this augment will provide its normal effect but take up an augment slot. It cannot be converted into an actual lab upgrade, but will not consume your primary slot. Does not stack with itself.",
+      "cost": "25",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "LAB_ENGI_EFFICIENCY",
+      "title": "Nanite Efficiency",
+      "desc": "Engi crew gain 15% repair speed.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "LAB_ENGI_ADAPT",
+      "title": "Environmental Adaptation",
+      "desc": "Engi are immune to suffocation.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "EX_LAB_ENGI_ADAPT",
+      "title": "[L] Environmental Adapt.",
+      "desc": "Your Engi are immune to suffocation.\n\t\n\t[L] - As an external lab upgrade, this augment will provide its normal effect but take up an augment slot. It cannot be converted into an actual lab upgrade, but will not consume your primary slot. Does not stack with itself.",
+      "cost": "35",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "LAB_SEPARATIST_HEAL",
+      "title": "Unified Colonies",
+      "desc": "Separatists can heal while in nanomode but cannot ignore doors.",
+      "cost": "20",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "LAB_DEFENDER_REPAIRS",
+      "title": "Priority Reallocation",
+      "desc": "Defenders no longer fight enemy crew, but can repair while hostiles are in the room.",
+      "cost": "50",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "LAB_ZOLTAN_INSTALLED",
+      "title": "Zoltan",
+      "desc": "Zoltan upgrade installed.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "LAB_ZOLTAN_OVERCLOCK",
+      "title": "Overclocking",
+      "desc": "Zoltans lose 40% of their health but provide double power.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "EX_LAB_ZOLTAN_OVERCLOCK",
+      "title": "[L] Overclocking",
+      "desc": "Zoltans lose 40% of their health but provide double power.\n\t\n\t[L] - As an external lab upgrade, this augment will provide its normal effect but take up an augment slot. It cannot be converted into an actual lab upgrade, but will not consume your primary slot. Does not stack with itself.",
+      "cost": "30",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "LAB_ZOLTAN_SHIELD",
+      "title": "Hard-Light Shielding",
+      "desc": "Zoltans shield other crew in the room, making them take 33% damage, but cannot directly fight other crew themselves.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "LAB_ZOLTAN_EMITTER",
+      "title": "Emitter Calibration",
+      "desc": "Zoltan heal on their own, but no longer heal from sources like medbay",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "LAB_MONK_COMBAT",
+      "title": "Spiritual Abandonment",
+      "desc": "Your monks can fight, but only at half damage. Supercedes Hard-Light Shielding.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "LAB_ORCHID_INSTALLED",
+      "title": "Orchid",
+      "desc": "Orchid upgrade installed.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "LAB_ORCHID_THORNS",
+      "title": "Thorns",
+      "desc": "Orchids do x1.3 ranged damage",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "LAB_ORCHID_PETRIFIED",
+      "title": "Petrified Wood",
+      "desc": "Orchids burn at normal speeds, but have 10 less max health.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "LAB_ORCHID_TOTIPOTENCY",
+      "title": "Totipotency",
+      "desc": "Orchids take 15% extra fire damage, but regenerate at 3hp/s when not in combat",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "LAB_ORCHID_DEPRESSURIZED",
+      "title": "Anaerobic Synthesis",
+      "desc": "Orchids provide oxygen on ships without an oxygen system.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "EX_LAB_ORCHID_DEPRESSURIZED",
+      "title": "[L] Anaerobic Synthesis",
+      "desc": "Orchids provide increased oxygen on ships without Life Support.\n\t\n\t[L] - As an external lab upgrade, this augment will provide its normal effect but take up an augment slot. It cannot be converted into an actual lab upgrade, but will not consume your primary slot. Does not stack with itself.",
+      "cost": "20",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "LAB_CARETAKER_HAZARD",
+      "title": "Calming Spores",
+      "desc": "Caretakers provide complete hazard immunity to all allies in the room including themselves, but no longer provide oxygen.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "LAB_VAMPWEED_HEAL",
+      "title": "Decomposers",
+      "desc": "Vampweeds prevent all other non-vampweed crew in the room from healing.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "LAB_MANTIS_INSTALLED",
+      "title": "Mantis",
+      "desc": "Mantis upgrade installed.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "LAB_MANTIS_MELEE",
+      "title": "Selective Killing",
+      "desc": "Mantis do an extra 60% damage in melee combat, but lose 50% of their ranged damage.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "LAB_MANTIS_FIRE",
+      "title": "Fireflies",
+      "desc": "Mantis gain 75% fire resistance, as well as a 20% sabotage buff. Suzerains and Bishops will take default fire damage during their ability.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "LAB_MANTIS_SPEED",
+      "title": "Observational Learning",
+      "desc": "Mantis repair at x0.8 speed when another non-mantis is in the room.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "LAB_SUZERAIN_SLAVES",
+      "title": "Slave Masters",
+      "desc": "Engi repair speed is doubled for each Suzerain or Bishop in the room.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "LAB_HIVE_SLASH",
+      "title": "Claw Slash",
+      "desc": "Regular Mantis gain a slash ability that does 15 damage to all enemy crew in the room. Can only slash twice per jump.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "EX_LAB_MANTIS_FIRE",
+      "title": "[L] Fireflies",
+      "desc": "Mantis gain 75% fire resistance, as well as a 20% sabotage buff. Suzerains and Bishops will take default fire damage during their ability.\n\t\n[L] - As an external lab upgrade, this augment will provide its normal effect but take up an augment slot. It cannot be converted into an actual lab upgrade, but will not consume your primary slot. Does not stack with itself.",
+      "cost": "35",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "EX_LAB_SUZERAIN_SLAVES",
+      "title": "[L] Slave Masters",
+      "desc": "Engi repair speed is doubled for each Suzerain or Bishop in the room.\n    \n[L] - As an external lab upgrade, this augment will provide its normal effect but take up an augment slot. It cannot be converted into an actual lab upgrade, but will not consume your primary slot. Does not stack with itself.",
+      "cost": "25",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "LAB_ROCK_INSTALLED",
+      "title": "Rock",
+      "desc": "Rock upgrade installed.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "LAB_ROCK_DOORS",
+      "title": "Titan Fists",
+      "desc": "Rockmen smash doors three times as fast and cause drones to receive doubled damage when attacking them.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "LAB_ROCK_SKIN",
+      "title": "Obsidian Skin",
+      "desc": "Rocks gain +33% Max Health but movespeed is reduced by 40%",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "LAB_ROCK_SPEED",
+      "title": "Crumbling Exterior",
+      "desc": "Rockmen move 75% faster, but lose 25 Max Health",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "EX_LAB_ROCK_SKIN",
+      "title": "[L] Obsidian Skin",
+      "desc": "Rocks gain +33% Max Health, but their movement speed is reduced by 40%.\n\t\n[L] - As an external lab upgrade, this augment will provide its normal effect but take up an augment slot. It cannot be converted into an actual lab upgrade, but will not consume your primary slot. Does not stack with itself.",
+      "cost": "45",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "LAB_CULTIST_MIND",
+      "title": "Unbreaking Faith",
+      "desc": "Cultists gain complete stun and mind control immunity, as well as providing stun immunity to all other rocks in the room.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "EX_LAB_CULTIST_MIND",
+      "title": "[L] Unbreaking Faith",
+      "desc": "Cultists gain complete stun and mind control immunity, as well as providing stun immunity to all other rocks in the room.\n\t\n[L] - As an external lab upgrade, this augment will provide its normal effect but take up an augment slot. It cannot be converted into an actual lab upgrade, but will not consume your primary slot. Does not stack with itself.",
+      "cost": "40",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "LAB_CRYSTAL_INSTALLED",
+      "title": "Crystal",
+      "desc": "Crystal upgrade installed.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "LAB_CRYSTAL_SUFFOCATION",
+      "title": "Crystallized Hydrogen",
+      "desc": "Crystals gain complete suffocation immunity.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "LAB_CRYSTAL_SABOTAGE",
+      "title": "Hardened Crystals",
+      "desc": "Crystals gain 75% sabotage damage, but lose 50% of their move speed",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "LAB_CRYSTAL_FIRE",
+      "title": "Geodification",
+      "desc": "Crystals gain 85% fire resistance, but lose their suffocation resistance.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "EX_LAB_CRYSTAL_SUFFOCATION",
+      "title": "[L] Crystallized Hydrogen",
+      "desc": "Crystals gain complete suffocation immunity.\n\t\n\t[L] - As an external lab upgrade, this augment will provide its normal effect but take up an augment slot. It cannot be converted into an actual lab upgrade, but will not consume your primary slot. Does not stack with itself.",
+      "cost": "40",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "LAB_SLUG_INSTALLED",
+      "title": "Slug",
+      "desc": "Slug upgrade installed.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "LAB_SLUG_STUN",
+      "title": "Neuron Pathing",
+      "desc": "Slugs gain a 75% stun resistance and no longer lose skills when being cloned",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "LAB_SLUG_BUFF",
+      "title": "Neural Redirection",
+      "desc": "Slugs lose the ability to sense crew on the other ship, but gain a 25% boost to combat, sabotage, and repair speed",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "LAB_SLUG_MIND",
+      "title": "Telepathic Synergies",
+      "desc": "Allied crew in the same room as your Slug crew gain MC immunity. Enemy crew in the same room lose their MC immunity if they had it.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "LAB_SHELL_INSTALLED",
+      "title": "Shell",
+      "desc": "Shell upgrade installed.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "LAB_SHELL_SUFFOCATION",
+      "title": "Anatomical Gyroscopes",
+      "desc": "Shells suffocate at normal speed but lose 25% movement speed.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "LAB_SHELL_TELEPATHY",
+      "title": "Evolutionary Rebranching",
+      "desc": "Shells inherit the telepathic abilities of slugs.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "LAB_SHELL_SPEED",
+      "title": "Dextile Shells",
+      "desc": "Shells move 50% faster and heal 50% faster.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "LAB_SCIENTIST_DOT",
+      "title": "Artificial Radiency",
+      "desc": "Shell Scientists passively damage nearby enemies at 3hp/s but heal 50% slower.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "LAB_MECH_REPAIR",
+      "title": "Cybernetic Rehabilitation",
+      "desc": "Shell Mechanics can repair at x0.75 speed but their ability takes much longer to charge.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "LAB_GUARDIAN_DEFEND",
+      "title": "Homeland Defender",
+      "desc": "Shell Guardians gain an additional 33% damage resistance and a 50% ability cooldown reduction while on your own ship.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "LAB_LEECH_INSTALLED",
+      "title": "Leech",
+      "desc": "Leech upgrade installed.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "LAB_LEECH_DOOR",
+      "title": "Burrows",
+      "desc": "Leeches ignore doors and move 50% faster.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "LAB_LEECH_POWER",
+      "title": "High Voltage",
+      "desc": "Leeches are stunned for 50% longer and take 33% more fire and asphyxiation damage but provide power on the player ship.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "LAB_LEECH_PARASITE",
+      "title": "Parasitical Dependencies",
+      "desc": "Leeches have 60 less Max Health and do 4x less damage by default, but steal 3hp/s from all other enemy non-Leech crew in the room.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "LAB_LANIUS_INSTALLED",
+      "title": "Lanius",
+      "desc": "Lanius upgrade installed.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "LAB_LANIUS_RUST",
+      "title": "Rusting",
+      "desc": "Lanius drain oxygen at double speed, but have greatly reduced move speed.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "LAB_LANIUS_METAL",
+      "title": "Selective Metalworking",
+      "desc": "Lanius repair and sabotage 50% faster, but do 30% less crew damage.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "LAB_LANIUS_HEALTH",
+      "title": "Experimental Alloy",
+      "desc": "Lanius gain an extra 35% health, but their oxygen drain speed is quartered.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "EX_LAB_LANIUS_HEALTH",
+      "title": "[L] Experimental Alloy",
+      "desc": "Lanius gain an extra 35% health, but their oxygen drain speed is quartered.\n\t\n\t[L] - As an external lab upgrade, this augment will provide its normal effect but take up an augment slot. It cannot be converted into an actual lab upgrade, but will not consume your primary slot. Does not stack with itself.",
+      "cost": "25",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "LAB_GHOST_INSTALLED",
+      "title": "Ghost",
+      "desc": "Ghost upgrade installed.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "LAB_GHOST_HEALTH",
+      "title": "Denser Molecules",
+      "desc": "Ghost gain 20 extra health and heal in no oxygen",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "LAB_GHOST_FIRE",
+      "title": "Chemical Proliferation",
+      "desc": "Ghosts heal from fire. Gouls heal at half the speed from fires of other Ghosts.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "LAB_GHOST_SPEED",
+      "title": "Aerodynamic Gases",
+      "desc": "Ghosts gain doubled movement speed, but sabotage systems 25% slower",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "LAB_VAGABOND_STABLE",
+      "title": "Vagabond Stabalizer",
+      "desc": "Vagabond and Haunt abilities can now be manually activated.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "LAB_PHANTOM_SABOTAGE",
+      "title": "Non-Corporealism",
+      "desc": "Phantoms gain a crew ability that lets them temporarily ignore enemy crew to focus on ship repairs or system sabotaging.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "EX_LAB_GHOST_FIRE",
+      "title": "[L] Chemical Proliferation",
+      "desc": "Ghosts heal from fire. Gouls heal at half the speed from fires compared to other Ghosts.\n\t\n\t[L] - As an external lab upgrade, this augment will provide its normal effect but take up an augment slot. It cannot be converted into an actual lab upgrade, but will not consume your primary slot. Does not stack with itself.",
+      "cost": "30",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "EX_LAB_PHANTOM_SABOTAGE",
+      "title": "[L] Non-Corporealism",
+      "desc": "Phantoms gain a crew ability that lets them temporarily ignore enemy crew to focus on ship repairs or system sabotaging.\n\t\n\t[L] - As an external lab upgrade, this augment will provide its normal effect but take up an augment slot. It cannot be converted into an actual lab upgrade, but will not consume your primary slot. Does not stack with itself.",
+      "cost": "40",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "LAB_MORPH_INSTALLED",
+      "title": "Morph",
+      "desc": "Morph upgrade installed.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "LAB_MORPH_FIRE",
+      "title": "Neoprene Membrane",
+      "desc": "Morphs gain fire resistance instead of suffocation resistance",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "LAB_MORPH_DOOR",
+      "title": "Elastic Surface",
+      "desc": "Morphs can ignore doors and move 60% faster.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "LAB_MORPH_HEALTH",
+      "title": "Hulking Mass",
+      "desc": "Morphs gain 50% extra health, but move at half speed",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "EX_LAB_MORPH_DOOR",
+      "title": "[L] Elastic Surface",
+      "desc": "Morphs can ignore doors and move 60% faster.\n\t\n\t[L] - As an external lab upgrade, this augment will provide its normal effect but take up an augment slot. It cannot be converted into an actual lab upgrade, but will not consume your primary slot. Does not stack with itself.",
+      "cost": "30",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "EX_LAB_MORPH_HEALTH",
+      "title": "[L] Hulking Mass",
+      "desc": "Morphs gain 50% extra health, but move at half speed.\n\t\n\t[L] - As an external lab upgrade, this augment will provide its normal effect but take up an augment slot. It cannot be converted into an actual lab upgrade, but will not consume your primary slot. Does not stack with itself.",
+      "cost": "30",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "LAB_TECHNO_BAY",
+      "title": "Robotic Mimickry",
+      "desc": "Technopaths heal at full speed in your drone control room while it is powered.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "LAB_SPIDER_INSTALLED",
+      "title": "Spider",
+      "desc": "Spider upgrade installed.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "LAB_SPIDER_WEBS",
+      "title": "Webbing",
+      "desc": "All non-spider crew move at 50% speed in the presence of spiders. Does not stack.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "LAB_SPIDER_SILK",
+      "title": "Silk Touch",
+      "desc": "Spiders gain tripled repair speed, but have their combat damage reduced by 25%",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "LAB_SPIDER_PREDATOR",
+      "title": "Predatory Instincts",
+      "desc": "Spiders cant repair at all, or man systems, but gain 50% combat damage and movement speed",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "EX_LAB_SPIDER_SILK",
+      "title": "[L] Silk Touch",
+      "desc": "Spiders gain tripled repair speed, but have their combat damage reduced by 25%.\n\t\n\t[L] - As an external lab upgrade, this augment will provide its normal effect but take up an augment slot. It cannot be converted into an actual lab upgrade, but will not consume your primary slot. Does not stack with itself.",
+      "cost": "20",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "EX_LAB_SPIDER_WEBS",
+      "title": "[L] Webbing",
+      "desc": "All non-spider crew move at 50% speed in the presence of spiders. Does not stack.\n\t\n\t[L] - As an external lab upgrade, this augment will provide its normal effect but take up an augment slot. It cannot be converted into an actual lab upgrade, but will not consume your primary slot. Does not stack with itself.",
+      "cost": "50",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "LAB_LIZARD_INSTALLED",
+      "title": "Lizard",
+      "desc": "Lizard upgrade installed.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "LAB_LIZARD_STRENGTH",
+      "title": "Together Strong",
+      "desc": "Lizards gain a 10% combat and repair buff for each lizard in the room.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "LAB_LIZARD_TECH",
+      "title": "Technophobia",
+      "desc": "Lizards gain double sabotage damage, double combat damage when in a room with hostile drones, and increased movement speed that scales with the strength of the enemy shields.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "LAB_LIZARD_FIRE",
+      "title": "Cold Blooded",
+      "desc": "Lizards become immune to fire",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "EX_LAB_LIZARD_TECH",
+      "title": "[L] Technophobia",
+      "desc": "Lizards gain double sabotage damage, double combat damage when in a room with hostile drones, and increased movement speed that scales with the strength of the enemy shields.\n\t\n\t[L] - As an external lab upgrade, this augment will provide its normal effect but take up an augment slot. It cannot be converted into an actual lab upgrade, but will not consume your primary slot. Does not stack with itself.",
+      "cost": "35",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "LAB_ANCIENT_INSTALLED",
+      "title": "Ancient",
+      "desc": "Ancient upgrade installed.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "LAB_ANCIENT_MORTAL",
+      "title": "Mortality Initiatives",
+      "desc": "Obelisks lose their fire and asphyxiation resistance, but gain 50 more health and 25% more combat damage.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "LAB_ANCIENT_NEURAL",
+      "title": "Advanced Neural Complex",
+      "desc": "Obelisks can see adjacent rooms, resist mind control, and are immune to stun.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "LAB_ANCIENT_ONEPUNCH",
+      "title": "Equalizer",
+      "desc": ".",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "EX_LAB_ANCIENT_ONEPUNCH",
+      "title": "[L] Equalizer",
+      "desc": "Obelisks gain x5 combat damage, but all other enemy crew in the room also gain 3x damage.\n\t\n\t[L] - As an external lab upgrade, this augment will provide its normal effect but take up an augment slot. It cannot be converted into an actual lab upgrade, but will not consume your primary slot. Does not stack with itself.",
+      "cost": "45",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "LAB_COGNITIVE_INSTALLED",
+      "title": "Cognitive",
+      "desc": "Cognitive upgrade installed.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "LAB_COGNITIVE_RAGE",
+      "title": "Rage Mode",
+      "desc": "While in liberated mode on the enemy ship, Cognitives gain 1 power drain, drain oxygen at 3oxy/s, and ignore doors. Regeneration speed in liberated mode is increased by 2hp/s on all ships.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "LAB_COGNITIVE_FIRE",
+      "title": "Hazard-proof Systems",
+      "desc": "Cognitives are immune to fire and stun. Cooldown between normal and liberated modes is also reduced by 50%.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "LAB_COGNITIVE_POWER",
+      "title": "Mobile Batteries",
+      "desc": "Cognitives provide additional power and passively damage enemy crew at 3hp/s while in liberated mode. Cooldown between normal and liberated modes is increased by 10%.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "EX_LAB_COGNITIVE_RAGE",
+      "title": "[L] Rage Mode",
+      "desc": "While in liberated mode on the enemy ship, Cognitives gain 1 power drain, drain oxygen at 3oxy/s, and ignore doors. Regeneration speed in liberated mode is increased by 2hp/s on all ships.\n\t\n\t[L] - As an external lab upgrade, this augment will provide its normal effect but take up an augment slot. It cannot be converted into an actual lab upgrade, but will not consume your primary slot. Does not stack with itself.",
+      "cost": "35",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "JUDGE_BOON_HUMAN",
+      "title": "Boon of Humanity",
+      "desc": "Humans gain an additional 20% resistance to all hazards.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "JUDGE_BOON_HUMAN_2",
+      "title": "Greater Boon of Humanity",
+      "desc": "Humans gain an additional 20% resistance to all hazards and a 10% boost to damage, repair speed, health, and movement.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "JUDGE_BOON_ENGI",
+      "title": "Boon of Nanites",
+      "desc": "Engi gain a 20% repair speed boost.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "JUDGE_BOON_ZOLTAN",
+      "title": "Boon of Hardlight",
+      "desc": "Zoltans gain 15 more health.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "JUDGE_BOON_OSMIAN",
+      "title": "Boon of Osmia",
+      "desc": "Osmians gain back all of their ability charges per jump and provide passive healing to their holograms.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "JUDGE_BOON_ORCHID",
+      "title": "Boon of Vegetation",
+      "desc": "Orchids provide a 0.5hp/s heal effect to allied crew in the same room.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "JUDGE_BOON_MANTIS",
+      "title": "Boon of Insectoids",
+      "desc": "Mantis deal 20% extra ranged damage.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "JUDGE_BOON_MANTIS_2",
+      "title": "Greater Boon of Insectoids",
+      "desc": "Mantis deal 25% extra damage.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "JUDGE_BOON_ROCK",
+      "title": "Boon of Silicon",
+      "desc": "Rockmen put out fires 30% faster.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "JUDGE_BOON_ROCK_2",
+      "title": "Greater Boon of Silicon",
+      "desc": "Rockmen put out fires 30% faster and move 25% faster.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "JUDGE_BOON_CRYSTAL",
+      "title": "Boon of Geodes",
+      "desc": "Crystals gain 20% combat damage.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "JUDGE_BOON_SLUG",
+      "title": "Boon of Slimes",
+      "desc": "Slugs gain 20% hazard resistance.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "JUDGE_BOON_SLUG_2",
+      "title": "Greater Boon of Slimes",
+      "desc": "Slugs gain 20% hazard resistance and doubled movement speed.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "JUDGE_BOON_SHELL",
+      "title": "Boon of Shells",
+      "desc": "Shells gain an extra 15% combat resistance.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "JUDGE_BOON_LEECH",
+      "title": "Boon of Parasites",
+      "desc": "Leeches gain 10 more health.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "JUDGE_BOON_GHOST",
+      "title": "Boon of Phantoms",
+      "desc": "Phantoms gain 30% movement speed.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "JUDGE_BOON_LANIUS",
+      "title": "Boon of Metalloids",
+      "desc": "Lani gain double heal speed and take 10% less damage.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "JUDGE_BOON_MORPH",
+      "title": "Boon of Shapeshifting",
+      "desc": "Morphs gain 10% more health and 30% more movement speed.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "JUDGE_BOON_LIZARD",
+      "title": "Boon of Scales",
+      "desc": "Lizards gain a 15% boost to all standard stats.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "JUDGE_BOON_SPIDER",
+      "title": "Boon of Arachnids",
+      "desc": "Spiders are controllable even without the queen and gain 10% fire resistance.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "JUDGE_BOON_OBELISK",
+      "title": "Boon of Ancients",
+      "desc": "Obelisk and Cognitives gain 20 more health and a 15% boost to damage and repair speed.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "JUDGE_BOON_SIREN",
+      "title": "Boon of Utopia",
+      "desc": "???",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "JUDGE_BOON_UNIQUE",
+      "title": "Boon of Companions",
+      "desc": "Unique crew lost no skills when cloned, heal 50% faster, and gain a 15% boost to damage, repair speed, and movement speed.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "JUDGE_BOON_UNIQUEMECH",
+      "title": "Boon of Mechanics",
+      "desc": "Crew drones gain 50 health and doubled movement speed.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "JUDGE_BOON_KIDS",
+      "title": "Boon of Children",
+      "desc": "Crew gain a 1% boost to health.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "JUDGE_BOON_WEAPONS",
+      "title": "Grant of Weaponry",
+      "desc": "Crew repair your weapons 50% faster.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "JUDGE_BOON_SHIELDS",
+      "title": "Grant of Shielding",
+      "desc": "Crew repair your shields 50% faster.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "JUDGE_BOON_ENGINES",
+      "title": "Grant of Engines",
+      "desc": "Crew repair your engines 75% faster.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "JUDGE_BOON_MEDBAY",
+      "title": "Grant of Healing",
+      "desc": "Crew heal 75% faster anywhere.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "JUDGE_BOON_CLONEBAY",
+      "title": "Grant of Cloning",
+      "desc": "Crew do not lose skills when cloned.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "JUDGE_BOON_OXYGEN",
+      "title": "Grant of Life Support",
+      "desc": "Crew gain 33% resistance to suffocation.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "JUDGE_BOON_TELEPORTER",
+      "title": "Grant of Teleportation",
+      "desc": "Crew heal at 1hp/s in the teleporter.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "JUDGE_BOON_MIND",
+      "title": "Grant of Manipulation",
+      "desc": "Crew gain 60% stun resistance on your own ship.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "JUDGE_BOON_HACKING",
+      "title": "Grant of Hacking",
+      "desc": "Crew can now ignore hacked doors on your own ship.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "JUDGE_BOON_CLOAKING",
+      "title": "Grant of Stealth",
+      "desc": "All of your systems and your hull gain a 10% chance to resist damage.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "true"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "JUDGE_BOON_TEMPORAL",
+      "title": "Grant of Time",
+      "desc": "All of your crew move twice as fast.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "JUDGE_BOON_DRONES",
+      "title": "Grant of Drones",
+      "desc": "Crew repair your drone control 75% faster.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "JUDGE_BOON_DOORS",
+      "title": "Grant of Doors",
+      "desc": "Crew gain 30% damage resistance in the doors room and enemy crew sabotage your doors 50% slower.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "JUDGE_BOON_PILOT",
+      "title": "Grant of Piloting",
+      "desc": "Crew are immune to mind control in the piloting room.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "JUDGE_BOON_BATTERY",
+      "title": "Grant of Battery",
+      "desc": "When your backup battery is disabled your crew gain a bonus 33% repair and movement speed.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "JUDGE_BOON_CRYSTALELITE",
+      "title": "Blessing of Crystals",
+      "desc": "You have a 15% chance of breaking off a crystal shard each time you take damage.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "true"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "JUDGE_BOON_NEWGEN",
+      "title": "Blessing of Generations",
+      "desc": "All crew you get will start at lvl 1 skills.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "JUDGE_BOON_AETHER",
+      "title": "Blessing of Aether",
+      "desc": "Ruin beacons show on the map.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "JUDGE_BOON_SPECIAL",
+      "title": "Blessing of Speciality",
+      "desc": "Weapons charge 5% faster.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "JUDGE_BOON_TRANSPORT",
+      "title": "Blessing of Transports",
+      "desc": "Enemy FTLs charge at half speed.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "JUDGE_BOON_MATH",
+      "title": "Blessing of Mathematics",
+      "desc": "All of your crew gain a 4% boost to their health and repair speed for each crew member you have.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "JUDGE_BOON_RENEGADE",
+      "title": "Blessing of Renegades",
+      "desc": "You may avoid fighting any Renegade for free, regular or cruiser.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "JUDGE_BOON_CURA",
+      "title": "Blessing of Tasks",
+      "desc": "C.U.R.A. will not charge you the next run.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "JUDGE_BOON_SENTRY",
+      "title": "Blessing of Sentries",
+      "desc": "Your allied crew and drones will gain a 30% damage and movement speed boost while aboard the enemy ship.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "JUDGE_BOON_GATLING",
+      "title": "Blessing of Super Weapons",
+      "desc": "Weapons charge 10% faster.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "JUDGE_BOON_MADNESS",
+      "title": "Blessing of Poets",
+      "desc": "Inflicts madness on enemy boarders.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "OBSIDIAN_ARMOR_1",
+      "title": "Obsidian Armor",
+      "desc": "[Level 1] Grants 5% chance to prevent hull or system damage. Can be upgraded at empty beacons to a max of 80%.\n\tCannot block the damage of projectiles or bombs with a guaranteed breach chance.",
+      "cost": "80",
+      "bp": "8",
+      "rarity": "0",
+      "stackable": "true"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "OBSIDIAN_ARMOR_2",
+      "title": "Obsidian Armor",
+      "desc": "[Level 2] Grants 10% chance to prevent hull or system damage. Can be upgraded at empty beacons to a max of 80%.\n\tCannot block the damage of projectiles or bombs with a guaranteed breach chance.",
+      "cost": "80",
+      "bp": "8",
+      "rarity": "0",
+      "stackable": "true"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "OBSIDIAN_ARMOR_3",
+      "title": "Obsidian Armor",
+      "desc": "[Level 3] Grants 15% chance to prevent hull or system damage. Can be upgraded at empty beacons to a max of 80%.\n\tCannot block the damage of projectiles or bombs with a guaranteed breach chance.",
+      "cost": "80",
+      "bp": "8",
+      "rarity": "0",
+      "stackable": "true"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "OBSIDIAN_ARMOR_4",
+      "title": "Obsidian Armor",
+      "desc": "[Level 4] Grants 20% chance to prevent hull or system damage. Can be upgraded at empty beacons to a max of 80%.\n\tCannot block the damage of projectiles or bombs with a guaranteed breach chance.",
+      "cost": "80",
+      "bp": "8",
+      "rarity": "0",
+      "stackable": "true"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "OBSIDIAN_ARMOR_5",
+      "title": "Obsidian Armor",
+      "desc": "[Level 5] Grants 25% chance to prevent hull or system damage. Can be upgraded at empty beacons to a max of 80%.\n\tCannot block the damage of projectiles or bombs with a guaranteed breach chance.",
+      "cost": "80",
+      "bp": "8",
+      "rarity": "0",
+      "stackable": "true"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "OBSIDIAN_ARMOR_6",
+      "title": "Obsidian Armor",
+      "desc": "[Level 6] Grants 30% chance to prevent hull or system damage. Can be upgraded at empty beacons to a max of 80%.\n\tCannot block the damage of projectiles or bombs with a guaranteed breach chance.",
+      "cost": "80",
+      "bp": "8",
+      "rarity": "0",
+      "stackable": "true"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "OBSIDIAN_ARMOR_7",
+      "title": "Obsidian Armor",
+      "desc": "[Level 7] Grants 35% chance to prevent hull or system damage. Can be upgraded at empty beacons to a max of 80%.\n\tCannot block the damage of projectiles or bombs with a guaranteed breach chance.",
+      "cost": "80",
+      "bp": "8",
+      "rarity": "0",
+      "stackable": "true"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "OBSIDIAN_ARMOR_8",
+      "title": "Obsidian Armor",
+      "desc": "[Level 8] Grants 40% chance to prevent hull or system damage. Can be upgraded at empty beacons to a max of 80%.\n\tCannot block the damage of projectiles or bombs with a guaranteed breach chance.",
+      "cost": "80",
+      "bp": "8",
+      "rarity": "0",
+      "stackable": "true"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "OBSIDIAN_ARMOR_9",
+      "title": "Obsidian Armor",
+      "desc": "[Level 9] Grants 45% chance to prevent hull or system damage. Can be upgraded at empty beacons to a max of 80%.\n\tCannot block the damage of projectiles or bombs with a guaranteed breach chance.",
+      "cost": "80",
+      "bp": "8",
+      "rarity": "0",
+      "stackable": "true"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "OBSIDIAN_ARMOR_10",
+      "title": "Obsidian Armor",
+      "desc": "[Level 10] Grants 50% chance to prevent hull or system damage. Can be upgraded at empty beacons to a max of 80%.\n\tCannot block the damage of projectiles or bombs with a guaranteed breach chance.",
+      "cost": "80",
+      "bp": "8",
+      "rarity": "0",
+      "stackable": "true"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "OBSIDIAN_ARMOR_11",
+      "title": "Obsidian Armor",
+      "desc": "[Level 11] Grants 60% chance to prevent hull or system damage. Can be upgraded at empty beacons to a max of 80%.\n\tCannot block the damage of projectiles or bombs with a guaranteed breach chance.",
+      "cost": "80",
+      "bp": "8",
+      "rarity": "0",
+      "stackable": "true"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "OBSIDIAN_ARMOR_12",
+      "title": "Obsidian Armor",
+      "desc": "[Level 12] Grants 70% chance to prevent hull or system damage. Can be upgraded at empty beacons to a max of 80%.\n\tCannot block the damage of projectiles or bombs with a guaranteed breach chance.",
+      "cost": "80",
+      "bp": "8",
+      "rarity": "0",
+      "stackable": "true"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "OBSIDIAN_ARMOR_13",
+      "title": "Obsidian Armor",
+      "desc": "[Level 13] Grants 80% chance to prevent hull or system damage. Can be upgraded at empty beacons with a special ability.\n\tCannot block the damage of projectiles or bombs with a guaranteed breach chance.",
+      "cost": "80",
+      "bp": "8",
+      "rarity": "0",
+      "stackable": "true"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "OBSIDIAN_ARMOR_ION",
+      "title": "Obsidian Armor",
+      "desc": "[Level MAX] Grants 80% chance to prevent hull or system damage, and 20% chance to ignore ion damage.\n\tCannot block the damage of projectiles or bombs with a guaranteed breach chance.",
+      "cost": "80",
+      "bp": "8",
+      "rarity": "0",
+      "stackable": "true"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "OBSIDIAN_ARMOR_SYSTEM",
+      "title": "Obsidian Armor",
+      "desc": "[Level MAX] Grants 80% chance to prevent hull or system damage, and 20% slowed sabotage speed on your systems.\n\tCannot block the damage of projectiles or bombs with a guaranteed breach chance.",
+      "cost": "80",
+      "bp": "8",
+      "rarity": "0",
+      "stackable": "true"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "OBSIDIAN_ARMOR_SHARD",
+      "title": "Obsidian Armor",
+      "desc": "[Level MAX] Grants 80% chance to prevent hull or system damage, and 40% chance to break off a heavy crystal shard when the hull is damaged.\n\tCannot block the damage of projectiles or bombs with a guaranteed breach chance.",
+      "cost": "80",
+      "bp": "8",
+      "rarity": "0",
+      "stackable": "true"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "FTL_JUMPER_GOOD",
+      "title": "Ultra Advanced Nav.",
+      "desc": "You shouldn't be seeing this yet.",
+      "cost": "120",
+      "bp": "5",
+      "rarity": "0",
+      "value": "3",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "SECTOR_SCANNER",
+      "title": "Sector Scanner",
+      "desc": "Allows you to see the exact type of a sector even if it is not adjacent to the current one.",
+      "cost": "30",
+      "bp": "4",
+      "rarity": "0",
+      "value": "7",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "BOARDER_RECOVERY",
+      "title": "Boarder Retro-Thrusters",
+      "desc": "Non-destroyed boarding drones will be retrieved at the end of combat.",
+      "cost": "50",
+      "bp": "8",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "MIND_ORDER",
+      "title": "Neural Reins",
+      "desc": "Allows direct control of mind controlled enemy crew. Also takes ownership of any effects being applied by that crew.",
+      "cost": "50",
+      "bp": "8",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "ARTILLERY_ORDER",
+      "title": "Advanced Targeting",
+      "desc": "Allows manual targeting of artillery systems.",
+      "cost": "50",
+      "bp": "8",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "TELEPORT_RECALL",
+      "title": "Personal Teleporters",
+      "desc": "Crew on an enemy ship that is jumping or being destroyed will be automatically recalled.",
+      "cost": "150",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "FTL_JUMPER_SCANNER",
+      "title": "Advanced Navigator",
+      "desc": "Reveals details about surrounding beacons, and allows the ship to jump to any previously visited beacon.",
+      "cost": "50",
+      "bp": "5",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "ADV_SCANNERS_CLOAK",
+      "title": "Advanced Sensor Suite",
+      "desc": "Reveals details about surrounding beacons. For each active level of sensors, weapons will charge while enemies are cloaked at a cumulative 25% speed, and fired projectiles will gain a cumulative 2.5% increase in accuracy.",
+      "cost": "50",
+      "bp": "5",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "ASTROMETRICS",
+      "title": "Astrometric Mainframe",
+      "desc": "Allows you to reroute to your choice of four nearby sectors whenever you jump to a new sector.",
+      "cost": "50",
+      "bp": "5",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "PECULIAR_GAS",
+      "title": "Peculiar Gas",
+      "desc": "A very strange variant of the Expeditive Gas which not only heals crew anywhere on the ship while Medbay is powered, but can also damage any type of crew. Extra concentrations of nanobots cause extra damage to crew in the Medbay.",
+      "cost": "70",
+      "bp": "4",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "MULTIVERSE_DRIVE_GOOD",
+      "title": "Aether Drive",
+      "desc": "An Aether powered FTL Drive recovered from precursor wreckage, using technology that isn't possible on most planes of reality.\n\t\t\nAllows you to jump to any beacon, regardless of if it has been visited before for 1 fuel and makes your FTL drive charge much faster. However, due to the experimental nature of the augment, will cause 1 damage to your hull and engines every jump.",
+      "cost": "0",
+      "bp": "5",
+      "rarity": "0",
+      "value": "3",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "MULTIVERSE_DRIVE",
+      "title": "Replica A-Drive",
+      "desc": "A reverse engineered copy of an Aether Drive. Allows you to jump to any beacon, regardless of if it has been visited before. Costs 3 fuel to jump to any non-adjacent beacon.",
+      "cost": "80",
+      "bp": "5",
+      "rarity": "0",
+      "value": "3",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "EX_PAYLOAD_CREATOR",
+      "title": "Payload Fabricator [X]",
+      "desc": "Allows you to fabricate multiple Magnetic Payload augments for the price of 15 scrap and 4 missiles at empty beacons.\n\t\n\t[X] - As an external system upgrade, this augment will provide its normal effect but take up an augment slot. Can be converted for free to the internal version under the internal upgrade menu.",
+      "cost": "70",
+      "bp": "5",
+      "rarity": "0",
+      "value": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "PAYLOAD_CREATOR",
+      "title": "Payload Fabricator",
+      "desc": ".",
+      "cost": "0",
+      "bp": "5",
+      "rarity": "0",
+      "value": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "ATM_MACHINE",
+      "title": "Busted ATM",
+      "desc": "A beaten up ATM machine that grants 2 scrap every time you make a jump. Does not trigger the effects of Repair or Scrap arms.",
+      "cost": "60",
+      "bp": "5",
+      "rarity": "0",
+      "value": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "INFINITE_BEANS",
+      "title": "Bean Portal",
+      "desc": "An Obelisk Reality Manipulator tuned to pull cans of beans from other realities. If Sylvan Prime is aboard, he can convert them back to Sylvan.",
+      "cost": "70",
+      "bp": "5",
+      "rarity": "0",
+      "value": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "EXTRA_LIFE",
+      "title": "Emergency Protocols",
+      "desc": "In the case of imminent catastrophic hull failure at less than 3 hull, will trigger emergency protocols that will immediately repair the hull back to full and replenish fuel, missile, and drone part supplies. Will only trigger once before being depleted. Will not save you if your hull instantly reaches 0.",
+      "cost": "0",
+      "bp": "8",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "MODULAR_STORE",
+      "title": "Hektar Virtual Store(tm)",
+      "desc": "Hektar Industries(tm) introduces the Hektar Virtual Store Interface(tm)! Remotely access Hektar's vast stock of modules and modular weapons, purchase a blueprint, and print it aboard your own ship with the included Hektar 3D Fabrication technology(tm)! Prices include those required for the raw materials needed for fabrication.",
+      "cost": "80",
+      "bp": "8",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "SUICIDE_BUTTON",
+      "title": "Dead Man's Switch",
+      "desc": "Can be activated before combat at the price of 5 missiles, dealing 15 damage to both you and the enemy.",
+      "cost": "60",
+      "bp": "8",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "EMERGENCY_DRIVE",
+      "title": "Secondary Impulse-Drive",
+      "desc": "Allows you to spend 6 fuel to immediately escape a fight and outrun the fleet by 2 jumps.\n\t\t\nEach Engine upgrade past level 4 will reduce the fuel cost by 1. However, due to instability, every 5 damage you take at a beacon will cause fires to start onboard.",
+      "cost": "60",
+      "bp": "8",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "SUPER_ARMOR",
+      "title": "Steel Plating",
+      "desc": "Special adaptive plating that has a 25% chance to protect your systems or hull from all forms of damage. Also gives 10% ion resistance.",
+      "cost": "80",
+      "bp": "8",
+      "rarity": "0",
+      "stackable": "true"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "EQUINOID_DUPLICATOR",
+      "title": "Stables",
+      "desc": "Allows you to breed two tamed equinoids to create a new, untamed equinoid for free at empty beacons.",
+      "cost": "45",
+      "bp": "8",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "STORY_TELLER",
+      "title": "The Story Teller",
+      "desc": "The ever present Separatist who ensures the protection of all equinoids. Will manually control and repair the ship even in the absence of crew, and do massive damage to boarders while also quickly repairing breaches and putting out fires.",
+      "cost": "0",
+      "bp": "8",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "SOLAR_PANELS",
+      "title": "Solar Panels",
+      "desc": "Allows you to generate extra fuel with solar energy. You can use this at empty beacons to find a star to generate fuel and missiles, at the risk of starting fires on your ship.",
+      "cost": "50",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "FLEET_LURE",
+      "title": "Rebel Lure",
+      "desc": "Can be used to detect Elite Rebel ships which you can seek and destroy. However, doing so will also boost the Rebel fleet by 1 jump.",
+      "cost": "40",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "GOLD_ARMOR",
+      "title": "Golden Plating",
+      "desc": "Surprisingly resistant golden plating that has a 15% chance to ignore hull damage. Also allows you to take apart a portion of the hull at empty beacons for extra scrap.",
+      "cost": "100",
+      "bp": "8",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "SCRAP_HULL",
+      "title": "All Consuming Greed",
+      "desc": "Scrap gains are reduced by 50%, but the hull can be repaired for free before combat.",
+      "cost": "0",
+      "bp": "8",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "GHOST_SPAWNER",
+      "title": "Occult Portal",
+      "desc": "A damaged piece of ancient tech that can reach through space and time to retrieve lifeforms from other realities. Seems only able to lock onto Ghosts for now...",
+      "cost": "30",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "ZOLTAN_SPAWNER",
+      "title": "Cryo-Storage",
+      "desc": "Allows you to unthaw more Osmian crew at empty beacons at the expense of 5 fuel.",
+      "cost": "60",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "LOCKED_GLOBAL_TELEPORT",
+      "title": "Centralized Teleporter",
+      "desc": "All crew can teleport from your ship to the enemy regardless where they are. However, they cannot teleport back during combat.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "LOCKED_SHIP_TELEPORT",
+      "title": "Personal Teleporters",
+      "desc": "While aboard your own ship, any allied crew can teleport anywhere on the ship from any marked system as long as it is powered.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "SLUG_DUPLICATOR",
+      "title": "Pleasure Pods",
+      "desc": "A secluded place for two members of a species to \"Form a union\" and to use cloning technology to create a \"Child\" who is aged just enough to be able to work. Also come equipped with a stereo system that plays R&B music 24/7.",
+      "cost": "30",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "SLUG_DUPLICATOR_GHOST",
+      "title": "Haunted Pods",
+      "desc": "A modified pod that not only functions like standard Pleasure Pods, but also lets you summon any of the Alpha Ghost variants at the expense of 2 fuel if you have none of that type on your ship.",
+      "cost": "40",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "LOCKED_XENOPHOBIA",
+      "title": "Xenophobia",
+      "desc": "Your crew might be working for the Federation now, but they still carry with them their old Rebel prejudice. Human crew gain a 33% buff to all main stats, but alien crew have a 40% loss to all main stats.\n\t(Main stats include health, damage, repair, sabotage, and movement speed).",
+      "cost": "70",
+      "bp": "9",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "LOCKED_NEWORDER",
+      "title": "New Order",
+      "desc": "Though they may be ex-Duskbringers, your crew still have some of their old Zoltan supremacist values. Zoltan crew provide 1 extra power and have 1.5x repair speed and combat damage, but all other crew have a 40% loss to all main stats. Duskbringer teleporters also allow them to teleport across ships.\n\t(Main stats include health, damage, repair, sabotage, and movement speed).",
+      "cost": "70",
+      "bp": "9",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "MEDBAY_DEFENSE",
+      "title": "Utility-Bot Dispersal",
+      "desc": "Dispenses nanobots that both heal your crew when the Medbay is powered as well as damage enemy boarders.",
+      "cost": "110",
+      "bp": "4",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "CURA_SURGES_DRONES",
+      "title": "Surge Controller",
+      "desc": "Allows you to reroute power to control various levels of power surges. The more power, the stronger the surges will become. Can be powered with an Emergency Generator.\n\t\n\tSurge type: DRONE SWARM [spawns in a temporary swarm of combat drones]",
+      "cost": "70",
+      "bp": "5",
+      "rarity": "0",
+      "value": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "CURA_SURGES_FIRE",
+      "title": "Surge Controller",
+      "desc": "Allows you to reroute power to control various levels of power surges. The more power, the stronger the surges will become. Can be powered with an Emergency Generator.\n\t\n\tSurge type: FIRESTORM [rains superheated plasma on the enemy that start fires, damage systems, and pierce 2 shields]",
+      "cost": "70",
+      "bp": "5",
+      "rarity": "0",
+      "value": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "CURA_SURGES_DAMAGE",
+      "title": "Surge Controller",
+      "desc": "Allows you to reroute power to control various levels of power surges. The more power, the stronger and more unstable the surges will become. Can be powered with an Emergency Generator.\n\t\n\tSurge type: MELTDOWN [deals heavy self damage but creates bursts of heavy radiation via 2 damage beams, with 1 shield pierce]",
+      "cost": "70",
+      "bp": "5",
+      "rarity": "0",
+      "value": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "CRYSTAL_ARMOR_100",
+      "title": "Shatter Armor",
+      "desc": "Contrary to the usual purpose of armor, this plating is extremely fragile. It'll break off into 2 smaller shards every time it is hit, though they can only pierce 2 shields each. Your hull will also take an additional point of damage when hit by a damaging weapon.",
+      "cost": "180",
+      "bp": "8",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "STORE_BEACON_SYLVAN",
+      "title": "Nexus Beacon",
+      "desc": "Opens a rift directly to the Nexus, allowing you to trade for high value items. Can be used only at empty beacons, and does not impact the fleet.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "GATLING_MAKER",
+      "title": "Rift Forge",
+      "desc": "A special device which can upgrade a Chain Laser all the way into a weapon of ultimate destruction - assuming you can fork over enough resources for it.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "STORE_BEACON_SUPER",
+      "title": "Wallace Beacon",
+      "desc": "A direct contact with the infamous space-time criminal Wallace, who'll sell you just about anything for the right price.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "SYLVAN_SHIELD",
+      "title": "Merchant's Shield",
+      "desc": "YOU SHOULD NEVER SEE THIS",
+      "cost": "80",
+      "bp": "15",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "LOCKED_SYLVAN_SHIELD",
+      "title": "Merchant's Shield",
+      "desc": "A strangely resistant shield powered by several massive Aether batteries with an integrity of 12 hitpoints.",
+      "cost": "80",
+      "bp": "15",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "SYLVAN_SHIELD_REWARD",
+      "title": "Merchant's Shield",
+      "desc": "A strangely resistant shield powered by several massive Aether batteries with an integrity of 12 hitpoints, formerly utilized by the Traveling Merchant.",
+      "cost": "80",
+      "bp": "15",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "SYLVAN_SHIELD_CONTINUITY",
+      "title": "Adv. Merchant's Shield",
+      "desc": "YOU SHOULD NEVER SEE THIS",
+      "cost": "120",
+      "bp": "15",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "LOCKED_SYLVAN_SHIELD_CONTINUITY",
+      "title": "Adv. Merchant's Shield",
+      "desc": "A strangely resistant shield powered by several massive Aether batteries with an integrity of 15 hitpoints.",
+      "cost": "120",
+      "bp": "15",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "SYLVAN_SHIELD_CONTINUITY_PROBE",
+      "title": "Adv. Merchant's Shield",
+      "desc": ".",
+      "cost": "0",
+      "bp": "15",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "SYLVAN_SHIELD_PRIME",
+      "title": "Prime Shield",
+      "desc": "A strangely resistant shield powered by several massive Aether batteries with an integrity of 20 hitpoints.",
+      "cost": "150",
+      "bp": "15",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "CHUNGUS_MAKER",
+      "title": "Chungus Maker",
+      "desc": "YOU SHOULD NEVER SEE THIS - makes crew very heavy",
+      "cost": "0",
+      "bp": "8",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "CREW_STIMS_ULTRA",
+      "title": "Clansman Stolen Pheromones",
+      "desc": "I am speed.",
+      "cost": "999",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "FLAGSHIP_SHIELD",
+      "title": "Flagship Shield",
+      "desc": "Very powerful Energy Shield.",
+      "cost": "80",
+      "bp": "15",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "FLAGSHIP_SHIELD_FULL",
+      "title": "Flagship Shield",
+      "desc": "Very powerful Energy Shield.",
+      "cost": "80",
+      "bp": "15",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "SYSTEM_UNBREAKING",
+      "title": "Immortal Systems",
+      "desc": "Your systems cannot break.",
+      "cost": "999",
+      "bp": "15",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "HULL_UNBREAKING",
+      "title": "Immortal Hull",
+      "desc": "Your hull cannot break.",
+      "cost": "999",
+      "bp": "15",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "ENEMY_RESIST_50",
+      "title": "50% Hull Resist",
+      "desc": "Your hull has a 50% resist chance.",
+      "cost": "999",
+      "bp": "15",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "NO_GHOST",
+      "title": "Emancipation Grid",
+      "desc": "Reduces Ghost sabotage speed by 20%.\n\tIf a Door Control system is present and functional, all enemy crew and drones on-board will lose 4hp/s with an extra 1hp/s for each level of Door Control above 1.",
+      "cost": "80",
+      "bp": "15",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "NO_SUFFOCATE",
+      "title": "Can't suffocate.",
+      "desc": "All enemy crew are immune to suffocation aboard their ship.",
+      "cost": "0",
+      "bp": "15",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "LOCKED_UNION_JACKETS",
+      "title": "Lifejackets",
+      "desc": "When crew are below half health, they gain doubled healing, movement and door breaking speed, and take half damage from hazards.",
+      "cost": "50",
+      "bp": "8",
+      "rarity": "0",
+      "stackable": "true"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "UNION_JACKETS",
+      "title": "Lifejackets",
+      "desc": "When crew are below half health, they gain doubled healing, movement and door breaking speed, and take half damage from hazards.",
+      "cost": "50",
+      "bp": "8",
+      "rarity": "0",
+      "stackable": "true"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "ROCK_ARMOR",
+      "title": "Rock Plating",
+      "desc": "Superior hull armor provides a 17% chance to negate incoming hull damage (hit systems will still be damaged).\n\tProvides an opportunity to ram the enemy ship before combat as well.",
+      "cost": "80",
+      "bp": "8",
+      "rarity": "0",
+      "stackable": "true",
+      "value": "0.17"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "LOCKED_ROCK_ARMOR",
+      "title": "Rock Plating",
+      "desc": "Superior hull armor provides a 20% chance to negate incoming hull damage (hit systems will still be damaged).\n\tProvides an opportunity to ram the enemy ship before combat as well.",
+      "cost": "80",
+      "bp": "8",
+      "rarity": "0",
+      "stackable": "true"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "PALADIN_ARMOR",
+      "title": "Divine Armor",
+      "desc": "Extremely strong armor reinforced with Aether harvested from precursor ruins, fused with the already resistant armor of the Rockmen. Impacts that deal 1 damage have a 40% chance to be negated, and all other damage is reduced by 1.\n\tProvides an opportunity to ram the enemy ship before combat as well.",
+      "cost": "150",
+      "bp": "8",
+      "rarity": "0",
+      "stackable": "true",
+      "value": "0.4"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "LOCKED_PALADIN_ARMOR",
+      "title": "Divine Armor",
+      "desc": "Extremely strong armor reinforced with Aether harvested from precursor ruins, fused with the already resistant armor of the Rockmen. Incoming projectiles that deal 1 damage have a 40% chance to be negated, and all other damage is reduced by 1.\n\tProvides an opportunity to ram the enemy ship before combat as well.",
+      "cost": "150",
+      "bp": "8",
+      "rarity": "0",
+      "stackable": "true",
+      "value": "0.4"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "PALADIN_ARMOR_PLAYER",
+      "title": "Divine Armor+",
+      "desc": "Extremely strong armor reinforced with Aether harvested from precursor ruins, fused with the already resistant armor of the Rockmen. Incoming projectiles that deal 2 or less damage have a 50% chance to be negated, and all other damage is reduced by 2.\n\tProvides an opportunity to ram the enemy ship before combat as well.",
+      "cost": "300",
+      "bp": "8",
+      "rarity": "0",
+      "stackable": "true",
+      "value": "0.5"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "SALT_ARMOR",
+      "title": "Salt Plating",
+      "desc": "Strange plating that can resist all ion damage and gives a very small chance for systems to resist damage.",
+      "cost": "75",
+      "bp": "8",
+      "rarity": "0",
+      "stackable": "true"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "REGEN_ARMOR",
+      "title": "Regenerative Plating",
+      "desc": "An advanced Lost Sun creation, a superior hull plating which not only protects the hull, but patches breaches automatically. Grants 10% chance to resist hull damage.\nProvides an opportunity to ram the enemy ship before combat as well.",
+      "cost": "100",
+      "bp": "8",
+      "rarity": "0",
+      "stackable": "true"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "LOCKED_REGEN_ARMOR",
+      "title": "Regenerative Plating",
+      "desc": "An advanced Lost Sun creation, a superior hull plating which not only protects the hull, but patches breaches automatically. Grants 10% chance to resist hull damage.\nProvides an opportunity to ram the enemy ship before combat as well.",
+      "cost": "100",
+      "bp": "8",
+      "rarity": "0",
+      "stackable": "true"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "CRYSTAL_ARMOR_ENEMY",
+      "title": "Crystalline Armor",
+      "desc": "Every time your ship takes damage, there is a 33% chance to break off a shard that flies at your enemy.",
+      "cost": "60",
+      "bp": "8",
+      "rarity": "0",
+      "stackable": "true",
+      "value": "0.3"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "CRYSTAL_ARMOR",
+      "title": "Crystalline Armor",
+      "desc": "Every time your ship takes damage, there is a 75% chance to break off a shard that flies at your enemy which pierces all shields.",
+      "cost": "60",
+      "bp": "8",
+      "rarity": "0",
+      "stackable": "true",
+      "value": "0.75"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "LOCKED_CRYSTAL_ARMOR",
+      "title": "Crystalline Armor",
+      "desc": "Every time your ship takes damage, there is a 75% chance to break off a shard that flies at your enemy which pierces all shields.",
+      "cost": "60",
+      "bp": "8",
+      "rarity": "0",
+      "stackable": "true"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "ENERGY_SHIELD",
+      "title": "Zoltan Shield",
+      "desc": "Advanced hard-light technology creates this nearly impenetrable shield. Only the energy outburst from an FTL engine is powerful enough to recharge it.",
+      "cost": "80",
+      "bp": "8",
+      "rarity": "0",
+      "stackable": "false",
+      "value": "2"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "LOCKED_ENERGY_SHIELD",
+      "title": "Zoltan Shield",
+      "desc": "Advanced hard-light technology creates this nearly impenetrable shield. Only the energy outburst from an FTL engine is powerful enough to recharge it.",
+      "cost": "80",
+      "bp": "8",
+      "rarity": "0",
+      "stackable": "false",
+      "value": "2"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "OSMIAN_BATTERIES",
+      "title": "Overfield",
+      "desc": "Repurposed Aether technology from the traditional Zoltan shields, which instead reroutes power across the ship.\n\t\n\tProvides a 50% chance to resist ion damage, a 50% reduction to stun duration on your own ship, and increases the maximum number of charges and charges gained per jump your crew members' active abilities have by 2.",
+      "cost": "80",
+      "bp": "8",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "SLUG_GEL",
+      "title": "Slug Repair Gel",
+      "desc": "Slug ships excrete a thick gel that repairs breaches and coats the inside of empty rooms, providing 35% combat resistance and 50% hazard and stun resistance to allied crew inside them.\nAlso provides a cheaper option for repairs at empty beacons.",
+      "cost": "60",
+      "bp": "12",
+      "rarity": "0",
+      "stackable": "false",
+      "value": "1"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "LOCKED_SLUG_GEL",
+      "title": "Slug Repair Gel",
+      "desc": "Slug ships excrete a thick gel that repairs breaches and coats the inside of empty rooms, providing 35% combat resistance and 50% hazard and stun resistance to allied crew inside them.\nAlso provides a cheaper option for repairs at empty beacons.",
+      "cost": "60",
+      "bp": "12",
+      "rarity": "0",
+      "stackable": "false",
+      "value": "1"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "HEKTAR_GEL",
+      "title": "Hektar Ultra-Stick Gel(tm)",
+      "desc": "REVOLUTIONARY brand new variant of Slug Repair Gel produced exclusively by Hektar Industries(tm) with a little bit of lizard mixed in to give it that signature aroma. \n\t\n\tAll crew move 20% slower in empty rooms, but allies take 50% less damage from all sources in them and also benefit from 50% stun resistance.\n\tAlso provides a cheaper option for repairs at empty beacons.",
+      "cost": "60",
+      "bp": "12",
+      "rarity": "0",
+      "stackable": "false",
+      "value": "1"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "PLEASURE_GEL",
+      "title": "Suspicious Gel",
+      "desc": "You're pretty sure this is Repair Gel... but you can't really be certain. \n\t\n\tAll crew move 20% slower in empty rooms, but allies take 50% less damage from all sources in them and also benefit from 50% stun resistance.\n\tAlso provides a cheaper option for repairs at empty beacons.",
+      "cost": "60",
+      "bp": "12",
+      "rarity": "0",
+      "stackable": "false",
+      "value": "1"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "CREW_STIMS",
+      "title": "Pheromone Dispersal",
+      "desc": "Strength inducing pheromones that are dispersed through the Life Support system, with their effects persisting even on the enemy ship. Each powered level provides an additional 25% boost to movement and a 6.25% boost to Max Health.",
+      "cost": "60",
+      "bp": "9",
+      "rarity": "0",
+      "value": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "LOCKED_CREW_STIMS",
+      "title": "Pheromone Dispersal",
+      "desc": "Strength inducing pheromones that are dispersed through the Life Support system, with their effects persisting even on the enemy ship. Each powered level provides an additional 25% boost to movement and a 6.25% boost to Max Health.",
+      "cost": "60",
+      "bp": "9",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "SUPER_CREW_STIMS",
+      "title": "Synthesized Pheromones",
+      "desc": "Special pheromones concocted by the Free Mantis, with their effects persisting even on the enemy ship. Each level of the Life Support system that is powered provides a 15% combat damage boost, but for each level above 1 also reduces repair speed by 25%.",
+      "cost": "65",
+      "bp": "9",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "LOCKED_SUPER_CREW_STIMS",
+      "title": "Synthesized Pheromones",
+      "desc": "Special pheromones concocted by the Free Mantis, with their effects persisting even on the enemy ship. Each level of the Life Support system that is powered provides a 15% combat damage boost, but for each level above 1 also reduces repair speed by 25%.",
+      "cost": "65",
+      "bp": "9",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "LOCKED_ELITE_STIMS",
+      "title": "Big Vibe Pheromones",
+      "desc": "The strongest concoction ever brewed by the Free Mantis, for the biggest of vibes. Provides the same bonuses as regular Synthesized Pheromones, and increases the duration of all Free Mantis pheromone abilities by 100%. However, the debilitating effects of the pheromones cause all non-Free Mantis crew to take twice as long to charge abilities, and lose 25% Max Health. Hive Mantis crew become addicted and transform into Free Mantis.",
+      "cost": "90",
+      "bp": "9",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "SUZERAIN_CREW_STIMS",
+      "title": "Suzerain Pheromones",
+      "desc": "Strength inducing pheromones that are dispersed through the Life Support system, with their effects persisting even on the enemy ship. Each powered level reduces active ability cooldowns by 15% and increases movement speed by 33%.",
+      "cost": "70",
+      "bp": "9",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "LOCKED_SUZERAIN_CREW_STIMS",
+      "title": "Suzerain Pheromones",
+      "desc": "Strength inducing pheromones that are dispersed through the Life Support system, with their effects persisting even on the enemy ship. Each powered level reduces active ability cooldowns by 15% and increases movement speed by 33%.",
+      "cost": "70",
+      "bp": "9",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "KERNEL_REPLICATOR",
+      "title": "Kernel Greenhouse",
+      "desc": "A small on-board greenhouse for growing kernel ammunition. Gives a 65% chance to not use ammunition when a missile consuming weapon is fired, and lets you recover 1 fuel for every sector transition.\n\nEffect stack multiplicatively with weapons replication chance.\nOverwrites the bonus of Explosive Replicator.",
+      "cost": "60",
+      "bp": "8",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "LOCKED_KERNEL_REPLICATOR",
+      "title": "Kernel Greenhouse",
+      "desc": "A small on-board greenhouse for growing kernel ammunition. Gives a 65% chance to not use ammunition when a missile consuming weapon is fired, and lets you recover 1 fuel for every sector transition.\n\nOverwrites the bonus of Explosive Replicator.",
+      "cost": "60",
+      "bp": "8",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "CARETAKER_BUFF",
+      "title": "Organic Rebreathers",
+      "desc": "Aerobic crew suffocation damage is reduced by 45% for every Orchid on your crew, regardless of which ship they're on.",
+      "cost": "40",
+      "bp": "8",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "PRAETOR_BUFF",
+      "title": "Spore Reserves",
+      "desc": "An extra reserve of lingering spores for your Praetors, allowing them to use their ability twice every jump.",
+      "cost": "50",
+      "bp": "8",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "LOCKED_WOOD_PLATING",
+      "title": "Titanwood Hull",
+      "desc": "An ultrastrong hull plating forged from titanwood, which provides a 50% chance to resist hull damage. However, repairs are slowed by 60%.",
+      "cost": "80",
+      "bp": "8",
+      "rarity": "0",
+      "stackable": "true"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "WOOD_PLATING",
+      "title": "Titanwood Hull",
+      "desc": "An ultrastrong hull plating forged from titanwood, which provides a 50% chance to resist hull damage. However, repairs are slowed by 60%.",
+      "cost": "80",
+      "bp": "8",
+      "rarity": "0",
+      "stackable": "true"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "SPORE_AIR_TOXIC",
+      "title": "Spore Dispensary [T]",
+      "desc": "[CURRENT MODE: Toxic] Floods the ship with either toxic or rejuvenating spores.\n\tToxic - Enemy crew on your ship move 20% slower and take 20% more damage from ALL sources.\n\tRejuvenating - Allied crew on your ship have 10% more health and move 20% faster. If a Medbay is present, they also regain 1hp/s.",
+      "cost": "60",
+      "bp": "8",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "SPORE_AIR_BUFF",
+      "title": "Spore Dispensary [R]",
+      "desc": "[CURRENT MODE: Rejuvenating] Floods the ship with either toxic or rejuvenating spores.\n\tToxic - Enemy crew on your ship move 20% slower and take 20% more damage from ALL sources.\n\tRejuvenating - Allied crew on your ship have 10% more health and move 20% faster. If a Medbay is present, they also regain 1hp/s.",
+      "cost": "60",
+      "bp": "8",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "SPORE_AIR_ELITE",
+      "title": "Spore Redistributor",
+      "desc": "All Vampweeds you get on this ship will permanently become Cultivators. For every Cultivator aboard your ship, all non-Vampweed crew on your ship lose an additional 15% Max Health due to the potency of the spores distributed.",
+      "cost": "60",
+      "bp": "8",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "SPORE_AIR_STRONG",
+      "title": "Overflowing Spores",
+      "desc": "Excess spores seep into the air, making it unbreathable for most crew types. ALL crew, friend or foe, will periodically lose health aboard your ship, with the exception of Shells, Orchids, Lanius and Ghosts.\nEnemies will lose 5hp/s, allies will lose 2hp/s.",
+      "cost": "50",
+      "bp": "8",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "SPORE_SHIPMENT",
+      "title": "Valuable Spores",
+      "desc": "Extra valuable shipment of spores. You will gain 5 scrap every jump (not affected by Scrap/Repair arms), but all of your crew have 25% less Max Health.\nALL crew, friend or foe, will lose 5hp/s aboard your ship, with the exception of Shells, Orchids, Lanius and Ghosts.",
+      "cost": "75",
+      "bp": "8",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "MORPH_DATABASE",
+      "title": "DNA Samples",
+      "desc": "A database of various DNA samplings, which your Morphs can use to transform into any of the included species. DNA Samples may be used any number of times.\n\tCan also be used to synthesize a Morph during jumpspeed for free.",
+      "cost": "50",
+      "bp": "4",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "MORPH_DATABASE_ADV",
+      "title": "Genetic Codex",
+      "desc": "An advanced database of all things Morph related. Enables your Morphs to copy a wider variety of species than standard DNA Samples. Can be used to synthesize a variety of Morph types at empty beacons. Also allows for rapid Morph synthesization pre-combat, or producing a large number of Morphs for free during jumpspeed.",
+      "cost": "50",
+      "bp": "4",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "TOXIC_GAS",
+      "title": "Toxic Gas",
+      "desc": "An odorous and very unpleasant gas that acts like a neurotoxin. Damages enemy boarders at a rate of 6hp/s.\n\t\nDrones and the following species will be immune to the damage of the augment:\nShells, Vampweeds, Lanius, Ghosts.",
+      "cost": "50",
+      "bp": "4",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "LOCKED_TOXIC_GAS",
+      "title": "Toxic Gas",
+      "desc": "An odorous and very unpleasant gas that acts like a neurotoxin. Damages enemy boarders at a rate of 6hp/s.\n\t\nDrones and the following species will be immune to the damage of the augment:\nShells, Vampweeds, Lanius, Ghosts.",
+      "cost": "50",
+      "bp": "4",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "RADIANT_GAS",
+      "title": "Botulinum Gas",
+      "desc": "An incredibly deadly and fast-working neurotoxin that will greatly harm most hostile crew on your ship at a rate of 18hp/s.\n\t\nDrones and the following species will be immune to the damage of the augment:\nShells, Vampweeds, Lanius, Ghosts.",
+      "cost": "150",
+      "bp": "4",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "NANITE_GAS",
+      "title": "Nanite Gas",
+      "desc": "A specialized gas formula mixed with nanites that flood through the ventilation, actively putting out fires and sealing breaches. Also damages enemy boarders at a rate of 3hp/s.\n\t\nDrones and the following species will be immune to the damage of the augment:\nShells, Vampweeds, Lanius, Ghosts.",
+      "cost": "50",
+      "bp": "4",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "LOCKED_NANITE_GAS",
+      "title": "Nanite Gas",
+      "desc": "A specialized gas formula mixed with nanites that flood through the ventilation, actively putting out fires and sealing breaches. Also damages enemy boarders at a rate of 3hp/s.\n\t\nDrones and the following species will be immune to the damage of the augment:\nShells, Vampweeds, Lanius, Ghosts.",
+      "cost": "50",
+      "bp": "4",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "REGEN_GAS",
+      "title": "Expeditive Gas",
+      "desc": "This odd formula of Shell gas carries the nano-medbots from the Medbay around the ship, allowing the effects of the Medbay to spread anywhere on the ship at 90% efficiency of level 1 Medbay. Also damages enemy boarders at a rate of 3hp/s.\n\t\nDrones and the following species will be immune to the damage of the augment:\nShells, Vampweeds, Lanius, Ghosts.",
+      "cost": "50",
+      "bp": "4",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "LOCKED_REGEN_GAS",
+      "title": "Expeditive Gas",
+      "desc": "This odd formula of Shell gas carries the nano-medbots from the Medbay around the ship, allowing the effects of the Medbay to spread anywhere on the ship at 90% efficiency of level 1 Medbay. Also damages enemy boarders at a rate of 3hp/s.\n\t\nDrones and the following species will be immune to the damage of the augment:\nShells, Vampweeds, Lanius, Ghosts.",
+      "cost": "50",
+      "bp": "4",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "REPAIR_HULL",
+      "title": "Assimilative Plating",
+      "desc": "Absorbs 10% of scrap into the hull, repairing it. Will not take scrap when your hull is at full capacity.",
+      "cost": "50",
+      "bp": "8",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "LOCKED_COAL_AUG",
+      "title": "R.U.E.S. Plating",
+      "desc": "A very powerful set of plating which combines all effects of Rock Plating, Mantis Pheromones, and Slug Repair Gel.",
+      "cost": "110",
+      "bp": "8",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "ANTICOAL_AUG",
+      "title": "Alliance Energy Field",
+      "desc": "A peculiar set of batteries integrated into the ship plating, granting 3 stacking points of Energy Shield. When the hull is damaged, has 40% chance of releasing Energy projectiles. Additionally empowers your crew's combat damage by 15%.",
+      "cost": "110",
+      "bp": "8",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "ANTICOAL_AUG_CHAOS",
+      "title": "Chaotic Alliance Plating",
+      "desc": "A peculiar set of batteries integrated into the ship's plating, granting 3 stacking points of Energy Shield. Chaotic energy causes the hull to fire back random projectiles whenever damaged. Additionally empowers crew damage by 30% per Life Support level above 1 power, but applies a 15% combat damage penalty when Life Support is disabled or uninstalled.",
+      "cost": "110",
+      "bp": "8",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "ANCIENT_PREIGNITE",
+      "title": "Ancient Hyper-Igniter",
+      "desc": "Specialized Pre-Igniter tech that not only pre-ignites weapons, but also improves their fire rate by 15%.",
+      "cost": "175",
+      "bp": "15",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "ANCIENT_REPLICATOR",
+      "title": "Ancient Recycler",
+      "desc": "Remarkable ammunition replication system that synthesizes warheads for your missile weapons using left-over scrap. Nullifies the ammo cost of weapons, but reduces scrap gain by 15%.",
+      "cost": "90",
+      "bp": "15",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "ANCIENT_PROTECTANT",
+      "title": "Ancient Protocols",
+      "desc": "All encompassing hazard-handling security system, which provides 40% chance to resist system damage, and reduces suffocation damage aboard your ship by 50%. However, due to the complexity of the algorithms, repair speed is 20% slower.",
+      "cost": "80",
+      "bp": "15",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "ANCIENT_DNA",
+      "title": "Ancient Cybernetics",
+      "desc": "Advanced cybernetics forged from Aether. Non-mechanical crew gain an extra 50% resistance to fire and suffocation, and +33% Max Health. However, the foreign implants also slow the passive healing speed of affected crew by 33%.",
+      "cost": "60",
+      "bp": "15",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "ANCIENT_SHIELD",
+      "title": "Aether Shields",
+      "desc": "YOU SHOULD NEVER SEE THIS",
+      "cost": "80",
+      "bp": "15",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "ROYAL_SHIELD",
+      "title": "Ascended Shields",
+      "desc": "YOU SHOULD NEVER SEE THIS",
+      "cost": "80",
+      "bp": "15",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "ANCIENT_SHIELD_PLAYER",
+      "title": "Aether Shields",
+      "desc": "Extremely powerful shielding powered by Aether batteries. Unlike standard Energy Shields, it has an integrity of 7 hitpoints, and boosts standard shield charge rate by 20%.",
+      "cost": "80",
+      "bp": "15",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "LOCKED_ANCIENT_SHIELD",
+      "title": "Aether Shields",
+      "desc": "Extremely powerful shielding powered by Aether batteries. Unlike standard Energy Shields, it has an integrity of 7 hitpoints, and boosts standard shield charge rate by 20%.",
+      "cost": "80",
+      "bp": "15",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "ROYAL_SHIELD_PLAYER",
+      "title": "Ascended Shields",
+      "desc": "Overcharged version of the Obelisks' signature Aether shielding. Has an integrity of 10 hitpoints, and boosts standard shield charge rate by 45%.",
+      "cost": "150",
+      "bp": "15",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "LOCKED_ROYAL_SHIELD",
+      "title": "Ascended Shields",
+      "desc": "Overcharged version of the Obelisks' signature Aether shielding. Has an integrity of 10 hitpoints, and boosts standard shield charge rate by 45%.",
+      "cost": "150",
+      "bp": "15",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "SIREN_ENEMY_MC",
+      "title": "Cosmetic Augment",
+      "desc": "YOU SHOULD NEVER SEE THIS - gives Siren slaves the mind control graphic.",
+      "cost": "0",
+      "bp": "15",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "RHYME_SHIELDS",
+      "title": "Eldritch Shield",
+      "desc": "A barrier of chaotic energy that provides a 7 hitpoints Super Shield.",
+      "cost": "80",
+      "bp": "8",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "RHYME_SHIELDS_B",
+      "title": "Eldritch Shield",
+      "desc": "A barrier of chaotic energy that provides a 7 hitpoints Super Shield.",
+      "cost": "80",
+      "bp": "8",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "RHYME_SHIELDS_C",
+      "title": "Eldritch Shield",
+      "desc": "A barrier of chaotic energy that provides a 7 hitpoints Super Shield.",
+      "cost": "80",
+      "bp": "8",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "CHAOS",
+      "title": "Chaotic Energy",
+      "desc": "Non-siren crew lose their active abilities while within chaotic energy fields.",
+      "cost": "0",
+      "bp": "4",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "COMBAT_PANIC_BUTTON",
+      "title": "PANIC BUTTON",
+      "desc": "A VERY STRANGE RED BUTTON INSTALLED ON YOUR SHIP BY SLUGS. A SMALL PLACARD UNDERNEATH SAYS IN ALL CAPS, \"SATISFACTION GUARANTEED, BECAUSE YOU AREN'T GETTING YOUR MONEY BACK.\"",
+      "cost": "2",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "COMBAT_EXPLOSIVE",
+      "title": "Magnetic Payload",
+      "desc": "Single use combat augment that can be deployed before combat to deal 4 damage to an enemy system of your choice as well as against their hull.",
+      "cost": "40",
+      "rarity": "3",
+      "stackable": "true"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "EXTRA_PREP",
+      "title": "Emergency Manual",
+      "desc": "A well structured guide on emergency procedures. Adds extra options to last minute preparations before combat to produce fuel, convert missiles and droneparts, or even detonate extra missiles to sabotage enemy weapons.",
+      "cost": "30",
+      "rarity": "4",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "COMBAT_REPAIR",
+      "title": "Repair-Bot Dispersal",
+      "desc": "These nanobots take ship parts dislodged from hostile vessels and convert it to metal to repair your hull at the start of ship combat in exchange for reactor power. More power means more bots are available to convert enemy parts.\n\nIncompatible with Emergency Generator.",
+      "cost": "70",
+      "rarity": "5",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "COMBAT_HAZARD",
+      "title": "Reality Manipulator",
+      "desc": "Only the Obelisks can understand how this strange and powerful device functions, but it is capable of manipulating reality to summon any hazard before combat.",
+      "cost": "80",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "COMBAT_IONSTORM",
+      "title": "Ionized Storm Exhaust",
+      "desc": "Can expel electrified nebulous gases to create an ion storm before any fight.",
+      "cost": "80",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "COMBAT_WEAPON_JAMMER",
+      "title": "Targeting Jammer",
+      "desc": "Jams the enemy targeting systems, weakening the enemy Weapon system by 2 bars. Does not work on Artillery.\n\t[Uses 2 power, 1 fuel, lasts 45 seconds]",
+      "cost": "40",
+      "rarity": "4",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "COMBAT_SHIELDS_JAMMER",
+      "title": "Shield Jammer",
+      "desc": "Jams the enemy shield generator, weakening the enemy Shield system by 2 bars.\n\t[Uses 2 power, 1 fuel, lasts 45 seconds]",
+      "cost": "45",
+      "rarity": "4",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "COMBAT_ENGINE_JAMMER",
+      "title": "Engine Disabler",
+      "desc": "Disables the enemy engines, weakening the enemy Engines system by 2 bars.\n\t[Uses 2 power, 1 fuel, lasts 45 seconds]",
+      "cost": "45",
+      "rarity": "3",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "COMBAT_PILOT_JAMMER",
+      "title": "Auto-Pilot Scrambler",
+      "desc": "Can be used to either disable enemy auto pilot for free, or completely shut off their evasion for 2 power.",
+      "cost": "50",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "COMBAT_CLOAKING_JAMMER",
+      "title": "Tracking Flares",
+      "desc": "Deploys an array of tracking flares that temporarily reveal the enemy, disabling their Cloaking system.\n\t[Uses 2 power, lasts 30 seconds]",
+      "cost": "75",
+      "rarity": "5",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "COMBAT_WARP_JAMMER",
+      "title": "Disruption Field",
+      "desc": "Creates a protective field around the ship which can be tuned to protect against either enemy teleporter or mind control but not both at the same time.\n\t[Uses 2 power, lasts 30 seconds]",
+      "cost": "50",
+      "rarity": "5",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "COMBAT_REACTOR_JAMMER",
+      "title": "EMP Field",
+      "desc": "Activates an EMP field which cripples the enemy reactor, but is quite heavy on your own. Will not work in an ion storm, or against the Flagship.\n\t[Uses 3 power and 1 fuel, lasts 45 seconds]",
+      "cost": "90",
+      "rarity": "5",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "COMBAT_OXYGEN_JAMMER",
+      "title": "Asphyxiator",
+      "desc": "Cripples the enemy Life Support system. Uses more power for each system bar disabled.\n\t[Uses 3 to 5 power, infinite duration]\n\t[Note: The Emergency generator will only reduce power usage by 2]",
+      "cost": "45",
+      "rarity": "5",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "COMBAT_OXYGEN_UNSTABLE",
+      "title": "Viral Dispersion",
+      "desc": "A dangerous bio-engineered virus. Uses no power and reduces enemy and player Life Support power by 2.",
+      "cost": "40",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "ANCIENT_COMBAT_EQUALIZER",
+      "title": "Ancient Equalizer",
+      "desc": "Ancient combat augment that limits a system on both the enemy and player ship to either 0 or 1 bar depending on the system. The player must have the system being targeted.",
+      "cost": "75",
+      "bp": "15",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "ANCIENT_COMBAT_ASB",
+      "title": "Ancient ASB Platform",
+      "desc": "A portable ASB platform that can be deployed before combat by spending a single drone part and fuel.\n\nIncompatible with Emergency Generator.",
+      "cost": "60",
+      "bp": "15",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "ANCIENT_ACTIVATOR",
+      "title": "Ancient Activator",
+      "desc": "Can be used at an empty beacon to awaken the ancient in your cargo-bay.",
+      "cost": "0",
+      "bp": "15",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "ANCIENT_CONSTRUCTOR",
+      "title": "Hibernating Robot",
+      "desc": "This strange machine is in a hibernating state. Perhaps someone will have more information about this.",
+      "cost": "100",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "TULLY_PRESENT",
+      "title": "Tully's Package",
+      "desc": "A Federation supply crate given to you by Vice Admiral Adara. It's protected by several passcodes and a lock that requires a special magnetic key. A large Federation insignia is on the back.",
+      "cost": "45",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "ZOLTAN_STATUE",
+      "title": "Monk Statue",
+      "desc": "A plastic statue painted gold depicting a Zoltan meditating. It appears to be something you could find in just about any tourist location.",
+      "cost": "6",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "QUARP_JUICE",
+      "title": "Quarp Juice",
+      "desc": "You aren't sure how you feel about the crew drinking this, but they seem to like it. The almost lethal dose of sugar increases combat, repair, and movement speed by 75% for all crew but also lowers their Max Health by 25%.",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "SMUGGLER_RAID_CARGO",
+      "title": "Mysterious Cargo",
+      "desc": "You managed to retrieve this from the smuggler's depot, now you just have to bring it back.",
+      "cost": "50",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "NEBULA_GASSES",
+      "title": "Nebulous Gases",
+      "desc": "Rare and expensive nebula gases. Sells for 50 scrap.",
+      "cost": "100",
+      "rarity": "0",
+      "stackable": "true"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "BEACON_PARTS",
+      "title": "Beacon Parts",
+      "desc": "Parts salvaged from a damaged beacon. Maybe you can give them to the Beacon Eater?",
+      "cost": "45",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "ORCHID_KIDS",
+      "title": "Orchid Children",
+      "desc": "The corpses of dead Orchid children, though they merely resemble small flowers. You can sell them for scrap, at the cost of your soul, you monster.",
+      "cost": "65",
+      "rarity": "0",
+      "stackable": "true"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "SLUG_NARCOTICS",
+      "title": "Slug Narcotics",
+      "desc": "A bundle of highly illegal drugs. Using them yourself is out of the question if you don't want to be comatose by the time you get to the Flagship, but you could sell these back for more than you got them, or use them to bribe Slugs out of fighting you. Has no use outside the Royal Nebula.",
+      "cost": "90",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "LOSTSUN_BLESSING",
+      "title": "Blessed",
+      "desc": "You have been blessed by the Lost Suns. At empty beacons, you can hold a fire ritual to receive a reward.",
+      "cost": "0",
+      "bp": "8",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "ZOLTAN_BLESSING",
+      "title": "Blessed",
+      "desc": "You have been blessed by the Zoltans. At empty beacons you can meditate, which takes a long time but will repair your hull.",
+      "cost": "0",
+      "bp": "8",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "NO_GHOST_PLAYER",
+      "title": "Lightweight E-Grid",
+      "desc": "Reduces Ghost sabotage speed by 20%.\n\tIf a Door Control system is present and functional, all enemy crew and drones on-board will lose 2hp/s with an extra 0.5hp/s for each level of Door Control above 1.",
+      "cost": "60",
+      "bp": "15",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "DEATH_VESTS",
+      "title": "Martyr Vests",
+      "desc": "Adds a death effect to allied crew, making them explode for 15 crew damage against enemies, with a 50% chance to start fires.\n\tStacks upon already existing death effects.",
+      "cost": "50",
+      "bp": "15",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "WEAPON_PREIGNITE",
+      "title": "Weapon Pre-igniter",
+      "desc": "Weapons are made immediately available after an FTL jump.",
+      "cost": "120",
+      "bp": "16",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "LOOT_COMPASS",
+      "title": "Hijacked Frequencies",
+      "desc": "Detects and reveals the locations of Loot Transports and Guard Reinforcements when possible.\n\tLoot Transports are usually found in [!] Unique sectors.\n\tGuard Reinforcements spawn when a guard ship is killed.",
+      "cost": "50",
+      "bp": "5",
+      "rarity": "0",
+      "value": "3",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "GAMBLING_MACHINE",
+      "title": "Gambling Machine",
+      "desc": "A machine designed for casinos. It appears to have been modified to be able to dispense a wide variety of items when you win, but you can't seem to figure out how to open it.",
+      "cost": "60",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "PROTON_PACK",
+      "title": "Proton Pack",
+      "desc": "Allows you to track down Ghost vessels from a long running database and fight them for scrap.",
+      "cost": "30",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "LOCKED_PROTON_PACK",
+      "title": "Proton Pack",
+      "desc": "Allows you to track down Ghost vessels from a long running database and fight them for scrap.",
+      "cost": "30",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "MVBOSS_SPAWNER",
+      "title": "Drive Hacker",
+      "desc": "Can single out and hijack the MV drives of powerful Multiverse cruisers from other realities. Uses 7 fuel to do so, but can spawn any MV boss as a Quest. Always spawns them at Challenge difficulty scaling.",
+      "cost": "30",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "FLEET_SKIP",
+      "title": "engin ovahrdrive capcitor mak free+",
+      "desc": "Can be activated during hyperspeed to travel so insanely fast that you'll be put 3 jumps ahead of the Rebel fleet. Unfortunately, it's very unstable (and illegal), and will likely destroy your engines afterwards.\n\tCan only be used once.",
+      "cost": "30",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "PANDORA_BOX",
+      "title": "Pandora's Box",
+      "desc": "A mystical square artifact with bright green lights and a dark black exterior. With it came a small card from the pirates, on it written \"Open the box if you dare, but be warned. For as likely it is that it will grant you infinite power, it is just as likely to damn you.\"",
+      "cost": "40",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "PANDORA_BOX_ANCIENT",
+      "title": "Pandora's Box",
+      "desc": "Also known as a Karthithe, this box holds both divine wonders and unimaginable horrors. Question is, which will be bestowed upon you if you open it?",
+      "cost": "0",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "NANOBOT_DEFENSE_SYSTEM",
+      "title": "Murder-Bot Dispersal",
+      "desc": "Boarders take damage over time on your ship at a rate of 2.7hp/s. The name makes it sound a lot more violent than it is.",
+      "cost": "60",
+      "bp": "4",
+      "rarity": "0",
+      "value": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "LOCKED_NANOBOT_DEFENSE_SYSTEM",
+      "title": "Murder-Bot Dispersal",
+      "desc": "Boarders take damage over time on your ship at a rate of 2.7hp/s. The name makes it sound a lot more violent than it is.",
+      "cost": "60",
+      "bp": "4",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "SYSTEM_CASING",
+      "title": "Titanium System Casing",
+      "desc": "All ship systems have additional plating that provides a 15 percent chance to negate damage when hit (YOU SHOULD NEVER SEE THIS BY THE WAY)",
+      "cost": "80",
+      "bp": "15",
+      "rarity": "0",
+      "stackable": "true",
+      "value": "0.15"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "SYSTEM_CASING_NEW",
+      "title": "Titanium System Casing",
+      "desc": "Enemy boarders sabotage your systems at 40% speed. Also provides a 15% chance to resist damage to your systems.",
+      "cost": "80",
+      "bp": "15",
+      "rarity": "0",
+      "stackable": "true",
+      "value": "0.15"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "LOCKED_SYSTEM_CASING",
+      "title": "Titanium System Casing",
+      "desc": "Enemy boarders sabotage your systems at 40% speed. Also provides a 15% chance to resist damage to your systems.",
+      "cost": "80",
+      "bp": "15",
+      "rarity": "0",
+      "stackable": "true"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "ADV_SCANNERS",
+      "title": "Long-Ranged Scanners",
+      "desc": "Adds additional info about nearby Beacons on the star map.",
+      "cost": "30",
+      "bp": "3",
+      "rarity": "1",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "RECYCLER",
+      "title": "Recycler Module",
+      "desc": "A recycler module similar to that used in Recycler tech weapons. Can be used to convert fuel, scrap, drone parts, or just random junk into missiles.",
+      "cost": "50",
+      "rarity": "3",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "RECYCLER_REVERSE",
+      "title": "Deconstructor",
+      "desc": "A special component that allows you to disassemble missiles or droneparts into scrap, at a greatly reduced yield.",
+      "cost": "40",
+      "rarity": "3",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "GHOST_DUPLICATOR",
+      "title": "Quick-Splitter TM",
+      "desc": "Patented GHOST DUPLICATING technology allows you to quickly and rapidly inflate Ghosts of any type, then force them to divide as if they were an Alpha. It's painless, we promise.",
+      "cost": "40",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "STORE_BEACON",
+      "title": "Merchant Beacon",
+      "desc": "Can summon a store at any empty beacon at the cost of 1 fleet boost.",
+      "cost": "45",
+      "rarity": "5",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "DISTRACTION_BUOY",
+      "title": "Decoy Buoys",
+      "desc": "Allows you to deploy buoys during jumpspeed. Can give 1 fleet delay for free, or deploy additional buoys using droneparts.",
+      "cost": "50",
+      "bp": "8",
+      "rarity": "3",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "PRE_SCANNER",
+      "title": "Slip-Scanner",
+      "desc": "Can be used to map the next sector while in jumpspeed at the cost of 3 fuel.",
+      "cost": "50",
+      "bp": "8",
+      "rarity": "4",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "FUEL_CONSERVER",
+      "title": "Fuel Conserver",
+      "desc": "Hyper efficient fuel conservation device mixed with a bit of science mumbo-jumbo which generates up to 5 fuel cells when entering a new sector through jumpspeed.",
+      "cost": "20",
+      "bp": "8",
+      "rarity": "2",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "PDS_DISABLE",
+      "title": "Signal Diluter",
+      "desc": "A module that drowns out distress or other signals. Can be used to prevent guards from calling for ASB backup or disable enemy attack satellites.\n\t\n\tProvides helpful blue options during relevant events.",
+      "cost": "45",
+      "rarity": "4",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "ANTI_VIRUS",
+      "title": "Anti-Virus Module",
+      "desc": "Combat augment that can neutralize enemy Hacking systems. Also performs well against malicious viruses from enemy satellites or other sources.\n\t[Uses 2 power, lasts 30 seconds]\n\t\n\tProvides helpful blue options during relevant events.",
+      "cost": "30",
+      "rarity": "4",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "FLARE_DISTRACTION",
+      "title": "Distraction Flares",
+      "desc": "A self-replenishing supply of holographic flares that make excellent distractions in situations where enemies or satellites are nearby but have not yet locked onto your vessel. Useful for sneaking into places or away from enemies.\n\t\n\tProvides helpful blue options during relevant events.",
+      "cost": "40",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "CREW_FIREARMS",
+      "title": "Improved Armories",
+      "desc": "Outfits your crew with superior firearms, adding 30% extra damage in ranged crew combat.",
+      "cost": "45",
+      "rarity": "3",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "SPEED_SUITS",
+      "title": "Exovests",
+      "desc": "Increases your crew Max Health by 10%, and their movement and healing speed by 20%.",
+      "cost": "40",
+      "bp": "8",
+      "rarity": "3",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "CREW_OXYGEN",
+      "title": "Advanced Ventilation",
+      "desc": "Life Support now prioritizes your crew, refilling oxygen 65% faster in rooms where crew are present. Requires the system to be powered, and scales with power.",
+      "cost": "40",
+      "rarity": "2",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "CRATE_SCRAP",
+      "title": "Scrap Crate",
+      "desc": "Can be opened in the storage. Can contain anywhere from 30 to 45 scrap.",
+      "cost": "60",
+      "rarity": "0",
+      "stackable": "true"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "CRATE_SCRAP_HUGE",
+      "title": "Huge Scrap Crate",
+      "desc": "Can be opened in the storage. Contains 175 scrap.",
+      "cost": "350",
+      "rarity": "0",
+      "stackable": "true"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "CRATE_FUEL",
+      "title": "Fuel Crate",
+      "desc": "Can be opened in the storage. Can contain anywhere from 5 to 10 fuel.",
+      "cost": "22",
+      "rarity": "0",
+      "stackable": "true"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "CRATE_MISSILES",
+      "title": "Ammo Crate",
+      "desc": "Can be opened in the storage. Can contain anywhere from 5 to 10 missiles.",
+      "cost": "42",
+      "rarity": "0",
+      "stackable": "true"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "CRATE_DRONES",
+      "title": "Dronepart Crate",
+      "desc": "Can be opened in the storage. Can contain anywhere from 5 to 10 droneparts.",
+      "cost": "49",
+      "rarity": "0",
+      "stackable": "true"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "PART_GATLING_AUGMENT",
+      "title": "Proto-PreIgniter",
+      "desc": "The very first Pre-Igniter ever made. Old and broken, it no longer functions as intended, but it will increase Weapons and Artillery fire rate by 12%.",
+      "cost": "60",
+      "bp": "16",
+      "rarity": "0",
+      "stackable": "false"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "O2_MASKS",
+      "title": "Emergency Respirators",
+      "desc": "Crew take half damage from low oxygen.",
+      "cost": "50",
+      "bp": "8",
+      "rarity": "0",
+      "stackable": "false",
+      "value": "0.5"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "EXPLOSIVE_REPLICATOR",
+      "title": "Explosive Replicator",
+      "desc": "Missile based weapons have a 50 percent chance of not using a missile.",
+      "cost": "60",
+      "bp": "8",
+      "rarity": "0",
+      "stackable": "false",
+      "value": "0.5"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "FIRE_EXTINGUISHERS",
+      "title": "Fire Suppression",
+      "desc": "Automatically put out fires throughout the ship.",
+      "cost": "65",
+      "bp": "8",
+      "rarity": "0",
+      "stackable": "false",
+      "value": "1.f"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "FLEET_DISTRACTION",
+      "title": "Distraction Buoys",
+      "desc": "Leaves a false signal at sector start to delay Rebels 1 jump.",
+      "cost": "55",
+      "bp": "8",
+      "rarity": "0",
+      "stackable": "false",
+      "value": "1.f"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "TELEPORT_HEAL",
+      "title": "Reconstructive Teleport",
+      "desc": "Crew gets fully healed by teleportation.",
+      "cost": "70",
+      "bp": "8",
+      "rarity": "0",
+      "stackable": "false",
+      "value": "1.f"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "BATTERY_BOOSTER",
+      "title": "Battery Charger",
+      "desc": "Backup Battery's lock time is halved.",
+      "cost": "40",
+      "bp": "8",
+      "rarity": "0",
+      "stackable": "false",
+      "value": "0.5"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "DEFENSE_SCRAMBLER",
+      "title": "Defense Scrambler",
+      "desc": "Prevents enemy defense drones from targeting anything.",
+      "cost": "80",
+      "bp": "8",
+      "rarity": "0",
+      "stackable": "false",
+      "value": "0.0"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "BACKUP_DNA",
+      "title": "Backup DNA Bank",
+      "desc": "Your crew is safe in clone storage even if the system is off or broken.",
+      "cost": "40",
+      "bp": "8",
+      "rarity": "0",
+      "stackable": "false",
+      "value": "0.0"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "HACKING_STUN",
+      "title": "Hacking Stun",
+      "desc": "All crew inside a room during a Hacking Pulse will be stunned for the duration.",
+      "cost": "60",
+      "rarity": "0",
+      "stackable": "false",
+      "value": "0.0"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "LIFE_SCANNER",
+      "title": "Lifeform Scanner",
+      "desc": "Detects the location of any life forms, even when sensors don't function.",
+      "cost": "40",
+      "bp": "8",
+      "rarity": "0",
+      "stackable": "false",
+      "value": "0.0"
+    }
+  },
+  {
+    "augBlueprint": {
+      "name": "ZOLTAN_BYPASS",
+      "title": "Zoltan Shield Bypass",
+      "desc": "Allows crew/bomb teleportation and mind control to work through Super Shields.",
+      "cost": "55",
+      "bp": "8",
+      "rarity": "0",
+      "stackable": "false",
+      "value": "0.0"
+    }
+  }
+]

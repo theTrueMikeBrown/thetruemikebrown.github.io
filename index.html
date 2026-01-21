@@ -1,33 +1,18 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>FTL Multiverse - Sectors Viewer</title>
-  <link rel="stylesheet" href="style.css">
-  <script src="https://unpkg.com/vue@3.4.15/dist/vue.global.prod.js"></script>
-</head>
-<body>
-  <div id="app">
-    <app-header 
-      :hide-common="hideCommonItems"
-      @toggle-hide-common="toggleHideCommon">
-    </app-header>
-    <div class="container">
-      <sector-navigation 
-        :sectors="sectors" 
-        :selected-sector="selectedSector"
-        @select-sector="selectSector">
-      </sector-navigation>
-      <sector-detail 
-        :sector="selectedSector"
-        :blueprints="blueprints"
-        :hide-common="hideCommonItems"
-        :all-sectors="sectors"
-        @select-sector="selectSector">
-      </sector-detail>
-    </div>
-  </div>
-  <script src="app.js"></script>
-</body>
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>FTL Multiverse Data Browser</title>
+    <script type="module" crossorigin src="/assets/index-C4TIuFnQ.js"></script>
+    <link rel="modulepreload" crossorigin href="/assets/vue-D0lcnYxZ.js">
+    <link rel="stylesheet" crossorigin href="/assets/index-Bh35_vbr.css">
+  </head>
+  <body>
+    <div id="app"></div>
+  </body>
 </html>

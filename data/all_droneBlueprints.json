@@ -1,0 +1,3273 @@
+[
+  {
+    "droneBlueprint": {
+      "name": "COMBAT_1",
+      "type": "COMBAT",
+      "tip": "tip_combat",
+      "title": "Combat Drone Mark I",
+      "short": "Combat I",
+      "desc": "Powerful drone that continually attacks the enemy ship.",
+      "power": "2",
+      "cooldown": "1000",
+      "dodge": "0",
+      "speed": "15",
+      "cost": "50",
+      "bp": "3",
+      "droneImage": "drone_combat",
+      "weaponBlueprint": "DRONE_LASER",
+      "rarity": "0",
+      "iconImage": "combat"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "COMBAT_2",
+      "type": "COMBAT",
+      "tip": "tip_combat",
+      "title": "Combat Drone Mark II",
+      "short": "Combat II",
+      "desc": "Powerful drone that continually attacks the enemy ship. Moves and shoots faster than Mark I.",
+      "power": "4",
+      "cooldown": "1000",
+      "dodge": "0",
+      "speed": "28",
+      "cost": "75",
+      "bp": "8",
+      "droneImage": "drone_combat2",
+      "image": "weapons/laser_light2_strip4.png",
+      "weaponBlueprint": "DRONE_LASER",
+      "rarity": "0",
+      "iconImage": "combat2"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "COMBAT_BEAM",
+      "type": "COMBAT",
+      "tip": "tip_combat",
+      "title": "Anti-Ship Beam Drone I",
+      "short": "Beam I",
+      "desc": "Combat drone that repeatedly attacks with a small beam weapon",
+      "power": "2",
+      "cooldown": "1000",
+      "dodge": "0",
+      "speed": "15",
+      "cost": "50",
+      "bp": "3",
+      "droneImage": "drone_beam",
+      "weaponBlueprint": "DRONE_BEAM",
+      "rarity": "0",
+      "iconImage": "beam"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "BATTLE",
+      "type": "BATTLE",
+      "locked": "1",
+      "tip": "tip_crew",
+      "title": "Anti-Personnel Drone",
+      "short": "Anti-Pers.",
+      "desc": "Will seek out and attempt to destroy any intruders on-board your ship.",
+      "power": "2",
+      "cost": "35",
+      "bp": "3",
+      "rarity": "0",
+      "iconImage": "battle"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "BOARDER",
+      "type": "BOARDER",
+      "tip": "tip_boarding",
+      "locked": "1",
+      "title": "Boarding Drone",
+      "short": "Boarding",
+      "desc": "Breaches through the enemy hull and wreaks havoc. Awesome.",
+      "power": "3",
+      "speed": "18",
+      "cost": "70",
+      "rarity": "0",
+      "iconImage": "boarder"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "SPAWN_BATTLE",
+      "type": "REPAIR",
+      "locked": "1",
+      "tip": "tip_toggle_crew",
+      "title": "Eldritch Spawn",
+      "short": "Spawn",
+      "desc": "A mysterious creature birthed from the mind of an eldritch power.\n    \n-Cannot be damaged, stunned or mind controlled. Destroying Drone Control will repel it.",
+      "power": "1",
+      "cost": "2147483647",
+      "bp": "3",
+      "rarity": "0",
+      "iconImage": "battle"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "SPAWN_BOARDER",
+      "type": "BOARDER",
+      "locked": "1",
+      "tip": "tip_toggle_crew",
+      "title": "Eldritch Spawn",
+      "short": "Spawn",
+      "desc": "A mysterious creature birthed from the mind of an eldritch power.\n    \n-Cannot be damaged, stunned or mind controlled. Destroying Drone Control will repel it.",
+      "power": "1",
+      "speed": "999",
+      "cost": "2147483647",
+      "bp": "3",
+      "rarity": "0",
+      "iconImage": "battle"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "GANA_BATTLE",
+      "type": "BATTLE",
+      "locked": "1",
+      "tip": "tip_toggle_crew",
+      "title": "Gana [Shipboard]",
+      "short": "Gana [DEF]",
+      "desc": "[CURRENT MODE: Shipboard] A helpful assistant drone created by Archive Inc. Seems to be slightly malfunctioning and constantly complaining about \"systems\", which is probably why he was given to you.\n    \n-Deals 1 system damage on first impact with an enemy ship\n-2x combat damage, 1.75x movement speed\n-Immune to fire and stun\n-Can repair and man systems at lvl2 skill level",
+      "power": "1",
+      "cost": "50",
+      "bp": "3",
+      "rarity": "0",
+      "iconImage": "battle"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "GANA_BOARDER",
+      "type": "BOARDER",
+      "tip": "tip_toggle_crew",
+      "locked": "1",
+      "title": "Gana [Boarder]",
+      "short": "Gana [ATK]",
+      "desc": "[CURRENT MODE: Boarding] A helpful assistant drone created by Archive Inc. Seems to be slightly malfunctioning and constantly complaining about \"systems\", which is probably why he was given to you.\n    \n-Deals 1 system damage on first impact with an enemy ship\n-2x combat damage, 1.75x movement speed\n-Immune to fire and stun\n-Can repair and man systems at lvl2 skill level",
+      "power": "1",
+      "speed": "50",
+      "cost": "50",
+      "rarity": "0",
+      "iconImage": "boarder"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "A55_BATTLE",
+      "type": "BATTLE",
+      "locked": "1",
+      "tip": "tip_toggle_crew",
+      "title": "A5540L3 [Swashbuckler]",
+      "short": "A5540L3 [DEF]",
+      "desc": "[CURRENT MODE: Swashbuckling] Pirate captain A5540L3, a cognitive trapped in a mismatched shell who just wants to be free, and maybe be an interdimensional hero too.\n    \n-150 HP, 1.5x combat damage\n-Heals nearby allies for 2hp/s\n-Can repair and man systems at lvl2 skill level",
+      "power": "1",
+      "cost": "50",
+      "bp": "3",
+      "rarity": "0",
+      "iconImage": "battle"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "A55_BOARDER",
+      "type": "BOARDER",
+      "tip": "tip_toggle_crew",
+      "locked": "1",
+      "title": "A5540L3 [Plunderer]",
+      "short": "A5540L3 [ATK]",
+      "desc": "[CURRENT MODE: Plundering] Pirate captain A5540L3, a cognitive trapped in a mismatched shell who just wants to be free, and maybe be an interdimensional hero too.\n    \n-150 HP, 1.5x combat damage\n-Heals nearby allies for 2hp/s\n-Can repair and man systems at lvl2 skill level",
+      "power": "1",
+      "speed": "20",
+      "cost": "50",
+      "rarity": "0",
+      "iconImage": "boarder"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "DEFENSE_PRIME",
+      "type": "DEFENSE",
+      "target": "ALL",
+      "tip": "tip_defense",
+      "title": "Arch-Angel",
+      "short": "Arch-Angel",
+      "desc": "Defense drone capable of targeting lasers, solid projectiles and other hostile drones.\n\tReload: 50 MS",
+      "power": "2",
+      "cooldown": "50",
+      "dodge": "0",
+      "speed": "3",
+      "cost": "150",
+      "bp": "2",
+      "droneImage": "drone_defense_prime",
+      "weaponBlueprint": "DRONE_LASER_PRIME",
+      "iconImage": "defense",
+      "rarity": "0"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "COMBAT_PRIME",
+      "type": "COMBAT",
+      "tip": "tip_beams",
+      "title": "Castigator",
+      "short": "Castigator",
+      "desc": "A Beam drone capable of causing devastating damage if shields are down, but is otherwise harmless.",
+      "power": "2",
+      "cooldown": "1000",
+      "dodge": "0",
+      "speed": "20",
+      "cost": "85",
+      "bp": "3",
+      "droneImage": "drone_combat_prime",
+      "weaponBlueprint": "DRONE_BEAM_PRIME",
+      "rarity": "0",
+      "iconImage": "combat"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "SALT_MINER",
+      "type": "COMBAT",
+      "tip": "tip_toggle_combat",
+      "title": "Mining Drone",
+      "short": "Miner",
+      "desc": "A slow moving Beam drone that has an extremely long beam attack that can hit many rooms. Devastating if the enemy shields are offline.",
+      "power": "3",
+      "cooldown": "1000",
+      "dodge": "0",
+      "speed": "9",
+      "cost": "80",
+      "bp": "3",
+      "droneImage": "boss_miner",
+      "weaponBlueprint": "DRONE_BEAM_MINER",
+      "rarity": "0",
+      "iconImage": "combat"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "SALT_MINER_CHAOS",
+      "type": "COMBAT",
+      "tip": "tip_toggle_combat",
+      "title": "Chaotic Mining Drone",
+      "short": "Miner™",
+      "desc": "A slow moving Beam drone that has an extremely long beam attack that can hit many rooms.\n\tChaotic variant has a guaranteed breach chance and pierces all shields but uses more power.",
+      "power": "5",
+      "cooldown": "1000",
+      "dodge": "0",
+      "speed": "9",
+      "cost": "80",
+      "bp": "3",
+      "droneImage": "boss_miner_chaos",
+      "weaponBlueprint": "DRONE_BEAM_MINER_CHAOS",
+      "rarity": "0",
+      "iconImage": "combat"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "COMBAT_ASTEROID_DRUG",
+      "type": "COMBAT",
+      "tip": "tip_combat",
+      "title": "Asteroid",
+      "short": "Asteroid",
+      "desc": "YOU SHOULD NEVER SEE THIS.",
+      "power": "1",
+      "cooldown": "1000",
+      "dodge": "0",
+      "speed": "7",
+      "cost": "75",
+      "bp": "3",
+      "droneImage": "drone_missile2",
+      "weaponBlueprint": "DRONE_ASTEROID_DRUG",
+      "rarity": "0"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "DEFENSE_1",
+      "type": "DEFENSE",
+      "level": "1",
+      "target": "LASERS",
+      "tip": "tip_defense",
+      "title": "Defender Drone Mk. I",
+      "short": "Defense I",
+      "desc": "Defense drone capable of targeting lasers or solid projectiles.\n\tReload: 600 MS",
+      "power": "2",
+      "cooldown": "600",
+      "dodge": "0",
+      "speed": "5",
+      "cost": "55",
+      "bp": "2",
+      "droneImage": "drone_defense_1",
+      "weaponBlueprint": "DRONE_LASER_DEFENSE",
+      "iconImage": "defense",
+      "rarity": "1"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "DEFENSE_2",
+      "type": "DEFENSE",
+      "level": "1",
+      "target": "LASERS",
+      "tip": "tip_defense",
+      "title": "Defender Drone Mk. II",
+      "short": "Defense II",
+      "desc": "Defense drone capable of targeting lasers or solid projectiles. Shoots faster than the Mark I.\n\tReload: 400 MS",
+      "power": "3",
+      "cooldown": "400",
+      "dodge": "0",
+      "speed": "7",
+      "cost": "75",
+      "bp": "2",
+      "droneImage": "drone_defense_2",
+      "weaponBlueprint": "DRONE_LASER_DEFENSE",
+      "iconImage": "defense",
+      "rarity": "3"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "DEFENSE_3",
+      "type": "DEFENSE",
+      "level": "1",
+      "target": "LASERS",
+      "tip": "tip_defense",
+      "title": "Defender Drone Mk. III",
+      "short": "Defense III",
+      "desc": "Defense drone capable of targeting lasers or solid projectiles. Shoots faster than the Mark II.\n\tReload: 150 MS",
+      "power": "4",
+      "cooldown": "150",
+      "dodge": "0",
+      "speed": "9",
+      "cost": "135",
+      "bp": "2",
+      "droneImage": "drone_defense_3",
+      "weaponBlueprint": "DRONE_LASER_DEFENSE",
+      "iconImage": "defense",
+      "rarity": "5"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "DEFENSE_3_PLAYER_PLAYER",
+      "type": "DEFENSE",
+      "level": "1",
+      "target": "LASERS",
+      "tip": "tip_defense",
+      "title": "Defender Drone Mk. III††",
+      "short": "Defense III††",
+      "desc": "Defense drone capable of targeting lasers or solid projectiles. Shoots faster than the Mark II.\n\tReload: 150 MS",
+      "power": "2",
+      "cooldown": "150",
+      "dodge": "0",
+      "speed": "9",
+      "cost": "135",
+      "bp": "2",
+      "droneImage": "drone_defense_3",
+      "weaponBlueprint": "DRONE_LASER_DEFENSE",
+      "iconImage": "defense",
+      "rarity": "0"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "DEFENSE_1_ENEMY",
+      "type": "DEFENSE",
+      "level": "1",
+      "target": "LASERS",
+      "tip": "tip_defense",
+      "title": "Defender Drone Mk. I",
+      "short": "Defense I",
+      "desc": "YOU SHOULD NEVER SEE THIS\n\tReload: 600 MS",
+      "power": "3",
+      "cooldown": "600",
+      "dodge": "0",
+      "speed": "5",
+      "cost": "55",
+      "bp": "2",
+      "droneImage": "drone_defense_1",
+      "weaponBlueprint": "DRONE_LASER_DEFENSE",
+      "iconImage": "defense",
+      "rarity": "0"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "DEFENSE_2_ENEMY",
+      "type": "DEFENSE",
+      "level": "1",
+      "target": "LASERS",
+      "tip": "tip_defense",
+      "title": "Defender Drone Mk. II",
+      "short": "Defense II",
+      "desc": "YOU SHOULD NEVER SEE THIS\n\tReload: 400 MS",
+      "power": "4",
+      "cooldown": "400",
+      "dodge": "0",
+      "speed": "7",
+      "cost": "75",
+      "bp": "2",
+      "droneImage": "drone_defense_2",
+      "weaponBlueprint": "DRONE_LASER_DEFENSE",
+      "iconImage": "defense",
+      "rarity": "0"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "DEFENSE_3_ENEMY",
+      "type": "DEFENSE",
+      "level": "1",
+      "target": "LASERS",
+      "tip": "tip_defense",
+      "title": "Defender Drone Mk. III",
+      "short": "Defense III",
+      "desc": "YOU SHOULD NEVER SEE THIS\n\tReload: 150 MS",
+      "power": "5",
+      "cooldown": "150",
+      "dodge": "0",
+      "speed": "9",
+      "cost": "110",
+      "bp": "2",
+      "droneImage": "drone_defense_3",
+      "weaponBlueprint": "DRONE_LASER_DEFENSE",
+      "iconImage": "defense",
+      "rarity": "0"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "GUARDIAN_1_MISSILE",
+      "type": "DEFENSE",
+      "level": "1",
+      "tip": "tip_toggle_defense",
+      "title": "Guardian Drone Mk. I [M]",
+      "short": "Guard I [M]",
+      "desc": "[CURRENT MODE: Anti-Missile] Multipurpose defense drone that can be swapped between anti-missile and anti-drone mode.\n\tReload: 1000 MS",
+      "power": "2",
+      "cooldown": "1000",
+      "dodge": "0",
+      "speed": "3",
+      "cost": "57",
+      "bp": "2",
+      "droneImage": "drone_togguardian_m",
+      "weaponBlueprint": "DRONE_MISSILE_DEFENSE",
+      "iconImage": "defense",
+      "rarity": "2"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "GUARDIAN_1_DRONE",
+      "type": "DEFENSE",
+      "level": "1",
+      "tip": "tip_toggle_defense",
+      "title": "Guardian Drone Mk. I [D]",
+      "short": "Guard I [D]",
+      "desc": "[CURRENT MODE: Anti-Drone] Multipurpose defense drone that can be swapped between anti-missile and anti-drone mode.\n\tReload: 1500 MS",
+      "target": "DRONES",
+      "power": "2",
+      "cooldown": "1500",
+      "dodge": "0",
+      "speed": "3",
+      "cost": "57",
+      "bp": "2",
+      "droneImage": "drone_togguardian_d",
+      "weaponBlueprint": "DRONE_ION_DEFENSE",
+      "iconImage": "defense",
+      "rarity": "0"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "GUARDIAN_2_MISSILE",
+      "type": "DEFENSE",
+      "level": "1",
+      "tip": "tip_toggle_defense",
+      "title": "Guardian Drone Mk. II [M]",
+      "short": "Guard II [M]",
+      "desc": "[CURRENT MODE: Anti-Missile] Multipurpose defense drone that can be swapped between anti-missile and anti-drone mode. Shoots faster than the Mark I.\n\tReload: 600 MS",
+      "power": "3",
+      "cooldown": "600",
+      "dodge": "0",
+      "speed": "5",
+      "cost": "65",
+      "bp": "2",
+      "droneImage": "drone_togguardian2_m",
+      "weaponBlueprint": "DRONE_MISSILE_DEFENSE",
+      "iconImage": "defense",
+      "rarity": "3"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "GUARDIAN_2_DRONE",
+      "type": "DEFENSE",
+      "level": "1",
+      "tip": "tip_toggle_defense",
+      "title": "Guardian Drone Mk. II [D]",
+      "short": "Guard II [D]",
+      "desc": "[CURRENT MODE: Anti-Drone] Multipurpose defense drone that can be swapped between anti-missile and anti-drone mode. Shoots faster than the Mark I.\n\tReload: 600 MS",
+      "target": "DRONES",
+      "power": "3",
+      "cooldown": "600",
+      "dodge": "0",
+      "speed": "5",
+      "cost": "65",
+      "bp": "2",
+      "droneImage": "drone_togguardian2_d",
+      "weaponBlueprint": "DRONE_ION_DEFENSE",
+      "iconImage": "defense",
+      "rarity": "0"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "COMBAT_1_LASER",
+      "type": "COMBAT",
+      "tip": "tip_toggle_combat",
+      "title": "Combat Drone Mk. I [Laser]",
+      "short": "Combat I [L]",
+      "desc": "[CURRENT MODE: Laser] Basic Combat toggle Drone that can switch between a Laser and Beam weapon.",
+      "power": "2",
+      "cooldown": "1000",
+      "dodge": "0",
+      "speed": "15",
+      "cost": "60",
+      "bp": "3",
+      "droneImage": "drone_combat_l",
+      "weaponBlueprint": "DRONE_LASER_COMBAT",
+      "rarity": "1",
+      "iconImage": "combat"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "COMBAT_1_BEAM",
+      "type": "COMBAT",
+      "tip": "tip_toggle_combat",
+      "title": "Combat Drone Mk. I [Beam]",
+      "short": "Combat I [B]",
+      "desc": "[CURRENT MODE: Beam] Basic Combat toggle Drone that can switch between a Laser and Beam weapon.",
+      "power": "2",
+      "cooldown": "1000",
+      "dodge": "0",
+      "speed": "12",
+      "cost": "60",
+      "bp": "3",
+      "droneImage": "drone_combat_b",
+      "weaponBlueprint": "DRONE_BEAM_COMBAT",
+      "rarity": "0",
+      "iconImage": "combat"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "COMBAT_2_LASER",
+      "type": "COMBAT",
+      "tip": "tip_toggle_combat",
+      "title": "Combat Drone Mk. II [Laser]",
+      "short": "Combat II [L]",
+      "desc": "[CURRENT MODE: Laser] Basic Combat toggle Drone that can switch between a Laser and Beam weapon. Moves faster than the MK I.",
+      "power": "3",
+      "cooldown": "1000",
+      "dodge": "0",
+      "speed": "30",
+      "cost": "85",
+      "bp": "3",
+      "droneImage": "drone_combat2_l",
+      "weaponBlueprint": "DRONE_LASER_COMBAT",
+      "rarity": "4",
+      "iconImage": "combat"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "COMBAT_2_BEAM",
+      "type": "COMBAT",
+      "tip": "tip_toggle_combat",
+      "title": "Combat Drone Mk. II [Beam]",
+      "short": "Combat II [B]",
+      "desc": "[CURRENT MODE: Beam] Basic Combat toggle Drone that can switch between a Laser and Beam weapon. Moves faster than the MK I.",
+      "power": "3",
+      "cooldown": "1000",
+      "dodge": "0",
+      "speed": "27",
+      "cost": "85",
+      "bp": "3",
+      "droneImage": "drone_combat2_b",
+      "weaponBlueprint": "DRONE_BEAM_COMBAT",
+      "rarity": "0",
+      "iconImage": "combat"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "COMBAT_CONSERVATIVE_LASER",
+      "type": "COMBAT",
+      "tip": "tip_drone_conservative",
+      "title": "Conservative Drone [Laser]",
+      "short": "Cons. [LASER]",
+      "desc": "[CURRENT MODE: Laser] Slow moving toggle Drone that can switch between a Laser and Beam weapon and uses no power. Cannot be turned off but functions even if Drone Control is disabled.",
+      "power": "0",
+      "cooldown": "1000",
+      "dodge": "0",
+      "speed": "10",
+      "cost": "55",
+      "bp": "3",
+      "droneImage": "drone_conservative_l",
+      "weaponBlueprint": "DRONE_LASER_COMBAT",
+      "rarity": "3",
+      "iconImage": "combat"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "COMBAT_CONSERVATIVE_BEAM",
+      "type": "COMBAT",
+      "tip": "tip_drone_conservative",
+      "title": "Conservative Drone [Beam]",
+      "short": "Cons. [BEAM]",
+      "desc": "[CURRENT MODE: Beam] Slow moving toggle Drone that can switch between a Laser and Beam weapon and uses no power. Cannot be turned off but functions even if Drone Control is disabled.",
+      "power": "0",
+      "cooldown": "1000",
+      "dodge": "0",
+      "speed": "8",
+      "cost": "55",
+      "bp": "3",
+      "droneImage": "drone_conservative_b",
+      "weaponBlueprint": "DRONE_BEAM_COMBAT",
+      "rarity": "0",
+      "iconImage": "combat"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "ASSAULT_PARTICLE",
+      "type": "COMBAT",
+      "tip": "tip_toggle_combat",
+      "title": "Assault Drone [Particle]",
+      "short": "Assault [PART]",
+      "desc": "[CURRENT MODE: Particle] Diverse combat drone which can switch between Particle and Pierce modes for a range of applications in combat.",
+      "power": "2",
+      "cooldown": "1000",
+      "dodge": "0",
+      "speed": "12",
+      "cost": "65",
+      "bp": "3",
+      "droneImage": "drone_particle_t",
+      "weaponBlueprint": "DRONE_PARTICLE_COMBAT",
+      "rarity": "3",
+      "iconImage": "combat"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "ASSAULT_PIERCE",
+      "type": "COMBAT",
+      "tip": "tip_toggle_combat",
+      "title": "Assault Drone [Pierce]",
+      "short": "Assault [PRC]",
+      "desc": "[CURRENT MODE: Pierce] Diverse combat drone which can switch between Particle and Pierce modes for a range of applications in combat.",
+      "power": "2",
+      "cooldown": "1000",
+      "dodge": "0",
+      "speed": "12",
+      "cost": "65",
+      "bp": "3",
+      "droneImage": "drone_particle_p",
+      "weaponBlueprint": "DRONE_PIERCE_COMBAT",
+      "rarity": "0",
+      "iconImage": "combat"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "HELLRAISER_FIRE",
+      "type": "COMBAT",
+      "tip": "tip_toggle_combat",
+      "title": "Hellraiser [Fire]",
+      "short": "Hell [F]",
+      "desc": "[CURRENT MODE: Fire] Powerful Beam toggle Drone that can switch between Fire and Anti-Hull modes.",
+      "power": "3",
+      "cooldown": "1000",
+      "dodge": "0",
+      "speed": "12",
+      "cost": "60",
+      "bp": "3",
+      "droneImage": "drone_hellraiser_f",
+      "weaponBlueprint": "DRONE_FIREBEAM_COMBAT",
+      "rarity": "4",
+      "iconImage": "combat"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "HELLRAISER_HULL",
+      "type": "COMBAT",
+      "tip": "tip_toggle_combat",
+      "title": "Hellraiser [Hull]",
+      "short": "Hell [H]",
+      "desc": "[CURRENT MODE: Anti-Hull] Powerful Beam toggle Drone that can switch between Fire and Anti-Hull modes.",
+      "power": "3",
+      "cooldown": "1000",
+      "dodge": "0",
+      "speed": "13",
+      "cost": "60",
+      "bp": "3",
+      "droneImage": "drone_hellraiser_h",
+      "weaponBlueprint": "DRONE_HULLBEAM_COMBAT",
+      "rarity": "0",
+      "iconImage": "combat"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "HELLRAISER_FIRE_PLAYER",
+      "type": "COMBAT",
+      "tip": "tip_toggle_combat",
+      "title": "Hellraiser† [Fire]",
+      "short": "Hell† [F]",
+      "desc": "[CURRENT MODE: Fire] Powerful Beam toggle Drone that can switch between Fire and Anti-Hull modes.",
+      "power": "2",
+      "cooldown": "1000",
+      "dodge": "0",
+      "speed": "12",
+      "cost": "60",
+      "bp": "3",
+      "droneImage": "drone_hellraiser_f",
+      "weaponBlueprint": "DRONE_FIREBEAM_COMBAT",
+      "rarity": "0",
+      "iconImage": "combat"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "HELLRAISER_HULL_PLAYER",
+      "type": "COMBAT",
+      "tip": "tip_toggle_combat",
+      "title": "Hellraiser† [Hull]",
+      "short": "Hell† [H]",
+      "desc": "[CURRENT MODE: Anti-Hull] Powerful Beam toggle Drone that can switch between Fire and Anti-Hull modes.",
+      "power": "2",
+      "cooldown": "1000",
+      "dodge": "0",
+      "speed": "13",
+      "cost": "60",
+      "bp": "3",
+      "droneImage": "drone_hellraiser_h",
+      "weaponBlueprint": "DRONE_HULLBEAM_COMBAT",
+      "rarity": "0",
+      "iconImage": "combat"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "PEST_RAD",
+      "type": "COMBAT",
+      "tip": "tip_toggle_combat",
+      "title": "Pestilence Drone [RAD]",
+      "short": "Pest [R]",
+      "desc": "[CURRENT MODE: Radiation] Specialized toggle Drone excellent for pestering enemy ships. Toggles between RAD or debuff mode. RAD mode does decent bio damage and creates breaches, while debuff mode applies stun and reduces health for 10s.",
+      "power": "1",
+      "cooldown": "1000",
+      "dodge": "0",
+      "speed": "25",
+      "cost": "45",
+      "bp": "3",
+      "droneImage": "drone_pest_b",
+      "weaponBlueprint": "DRONE_BREACH_COMBAT",
+      "rarity": "4",
+      "iconImage": "combat"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "PEST_DEBUFF",
+      "type": "COMBAT",
+      "tip": "tip_toggle_combat",
+      "title": "Pestilence Drone [Debuff]",
+      "short": "Pest [D]",
+      "desc": "[CURRENT MODE: Debuff] Specialized toggle Drone excellent for pestering enemy ships. Toggles between RAD or debuff mode. RAD mode does decent bio damage and creates breaches, while debuff mode applies stun and reduces health for 10s.",
+      "power": "1",
+      "cooldown": "1000",
+      "dodge": "0",
+      "speed": "25",
+      "cost": "45",
+      "bp": "3",
+      "droneImage": "drone_pest_s",
+      "weaponBlueprint": "DRONE_DEBUFF_COMBAT",
+      "rarity": "0",
+      "iconImage": "combat"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "PEST_RAD_ENEMY",
+      "type": "COMBAT",
+      "tip": "tip_toggle_combat",
+      "title": "Pestilence Drone [RAD]",
+      "short": "Pest [R]",
+      "desc": "YOU SHOULD NEVER SEE THIS",
+      "power": "1",
+      "cooldown": "1000",
+      "dodge": "0",
+      "speed": "15",
+      "cost": "45",
+      "bp": "3",
+      "droneImage": "drone_pest_b",
+      "weaponBlueprint": "DRONE_BREACH_COMBAT",
+      "rarity": "0",
+      "iconImage": "combat"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "PEST_DEBUFF_ENEMY",
+      "type": "COMBAT",
+      "tip": "tip_toggle_combat",
+      "title": "Pestilence Drone [Debuff]",
+      "short": "Pest [D]",
+      "desc": "YOU SHOULD NEVER SEE THIS",
+      "power": "1",
+      "cooldown": "1000",
+      "dodge": "0",
+      "speed": "15",
+      "cost": "45",
+      "bp": "3",
+      "droneImage": "drone_pest_s",
+      "weaponBlueprint": "DRONE_DEBUFF_COMBAT",
+      "rarity": "0",
+      "iconImage": "combat"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "ION_1_AMP2",
+      "type": "COMBAT",
+      "tip": "tip_amp_combat",
+      "title": "Amp Ion",
+      "short": "Ion [2]",
+      "desc": "[CURRENT POWER: 2] A unique Amp drone that increases its ion damage as its power increases as well. More power also decreases movement speed.",
+      "power": "2",
+      "cooldown": "1000",
+      "dodge": "0",
+      "speed": "10",
+      "cost": "50",
+      "bp": "3",
+      "droneImage": "drone_ion1_a1",
+      "weaponBlueprint": "DRONE_ION_AMP_1",
+      "rarity": "3",
+      "iconImage": "combat"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "ION_1_AMP2_ENEMY",
+      "type": "COMBAT",
+      "tip": "tip_amp_combat",
+      "title": "Amp Ion",
+      "short": "Ion [2]",
+      "desc": "YOU SHOULD NEVER SEE THIS",
+      "power": "3",
+      "cooldown": "1000",
+      "dodge": "0",
+      "speed": "7",
+      "cost": "50",
+      "bp": "3",
+      "droneImage": "drone_ion1_a1",
+      "weaponBlueprint": "DRONE_ION_AMP_1",
+      "rarity": "0",
+      "iconImage": "combat"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "ION_1_AMP3",
+      "type": "COMBAT",
+      "tip": "tip_amp_combat",
+      "title": "Amp Ion",
+      "short": "Ion [3]",
+      "desc": "[CURRENT POWER: 3] A unique Amp drone that increases its ion damage as its power increases as well. More power also decreases movement speed.",
+      "power": "3",
+      "cooldown": "1000",
+      "dodge": "0",
+      "speed": "8",
+      "cost": "50",
+      "bp": "3",
+      "droneImage": "drone_ion1_a2",
+      "weaponBlueprint": "DRONE_ION_AMP_2",
+      "rarity": "0",
+      "iconImage": "combat"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "ION_1_AMP3_ENEMY",
+      "type": "COMBAT",
+      "tip": "tip_amp_combat",
+      "title": "Amp Ion",
+      "short": "Ion [3]",
+      "desc": "YOU SHOULD NEVER SEE THIS",
+      "power": "4",
+      "cooldown": "1000",
+      "dodge": "0",
+      "speed": "7",
+      "cost": "50",
+      "bp": "3",
+      "droneImage": "drone_ion1_a2",
+      "weaponBlueprint": "DRONE_ION_AMP_2",
+      "rarity": "0",
+      "iconImage": "combat"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "ION_1_AMP4",
+      "type": "COMBAT",
+      "tip": "tip_amp_combat",
+      "title": "Amp Ion",
+      "short": "Ion [4]",
+      "desc": "[CURRENT POWER: 4] A unique Amp drone that increases its ion damage as its power increases as well. More power also decreases movement speed.",
+      "power": "4",
+      "cooldown": "1000",
+      "dodge": "0",
+      "speed": "5",
+      "cost": "50",
+      "bp": "3",
+      "droneImage": "drone_ion1_a3",
+      "weaponBlueprint": "DRONE_ION_AMP_3",
+      "rarity": "0",
+      "iconImage": "combat"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "ENERGY_1_AMP2",
+      "type": "COMBAT",
+      "tip": "tip_amp_combat",
+      "title": "Amp Energy",
+      "short": "Energy [2]",
+      "desc": "[CURRENT POWER: 2] Standard Amp drone that fires energy projectiles. More power increases damage and decreases movement speed.",
+      "power": "2",
+      "cooldown": "1000",
+      "dodge": "0",
+      "speed": "8",
+      "cost": "60",
+      "bp": "3",
+      "droneImage": "drone_energy1_a1",
+      "weaponBlueprint": "DRONE_ENERGY_AMP_1",
+      "rarity": "4",
+      "iconImage": "combat"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "ENERGY_1_AMP2_ENEMY",
+      "type": "COMBAT",
+      "tip": "tip_amp_combat",
+      "title": "Amp Energy",
+      "short": "Energy [2]",
+      "desc": "YOU SHOULD NEVER SEE THIS",
+      "power": "3",
+      "cooldown": "1000",
+      "dodge": "0",
+      "speed": "8",
+      "cost": "60",
+      "bp": "3",
+      "droneImage": "drone_energy1_a1",
+      "weaponBlueprint": "DRONE_ENERGY_AMP_1",
+      "rarity": "0",
+      "iconImage": "combat"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "ENERGY_1_AMP3",
+      "type": "COMBAT",
+      "tip": "tip_amp_combat",
+      "title": "Amp Energy",
+      "short": "Energy [3]",
+      "desc": "[CURRENT POWER: 3] Standard Amp drone that fires energy projectiles. More power increases damage and decreases movement speed.",
+      "power": "3",
+      "cooldown": "1000",
+      "dodge": "0",
+      "speed": "6",
+      "cost": "60",
+      "bp": "3",
+      "droneImage": "drone_energy1_a2",
+      "weaponBlueprint": "DRONE_ENERGY_AMP_2",
+      "rarity": "0",
+      "iconImage": "combat"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "ENERGY_1_AMP3_ENEMY",
+      "type": "COMBAT",
+      "tip": "tip_amp_combat",
+      "title": "Amp Energy",
+      "short": "Energy [3]",
+      "desc": "YOU SHOULD NEVER SEE THIS",
+      "power": "4",
+      "cooldown": "1000",
+      "dodge": "0",
+      "speed": "6",
+      "cost": "60",
+      "bp": "3",
+      "droneImage": "drone_energy1_a2",
+      "weaponBlueprint": "DRONE_ENERGY_AMP_2",
+      "rarity": "0",
+      "iconImage": "combat"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "ENERGY_1_AMP4",
+      "type": "COMBAT",
+      "tip": "tip_amp_combat",
+      "title": "Amp Energy",
+      "short": "Energy [4]",
+      "desc": "[CURRENT POWER: 4] Standard Amp drone that fires energy projectiles. More power increases damage and decreases movement speed.",
+      "power": "4",
+      "cooldown": "1000",
+      "dodge": "0",
+      "speed": "4",
+      "cost": "60",
+      "bp": "3",
+      "droneImage": "drone_energy1_a3",
+      "weaponBlueprint": "DRONE_ENERGY_AMP_3",
+      "rarity": "0",
+      "iconImage": "combat"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "FOCUS_1_AMP2",
+      "type": "COMBAT",
+      "tip": "tip_amp_combat",
+      "title": "Amp Pinpoint",
+      "short": "Pinpoint [2]",
+      "desc": "[CURRENT POWER: 2] A powerful Amp Pinpoint drone that increases in damage with the more power it uses.",
+      "power": "2",
+      "cooldown": "1000",
+      "dodge": "0",
+      "speed": "10",
+      "cost": "55",
+      "bp": "3",
+      "droneImage": "drone_focus_a1",
+      "weaponBlueprint": "DRONE_FOCUS_AMP_1",
+      "rarity": "3",
+      "iconImage": "combat"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "FOCUS_1_AMP3",
+      "type": "COMBAT",
+      "tip": "tip_amp_combat",
+      "title": "Amp Pinpoint",
+      "short": "Pinpoint [3]",
+      "desc": "[CURRENT POWER: 3] A powerful Amp Pinpoint drone that increases in damage with the more power it uses.",
+      "power": "3",
+      "cooldown": "1000",
+      "dodge": "0",
+      "speed": "8",
+      "cost": "55",
+      "bp": "3",
+      "droneImage": "drone_focus_a2",
+      "weaponBlueprint": "DRONE_FOCUS_AMP_2",
+      "rarity": "0",
+      "iconImage": "combat"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "FOCUS_1_AMP4",
+      "type": "COMBAT",
+      "tip": "tip_amp_combat",
+      "title": "Amp Pinpoint",
+      "short": "Pinpoint [4]",
+      "desc": "[CURRENT POWER: 4] A powerful Amp Pinpoint drone that increases in damage with the more power it uses.",
+      "power": "4",
+      "cooldown": "1000",
+      "dodge": "0",
+      "speed": "6",
+      "cost": "55",
+      "bp": "3",
+      "droneImage": "drone_focus_a3",
+      "weaponBlueprint": "DRONE_FOCUS_AMP_3",
+      "rarity": "0",
+      "iconImage": "combat"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "FLAK_1_AMP2",
+      "type": "COMBAT",
+      "tip": "tip_amp_combat",
+      "title": "Amp Flak",
+      "short": "Flak [2]",
+      "desc": "[CURRENT POWER: 2] Unlike your standard drone, this specialized amp drone can be configured to launch more than one projectile at the cost of more power.",
+      "power": "2",
+      "cooldown": "1000",
+      "dodge": "0",
+      "speed": "15",
+      "cost": "50",
+      "bp": "3",
+      "droneImage": "drone_flak_a1",
+      "weaponBlueprint": "DRONE_FLAK_AMP_1",
+      "rarity": "3",
+      "iconImage": "combat"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "FLAK_1_AMP3",
+      "type": "COMBAT",
+      "tip": "tip_amp_combat",
+      "title": "Amp Flak",
+      "short": "Flak [3]",
+      "desc": "[CURRENT POWER: 3] Unlike your standard drone, this specialized amp drone can be configured to launch more than one projectile at the cost of more power.",
+      "power": "3",
+      "cooldown": "1000",
+      "dodge": "0",
+      "speed": "10",
+      "cost": "50",
+      "bp": "3",
+      "droneImage": "drone_flak_a2",
+      "weaponBlueprint": "DRONE_FLAK_AMP_2",
+      "rarity": "0",
+      "iconImage": "combat"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "FLAK_1_AMP4",
+      "type": "COMBAT",
+      "tip": "tip_amp_combat",
+      "title": "Amp Flak",
+      "short": "Flak [4]",
+      "desc": "[CURRENT POWER: 4] Unlike your standard drone, this specialized amp drone can be configured to launch more than one projectile at the cost of more power.",
+      "power": "4",
+      "cooldown": "1000",
+      "dodge": "0",
+      "speed": "7",
+      "cost": "50",
+      "bp": "3",
+      "droneImage": "drone_flak_a3",
+      "weaponBlueprint": "DRONE_FLAK_AMP_3",
+      "rarity": "0",
+      "iconImage": "combat"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "REPAIR",
+      "type": "REPAIR",
+      "tip": "tip_crew",
+      "title": "Maintenance Drone",
+      "short": "Maintenance",
+      "desc": "Controllable drone that repairs broken systems and puts out fires. Has low health but repairs quickly.\n    \n-50 HP, 2.5x repair speed\n-1.2x movement speed",
+      "power": "1",
+      "cost": "40",
+      "bp": "2",
+      "rarity": "1",
+      "iconImage": "repair"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "RECON_DEFENSE",
+      "type": "BATTLE",
+      "locked": "1",
+      "tip": "tip_toggle_crew",
+      "title": "Recon Drone [Defend]",
+      "short": "Recon [DEF]",
+      "desc": "[CURRENT MODE: Defensive] Controllable small airborne recon drone that explodes on death. Can be switched between defense and boarding modes. Takes 70% damage in boarding mode, and 30% in defensive.\n    \n-50 HP, 0.3x combat damage taken\n-2.5x movement speed, rapidly destroys locked doors\n-Reveals lifeforms and adjacent rooms\n-Explodes on death, inflicting 30 crew damage, a 3 seconds stun, and 1 system damage. 30% chance to start fires.",
+      "power": "0",
+      "cost": "25",
+      "bp": "3",
+      "rarity": "0",
+      "iconImage": "battle"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "RECON_BOARDER",
+      "type": "BOARDER",
+      "locked": "1",
+      "tip": "tip_toggle_crew",
+      "title": "Recon Drone [Boarding]",
+      "short": "Recon [ATK]",
+      "desc": "[CURRENT MODE: Boarding] Controllable small airborne recon drone that explodes on death. Can be switched between defense and boarding modes. Takes 70% damage in boarding mode, and 30% in defensive.\n    \n-50 HP, 0.7x combat damage taken\n-2.5x movement speed, rapidly destroys locked doors\n-Reveals lifeforms and adjacent rooms\n-Explodes on death, inflicting 30 crew damage, a 3 seconds stun, and 1 system damage. 30% chance to start fires.",
+      "power": "0",
+      "cost": "25",
+      "speed": "15",
+      "bp": "3",
+      "rarity": "3",
+      "iconImage": "battle"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "BATTLETOG_DEFEND",
+      "type": "BATTLE",
+      "locked": "1",
+      "tip": "tip_toggle_crew",
+      "title": "Battle Drone [Anti-Pers]",
+      "short": "Battle [DEF]",
+      "desc": "[CURRENT MODE: Anti-Personnel] Manually controlled personnel drone that can be toggled to act as either a Defensive Anti-Personnel or Boarding drone.\n    \n-175 HP, 1.1x combat damage\n-0.8x movement speed",
+      "power": "2",
+      "cost": "50",
+      "bp": "3",
+      "rarity": "2",
+      "iconImage": "battle"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "BATTLETOG_BOARDER",
+      "type": "BOARDER",
+      "tip": "tip_toggle_crew",
+      "locked": "1",
+      "title": "Battle Drone [Boarding]",
+      "short": "Battle [ATK]",
+      "desc": "[CURRENT MODE: Boarding] Manually controlled personnel drone that can be toggled to act as either a Defensive Anti-Personnel or Boarding drone.\n    \n-175 HP, 1.1x combat damage\n-0.8x movement speed",
+      "power": "2",
+      "speed": "18",
+      "cost": "50",
+      "rarity": "0",
+      "iconImage": "boarder"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "BATTLETOG2_DEFEND",
+      "type": "BATTLE",
+      "locked": "1",
+      "tip": "tip_toggle_crew",
+      "title": "Battle Drone Mk. II [Anti-Pers]",
+      "short": "Battle II [DEF]",
+      "desc": "[CURRENT MODE: Anti-Personnel] Manually controlled personnel drone that can be toggled to act as either a Defensive Anti-Personnel or Boarding drone. Has more health and does more damage than the MK I.\n    \n-200 HP, 1.5x combat damage\n-0.5x movement speed",
+      "power": "3",
+      "cost": "70",
+      "bp": "3",
+      "rarity": "3",
+      "iconImage": "battle"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "BATTLETOG2_BOARDER",
+      "type": "BOARDER",
+      "tip": "tip_toggle_crew",
+      "locked": "1",
+      "title": "Battle Drone Mk. II [Boarding]",
+      "short": "Battle II [ATK]",
+      "desc": "[CURRENT MODE: Boarding] Manually controlled personnel drone that can be toggled to act as either a Defensive Anti-Personnel or Boarding drone. Has more health and does more damage than the MK I.\n    \n-200 HP, 1.5x combat damage\n-0.5x movement speed",
+      "power": "3",
+      "speed": "10",
+      "cost": "70",
+      "rarity": "0",
+      "iconImage": "boarder"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "BATTLETOG2_BOARDER_SYLVAN",
+      "type": "BOARDER",
+      "tip": "tip_toggle_crew",
+      "locked": "1",
+      "title": "Battle Drone Mk. II [Boarding]",
+      "short": "Battle II [ATK]",
+      "desc": "[CURRENT MODE: Boarding] Manually controlled personnel drone that can be toggled to act as either a Defensive Anti-Personnel or Boarding drone. Has more health and does more damage than the MK I.\n    \n-200 HP, 1.5x combat damage\n-0.5x movement speed",
+      "power": "1",
+      "speed": "10",
+      "cost": "70",
+      "rarity": "0",
+      "iconImage": "boarder"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "DOCTOR_DEFENSE",
+      "type": "BATTLE",
+      "locked": "1",
+      "tip": "tip_toggle_crew",
+      "title": "Dr. Drone [Defend]",
+      "short": "Doctor [DEF]",
+      "desc": "[CURRENT MODE: Defensive] Manually controlled support drone that heals friendly crew in the current room passively. Can be toggled between defensive or boarding modes.\n    \n-100 HP, 0.9x movement speed\n-Heals nearby allies for 7hp/s",
+      "power": "2",
+      "cost": "50",
+      "bp": "3",
+      "rarity": "3",
+      "iconImage": "battle"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "DOCTOR_BOARDER",
+      "type": "BOARDER",
+      "locked": "1",
+      "tip": "tip_toggle_crew",
+      "title": "Dr. Drone [Boarding]",
+      "short": "Doctor [ATK]",
+      "desc": "[CURRENT MODE: Boarding] Manually controlled support drone that heals friendly crew in the current room passively. Can be toggled between defensive or boarding modes.\n    \n-100 HP, 0.9x movement speed\n-Heals nearby allies for 7hp/s",
+      "power": "2",
+      "cost": "50",
+      "speed": "15",
+      "bp": "3",
+      "rarity": "0",
+      "iconImage": "battle"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "MANNING",
+      "type": "BATTLE",
+      "locked": "1",
+      "tip": "tip_crew",
+      "title": "Manager Drone",
+      "short": "Manager",
+      "desc": "Controllable utility drone that can interface with systems.\n    \n-100 HP, 1.2x movement speed\n-Provides power to occupied system\n-Can man systems at lvl2 skill level",
+      "power": "0",
+      "cost": "45",
+      "bp": "3",
+      "rarity": "2",
+      "iconImage": "battle"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "MANNING_ENEMY",
+      "type": "BATTLE",
+      "locked": "1",
+      "tip": "tip_crew",
+      "title": "Manager Drone",
+      "short": "Manager",
+      "desc": "YOU SHOULD NEVER SEE THIS",
+      "power": "1",
+      "cost": "45",
+      "bp": "3",
+      "rarity": "0",
+      "iconImage": "battle"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "AMPHI_COMBAT",
+      "type": "COMBAT",
+      "tip": "tip_toggle_amphi",
+      "title": "Amphi-Drone [Combat]",
+      "short": "Amphi [C]",
+      "desc": "[CURRENT MODE: Combat] A special toggle drone that can switch between Combat and Defense modes.",
+      "power": "2",
+      "cooldown": "1000",
+      "dodge": "0",
+      "speed": "14",
+      "cost": "60",
+      "bp": "3",
+      "droneImage": "drone_amphi_c",
+      "weaponBlueprint": "DRONE_LASER",
+      "rarity": "0",
+      "iconImage": "combat"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "AMPHI_DEFENSE",
+      "type": "DEFENSE",
+      "level": "1",
+      "tip": "tip_toggle_amphi",
+      "title": "Amphi-Drone [Defense]",
+      "short": "Amphi [D]",
+      "desc": "[CURRENT MODE: Defense] A special toggle drone that can switch between Combat and Defense modes.\n\tReload: 1100 MS",
+      "power": "2",
+      "cooldown": "1100",
+      "dodge": "0",
+      "speed": "7",
+      "cost": "60",
+      "bp": "2",
+      "droneImage": "drone_amphi_d",
+      "weaponBlueprint": "DRONE_LASER_DEFENSE",
+      "iconImage": "defense",
+      "rarity": "3"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "REPAIR_BOARDER",
+      "type": "BOARDER",
+      "locked": "1",
+      "tip": "tip_toggle_crew",
+      "title": "Repair",
+      "short": "Drone",
+      "desc": "YOU SHOULD NEVER SEE THIS",
+      "power": "1",
+      "cost": "25",
+      "speed": "15",
+      "bp": "3",
+      "rarity": "0",
+      "iconImage": "battle"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "SHIP_REPAIR",
+      "type": "SHIP_REPAIR",
+      "tip": "tip_drone_hullrepair",
+      "title": "Hull Repair",
+      "short": "Hull Repair",
+      "desc": "Automatically repairs 3-5 damage to your hull per deployment.",
+      "power": "2",
+      "cooldown": "1000",
+      "dodge": "0",
+      "speed": "20",
+      "cost": "95",
+      "bp": "5",
+      "droneImage": "drone_shiprepair",
+      "image": "weapons/laser_light2_strip4.png",
+      "rarity": "4",
+      "iconImage": "Srepair"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "SHIP_REPAIR_ENEMY",
+      "type": "SHIP_REPAIR",
+      "tip": "tip_drone_hullrepair",
+      "title": "Hull Repair",
+      "short": "Hull Repair",
+      "desc": "YOU SHOULD NEVER SEE THIS",
+      "power": "3",
+      "cooldown": "1000",
+      "dodge": "0",
+      "speed": "20",
+      "cost": "95",
+      "bp": "5",
+      "droneImage": "drone_shiprepair",
+      "image": "weapons/laser_light2_strip4.png",
+      "rarity": "0",
+      "iconImage": "Srepair"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "DRONE_SHIELD",
+      "type": "SHIELD",
+      "level": "1",
+      "tip": "tip_defense",
+      "title": "Energized Overcharger",
+      "short": "Overcharger",
+      "desc": "A specialized Defense Drone which can charge additional Energy Shield points. Cannot exceed the maximum of 5 unless a stronger Energy Shield augment is present.",
+      "power": "1",
+      "cooldown": "0",
+      "dodge": "0",
+      "speed": "5",
+      "cost": "50",
+      "bp": "2",
+      "droneImage": "drone_shield",
+      "rarity": "4",
+      "iconImage": "shield"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "DRONE_SHIELD_POWERLESS",
+      "type": "SHIELD",
+      "level": "1",
+      "tip": "tip_defense",
+      "title": "Overconserver",
+      "short": "Overcons.",
+      "desc": "A specialized Defense Drone which can charge additional Energy Shield points.  Cannot exceed the maximum of 5 unless a stronger Energy Shield augment is present. Modified to not use any power.",
+      "power": "0",
+      "cooldown": "0",
+      "dodge": "0",
+      "speed": "2",
+      "cost": "70",
+      "bp": "2",
+      "droneImage": "drone_shield_cons",
+      "rarity": "0",
+      "iconImage": "shield"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "CONSTRUCTOR",
+      "type": "REPAIR",
+      "locked": "1",
+      "tip": "tip_crew",
+      "title": "Constructor Drone",
+      "short": "Constructor",
+      "desc": "A controllable and very agile drone which repairs systems at a decent speed, and shares their repair proficiency with nearby allies. More susceptible to fires than other crew drones.\n    \n-65 HP, 1.5x repair speed\n-3x movement speed\n-Allies in the same room repair 2.5x faster\n-Takes regular fire damage",
+      "power": "1",
+      "cost": "50",
+      "bp": "3",
+      "rarity": "0",
+      "iconImage": "battle"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "PRODUCER",
+      "type": "REPAIR",
+      "locked": "1",
+      "tip": "tip_crew",
+      "title": "Producer Drone",
+      "short": "Producer",
+      "desc": "A controllable but lethargic drone that provides various support buffs and can man systems. More susceptible to fires than other crew drones.\n    \n-115 HP, 0.5x movement speed\n-Allies in the same room repair 2.5x faster\n-Can man systems at lvl2 skill level\n-Refills oxygen, takes regular fire damage",
+      "power": "0",
+      "cost": "55",
+      "bp": "3",
+      "rarity": "0",
+      "iconImage": "battle"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "GRAZIER_BATTLE",
+      "type": "BATTLE",
+      "locked": "1",
+      "tip": "tip_toggle_crew",
+      "title": "Grazier Drone [Anti-Pers]",
+      "short": "Grazier [DEF]",
+      "desc": "[CURRENT MODE: Anti-Personnel] A controllable toggle drone with Anti-personnel and Boarding modes. Disperses two kinds of spores which weaken enemy crew and buff allied crew. More susceptible to fires than other crew drones.\n    \n-125 HP, 1.2x combat damage\n-0.6x movement speed\n-Friendly crew in the same room gain an additional 20% Max Health, repair speed, and heal speed\n-Enemy crew in the same room lose 15% of their Max Health and move 25% slower\n-Takes regular fire damage",
+      "power": "2",
+      "cost": "65",
+      "bp": "3",
+      "rarity": "0",
+      "iconImage": "battle"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "GRAZIER_BOARDER",
+      "type": "BOARDER",
+      "tip": "tip_toggle_crew",
+      "locked": "1",
+      "title": "Grazier Drone [Boarding]",
+      "short": "Grazier [ATK]",
+      "desc": "[CURRENT MODE: Boarding] A controllable toggle drone with Anti-personnel and Boarding modes. Disperses two kinds of spores which weaken enemy crew and buff allied crew. More susceptible to fires than other crew drones.\n    \n-125 HP, 1.2x combat damage\n-0.6x movement speed\n-Friendly crew in the same room gain an additional 20% Max Health, repair speed, and heal speed\n-Enemy crew in the same room lose 15% of their Max Health and move 25% slower\n-Takes regular fire damage",
+      "power": "2",
+      "speed": "18",
+      "cost": "65",
+      "rarity": "0",
+      "iconImage": "boarder"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "OMNI_DRONE",
+      "type": "DEFENSE",
+      "target": "ALL",
+      "tip": "tip_defense",
+      "title": "OmniDrone",
+      "short": "OmniDrone",
+      "desc": "The Arcadian OmniDrone - for when shields aren't enough. Arcadia, innovating tomorrow today.\n\tReload: 900 MS",
+      "power": "3",
+      "cooldown": "900",
+      "dodge": "0",
+      "speed": "15",
+      "cost": "90",
+      "bp": "2",
+      "droneImage": "drone_omni",
+      "weaponBlueprint": "DRONE_OMNI_LASER",
+      "iconImage": "defense",
+      "rarity": "0"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "BUTLER_DEFENSE",
+      "type": "BATTLE",
+      "locked": "1",
+      "tip": "tip_crew",
+      "title": "Butler Drone [Anti-Pers]",
+      "short": "Butler [DEF]",
+      "desc": "[CURRENT MODE: Anti-Personnel] The Slugs rebuilt an Anti-Personnel drone to serve their own \"special\" purposes while still keeping its combat functionality.\n    \n-Periodic Ability: Blasts loud music, stunning hostiles for 8 seconds\n-150 HP, 0.9x combat damage\n-0.7x movement speed",
+      "power": "2",
+      "cost": "50",
+      "bp": "3",
+      "rarity": "0",
+      "iconImage": "battle"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "BUTLER_BOARDER",
+      "type": "BOARDER",
+      "locked": "1",
+      "tip": "tip_crew",
+      "title": "Butler Drone [Boarding]",
+      "short": "Butler [ATK]",
+      "desc": "[CURRENT MODE: Boarding] The Slugs rebuilt an Anti-Personnel drone to serve their own \"special\" purposes while still keeping its combat functionality.\n    \n-Periodic Ability: Blasts loud music, stunning hostiles for 8 seconds\n-150 HP, 0.9x combat damage\n-0.7x movement speed",
+      "power": "2",
+      "speed": "15",
+      "cost": "50",
+      "bp": "3",
+      "rarity": "0",
+      "iconImage": "battle"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "DIVREPAIR",
+      "type": "REPAIR",
+      "tip": "tip_crew",
+      "title": "Divine Repair",
+      "short": "Divine Rep.",
+      "desc": "The idol of the self-proclaimed 'True Prophet'.\n    \n-65 HP, 3x repair speed\n-1.75x movement speed",
+      "power": "0",
+      "cost": "50",
+      "bp": "2",
+      "rarity": "0",
+      "iconImage": "repair"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "COMBAT_RANDOM",
+      "type": "COMBAT",
+      "tip": "tip_combat",
+      "title": "The WonderDrone (tm)",
+      "short": "WonderDrone",
+      "desc": "A very strange (and poorly made) smuggler drone that fires a random projectile every shot.",
+      "power": "2",
+      "cooldown": "1000",
+      "dodge": "0",
+      "speed": "16",
+      "cost": "60",
+      "bp": "8",
+      "droneImage": "drone_random",
+      "weaponBlueprint": "DRONE_BEAM_COMBAT_RANDOM",
+      "rarity": "0"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "COMBAT_ENGINEER",
+      "type": "COMBAT",
+      "tip": "tip_combat",
+      "title": "Uplifted Drone",
+      "short": "Uplifted D.",
+      "desc": "Specialized Beam drone that loses its toggle functionality to have a longer beam attack and stealth, allowing it to distract and avoid anti-drones.",
+      "power": "2",
+      "cooldown": "1000",
+      "dodge": "10",
+      "speed": "12",
+      "cost": "60",
+      "bp": "3",
+      "droneImage": "drone_combat_engineer",
+      "weaponBlueprint": "DRONE_BEAM_ENGINEER",
+      "rarity": "0",
+      "iconImage": "combat"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "COMBAT_BIO_BEAM",
+      "type": "COMBAT",
+      "tip": "tip_combat",
+      "title": "'Fauchard' Drone",
+      "short": "'Fauchard'",
+      "desc": "Combat drone that repeatedly attacks with a small beam weapon that damages both crew and systems.",
+      "power": "2",
+      "cooldown": "1000",
+      "dodge": "0",
+      "speed": "40",
+      "cost": "50",
+      "bp": "3",
+      "droneImage": "drone_bio",
+      "weaponBlueprint": "DRONE_BIO_BEAM",
+      "rarity": "0",
+      "iconImage": "beam"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "ANCIENT_COMBAT_LASER",
+      "type": "COMBAT",
+      "tip": "tip_ancient",
+      "title": "Harbinger Drone Mk. I",
+      "short": "Harbinger I",
+      "desc": "A drone that precedes all known drone tech. Appears to be equipped with Laser tech that does decent damage with extra system damage.",
+      "power": "2",
+      "cooldown": "1000",
+      "dodge": "0",
+      "speed": "10",
+      "cost": "70",
+      "bp": "3",
+      "droneImage": "drone_ancient_laser",
+      "weaponBlueprint": "ANCIENT_DRONE_LASER",
+      "rarity": "0",
+      "iconImage": "combat"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "ANCIENT_COMBAT_LASER_2",
+      "type": "COMBAT",
+      "tip": "tip_ancient",
+      "title": "Harbinger Drone Mk. II",
+      "short": "Harbinger II",
+      "desc": "A drone that precedes all known drone tech. Appears to be equipped with Laser tech that does decent damage with extra system damage. Moves and shoots faster than Mark I.",
+      "power": "4",
+      "cooldown": "1000",
+      "dodge": "0",
+      "speed": "25",
+      "cost": "100",
+      "bp": "3",
+      "droneImage": "drone_ancient_laser2",
+      "weaponBlueprint": "ANCIENT_DRONE_LASER",
+      "rarity": "0",
+      "iconImage": "combat"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "ROYAL_COMBAT_LASER_2",
+      "type": "COMBAT",
+      "tip": "tip_ancient",
+      "title": "Harbinger Drone Mk. II",
+      "short": "€ Harbinger II",
+      "desc": "A drone that precedes all known drone tech. Appears to be equipped with Laser tech that does decent damage with extra system damage. Does more damage than its commoner counterpart.",
+      "power": "3",
+      "cooldown": "1000",
+      "dodge": "0",
+      "speed": "25",
+      "cost": "150",
+      "bp": "3",
+      "droneImage": "drone_royal_laser2",
+      "weaponBlueprint": "ROYAL_DRONE_LASER",
+      "rarity": "0",
+      "iconImage": "combat"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "ANCIENT_DEFENSE_1",
+      "type": "DEFENSE",
+      "level": "1",
+      "target": "LASERS",
+      "tip": "tip_defense",
+      "title": "Overwatcher",
+      "short": "Overwatcher",
+      "desc": "Ancient Defense technology that fires at any incoming projectiles.\n\tReload: 100 MS",
+      "power": "4",
+      "cooldown": "100",
+      "dodge": "0",
+      "speed": "8",
+      "cost": "150",
+      "bp": "2",
+      "droneImage": "drone_ancient_defense1",
+      "weaponBlueprint": "ANCIENT_DRONE_DEFENSE",
+      "iconImage": "defense",
+      "rarity": "0"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "ANCIENT_DEFENSE_1_ENEMY",
+      "type": "DEFENSE",
+      "level": "1",
+      "target": "LASERS",
+      "tip": "tip_defense",
+      "title": "Overwatcher",
+      "short": "Overwatcher",
+      "desc": "Ancient Defense technology that fires at any incoming projectiles.\n\tReload: 100 MS",
+      "power": "5",
+      "cooldown": "100",
+      "dodge": "0",
+      "speed": "8",
+      "cost": "150",
+      "bp": "2",
+      "droneImage": "drone_ancient_defense1",
+      "weaponBlueprint": "ANCIENT_DRONE_DEFENSE",
+      "iconImage": "defense",
+      "rarity": "0"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "ROYAL_DEFENSE_1",
+      "type": "DEFENSE",
+      "level": "1",
+      "target": "LASERS",
+      "tip": "tip_defense",
+      "title": "Overwatcher",
+      "short": "€ Overwatcher",
+      "desc": "Ancient Defense technology that fires at any incoming projectiles.\n\tReload: 50 MS",
+      "power": "5",
+      "cooldown": "50",
+      "dodge": "0",
+      "speed": "8",
+      "cost": "175",
+      "bp": "2",
+      "droneImage": "drone_royal_defense1",
+      "weaponBlueprint": "ROYAL_DRONE_DEFENSE",
+      "iconImage": "defense",
+      "rarity": "0"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "ANCIENT_COMBAT_ION",
+      "type": "COMBAT",
+      "tip": "tip_ancient",
+      "title": "Plasma Drone",
+      "short": "Plasma",
+      "desc": "A drone that precedes all known drone tech. It is armed with plasma tech that does both ion and system damage.",
+      "power": "2",
+      "cooldown": "1000",
+      "dodge": "0",
+      "speed": "7",
+      "cost": "75",
+      "bp": "3",
+      "droneImage": "drone_ancient_ion",
+      "weaponBlueprint": "ANCIENT_DRONE_ION",
+      "rarity": "0",
+      "iconImage": "combat"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "ROYAL_COMBAT_ION",
+      "type": "COMBAT",
+      "tip": "tip_ancient",
+      "title": "Plasma Drone",
+      "short": "€ Plasma",
+      "desc": "A drone that precedes all known drone tech. It is armed with plasma tech that does both ion and system damage.",
+      "power": "2",
+      "cooldown": "1000",
+      "dodge": "0",
+      "speed": "7",
+      "cost": "110",
+      "bp": "3",
+      "droneImage": "drone_royal_ion",
+      "weaponBlueprint": "ROYAL_DRONE_ION",
+      "rarity": "0",
+      "iconImage": "combat"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "ANCIENT_COMBAT_MISSILE",
+      "type": "COMBAT",
+      "tip": "tip_ancient",
+      "title": "Carnage Drone",
+      "short": "Carnage D.",
+      "desc": "An ancient Missile Drone. Appears to be equipped with some sort of personal rift tech from which it obtains an endless supply of missiles.",
+      "power": "3",
+      "cooldown": "1000",
+      "dodge": "0",
+      "speed": "3",
+      "cost": "110",
+      "bp": "3",
+      "droneImage": "drone_ancient_missiles",
+      "weaponBlueprint": "ANCIENT_DRONE_MISSILES",
+      "rarity": "0",
+      "iconImage": "combat"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "ROYAL_COMBAT_MISSILE",
+      "type": "COMBAT",
+      "tip": "tip_ancient",
+      "title": "Carnage Drone",
+      "short": "€ Carnage D.",
+      "desc": "An ancient Missile Drone. Appears to be equipped with some sort of personal rift tech from which it obtains an endless supply of missiles.",
+      "power": "3",
+      "cooldown": "1000",
+      "dodge": "0",
+      "speed": "3",
+      "cost": "160",
+      "bp": "3",
+      "droneImage": "drone_royal_missiles",
+      "weaponBlueprint": "ANCIENT_ROYAL_MISSILES",
+      "rarity": "0",
+      "iconImage": "combat"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "MENDER",
+      "type": "REPAIR",
+      "locked": "1",
+      "tip": "tip_crew",
+      "title": "Mender",
+      "short": "Mender",
+      "desc": "This controllable ancient crew drone can repair at insane speeds and provides other supporting benefits.\n    \n-110 HP, 4x repair speed, 1.5x movement speed\n-Heals nearby crew for 1hp/s\n-Inflicts a 9s stun when destroyed\n-Reveals adjacent rooms",
+      "power": "2",
+      "cost": "50",
+      "bp": "3",
+      "rarity": "0",
+      "iconImage": "battle"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "MENDERR",
+      "type": "REPAIR",
+      "locked": "1",
+      "tip": "tip_crew",
+      "title": "Royal Mender",
+      "short": "€ Mender",
+      "desc": "This controllable ancient crew drone can repair at insane speeds and provides other supporting benefits.\n    \n-150 HP, 4.5x repair speed, 2x movement speed\n-Heals nearby crew for 2hp/s\n-Inflicts a 12s stun when destroyed\n-Reveals adjacent rooms",
+      "power": "1",
+      "cost": "75",
+      "bp": "3",
+      "rarity": "0",
+      "iconImage": "battle"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "DIRECTOR",
+      "type": "REPAIR",
+      "locked": "1",
+      "tip": "tip_crew",
+      "title": "Ancient Director",
+      "short": "Director",
+      "desc": "A useful ancient utility drone that can interface with systems and power them.\n    \n-120 HP, 1.5x movement speed\n-Provides 4 power to occupied system\n-Can man systems at lvl2 skill level\n-Reveals adjacent rooms",
+      "power": "2",
+      "cost": "70",
+      "bp": "3",
+      "rarity": "0",
+      "iconImage": "battle"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "ATOM_DEFEND",
+      "type": "BATTLE",
+      "locked": "1",
+      "tip": "tip_toggle_crew",
+      "title": "Atomizer [Anti-Pers]",
+      "short": "Atom [DEF]",
+      "desc": "[CURRENT MODE: Anti-Personnel] Powerful anti-crew drone that can be switched between defensive and boarding modes.\n    \n-60 HP, 2x movement speed\n-2x combat damage, increased attack speed\n-Drains oxygen from rooms\n-Reveals adjacent rooms",
+      "power": "3",
+      "cost": "60",
+      "bp": "3",
+      "rarity": "0",
+      "iconImage": "battle"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "ATOM_BOARDER",
+      "type": "BOARDER",
+      "tip": "tip_toggle_crew",
+      "locked": "1",
+      "title": "Atomizer [Boarding]",
+      "short": "Atom [ATK]",
+      "desc": "[CURRENT MODE: Boarding] Powerful anti-crew drone that can be switched between defensive and boarding modes.\n    \n-60 HP, 2x movement speed\n-2x combat damage, increased attack speed\n-Drains oxygen from rooms\n-Reveals adjacent rooms",
+      "power": "3",
+      "speed": "18",
+      "cost": "60",
+      "rarity": "0",
+      "iconImage": "boarder"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "ATOMR_DEFEND",
+      "type": "BATTLE",
+      "locked": "1",
+      "tip": "tip_toggle_crew",
+      "title": "Royal Atomizer [Anti-Pers]",
+      "short": "€ Atom [DEF]",
+      "desc": "[CURRENT MODE: Anti-Personnel] Powerful anti-crew drone that can be switched between defensive and boarding modes.\n    \n-65 HP, 3x movement speed\n-2x damage, greatly increased attack speed\n-Drains oxygen from rooms\n-Reveals adjacent rooms",
+      "power": "3",
+      "cost": "90",
+      "bp": "3",
+      "rarity": "0",
+      "iconImage": "battle"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "ATOMR_BOARDER",
+      "type": "BOARDER",
+      "tip": "tip_toggle_crew",
+      "locked": "1",
+      "title": "Royal Atomizer [Boarding]",
+      "short": "€ Atom [ATK]",
+      "desc": "[CURRENT MODE: Boarding] Powerful anti-crew drone that can be switched between defensive and boarding modes.\n    \n-65 HP, 3x movement speed\n-2x combat damage, greatly increased attack speed\n-Drains oxygen from rooms\n-Reveals adjacent rooms",
+      "power": "3",
+      "speed": "18",
+      "cost": "90",
+      "rarity": "0",
+      "iconImage": "boarder"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "ROOMBA_DEFEND",
+      "type": "BATTLE",
+      "locked": "1",
+      "tip": "tip_toggle_crew",
+      "title": "Ancient Roomba [Anti-Pers]",
+      "short": "Roomba [DEF]",
+      "desc": "[CURRENT MODE: Anti-Personnel] This tiny little thing is claimed to be a weapon of war, yet to you it looks akin to old Earth cleaning technology. How strange.",
+      "power": "2",
+      "cost": "60",
+      "bp": "3",
+      "rarity": "0",
+      "iconImage": "battle"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "ROOMBA_BOARDER",
+      "type": "BOARDER",
+      "tip": "tip_toggle_crew",
+      "locked": "1",
+      "title": "Ancient Roomba [Boarding]",
+      "short": "Roomba [ATK]",
+      "desc": "[CURRENT MODE: Boarding] This tiny little thing is claimed to be a weapon of war, yet to you it looks akin to old Earth cleaning technology. How strange.",
+      "power": "2",
+      "speed": "40",
+      "cost": "60",
+      "rarity": "0",
+      "iconImage": "boarder"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "LOOT_AUTO_1_LASER",
+      "type": "COMBAT",
+      "tip": "loot_auto_1",
+      "title": "Conservative Drone [Laser]",
+      "short": "Cons. [LASER]",
+      "desc": "[CURRENT MODE: Laser] Special loot drone. See tooltip in the inventory to check the improvements over the base version.",
+      "power": "0",
+      "cooldown": "1000",
+      "dodge": "10",
+      "speed": "12",
+      "cost": "55",
+      "bp": "3",
+      "droneImage": "loot_auto_l",
+      "weaponBlueprint": "DRONE_LASER_COMBAT",
+      "rarity": "0",
+      "iconImage": "combat"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "LOOT_AUTO_1_BEAM",
+      "type": "COMBAT",
+      "tip": "loot_auto_1",
+      "title": "Conservative Drone [Beam]",
+      "short": "Cons. [BEAM]",
+      "desc": "[CURRENT MODE: Beam] Special loot drone. See tooltip in the inventory to check the improvements over the base version.",
+      "power": "0",
+      "cooldown": "1000",
+      "dodge": "10",
+      "speed": "10",
+      "cost": "55",
+      "bp": "3",
+      "droneImage": "loot_auto_b",
+      "weaponBlueprint": "DRONE_BEAM_COMBAT",
+      "rarity": "0",
+      "iconImage": "combat"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "LOOT_ENGI_1",
+      "type": "DEFENSE",
+      "level": "1",
+      "tip": "loot_engi_1",
+      "title": "Defense Drone Mark I",
+      "short": "Defense I",
+      "desc": "Special loot drone. See tooltip in the inventory to check the improvements over the base version.",
+      "power": "2",
+      "cooldown": "300",
+      "dodge": "0",
+      "speed": "8",
+      "cost": "50",
+      "bp": "2",
+      "droneImage": "loot_engi_defense",
+      "weaponBlueprint": "DRONE_LASER_ENGI_DEFENSE_LOOT",
+      "iconImage": "defense",
+      "rarity": "0"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "LOOT_ENGI_2",
+      "type": "COMBAT",
+      "tip": "loot_engi_2",
+      "title": "Combat Drone Mark I",
+      "short": "Combat I",
+      "desc": "Special loot drone. See tooltip in the inventory to check the improvements over the base version.",
+      "power": "2",
+      "cooldown": "1000",
+      "dodge": "8",
+      "speed": "21",
+      "cost": "50",
+      "bp": "3",
+      "droneImage": "loot_engi_combat",
+      "weaponBlueprint": "DRONE_LASER",
+      "rarity": "0",
+      "iconImage": "combat"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "LOOT_SEPARATIST_1_DEFEND",
+      "type": "BATTLE",
+      "locked": "1",
+      "tip": "loot_separatist_1",
+      "title": "Battle Drone [Anti-Pers]",
+      "short": "Battle [DEF]",
+      "desc": "[CURRENT MODE: Anti-Personnel] Special loot drone. See tooltip in the inventory to check the improvements over the base version.\n    \n-175 HP, 1.1x combat damage\n-Regenerates 6.4hp/s if unharmed for 9 seconds",
+      "power": "2",
+      "cost": "50",
+      "bp": "3",
+      "rarity": "0",
+      "iconImage": "battle"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "LOOT_SEPARATIST_1_BOARDER",
+      "type": "BOARDER",
+      "tip": "loot_separatist_1",
+      "locked": "1",
+      "title": "Battle Drone [Boarding]",
+      "short": "Battle [ATK]",
+      "desc": "[CURRENT MODE: Boarding] Special loot drone. See tooltip in the inventory to check the improvements over the base version.\n    \n-175 HP, 1.1x combat damage\n-Regenerates 6.4hp/s if unharmed for 9 seconds",
+      "power": "2",
+      "speed": "18",
+      "cost": "50",
+      "rarity": "0",
+      "iconImage": "boarder"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "LOOT_ESTATE_1_COMBAT",
+      "type": "COMBAT",
+      "tip": "loot_estate_1",
+      "title": "Amphi-Drone [Combat]",
+      "short": "Amphi [C]",
+      "desc": "[CURRENT MODE: Combat] Special loot drone. See tooltip in the inventory to check the improvements over the base version.",
+      "power": "1",
+      "cooldown": "1000",
+      "dodge": "0",
+      "speed": "14",
+      "cost": "60",
+      "bp": "3",
+      "droneImage": "loot_estate_1_c",
+      "weaponBlueprint": "DRONE_LASER",
+      "rarity": "0",
+      "iconImage": "combat"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "LOOT_ESTATE_1_DEFENSE",
+      "type": "DEFENSE",
+      "target": "LASERS",
+      "tip": "loot_estate_1",
+      "title": "Amphi-Drone [Defense]",
+      "short": "Amphi [D]",
+      "desc": "[CURRENT MODE: Defense] Special loot drone. See tooltip in the inventory to check the improvements over the base version.\n\tReload: 800 MS",
+      "power": "2",
+      "cooldown": "800",
+      "dodge": "0",
+      "speed": "7",
+      "cost": "60",
+      "bp": "2",
+      "droneImage": "loot_estate_1_d",
+      "weaponBlueprint": "DRONE_LASER_DEFENSE",
+      "iconImage": "defense",
+      "rarity": "0"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "LOOT_AUG_1_AMP2",
+      "type": "COMBAT",
+      "tip": "loot_aug_1",
+      "title": "Amp Flak",
+      "short": "Flak [2]",
+      "desc": "[CURRENT POWER: 2] Special loot drone. See tooltip in the inventory to check the improvements over the base version.",
+      "power": "2",
+      "cooldown": "1000",
+      "dodge": "0",
+      "speed": "13",
+      "cost": "50",
+      "bp": "3",
+      "droneImage": "loot_aug_a1",
+      "weaponBlueprint": "DRONE_AUG_FLAK_AMP_1",
+      "rarity": "0",
+      "iconImage": "combat"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "LOOT_AUG_1_AMP3",
+      "type": "COMBAT",
+      "tip": "loot_aug_1",
+      "title": "Amp Flak",
+      "short": "Flak [3]",
+      "desc": "[CURRENT POWER: 3] Special loot drone. See tooltip in the inventory to check the improvements over the base version.",
+      "power": "3",
+      "cooldown": "1000",
+      "dodge": "0",
+      "speed": "8",
+      "cost": "50",
+      "bp": "3",
+      "droneImage": "loot_aug_a2",
+      "weaponBlueprint": "DRONE_AUG_FLAK_AMP_2",
+      "rarity": "0",
+      "iconImage": "combat"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "LOOT_AUG_1_AMP4",
+      "type": "COMBAT",
+      "tip": "loot_aug_1",
+      "title": "Amp Flak",
+      "short": "Flak [4]",
+      "desc": "[CURRENT POWER: 4] Special loot drone. See tooltip in the inventory to check the improvements over the base version.",
+      "power": "4",
+      "cooldown": "1000",
+      "dodge": "0",
+      "speed": "5",
+      "cost": "50",
+      "bp": "3",
+      "droneImage": "loot_aug_a3",
+      "weaponBlueprint": "DRONE_AUG_FLAK_AMP_3",
+      "rarity": "0",
+      "iconImage": "combat"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "DEFENSE_TRINITY_MISSILE",
+      "type": "DEFENSE",
+      "level": "1",
+      "tip": "tip_toggle_defense",
+      "title": "Trinity Drone [M]",
+      "short": "Trinity [M]",
+      "desc": "[CURRENT MODE: Anti-Missile] This special drone can toggle between three separate modes of defense, shooting down missiles, drones, or all projectiles.\n\tReload: 300 MS",
+      "power": "3",
+      "cooldown": "300",
+      "dodge": "0",
+      "speed": "8",
+      "cost": "100",
+      "bp": "2",
+      "droneImage": "boss_engic",
+      "weaponBlueprint": "DRONE_LASER_DEFENSE",
+      "iconImage": "defense",
+      "rarity": "0"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "DEFENSE_TRINITY_DRONE",
+      "type": "DEFENSE",
+      "target": "DRONES",
+      "level": "1",
+      "tip": "tip_toggle_defense",
+      "title": "Trinity Drone [D]",
+      "short": "Trinity [D]",
+      "desc": "[CURRENT MODE: Anti-Drone] This special drone can toggle between three separate modes of defense, shooting down missiles, drones, or all projectiles.\n\tReload: 300 MS",
+      "power": "3",
+      "cooldown": "300",
+      "dodge": "0",
+      "speed": "8",
+      "cost": "100",
+      "bp": "2",
+      "droneImage": "boss_engic",
+      "weaponBlueprint": "DRONE_LASER_DEFENSE",
+      "iconImage": "defense",
+      "rarity": "0"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "DEFENSE_TRINITY_PROJECTILE",
+      "type": "DEFENSE",
+      "target": "LASERS",
+      "level": "1",
+      "tip": "tip_toggle_defense",
+      "title": "Trinity Drone [P]",
+      "short": "Trinity [P]",
+      "desc": "[CURRENT MODE: Anti-Projectile] This special drone can toggle between three separate modes of defense, shooting down missiles, drones, or all projectiles.\n\tReload: 300 MS",
+      "power": "3",
+      "cooldown": "300",
+      "dodge": "0",
+      "speed": "8",
+      "cost": "100",
+      "bp": "2",
+      "droneImage": "boss_engic",
+      "weaponBlueprint": "DRONE_LASER_DEFENSE",
+      "iconImage": "defense",
+      "rarity": "0"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "DEFENSE_TRINITY_CHAOS",
+      "type": "DEFENSE",
+      "target": "ALL",
+      "tip": "tip_toggle_defense",
+      "title": "Chaotic Trinity Drone",
+      "short": "Trinity™",
+      "desc": "This special drone has multiple modes of defense; shooting down missiles, drones, or all projectiles.\n\tChaotic variant does not toggle but has all modes enabled simultaneously.\n\tReload: 300 MS",
+      "power": "3",
+      "cooldown": "300",
+      "dodge": "0",
+      "speed": "8",
+      "cost": "100",
+      "bp": "2",
+      "droneImage": "boss_engic_chaos",
+      "weaponBlueprint": "DRONE_LASER_DEFENSE",
+      "iconImage": "defense",
+      "rarity": "0"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "YINYANG_BATTLE",
+      "type": "BATTLE",
+      "locked": "1",
+      "tip": "tip_toggle_crew",
+      "title": "YinYang [Shipboard]",
+      "short": "YY [DEF]",
+      "desc": "[CURRENT MODE: Shipboard] A toggle drone specialized for whichever task it is operating, but never both at the same time.\n    \n-125 HP, immune to fire, reveals adjacent rooms, 1.5x movement speed\n-Shipboard mode: cannot fight, repairs at 2.5x speed and mans with max skills\n-Boarding mode: 3x combat damage, 1.5x bonus ranged damage",
+      "power": "2",
+      "cost": "50",
+      "bp": "3",
+      "rarity": "0",
+      "iconImage": "battle"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "YINYANG_BOARDER",
+      "type": "BOARDER",
+      "tip": "tip_toggle_crew",
+      "locked": "1",
+      "title": "YinYang [Boarding]",
+      "short": "YY [ATK]",
+      "desc": "[CURRENT MODE: Boarding] A toggle drone specialized for whichever task it is operating, but never both at the same time.\n    \n-125 HP, immune to fire, reveals adjacent rooms, 1.5x movement speed\n-Shipboard mode: cannot fight, repairs at 2.5x speed and mans with max skills\n-Boarding mode: 3x combat damage, 1.5x bonus ranged damage",
+      "power": "2",
+      "speed": "18",
+      "cost": "50",
+      "rarity": "0",
+      "iconImage": "boarder"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "YINYANG_BATTLE_CHAOS",
+      "type": "BATTLE",
+      "locked": "1",
+      "tip": "tip_toggle_crew",
+      "title": "Chaotic YinYang [Shipboard]",
+      "short": "YY™ [DEF]",
+      "desc": "[CURRENT MODE: Shipboard] A toggle drone that can serve any task.\n\tChaotic variant has the stats of all modes at once plus healing and provides power.\n    \n-125 HP, immune to fire, reveals adjacent rooms, 1.5x movement speed\n-Repairs at 2.5x speed and mans with max skills\n-3x combat damage, 1.5x bonus ranged damage\n-Heals nearby allies for 3hp/s, provides power to occupied system",
+      "power": "2",
+      "cost": "50",
+      "bp": "3",
+      "rarity": "0",
+      "iconImage": "battle"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "YINYANG_BOARDER_CHAOS",
+      "type": "BOARDER",
+      "tip": "tip_toggle_crew",
+      "locked": "1",
+      "title": "Chaotic YinYang [Boarding]",
+      "short": "YY™ [ATK]",
+      "desc": "[CURRENT MODE: Boarding] A toggle drone specialized for whichever task it is operating, but never both at the same time.\n\tChaotic variant has the stats of all modes at once plus healing and provides power.\n    \n-125 HP, immune to fire, reveals adjacent rooms, 1.5x movement speed\n-3x combat damage, 1.5x bonus ranged damage\n-Heals nearby allies for 3hp/s",
+      "power": "2",
+      "speed": "18",
+      "cost": "50",
+      "rarity": "0",
+      "iconImage": "boarder"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "SURGEON_BATTLE",
+      "type": "BATTLE",
+      "locked": "1",
+      "tip": "tip_toggle_crew",
+      "title": "Surgeon [Shipboard]",
+      "short": "Surgeon [DEF]",
+      "desc": "[CURRENT MODE: Shipboard] A medical drone rewired by a murderous Rebel surgeon to be capable of combat.\n    \n-100 HP, 1.2x movement speed\n-1.5x combat damage\n-Heals nearby allies for 7hp/s",
+      "power": "2",
+      "cost": "50",
+      "bp": "3",
+      "rarity": "0",
+      "iconImage": "battle"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "SURGEON_BOARDER",
+      "type": "BOARDER",
+      "tip": "tip_toggle_crew",
+      "locked": "1",
+      "title": "Surgeon [Boarding]",
+      "short": "Surgeon [ATK]",
+      "desc": "[CURRENT MODE: Boarding] A medical drone rewired by a murderous Rebel surgeon to be capable of combat.\n    \n-100 HP, 1.2x movement speed\n-1.5x combat damage\n-Heals nearby allies for 7hp/s",
+      "power": "2",
+      "speed": "18",
+      "cost": "50",
+      "rarity": "0",
+      "iconImage": "boarder"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "SURGEON_BATTLE_CHAOS",
+      "type": "BATTLE",
+      "locked": "1",
+      "tip": "tip_toggle_crew",
+      "title": "Chaotic Surgeon [Shipboard]",
+      "short": "Surgeon™ [DEF]",
+      "desc": "[CURRENT MODE: Shipboard] A medical drone rewired by a murderous Rebel surgeon.\n\tChaotic variant heals allied crew nearly instantly but cannot fight on its own, and has less health.\n    \n-75 HP, 1.2x movement speed\n-Heals nearby allies for 50hp/s",
+      "power": "2",
+      "cost": "50",
+      "bp": "3",
+      "rarity": "0",
+      "iconImage": "battle"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "SURGEON_BOARDER_CHAOS",
+      "type": "BOARDER",
+      "tip": "tip_toggle_crew",
+      "locked": "1",
+      "title": "Chaotic Surgeon [Boarding]",
+      "short": "Surgeon™ [ATK]",
+      "desc": "[CURRENT MODE: Boarding] A medical drone rewired by a murderous Rebel surgeon.\n\tChaotic variant heals allied crew nearly instantly but cannot fight on its own, and has less health.\n    \n-75 HP, 1.2x movement speed\n-Heals nearby allies for 50hp/s",
+      "power": "2",
+      "speed": "18",
+      "cost": "50",
+      "rarity": "0",
+      "iconImage": "boarder"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "FOREMAN_BATTLE",
+      "type": "BATTLE",
+      "locked": "1",
+      "tip": "tip_toggle_crew",
+      "title": "Foreman Drone [Anti-Pers]",
+      "short": "Foreman [DEF]",
+      "desc": "[CURRENT MODE: Anti-Personnel] This mobile factory of Confederate design continuously manufactures Spore bombs against enemies. More susceptible to fires than other crew drones.\n    \n-Periodic Ability: Spawns a Spore bomb in the room, dealing 1 system damage and 30 damage to enemy crew. Continuously spawns bombs on the enemy ship, but on the player ship, only spawns bombs when an enemy is in the room\n-140 HP, 0.5x movement speed\n-Takes regular fire damage",
+      "power": "3",
+      "cost": "80",
+      "bp": "3",
+      "rarity": "0",
+      "iconImage": "battle"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "FOREMAN_BOARDER",
+      "type": "BOARDER",
+      "tip": "tip_toggle_crew",
+      "locked": "1",
+      "title": "Foreman Drone [Boarding]",
+      "short": "Foreman [ATK]",
+      "desc": "[CURRENT MODE: Boarding] This mobile factory of Confederate design continuously manufactures Spore bombs against enemies. More susceptible to fires than other crew drones.\n    \n-Periodic Ability: Spawns a Spore bomb in the room, dealing 1 system damage and 30 damage to enemy crew. Continuously spawns bombs on the enemy ship, but on the player ship, only spawns bombs when an enemy is in the room\n-140 HP, 0.5x movement speed\n-Takes regular fire damage",
+      "power": "3",
+      "speed": "12",
+      "cost": "80",
+      "rarity": "0",
+      "iconImage": "boarder"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "FOREMAN_BATTLE_CHAOS",
+      "type": "BATTLE",
+      "locked": "1",
+      "tip": "tip_toggle_crew",
+      "title": "Chaotic Foreman Drone [Anti-Pers]",
+      "short": "Foreman™ [DEF]",
+      "desc": "[CURRENT MODE: Anti-Personnel] This mobile factory of Confederate design continuously manufactures Spore bombs against enemies. More susceptible to fires than other crew drones.\n\tChaotic variant produces bombs much quicker, but takes 15 self damage for each bomb.\n    \n-Periodic Ability: Spawns a Spore bomb in the room, dealing 1 system damage and 30 damage to enemy crew. Continuously spawns bombs on the enemy ship, but on the player ship, only spawns bombs when an enemy is in the room\n-140 HP, 0.5x movement speed\n-Takes regular fire damage",
+      "power": "3",
+      "cost": "80",
+      "bp": "3",
+      "rarity": "0",
+      "iconImage": "battle"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "FOREMAN_BOARDER_CHAOS",
+      "type": "BOARDER",
+      "tip": "tip_toggle_crew",
+      "locked": "1",
+      "title": "Chaotic Foreman Drone [Boarding]",
+      "short": "Foreman™ [ATK]",
+      "desc": "[CURRENT MODE: Boarding] This mobile factory of Confederate design continuously manufactures Spore bombs against enemies. More susceptible to fires than other crew drones.\n\tChaotic variant produces bombs much quicker, but takes 15 self damage for each bomb.\n    \n-Periodic Ability: Spawns a Spore bomb in the room, dealing 1 system damage and 30 damage to enemy crew. Continuously spawns bombs on the enemy ship, but on the player ship, only spawns bombs when an enemy is in the room\n-140 HP, 0.5x movement speed\n-Takes regular fire damage",
+      "power": "3",
+      "speed": "12",
+      "cost": "80",
+      "rarity": "0",
+      "iconImage": "boarder"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "HOLODRONE_BATTLE",
+      "type": "BATTLE",
+      "locked": "1",
+      "tip": "tip_toggle_crew",
+      "title": "Holo-Drone [Assist]",
+      "short": "Holo [DEF]",
+      "desc": "[CURRENT MODE: Assist] A special drone with built-in hard-light projectors, which can create holographic assistants.\n    \n-Periodic Ability: Spawns an Osmian hologram which lasts for 25 seconds\n-75 HP, 0.65x movement speed",
+      "power": "2",
+      "cost": "50",
+      "bp": "3",
+      "rarity": "0",
+      "iconImage": "battle"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "HOLODRONE_BOARDER",
+      "type": "BOARDER",
+      "tip": "tip_toggle_crew",
+      "locked": "1",
+      "title": "Holo-Drone [Boarding]",
+      "short": "Holo [ATK]",
+      "desc": "[CURRENT MODE: Boarding] A special drone with built-in hard-light projectors, which can create holographic assistants.\n\n-Periodic Ability: Spawns an Osmian hologram which lasts for 25 seconds    \n-75 HP, 0.65x movement speed",
+      "power": "2",
+      "speed": "18",
+      "cost": "50",
+      "rarity": "0",
+      "iconImage": "boarder"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "HOLODRONE_BATTLE_CHAOS",
+      "type": "BATTLE",
+      "locked": "1",
+      "tip": "tip_toggle_crew",
+      "title": "Chaotic Holo-Drone [Assist]",
+      "short": "Holo™ [DEF]",
+      "desc": "[CURRENT MODE: Assist] A special drone with built-in flesh projectors, which can print living assistants.\n\tChaotic variant spawns a random permanent crew member at half health then instantly self-destructs.\n\n-Spawns permanent crew and self destructs. Spawned crew will initially spawn at half health.",
+      "power": "2",
+      "cost": "50",
+      "bp": "3",
+      "rarity": "0",
+      "iconImage": "battle"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "HOLODRONE_BOARDER_CHAOS",
+      "type": "BOARDER",
+      "tip": "tip_toggle_crew",
+      "locked": "1",
+      "title": "Chaotic Holo-Drone [Boarding]",
+      "short": "Holo™ [ATK]",
+      "desc": "[CURRENT MODE: Boarding] A special drone with built-in flesh projectors, which can print living assistants.\n\tChaotic variant spawns a random permanent crew member at half health then instantly self-destructs.\n\n-Spawns permanent crew and self destructs. Spawned crew will initially spawn at half health.",
+      "power": "2",
+      "speed": "18",
+      "cost": "50",
+      "rarity": "0",
+      "iconImage": "boarder"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "SYMBIONT_DEFENSE",
+      "type": "DEFENSE",
+      "level": "1",
+      "target": "LASERS",
+      "tip": "tip_defense",
+      "title": "Symbiont [Defense]",
+      "short": "Symbiont [Def.]",
+      "desc": "This bizarre mutated Technopath is capable of mimicking various drone schematics via the storage, but cannot toggle forms during combat.\n\tCurrently mimicking: Defense II\n\tReload: 400 MS",
+      "power": "1",
+      "cooldown": "400",
+      "dodge": "0",
+      "speed": "7",
+      "cost": "85",
+      "bp": "2",
+      "droneImage": "boss_symbiont_defense_2",
+      "weaponBlueprint": "DRONE_LASER_DEFENSE",
+      "iconImage": "defense",
+      "rarity": "0"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "SYMBIONT_DEFENSE_MISSILE",
+      "type": "DEFENSE",
+      "level": "1",
+      "tip": "tip_defense",
+      "title": "Symbiont [M]",
+      "short": "Symbiont [M]",
+      "desc": "This bizarre mutated Technopath is capable of mimicking various drone schematics via the storage, but cannot toggle forms during combat.\n\tCurrently mimicking: Guardian II [M]\n\tReload: 600 MS",
+      "power": "1",
+      "cooldown": "600",
+      "dodge": "0",
+      "speed": "5",
+      "cost": "85",
+      "bp": "2",
+      "droneImage": "boss_symbiont_togguardian2_m",
+      "weaponBlueprint": "DRONE_MISSILE_DEFENSE",
+      "iconImage": "defense",
+      "rarity": "0"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "SYMBIONT_DEFENSE_DRONE",
+      "type": "DEFENSE",
+      "level": "1",
+      "tip": "tip_defense",
+      "title": "Symbiont [D]",
+      "short": "Symbiont [D]",
+      "desc": "This bizarre mutated Technopath is capable of mimicking various drone schematics via the storage, but cannot toggle forms during combat.\n\tCurrently mimicking: Guardian II [D]\n\tReload: 600 MS",
+      "target": "DRONES",
+      "power": "1",
+      "cooldown": "600",
+      "dodge": "0",
+      "speed": "5",
+      "cost": "85",
+      "bp": "2",
+      "droneImage": "boss_symbiont_togguardian2_d",
+      "weaponBlueprint": "DRONE_ION_DEFENSE",
+      "iconImage": "defense",
+      "rarity": "0"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "SYMBIONT_LASER",
+      "type": "COMBAT",
+      "tip": "tip_combat",
+      "title": "Symbiont [Laser]",
+      "short": "Symbiont [L]",
+      "desc": "This bizarre mutated Technopath is capable of mimicking various drone schematics via the storage, but cannot toggle forms during combat.\n\tCurrently mimicking: Combat II [L]",
+      "power": "1",
+      "cooldown": "1000",
+      "dodge": "0",
+      "speed": "30",
+      "cost": "85",
+      "bp": "3",
+      "droneImage": "boss_symbiont_combat2_l",
+      "weaponBlueprint": "DRONE_LASER_COMBAT",
+      "rarity": "0",
+      "iconImage": "combat"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "SYMBIONT_BEAM",
+      "type": "COMBAT",
+      "tip": "tip_combat",
+      "title": "Symbiont [Beam]",
+      "short": "Symbiont [B]",
+      "desc": "This bizarre mutated Technopath is capable of mimicking various drone schematics via the storage, but cannot toggle forms during combat.\n\tCurrently mimicking: Combat II [B]",
+      "power": "1",
+      "cooldown": "1000",
+      "dodge": "0",
+      "speed": "27",
+      "cost": "85",
+      "bp": "3",
+      "droneImage": "boss_symbiont_combat2_b",
+      "weaponBlueprint": "DRONE_BEAM_COMBAT",
+      "rarity": "0",
+      "iconImage": "combat"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "SYMBIONT_FIRE",
+      "type": "COMBAT",
+      "tip": "tip_combat",
+      "title": "Symbiont [Fire]",
+      "short": "Symbiont [F]",
+      "desc": "This bizarre mutated Technopath is capable of mimicking various drone schematics via the storage, but cannot toggle forms during combat.\n\tCurrently mimicking: Hellraiser [F]",
+      "power": "1",
+      "cooldown": "1000",
+      "dodge": "0",
+      "speed": "12",
+      "cost": "85",
+      "bp": "3",
+      "droneImage": "boss_symbiont_hellraiser_f",
+      "weaponBlueprint": "DRONE_FIREBEAM_COMBAT",
+      "rarity": "0",
+      "iconImage": "combat"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "SYMBIONT_HULL",
+      "type": "COMBAT",
+      "tip": "tip_combat",
+      "title": "Symbiont [Hull]",
+      "short": "Symbiont [H]",
+      "desc": "This bizarre mutated Technopath is capable of mimicking various drone schematics via the storage, but cannot toggle forms during combat.\n\tCurrently mimicking: Hellraiser [H]",
+      "power": "1",
+      "cooldown": "1000",
+      "dodge": "0",
+      "speed": "13",
+      "cost": "85",
+      "bp": "3",
+      "droneImage": "boss_symbiont_hellraiser_h",
+      "weaponBlueprint": "DRONE_HULLBEAM_COMBAT",
+      "rarity": "0",
+      "iconImage": "combat"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "SYMBIONT_ION",
+      "type": "COMBAT",
+      "tip": "tip_combat",
+      "title": "Symbiont [Ion]",
+      "short": "Symbiont [Ion 4]",
+      "desc": "This bizarre mutated Technopath is capable of mimicking various drone schematics via the storage, but cannot toggle forms during combat.\n\tCurrently mimicking: Amp Ion [4]",
+      "power": "2",
+      "cooldown": "1000",
+      "dodge": "0",
+      "speed": "5",
+      "cost": "85",
+      "bp": "3",
+      "droneImage": "boss_symbiont_ion1_a3",
+      "weaponBlueprint": "DRONE_ION_AMP_3",
+      "rarity": "0",
+      "iconImage": "combat"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "SYMBIONT_ENERGY",
+      "type": "COMBAT",
+      "tip": "tip_combat",
+      "title": "Symbiont [Energy]",
+      "short": "Symbiont [E.4]",
+      "desc": "This bizarre mutated Technopath is capable of mimicking various drone schematics via the storage, but cannot toggle forms during combat.\n\tCurrently mimicking: Amp Energy [4]",
+      "power": "2",
+      "cooldown": "1000",
+      "dodge": "0",
+      "speed": "4",
+      "cost": "85",
+      "bp": "3",
+      "droneImage": "boss_symbiont_energy1_a3",
+      "weaponBlueprint": "DRONE_ENERGY_AMP_3",
+      "rarity": "0",
+      "iconImage": "combat"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "SYMBIONT_FOCUS",
+      "type": "COMBAT",
+      "tip": "tip_combat",
+      "title": "Symbiont [Pinpoint]",
+      "short": "Symbiont [P.4]",
+      "desc": "This bizarre mutated Technopath is capable of mimicking various drone schematics via the storage, but cannot toggle forms during combat.\n\tCurrently mimicking: Amp Pinpoint [4]",
+      "power": "2",
+      "cooldown": "1000",
+      "dodge": "0",
+      "speed": "6",
+      "cost": "85",
+      "bp": "3",
+      "droneImage": "boss_symbiont_focus_a3",
+      "weaponBlueprint": "DRONE_FOCUS_AMP_3",
+      "rarity": "0",
+      "iconImage": "combat"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "SYMBIONT_FLAK",
+      "type": "COMBAT",
+      "tip": "tip_combat",
+      "title": "Symbiont [Flak]",
+      "short": "Symbiont [Fl.4]",
+      "desc": "This bizarre mutated Technopath is capable of mimicking various drone schematics via the storage, but cannot toggle forms during combat.\n\tCurrently mimicking: Amp Flak [4]",
+      "power": "2",
+      "cooldown": "1000",
+      "dodge": "0",
+      "speed": "7",
+      "cost": "85",
+      "bp": "3",
+      "droneImage": "boss_symbiont_flak_a3",
+      "weaponBlueprint": "DRONE_FLAK_AMP_3",
+      "rarity": "0",
+      "iconImage": "combat"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "SYMBIONT_OMNI",
+      "type": "DEFENSE",
+      "target": "ALL",
+      "tip": "tip_defense",
+      "title": "Symbiont [OmniDrone]",
+      "short": "Symbiont [Omni]",
+      "desc": "This bizarre mutated Technopath is capable of mimicking various drone schematics via the storage, but cannot toggle forms during combat.\n\tCurrently mimicking: OmniDrone\n\tReload: 900 MS",
+      "power": "1",
+      "cooldown": "900",
+      "dodge": "0",
+      "speed": "15",
+      "cost": "85",
+      "bp": "2",
+      "droneImage": "boss_symbiont_omni",
+      "weaponBlueprint": "DRONE_OMNI_LASER",
+      "iconImage": "defense",
+      "rarity": "0"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "SYMBIONT_ANCIENT_LASER",
+      "type": "COMBAT",
+      "tip": "tip_ancient",
+      "title": "Symbiont [Harbinger]",
+      "short": "Symbiont [Harb.]",
+      "desc": "This bizarre mutated Technopath is capable of mimicking various drone schematics via the storage, but cannot toggle forms during combat.\n\tCurrently mimicking: Harbinger II",
+      "power": "2",
+      "cooldown": "1000",
+      "dodge": "0",
+      "speed": "25",
+      "cost": "85",
+      "bp": "3",
+      "droneImage": "boss_symbiont_ancient_laser2",
+      "weaponBlueprint": "ANCIENT_DRONE_LASER",
+      "rarity": "0",
+      "iconImage": "combat"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "SYMBIONT_ANCIENT_DEFENSE",
+      "type": "DEFENSE",
+      "level": "1",
+      "target": "LASERS",
+      "tip": "tip_defense",
+      "title": "Symbiont [Overwatcher]",
+      "short": "Symbiont [Overw.]",
+      "desc": "This bizarre mutated Technopath is capable of mimicking various drone schematics via the storage, but cannot toggle forms during combat.\n\tCurrently mimicking: Overwatcher\n\tReload: 100 MS",
+      "power": "2",
+      "cooldown": "100",
+      "dodge": "0",
+      "speed": "8",
+      "cost": "85",
+      "bp": "2",
+      "droneImage": "boss_symbiont_ancient_defense1",
+      "weaponBlueprint": "ANCIENT_DRONE_DEFENSE",
+      "iconImage": "defense",
+      "rarity": "0"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "SYMBIONT_ANCIENT_ION",
+      "type": "COMBAT",
+      "tip": "tip_ancient",
+      "title": "Symbiont [Plasma]",
+      "short": "Symbiont [Plasma]",
+      "desc": "This bizarre mutated Technopath is capable of mimicking various drone schematics via the storage, but cannot toggle forms during combat.\n\tCurrently mimicking: Plasma",
+      "power": "1",
+      "cooldown": "1000",
+      "dodge": "0",
+      "speed": "7",
+      "cost": "85",
+      "bp": "3",
+      "droneImage": "boss_symbiont_ancient_ion",
+      "weaponBlueprint": "ANCIENT_DRONE_ION",
+      "rarity": "0",
+      "iconImage": "combat"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "SYMBIONT_ANCIENT_MISSILE",
+      "type": "COMBAT",
+      "tip": "tip_ancient",
+      "title": "Symbiont [Carnage]",
+      "short": "Symbiont [Carn.]",
+      "desc": "This bizarre mutated Technopath is capable of mimicking various drone schematics via the storage, but cannot toggle forms during combat.\n\tCurrently mimicking: Carnage",
+      "power": "1",
+      "cooldown": "1000",
+      "dodge": "0",
+      "speed": "3",
+      "cost": "85",
+      "bp": "3",
+      "droneImage": "boss_symbiont_ancient_missiles",
+      "weaponBlueprint": "ANCIENT_DRONE_MISSILES",
+      "rarity": "0",
+      "iconImage": "combat"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "SYMBIONT_CHAOS_DEFENSE",
+      "type": "DEFENSE",
+      "level": "1",
+      "target": "LASERS",
+      "tip": "tip_defense",
+      "title": "Chaotic Symbiont [Defense]",
+      "short": "Symbiont™ [Def.]",
+      "desc": "This bizarre mutated Technopath is capable of mimicking various drone schematics via the storage, but cannot toggle forms during combat.\n\tChaotic variant augments the power of mimicked drones instead of making them more power efficient.\n\tCurrently mimicking: Defense II\n\tReload: 200 MS",
+      "power": "3",
+      "cooldown": "200",
+      "dodge": "0",
+      "speed": "7",
+      "cost": "85",
+      "bp": "2",
+      "droneImage": "boss_symbiont_chaos_defense_2",
+      "weaponBlueprint": "DRONE_LASER_DEFENSE",
+      "iconImage": "defense",
+      "rarity": "0"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "SYMBIONT_CHAOS_DEFENSE_MISSILE",
+      "type": "DEFENSE",
+      "level": "1",
+      "tip": "tip_defense",
+      "title": "Chaotic Symbiont [M]",
+      "short": "Symbiont™ [M]",
+      "desc": "This bizarre mutated Technopath is capable of mimicking various drone schematics via the storage, but cannot toggle forms during combat.\n\tChaotic variant augments the power of mimicked drones instead of making them more power efficient.\n\tCurrently mimicking: Guardian II [M]\n\tReload: 300 MS",
+      "power": "3",
+      "cooldown": "600",
+      "dodge": "0",
+      "speed": "5",
+      "cost": "85",
+      "bp": "2",
+      "droneImage": "boss_symbiont_chaos_togguardian2_m",
+      "weaponBlueprint": "DRONE_MISSILE_DEFENSE",
+      "iconImage": "defense",
+      "rarity": "0"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "SYMBIONT_CHAOS_DEFENSE_DRONE",
+      "type": "DEFENSE",
+      "level": "1",
+      "tip": "tip_defense",
+      "title": "Chaotic Symbiont [D]",
+      "short": "Symbiont™ [D]",
+      "desc": "This bizarre mutated Technopath is capable of mimicking various drone schematics via the storage, but cannot toggle forms during combat.\n\tChaotic variant augments the power of mimicked drones instead of making them more power efficient.\n\tCurrently mimicking: Guardian II [D]\n\tReload: 300 MS",
+      "target": "DRONES",
+      "power": "3",
+      "cooldown": "600",
+      "dodge": "0",
+      "speed": "5",
+      "cost": "85",
+      "bp": "2",
+      "droneImage": "boss_symbiont_chaos_togguardian2_d",
+      "weaponBlueprint": "DRONE_ION_DEFENSE",
+      "iconImage": "defense",
+      "rarity": "0"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "SYMBIONT_CHAOS_LASER",
+      "type": "COMBAT",
+      "tip": "tip_combat",
+      "title": "Chaotic Symbiont [Laser]",
+      "short": "Symbiont™ [L]",
+      "desc": "This bizarre mutated Technopath is capable of mimicking various drone schematics via the storage, but cannot toggle forms during combat.\n\tChaotic variant augments the power of mimicked drones instead of making them more power efficient.\n\tCurrently mimicking: Combat II [L]",
+      "power": "3",
+      "cooldown": "1000",
+      "dodge": "0",
+      "speed": "50",
+      "cost": "85",
+      "bp": "3",
+      "droneImage": "boss_symbiont_chaos_combat2_l",
+      "weaponBlueprint": "DRONE_LASER_COMBAT",
+      "rarity": "0",
+      "iconImage": "combat"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "SYMBIONT_CHAOS_BEAM",
+      "type": "COMBAT",
+      "tip": "tip_combat",
+      "title": "Chaotic Symbiont [Beam]",
+      "short": "Symbiont™ [B]",
+      "desc": "This bizarre mutated Technopath is capable of mimicking various drone schematics via the storage, but cannot toggle forms during combat.\n\tChaotic variant augments the power of mimicked drones instead of making them more power efficient.\n\tCurrently mimicking: Combat II [B]",
+      "power": "3",
+      "cooldown": "1000",
+      "dodge": "0",
+      "speed": "45",
+      "cost": "85",
+      "bp": "3",
+      "droneImage": "boss_symbiont_chaos_combat2_b",
+      "weaponBlueprint": "DRONE_BEAM_COMBAT",
+      "rarity": "0",
+      "iconImage": "combat"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "SYMBIONT_CHAOS_FIRE",
+      "type": "COMBAT",
+      "tip": "tip_combat",
+      "title": "Chaotic Symbiont [Fire]",
+      "short": "Symbiont™ [F]",
+      "desc": "This bizarre mutated Technopath is capable of mimicking various drone schematics via the storage, but cannot toggle forms during combat.\n\tChaotic variant augments the power of mimicked drones instead of making them more power efficient.\n\tCurrently mimicking: Hellraiser [F]",
+      "power": "3",
+      "cooldown": "1000",
+      "dodge": "0",
+      "speed": "30",
+      "cost": "85",
+      "bp": "3",
+      "droneImage": "boss_symbiont_chaos_hellraiser_f",
+      "weaponBlueprint": "DRONE_FIREBEAM_COMBAT",
+      "rarity": "0",
+      "iconImage": "combat"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "SYMBIONT_CHAOS_HULL",
+      "type": "COMBAT",
+      "tip": "tip_combat",
+      "title": "Chaotic Symbiont [Hull]",
+      "short": "Symbiont™ [H]",
+      "desc": "This bizarre mutated Technopath is capable of mimicking various drone schematics via the storage, but cannot toggle forms during combat.\n\tChaotic variant augments the power of mimicked drones instead of making them more power efficient.\n\tCurrently mimicking: Hellraiser [H]",
+      "power": "3",
+      "cooldown": "1000",
+      "dodge": "0",
+      "speed": "35",
+      "cost": "85",
+      "bp": "3",
+      "droneImage": "boss_symbiont_chaos_hellraiser_h",
+      "weaponBlueprint": "DRONE_HULLBEAM_COMBAT",
+      "rarity": "0",
+      "iconImage": "combat"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "SYMBIONT_CHAOS_ION",
+      "type": "COMBAT",
+      "tip": "tip_combat",
+      "title": "Chaotic Symbiont [Ion]",
+      "short": "Symbiont™ [Ion 4]",
+      "desc": "This bizarre mutated Technopath is capable of mimicking various drone schematics via the storage, but cannot toggle forms during combat.\n\tChaotic variant augments the power of mimicked drones instead of making them more power efficient.\n\tCurrently mimicking: Amp Ion [4]",
+      "power": "4",
+      "cooldown": "1000",
+      "dodge": "0",
+      "speed": "15",
+      "cost": "85",
+      "bp": "3",
+      "droneImage": "boss_symbiont_chaos_ion1_a3",
+      "weaponBlueprint": "DRONE_ION_AMP_3",
+      "rarity": "0",
+      "iconImage": "combat"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "SYMBIONT_CHAOS_ENERGY",
+      "type": "COMBAT",
+      "tip": "tip_combat",
+      "title": "Chaotic Symbiont [Energy]",
+      "short": "Symbiont™ [E.4]",
+      "desc": "This bizarre mutated Technopath is capable of mimicking various drone schematics via the storage, but cannot toggle forms during combat.\n\tChaotic variant augments the power of mimicked drones instead of making them more power efficient.\n\tCurrently mimicking: Amp Energy [4]",
+      "power": "4",
+      "cooldown": "1000",
+      "dodge": "0",
+      "speed": "12",
+      "cost": "85",
+      "bp": "3",
+      "droneImage": "boss_symbiont_chaos_energy1_a3",
+      "weaponBlueprint": "DRONE_ENERGY_AMP_3",
+      "rarity": "0",
+      "iconImage": "combat"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "SYMBIONT_CHAOS_FOCUS",
+      "type": "COMBAT",
+      "tip": "tip_combat",
+      "title": "Chaotic Symbiont [Pinpoint]",
+      "short": "Symbiont™ [P.4]",
+      "desc": "This bizarre mutated Technopath is capable of mimicking various drone schematics via the storage, but cannot toggle forms during combat.\n\tChaotic variant augments the power of mimicked drones instead of making them more power efficient.\n\tCurrently mimicking: Amp Pinpoint [4]",
+      "power": "4",
+      "cooldown": "1000",
+      "dodge": "0",
+      "speed": "18",
+      "cost": "85",
+      "bp": "3",
+      "droneImage": "boss_symbiont_chaos_focus_a3",
+      "weaponBlueprint": "DRONE_FOCUS_AMP_3",
+      "rarity": "0",
+      "iconImage": "combat"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "SYMBIONT_CHAOS_FLAK",
+      "type": "COMBAT",
+      "tip": "tip_combat",
+      "title": "Chaotic Symbiont [Flak]",
+      "short": "Symbiont™ [Fl.4]",
+      "desc": "This bizarre mutated Technopath is capable of mimicking various drone schematics via the storage, but cannot toggle forms during combat.\n\tChaotic variant augments the power of mimicked drones instead of making them more power efficient.\n\tCurrently mimicking: Amp Flak [4]",
+      "power": "4",
+      "cooldown": "1000",
+      "dodge": "0",
+      "speed": "21",
+      "cost": "85",
+      "bp": "3",
+      "droneImage": "boss_symbiont_chaos_flak_a3",
+      "weaponBlueprint": "DRONE_FLAK_AMP_3",
+      "rarity": "0",
+      "iconImage": "combat"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "SYMBIONT_CHAOS_OMNI",
+      "type": "DEFENSE",
+      "target": "ALL",
+      "tip": "tip_defense",
+      "title": "Chaotic Symbiont [OmniDrone]",
+      "short": "Symbiont™ [Omni]",
+      "desc": "This bizarre mutated Technopath is capable of mimicking various drone schematics via the storage, but cannot toggle forms during combat.\n\tChaotic variant augments the power of mimicked drones instead of making them more power efficient.\n\tCurrently mimicking: OmniDrone\n\tReload: 300 MS",
+      "power": "3",
+      "cooldown": "300",
+      "dodge": "0",
+      "speed": "15",
+      "cost": "85",
+      "bp": "2",
+      "droneImage": "boss_symbiont_chaos_omni",
+      "weaponBlueprint": "DRONE_OMNI_LASER",
+      "iconImage": "defense",
+      "rarity": "0"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "SYMBIONT_CHAOS_ANCIENT_LASER",
+      "type": "COMBAT",
+      "tip": "tip_ancient",
+      "title": "Chaotic Symbiont [Harbinger]",
+      "short": "Symbiont™ [Harb.]",
+      "desc": "This bizarre mutated Technopath is capable of mimicking various drone schematics via the storage, but cannot toggle forms during combat.\n\tChaotic variant augments the power of mimicked drones instead of making them more power efficient.\n\tCurrently mimicking: Harbinger II",
+      "power": "4",
+      "cooldown": "1000",
+      "dodge": "0",
+      "speed": "25",
+      "cost": "85",
+      "bp": "3",
+      "droneImage": "boss_symbiont_chaos_ancient_laser2",
+      "weaponBlueprint": "ROYAL_DRONE_LASER",
+      "rarity": "0",
+      "iconImage": "combat"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "SYMBIONT_CHAOS_ANCIENT_DEFENSE",
+      "type": "DEFENSE",
+      "level": "1",
+      "target": "LASERS",
+      "tip": "tip_defense",
+      "title": "Chaotic Symbiont [Overwatcher]",
+      "short": "Symbiont™ [Overw.]",
+      "desc": "This bizarre mutated Technopath is capable of mimicking various drone schematics via the storage, but cannot toggle forms during combat.\n\tChaotic variant augments the power of mimicked drones instead of making them more power efficient.\n\tCurrently mimicking: Overwatcher\n\tReload: 50 MS",
+      "power": "4",
+      "cooldown": "50",
+      "dodge": "0",
+      "speed": "8",
+      "cost": "85",
+      "bp": "2",
+      "droneImage": "boss_symbiont_chaos_ancient_defense1",
+      "weaponBlueprint": "ROYAL_DRONE_DEFENSE",
+      "iconImage": "defense",
+      "rarity": "0"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "SYMBIONT_CHAOS_ANCIENT_ION",
+      "type": "COMBAT",
+      "tip": "tip_ancient",
+      "title": "Chaotic Symbiont [Plasma]",
+      "short": "Symbiont™ [Plasma]",
+      "desc": "This bizarre mutated Technopath is capable of mimicking various drone schematics via the storage, but cannot toggle forms during combat.\n\tChaotic variant augments the power of mimicked drones instead of making them more power efficient.\n\tCurrently mimicking: Plasma",
+      "power": "3",
+      "cooldown": "1000",
+      "dodge": "0",
+      "speed": "7",
+      "cost": "85",
+      "bp": "3",
+      "droneImage": "boss_symbiont_chaos_ancient_ion",
+      "weaponBlueprint": "ROYAL_DRONE_ION",
+      "rarity": "0",
+      "iconImage": "combat"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "SYMBIONT_CHAOS_ANCIENT_MISSILE",
+      "type": "COMBAT",
+      "tip": "tip_ancient",
+      "title": "Chaotic Symbiont [Carnage]",
+      "short": "Symbiont™ [Carn.]",
+      "desc": "This bizarre mutated Technopath is capable of mimicking various drone schematics via the storage, but cannot toggle forms during combat.\n\tChaotic variant augments the power of mimicked drones instead of making them more power efficient.\n\tCurrently mimicking: Carnage",
+      "power": "3",
+      "cooldown": "1000",
+      "dodge": "0",
+      "speed": "3",
+      "cost": "85",
+      "bp": "3",
+      "droneImage": "boss_symbiont_chaos_ancient_missiles",
+      "weaponBlueprint": "ANCIENT_ROYAL_MISSILES",
+      "rarity": "0",
+      "iconImage": "combat"
+    }
+  },
+  {
+    "droneBlueprint": {
+      "name": "BOARDER_ION",
+      "type": "BOARDER",
+      "tip": "tip_boarding",
+      "locked": "1",
+      "title": "Ion Intruder Drone",
+      "short": "I. Intruder",
+      "desc": "Manually controlled drone that breaches through the enemy hull and ionizes systems.\n\n-Periodic Ability: inflicts 3 ion damage to a system and 6s stun to nearby enemies\n-175 HP, 0.8x movement speed",
+      "power": "3",
+      "speed": "18",
+      "cost": "65",
+      "rarity": "4",
+      "iconImage": "ionD"
+    }
+  }
+]
