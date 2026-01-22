@@ -50,7 +50,8 @@
             }
           ]
         }
-      }
+      },
+      "_id": "energy"
     }
   },
   {
@@ -197,6 +198,7 @@
           }
         ]
       },
+      "_id": "human",
       "race": {
         "name": "human",
         "suffocationModifier": "0.83",
@@ -278,6 +280,7 @@
           }
         ]
       },
+      "_id": "human_humanoid",
       "race": {
         "name": "human_humanoid",
         "animSheet": "human",
@@ -347,6 +350,7 @@
           }
         ]
       },
+      "_id": "human_medic",
       "race": {
         "name": "human_medic",
         "nameRace": "easter_tommy",
@@ -496,6 +500,7 @@
           }
         ]
       },
+      "_id": "human_engineer",
       "race": {
         "name": "human_engineer",
         "repairSpeed": "1.2",
@@ -624,6 +629,7 @@
           }
         ]
       },
+      "_id": "human_rebel",
       "race": {
         "name": "human_rebel",
         "suffocationModifier": "0.83",
@@ -746,6 +752,7 @@
           }
         ]
       },
+      "_id": "human_rebel_medic",
       "race": {
         "name": "human_rebel_medic",
         "suffocationModifier": "0.83",
@@ -791,6 +798,7 @@
           "Slightly reduced suffocation damage"
         ]
       },
+      "_id": "engi",
       "race": {
         "name": "engi",
         "maxHealth": "90",
@@ -874,6 +882,7 @@
           }
         ]
       },
+      "_id": "engi_separatist",
       "race": {
         "name": "engi_separatist",
         "repairSpeed": "1.75",
@@ -966,6 +975,7 @@
           }
         ]
       },
+      "_id": "engi_separatist_nano",
       "race": {
         "name": "engi_separatist_nano",
         "canFight": "false",
@@ -1065,6 +1075,7 @@
           ]
         }
       },
+      "_id": "zoltan",
       "race": {
         "name": "zoltan",
         "maxHealth": "75",
@@ -1176,6 +1187,7 @@
           }
         ]
       },
+      "_id": "zoltan_monk",
       "race": {
         "name": "zoltan_monk",
         "canFight": "false",
@@ -1264,6 +1276,7 @@
           }
         ]
       },
+      "_id": "zoltan_infernum",
       "race": {
         "name": "zoltan_infernum",
         "maxHealth": "75",
@@ -1424,6 +1437,7 @@
           }
         ]
       },
+      "_id": "zoltan_infernum_defector",
       "race": {
         "name": "zoltan_infernum_defector",
         "animSheet": "zoltan_infernum",
@@ -1554,6 +1568,7 @@
           }
         ]
       },
+      "_id": "zoltan_devotee",
       "race": {
         "name": "zoltan_devotee",
         "maxHealth": "65",
@@ -1710,6 +1725,7 @@
           }
         ]
       },
+      "_id": "zoltan_osmian",
       "race": {
         "name": "zoltan_osmian",
         "suffocationModifier": "0.75",
@@ -1851,6 +1867,7 @@
           }
         ]
       },
+      "_id": "zoltan_osmian_enemy",
       "race": {
         "name": "zoltan_osmian_enemy",
         "animSheet": "zoltan_osmian",
@@ -1888,6 +1905,7 @@
           "Provides 1 power and can man systems at lvl2 skill level"
         ]
       },
+      "_id": "zoltan_osmian_hologram",
       "race": {
         "name": "zoltan_osmian_hologram",
         "lowHealthThreshold": "-1",
@@ -2065,6 +2083,7 @@
           }
         ]
       },
+      "_id": "orchid",
       "race": {
         "name": "orchid",
         "fireDamageMultiplier": "1.75",
@@ -2178,6 +2197,7 @@
           ]
         }
       },
+      "_id": "orchid_caretaker",
       "race": {
         "name": "orchid_caretaker",
         "maxHealth": "80",
@@ -2341,6 +2361,7 @@
           }
         ]
       },
+      "_id": "orchid_vampweed",
       "race": {
         "name": "orchid_vampweed",
         "fireDamageMultiplier": "1.75",
@@ -2459,6 +2480,7 @@
           }
         ]
       },
+      "_id": "shell",
       "race": {
         "name": "shell",
         "suffocationModifier": "2.0",
@@ -2501,6 +2523,7 @@
           "Takes 0.9x damage from crew combat"
         ]
       },
+      "_id": "shell_scientist",
       "race": {
         "name": "shell_scientist",
         "suffocationModifier": "2.0",
@@ -2544,6 +2567,7 @@
           "Takes 0.9x damage from crew combat"
         ]
       },
+      "_id": "shell_mechanic",
       "race": {
         "name": "shell_mechanic",
         "suffocationModifier": "2.0",
@@ -2588,6 +2612,7 @@
           "Takes 0.7x damage from crew combat"
         ]
       },
+      "_id": "shell_guardian",
       "race": {
         "name": "shell_guardian",
         "suffocationModifier": "2.0",
@@ -2720,6 +2745,7 @@
           ]
         }
       },
+      "_id": "mantis",
       "race": {
         "name": "mantis",
         "repairSpeed": "0.5",
@@ -2840,6 +2866,7 @@
           ]
         }
       },
+      "_id": "mantis_free",
       "race": {
         "name": "mantis_free",
         "repairSpeed": "0.5",
@@ -2881,6 +2908,7 @@
           "Inflicts 1.2x damage in crew combat"
         ]
       },
+      "_id": "mantis_free_chaos",
       "race": {
         "name": "mantis_free_chaos",
         "lowHealthThreshold": "-1",
@@ -2984,6 +3012,7 @@
           ]
         }
       },
+      "_id": "rock",
       "race": {
         "name": "rock",
         "lowHealthThreshold": "2500.0",
@@ -3099,6 +3128,7 @@
           }
         ]
       },
+      "_id": "rock_outcast",
       "race": {
         "name": "rock_outcast",
         "lowHealthThreshold": "2500.0",
@@ -3193,6 +3223,7 @@
           }
         ]
       },
+      "_id": "rock_commando",
       "race": {
         "name": "rock_commando",
         "lowHealthThreshold": "2500.0",
@@ -3317,6 +3348,7 @@
           }
         ]
       },
+      "_id": "rock_cultist",
       "race": {
         "name": "rock_cultist",
         "lowHealthThreshold": "2500.0",
@@ -3417,6 +3449,7 @@
           ]
         }
       },
+      "_id": "crystal",
       "race": {
         "name": "crystal",
         "maxHealth": "125",
@@ -3520,6 +3553,7 @@
           ]
         }
       },
+      "_id": "crystal_liberator",
       "race": {
         "name": "crystal_liberator",
         "maxHealth": "150",
@@ -3623,6 +3657,7 @@
           ]
         }
       },
+      "_id": "slug",
       "race": {
         "name": "slug",
         "detectsLifeforms": "true",
@@ -3698,6 +3733,7 @@
           ]
         }
       },
+      "_id": "slug_hektar",
       "race": {
         "name": "slug_hektar",
         "detectsLifeforms": "true",
@@ -3784,6 +3820,7 @@
           ]
         }
       },
+      "_id": "slug_hektar_box",
       "race": {
         "name": "slug_hektar_box",
         "detectsLifeforms": "true",
@@ -3963,6 +4000,7 @@
           }
         ]
       },
+      "_id": "slug_clansman",
       "race": {
         "name": "slug_clansman",
         "damageTakenMultiplier": "0.9",
@@ -4118,6 +4156,7 @@
           }
         ]
       },
+      "_id": "leech",
       "race": {
         "name": "leech",
         "maxHealth": "90",
@@ -4229,6 +4268,7 @@
           ]
         }
       },
+      "_id": "siren",
       "race": {
         "name": "siren",
         "damageEnemiesAmount": "2.048",
@@ -4274,6 +4314,7 @@
           }
         }
       },
+      "_id": "phantom",
       "race": {
         "name": "phantom",
         "maxHealth": "80",
@@ -4313,6 +4354,7 @@
           }
         }
       },
+      "_id": "phantom_goul",
       "race": {
         "name": "phantom_goul",
         "maxHealth": "80",
@@ -4364,6 +4406,7 @@
           }
         }
       },
+      "_id": "phantom_mare",
       "race": {
         "name": "phantom_mare",
         "maxHealth": "80",
@@ -4414,6 +4457,7 @@
           }
         }
       },
+      "_id": "phantom_wraith",
       "race": {
         "name": "phantom_wraith",
         "maxHealth": "80",
@@ -4487,6 +4531,7 @@
           ]
         }
       },
+      "_id": "lanius",
       "race": {
         "name": "lanius",
         "oxygenChangeSpeed": "-0.525",
@@ -4517,6 +4562,7 @@
           "Sabotages systems at 1.2x speed"
         ]
       },
+      "_id": "lanius_augmented",
       "race": {
         "name": "lanius_augmented",
         "maxHealth": "110",
@@ -4654,6 +4700,7 @@
           }
         ]
       },
+      "_id": "spider",
       "race": {
         "name": "spider",
         "controllable": "false",
@@ -4793,6 +4840,7 @@
           }
         ]
       },
+      "_id": "spider_weaver",
       "race": {
         "name": "spider_weaver",
         "controllable": "false",
@@ -4933,6 +4981,7 @@
           }
         ]
       },
+      "_id": "spider_hatch",
       "race": {
         "name": "spider_hatch",
         "controllable": "false",
@@ -4985,6 +5034,7 @@
       "powerList": {
         "power": "Easily squished."
       },
+      "_id": "tinybug",
       "race": {
         "name": "tinybug",
         "controllable": "false",
@@ -5016,6 +5066,7 @@
           "Can be tamed using the crew lab"
         ]
       },
+      "_id": "pony",
       "race": {
         "name": "pony",
         "controllable": "false",
@@ -5068,6 +5119,7 @@
           "Cannot man systems"
         ]
       },
+      "_id": "pony_tamed",
       "race": {
         "name": "pony_tamed",
         "nameRace": "easter_sunkist",
@@ -5112,6 +5164,7 @@
           "Cannot man systems"
         ]
       },
+      "_id": "pony_engi",
       "race": {
         "name": "pony_engi",
         "essential": "1",
@@ -5162,6 +5215,7 @@
           "Does not occupy a crew slot, cannot man systems"
         ]
       },
+      "_id": "pony_engi_chaos",
       "race": {
         "name": "pony_engi_chaos",
         "essential": "1",
@@ -5214,6 +5268,7 @@
           "Cannot man systems"
         ]
       },
+      "_id": "pony_engi_nano",
       "race": {
         "name": "pony_engi_nano",
         "essential": "1",
@@ -5272,6 +5327,7 @@
           "Does not occupy a crew slot, cannot man systems"
         ]
       },
+      "_id": "pony_engi_nano_chaos",
       "race": {
         "name": "pony_engi_nano_chaos",
         "essential": "1",
@@ -5410,6 +5466,7 @@
           }
         ]
       },
+      "_id": "lizard",
       "race": {
         "name": "lizard",
         "maxHealth": "120",
@@ -5449,6 +5506,7 @@
           "Can be switched between Control and Liberated modes with a cooldown, losing direct control but granting large boosts to their stats"
         ]
       },
+      "_id": "cognitive",
       "race": {
         "name": "cognitive",
         "maxHealth": "70",
@@ -5508,6 +5566,7 @@
           "Can be switched between Control and Liberated modes with a cooldown, losing direct control but granting large boosts to their stats"
         ]
       },
+      "_id": "cognitive_automated",
       "race": {
         "name": "cognitive_automated",
         "animSheet": "cognitive",
@@ -5570,6 +5629,7 @@
           "Movement speed is reduced to 0.75x"
         ]
       },
+      "_id": "obelisk",
       "race": {
         "name": "obelisk",
         "lowHealthThreshold": "2500.0",
@@ -5601,6 +5661,7 @@
           "Learns skills much faster"
         ]
       },
+      "_id": "human_soldier",
       "race": {
         "name": "human_soldier",
         "nameRace": "easter_coomer",
@@ -5639,6 +5700,7 @@
           "Trained in lvl2 skills"
         ]
       },
+      "_id": "human_mfk",
       "race": {
         "name": "human_mfk",
         "damageMultiplier": "2",
@@ -5671,6 +5733,7 @@
           "Trained in lvl2 skills, gains 13% combat resistance and 10% movement speed for every enemy crew in the room"
         ]
       },
+      "_id": "human_legion",
       "race": {
         "name": "human_legion",
         "damageMultiplier": "2.6",
@@ -5707,6 +5770,7 @@
           "Explodes on death, damaging any system and crew in the room and starting fires"
         ]
       },
+      "_id": "human_legion_pyro",
       "race": {
         "name": "human_legion_pyro",
         "suffocationModifier": "0.83",
@@ -5792,6 +5856,7 @@
           ]
         }
       },
+      "_id": "human_technician",
       "race": {
         "name": "human_technician",
         "repairSpeed": "1.5",
@@ -5847,6 +5912,7 @@
           "Movement speed is doubled"
         ]
       },
+      "_id": "human_technician_drone",
       "race": {
         "name": "human_technician_drone",
         "lowHealthThreshold": "-1",
@@ -5896,6 +5962,7 @@
           "Trained in lvl2 skills"
         ]
       },
+      "_id": "human_angel",
       "race": {
         "name": "human_angel",
         "damageMultiplier": "1.3",
@@ -5953,6 +6020,7 @@
           ]
         }
       },
+      "_id": "engi_defender",
       "race": {
         "name": "engi_defender",
         "repairSpeed": "2.7",
@@ -6057,6 +6125,7 @@
           }
         ]
       },
+      "_id": "zoltan_peacekeeper",
       "race": {
         "name": "zoltan_peacekeeper",
         "maxHealth": "65",
@@ -6157,6 +6226,7 @@
           }
         ]
       },
+      "_id": "zoltan_martyr",
       "race": {
         "name": "zoltan_martyr",
         "maxHealth": "75",
@@ -6213,6 +6283,7 @@
           "Takes 3x damage from fire, rapidly refills oxygen"
         ]
       },
+      "_id": "orchid_praetor",
       "race": {
         "name": "orchid_praetor",
         "maxHealth": "125",
@@ -6389,6 +6460,7 @@
           }
         ]
       },
+      "_id": "orchid_cultivator",
       "race": {
         "name": "orchid_cultivator",
         "maxHealth": "125",
@@ -6537,6 +6609,7 @@
           }
         ]
       },
+      "_id": "mantis_suzerain",
       "race": {
         "name": "mantis_suzerain",
         "repairSpeed": "0.15",
@@ -6577,6 +6650,7 @@
           "Takes 0.8x damage from crew combat"
         ]
       },
+      "_id": "mantis_warlord",
       "race": {
         "name": "mantis_warlord",
         "maxHealth": "90",
@@ -6722,6 +6796,7 @@
           }
         ]
       },
+      "_id": "mantis_bishop",
       "race": {
         "name": "mantis_bishop",
         "repairSpeed": "0.07",
@@ -6764,6 +6839,7 @@
           "Max Health is increased to 300"
         ]
       },
+      "_id": "rock_crusader",
       "race": {
         "name": "rock_crusader",
         "lowHealthThreshold": "2500.0",
@@ -6804,6 +6880,7 @@
           "Max Health is increased to 400, heals at double speed"
         ]
       },
+      "_id": "rock_paladin",
       "race": {
         "name": "rock_paladin",
         "lowHealthThreshold": "2500.0",
@@ -6888,6 +6965,7 @@
           ]
         }
       },
+      "_id": "crystal_sentinel",
       "race": {
         "name": "crystal_sentinel",
         "maxHealth": "135",
@@ -6945,6 +7023,7 @@
           "Creates a breach and deals 15 damage to enemy crew on death"
         ]
       },
+      "_id": "shell_radiant",
       "race": {
         "name": "shell_radiant",
         "suffocationModifier": "5.0",
@@ -7097,6 +7176,7 @@
           }
         ]
       },
+      "_id": "leech_ampere",
       "race": {
         "name": "leech_ampere",
         "maxHealth": "90",
@@ -7193,6 +7273,7 @@
           }
         ]
       },
+      "_id": "slug_saboteur",
       "race": {
         "name": "slug_saboteur",
         "detectsLifeforms": "true",
@@ -7275,6 +7356,7 @@
           ]
         }
       },
+      "_id": "slug_knight",
       "race": {
         "name": "slug_knight",
         "detectsLifeforms": "true",
@@ -7473,6 +7555,7 @@
           }
         ]
       },
+      "_id": "slug_ranger",
       "race": {
         "name": "slug_ranger",
         "canSabotage": "false",
@@ -7528,6 +7611,7 @@
           }
         }
       },
+      "_id": "phantom_alpha",
       "race": {
         "name": "phantom_alpha",
         "maxHealth": "110",
@@ -7569,6 +7653,7 @@
           }
         }
       },
+      "_id": "phantom_goul_alpha",
       "race": {
         "name": "phantom_goul_alpha",
         "maxHealth": "110",
@@ -7622,6 +7707,7 @@
           }
         }
       },
+      "_id": "phantom_mare_alpha",
       "race": {
         "name": "phantom_mare_alpha",
         "maxHealth": "110",
@@ -7674,6 +7760,7 @@
           }
         }
       },
+      "_id": "phantom_wraith_alpha",
       "race": {
         "name": "phantom_wraith_alpha",
         "maxHealth": "110",
@@ -7719,6 +7806,7 @@
           "Repairs and sabotages at 1.25x speed"
         ]
       },
+      "_id": "lanius_welder",
       "race": {
         "name": "lanius_welder",
         "maxHealth": "110",
@@ -7766,6 +7854,7 @@
           "Max Health is increased to 200"
         ]
       },
+      "_id": "siren_harpy",
       "race": {
         "name": "siren_harpy",
         "lowHealthThreshold": "2500.0",
@@ -7804,6 +7893,7 @@
           "Can be switched between Control and Liberated modes with a cooldown, losing direct control but gaining large boosts to their stats"
         ]
       },
+      "_id": "cognitive_advanced",
       "race": {
         "name": "cognitive_advanced",
         "controllable": "true",
@@ -7862,6 +7952,7 @@
           "Can be switched between Control and Liberated modes with a cooldown, losing direct control but gaining large boosts to their stats"
         ]
       },
+      "_id": "cognitive_advanced_automated",
       "race": {
         "name": "cognitive_advanced_automated",
         "animSheet": "cognitive_advanced",
@@ -7924,6 +8015,7 @@
           "Repairs and puts out fires very slowly"
         ]
       },
+      "_id": "obelisk_royal",
       "race": {
         "name": "obelisk_royal",
         "lowHealthThreshold": "2500.0",
@@ -7957,6 +8049,7 @@
           "Trained in lvl2 skills, takes half damage from hazards"
         ]
       },
+      "_id": "unique_tully",
       "race": {
         "name": "unique_tully",
         "essential": "1",
@@ -8010,6 +8103,7 @@
       "powerList": {
         "power": "Admiral of the Rebel Fleet. Kind of a bad dude to be honest."
       },
+      "_id": "unique_vance",
       "race": {
         "name": "unique_vance",
         "essential": "1",
@@ -8115,6 +8209,7 @@
           ]
         }
       },
+      "_id": "unique_haynes",
       "race": {
         "name": "unique_haynes",
         "essential": "1",
@@ -8152,6 +8247,7 @@
       "powerList": {
         "power": "Is a giant pain in the ass."
       },
+      "_id": "unique_leah",
       "race": {
         "name": "unique_leah",
         "essential": "1",
@@ -8177,6 +8273,7 @@
       "powerList": {
         "power": "Really wants you dead."
       },
+      "_id": "unique_leah_mfk",
       "race": {
         "name": "unique_leah_mfk",
         "essential": "1",
@@ -8211,6 +8308,7 @@
           "Self-administers medicine, healing 10hp/s if unharmed for 8 seconds"
         ]
       },
+      "_id": "unique_cyra",
       "race": {
         "name": "unique_cyra",
         "essential": "1",
@@ -8250,6 +8348,7 @@
           "Your new best friend"
         ]
       },
+      "_id": "unique_jerry",
       "race": {
         "name": "unique_jerry",
         "essential": "1",
@@ -8285,6 +8384,7 @@
       "powerList": {
         "power": "Wow, that's a GIANT gun."
       },
+      "_id": "unique_jerry_gun",
       "race": {
         "name": "unique_jerry_gun",
         "essential": "1",
@@ -8327,6 +8427,7 @@
       "powerList": {
         "power": "The Rebellion will regret ever having messed with you."
       },
+      "_id": "unique_jerry_pony",
       "race": {
         "name": "unique_jerry_pony",
         "essential": "1",
@@ -8381,6 +8482,7 @@
       "powerList": {
         "power": "The Rebellion will regret ever having messed with you."
       },
+      "_id": "unique_jerry_pony_crystal",
       "race": {
         "name": "unique_jerry_pony_crystal",
         "essential": "1",
@@ -8448,6 +8550,7 @@
           "Vengeance makes her stronger"
         ]
       },
+      "_id": "unique_ellie",
       "race": {
         "name": "unique_ellie",
         "essential": "1",
@@ -8486,6 +8589,7 @@
           "Vengeance makes her stronger"
         ]
       },
+      "_id": "unique_ellie_lvl2",
       "race": {
         "name": "unique_ellie_lvl2",
         "essential": "1",
@@ -8527,6 +8631,7 @@
           "Vengeance makes her stronger"
         ]
       },
+      "_id": "unique_ellie_lvl3",
       "race": {
         "name": "unique_ellie_lvl3",
         "essential": "1",
@@ -8576,6 +8681,7 @@
           "Vengeance makes her stronger"
         ]
       },
+      "_id": "unique_ellie_lvl4",
       "race": {
         "name": "unique_ellie_lvl4",
         "essential": "1",
@@ -8624,6 +8730,7 @@
           "Vengeance makes her stronger"
         ]
       },
+      "_id": "unique_ellie_lvl5",
       "race": {
         "name": "unique_ellie_lvl5",
         "essential": "1",
@@ -8673,6 +8780,7 @@
           "Has gone completely insane"
         ]
       },
+      "_id": "unique_ellie_lvl6",
       "race": {
         "name": "unique_ellie_lvl6",
         "essential": "1",
@@ -8723,6 +8831,7 @@
           "Cannot fight other crew, moves at 3x speed"
         ]
       },
+      "_id": "unique_ellie_stephan",
       "race": {
         "name": "unique_ellie_stephan",
         "essential": "1",
@@ -8793,6 +8902,7 @@
           ]
         }
       },
+      "_id": "unique_turzil",
       "race": {
         "name": "unique_turzil",
         "essential": "1",
@@ -8847,6 +8957,7 @@
           "Does no damage when dying"
         ]
       },
+      "_id": "unique_anurak",
       "race": {
         "name": "unique_anurak",
         "essential": "1",
@@ -8940,6 +9051,7 @@
           }
         ]
       },
+      "_id": "unique_devorak",
       "race": {
         "name": "unique_devorak",
         "essential": "1",
@@ -8998,6 +9110,7 @@
           "45 damage to enemy crew and 2 ion damage on death"
         ]
       },
+      "_id": "unique_mafan",
       "race": {
         "name": "unique_mafan",
         "maxHealth": "65",
@@ -9046,6 +9159,7 @@
           "Friendly crew in the same room receive 0.75x damage from ALL sources and gain an additional 25% healing speed"
         ]
       },
+      "_id": "unique_mayeb",
       "race": {
         "name": "unique_mayeb",
         "essential": "1",
@@ -9089,6 +9203,7 @@
       "powerList": {
         "power": "Active Ability: Spread his Floral and Vampweed effects to all rooms on the current ship"
       },
+      "_id": "unique_tyerel",
       "race": {
         "name": "unique_tyerel",
         "essential": "1",
@@ -9136,6 +9251,7 @@
           "Each ally in the room present at his side causes enemies to take 15% more damage in crew combat"
         ]
       },
+      "_id": "unique_ivar",
       "race": {
         "name": "unique_ivar",
         "essential": "1",
@@ -9268,6 +9384,7 @@
           }
         ]
       },
+      "_id": "unique_kaz",
       "race": {
         "name": "unique_kaz",
         "essential": "1",
@@ -9313,6 +9430,7 @@
           "Learns skills much faster"
         ]
       },
+      "_id": "unique_freddy",
       "race": {
         "name": "unique_freddy",
         "essential": "1",
@@ -9364,6 +9482,7 @@
           "Learns skills much faster"
         ]
       },
+      "_id": "unique_freddy_fedora",
       "race": {
         "name": "unique_freddy_fedora",
         "essential": "1",
@@ -9407,6 +9526,7 @@
           "Learns skills much faster"
         ]
       },
+      "_id": "unique_freddy_jester",
       "race": {
         "name": "unique_freddy_jester",
         "essential": "1",
@@ -9450,6 +9570,7 @@
           "Learns skills much faster"
         ]
       },
+      "_id": "unique_freddy_sombrero",
       "race": {
         "name": "unique_freddy_sombrero",
         "essential": "1",
@@ -9493,6 +9614,7 @@
           "Learns skills much faster"
         ]
       },
+      "_id": "unique_freddy_twohats",
       "race": {
         "name": "unique_freddy_twohats",
         "essential": "1",
@@ -9534,6 +9656,7 @@
           "Stunned for 0.15x the usual duration"
         ]
       },
+      "_id": "unique_symbiote",
       "race": {
         "name": "unique_symbiote",
         "essential": "1",
@@ -9580,6 +9703,7 @@
           "All allied outcasts gain a 20% crew damage and repair speed boost"
         ]
       },
+      "_id": "unique_tuco",
       "race": {
         "name": "unique_tuco",
         "essential": "1",
@@ -9622,6 +9746,7 @@
           "Enemy crew in the same room take an extra 30% damage from fire"
         ]
       },
+      "_id": "unique_ariadne",
       "race": {
         "name": "unique_ariadne",
         "essential": "1",
@@ -9746,6 +9871,7 @@
           ]
         }
       },
+      "_id": "unique_vortigon",
       "race": {
         "name": "unique_vortigon",
         "essential": "1",
@@ -9798,6 +9924,7 @@
           "Stunned for 0.25x the usual duration"
         ]
       },
+      "_id": "rock_elder",
       "race": {
         "name": "rock_elder",
         "essential": "1",
@@ -9841,6 +9968,7 @@
           "Can install the crew lab or its upgrade for free if you do not have it"
         ]
       },
+      "_id": "unique_alkali",
       "race": {
         "name": "unique_alkali",
         "essential": "1",
@@ -9885,6 +10013,7 @@
           "Greatly reduced suffocation damage"
         ]
       },
+      "_id": "unique_ruwen",
       "race": {
         "name": "unique_ruwen",
         "essential": "1",
@@ -9941,6 +10070,7 @@
           "Allied Crystal crew gain one extra ability charge back per jump"
         ]
       },
+      "_id": "unique_dianesh",
       "race": {
         "name": "unique_dianesh",
         "essential": "1",
@@ -9993,6 +10123,7 @@
           "Ignores doors"
         ]
       },
+      "_id": "unique_nights",
       "race": {
         "name": "unique_nights",
         "essential": "1",
@@ -10041,6 +10172,7 @@
           "Immune to stun afflictions"
         ]
       },
+      "_id": "unique_slocknog",
       "race": {
         "name": "unique_slocknog",
         "essential": "1",
@@ -10083,6 +10215,7 @@
           "Blunderbuss gun does 1.5x damage, but cannot sabotage systems"
         ]
       },
+      "_id": "unique_irwin",
       "race": {
         "name": "unique_irwin",
         "essential": "1",
@@ -10123,6 +10256,7 @@
           "Immune to madness; Tranquilizer also strips the innate properties of lesser eldritch beings, preventing Things from duplicating and allowing Spawns to be damaged"
         ]
       },
+      "_id": "unique_irwin_demon",
       "race": {
         "name": "unique_irwin_demon",
         "essential": "1",
@@ -10162,6 +10296,7 @@
           "Heals at half speed from passive sources, but regenerates 10hp/s while in the box. Cannot leave the box until above 50hp."
         ]
       },
+      "_id": "unique_billy",
       "race": {
         "name": "unique_billy",
         "essential": "1",
@@ -10199,6 +10334,7 @@
           "Heals at half speed from passive sources, but regenerates at 10hp/s while in the box. Cannot leave the box until above 50hp."
         ]
       },
+      "_id": "unique_billy_box",
       "race": {
         "name": "unique_billy_box",
         "essential": "1",
@@ -10254,6 +10390,7 @@
           }
         }
       },
+      "_id": "unique_tyrdeo",
       "race": {
         "name": "unique_tyrdeo",
         "essential": "1",
@@ -10293,6 +10430,7 @@
       "powerList": {
         "power": "Tyrdeo's precious bird."
       },
+      "_id": "unique_tyrdeo_bird",
       "race": {
         "name": "unique_tyrdeo_bird",
         "essential": "1",
@@ -10331,6 +10469,7 @@
           "Movement speed is reduced to 0.7x"
         ]
       },
+      "_id": "unique_alkram",
       "race": {
         "name": "unique_alkram",
         "essential": "1",
@@ -10369,6 +10508,7 @@
           "Moves at x0.25 speed, massive girth provides 150 health"
         ]
       },
+      "_id": "unique_tonysr",
       "race": {
         "name": "unique_tonysr",
         "essential": "1",
@@ -10417,6 +10557,7 @@
           }
         }
       },
+      "_id": "unique_dessius",
       "race": {
         "name": "unique_dessius",
         "essential": "1",
@@ -10465,6 +10606,7 @@
           "Can consume a part of any beacon when there is an opportunity"
         ]
       },
+      "_id": "unique_eater",
       "race": {
         "name": "unique_eater",
         "essential": "1",
@@ -10501,6 +10643,7 @@
           "Sabotages systems at 1.5x speed"
         ]
       },
+      "_id": "unique_anointed",
       "race": {
         "name": "unique_anointed",
         "essential": "1",
@@ -10635,6 +10778,7 @@
           }
         ]
       },
+      "_id": "unique_guntput",
       "race": {
         "name": "unique_guntput",
         "essential": "1",
@@ -10743,6 +10887,7 @@
           ]
         }
       },
+      "_id": "unique_metyunt",
       "race": {
         "name": "unique_metyunt",
         "essential": "1",
@@ -10829,6 +10974,7 @@
           ]
         }
       },
+      "_id": "unique_queen",
       "race": {
         "name": "unique_queen",
         "essential": "1",
@@ -10919,6 +11065,7 @@
           ]
         }
       },
+      "_id": "spider_venom",
       "race": {
         "name": "spider_venom",
         "essential": "1",
@@ -11010,6 +11157,7 @@
           ]
         }
       },
+      "_id": "spider_venom_chaos",
       "race": {
         "name": "spider_venom_chaos",
         "essential": "1",
@@ -11068,6 +11216,7 @@
           "Cannot repair, extinguish, or man systems"
         ]
       },
+      "_id": "ponyc",
       "race": {
         "name": "ponyc",
         "essential": "1",
@@ -11146,6 +11295,7 @@
           ]
         }
       },
+      "_id": "unique_obyn",
       "race": {
         "name": "unique_obyn",
         "essential": "1",
@@ -11227,6 +11377,7 @@
           ]
         }
       },
+      "_id": "unique_obyn_temp",
       "race": {
         "name": "unique_obyn_temp",
         "lowHealthThreshold": "2500.0",
@@ -11275,6 +11426,7 @@
           "Can summon Morph crew if fed resources at empty beacons"
         ]
       },
+      "_id": "unique_ooj",
       "race": {
         "name": "unique_ooj",
         "essential": "1",
@@ -11301,6 +11453,7 @@
           "Can summon Morph crew if fed resources at empty beacons"
         ]
       },
+      "_id": "unique_ooj_love",
       "race": {
         "name": "unique_ooj_love",
         "essential": "1",
@@ -11330,6 +11483,7 @@
           "Can teleport from anywhere across any ship"
         ]
       },
+      "_id": "unique_wither",
       "race": {
         "name": "unique_wither",
         "essential": "1",
@@ -11366,6 +11520,7 @@
           "Ignores mind control and hazards. Can see adjacent rooms. Does not lose skills."
         ]
       },
+      "_id": "unique_judge_thest",
       "race": {
         "name": "unique_judge_thest",
         "essential": "1",
@@ -11415,6 +11570,7 @@
           "Ignores mind control, doors, and hazards. Can see adjacent rooms. Does not lose skills."
         ]
       },
+      "_id": "unique_judge_corby",
       "race": {
         "name": "unique_judge_corby",
         "essential": "1",
@@ -11468,6 +11624,7 @@
           "IGNORES mind control and fire. Can see ADJACENT rooms. Does not lose SKILLS."
         ]
       },
+      "_id": "unique_judge_wakeson",
       "race": {
         "name": "unique_judge_wakeson",
         "essential": "1",
@@ -11520,6 +11677,7 @@
           "Cannot permanently die - will instead resurrect with his stats reset"
         ]
       },
+      "_id": "eldritch_cat",
       "race": {
         "name": "eldritch_cat",
         "essential": "5",
@@ -11557,6 +11715,7 @@
       "powerList": {
         "power": "Cannot be damaged, stunned or mind controlled. Destroying Drone Control will repel it."
       },
+      "_id": "eldritch_spawn",
       "race": {
         "name": "eldritch_spawn",
         "selectable": "true",
@@ -11597,6 +11756,7 @@
           "If a Thing dies while not burning, stunned, or mind controlled, it will split into two new Things"
         ]
       },
+      "_id": "eldritch_thing",
       "race": {
         "name": "eldritch_thing",
         "lowHealthThreshold": "-1",
@@ -11629,6 +11789,7 @@
           "If a Thing dies while not burning, stunned, or mind controlled, it will split into two new Things"
         ]
       },
+      "_id": "eldritch_thing_noclone",
       "race": {
         "name": "eldritch_thing_noclone",
         "animSheet": "eldritch_thing",
@@ -11663,6 +11824,7 @@
           "For each Lesser Thing on screen, they will all lose 10% repair speed and combat damage"
         ]
       },
+      "_id": "eldritch_thing_weak",
       "race": {
         "name": "eldritch_thing_weak",
         "lowHealthThreshold": "-1",
@@ -11695,6 +11857,7 @@
           "For some reason, any non-Siren crew in the same room as the gnome are overcome by madness"
         ]
       },
+      "_id": "gnome",
       "race": {
         "name": "gnome",
         "essential": "3",
@@ -11735,6 +11898,7 @@
       "powerList": {
         "power": "DRONE"
       },
+      "_id": "gana",
       "race": {
         "name": "gana",
         "controllable": "true",
@@ -11776,6 +11940,7 @@
       "powerList": {
         "power": "Arg Matey, being a pirate is 103!"
       },
+      "_id": "a55",
       "race": {
         "name": "a55",
         "controllable": "true",
@@ -11863,6 +12028,7 @@
           ]
         }
       },
+      "_id": "unique_sylvan",
       "race": {
         "name": "unique_sylvan",
         "essential": "1",
@@ -11920,6 +12086,7 @@
           "Inflicts 1.5x damage in crew combat"
         ]
       },
+      "_id": "nexus_sylvan_cel",
       "race": {
         "name": "nexus_sylvan_cel",
         "essential": "1",
@@ -11975,6 +12142,7 @@
           "Decreases the healing speed of all other crew in the room by 33%"
         ]
       },
+      "_id": "nexus_obyn_cel",
       "race": {
         "name": "nexus_obyn_cel",
         "essential": "1",
@@ -12071,6 +12239,7 @@
           ]
         }
       },
+      "_id": "nexus_sylvan_gman",
       "race": {
         "name": "nexus_sylvan_gman",
         "essential": "1",
@@ -12119,6 +12288,7 @@
           "Disclaimer: this bucket will not change all dialogue to reference the fact you have a bucket. It is not that kind of bucket, and you shouldn't expect that from it. Just be happy with the bucket that you have."
         ]
       },
+      "_id": "bucket",
       "race": {
         "name": "bucket",
         "essential": "3",
@@ -12207,6 +12377,7 @@
           ]
         }
       },
+      "_id": "dylan",
       "race": {
         "name": "dylan",
         "essential": "1",
@@ -12312,6 +12483,7 @@
           ]
         }
       },
+      "_id": "sylvanclan",
       "race": {
         "name": "sylvanclan",
         "essential": "1",
@@ -12415,6 +12587,7 @@
           ]
         }
       },
+      "_id": "sylvan1d",
       "race": {
         "name": "sylvan1d",
         "essential": "1",
@@ -12521,6 +12694,7 @@
           ]
         }
       },
+      "_id": "sylvanrebel",
       "race": {
         "name": "sylvanrebel",
         "essential": "1",
@@ -12626,6 +12800,7 @@
           ]
         }
       },
+      "_id": "sylvansans",
       "race": {
         "name": "sylvansans",
         "essential": "1",
@@ -12682,6 +12857,7 @@
       "powerList": {
         "power": "Beyatch, ssstranger!"
       },
+      "_id": "sylvanleah",
       "race": {
         "name": "sylvanleah",
         "damageMultiplier": "0.2",
@@ -12731,6 +12907,7 @@
           "Can teleport from anywhere across any ship"
         ]
       },
+      "_id": "sylvanrick",
       "race": {
         "name": "sylvanrick",
         "essential": "1",
@@ -12785,6 +12962,7 @@
       "powerList": {
         "power": "Funniest shit I've ever seen."
       },
+      "_id": "beans",
       "race": {
         "name": "beans",
         "lowHealthThreshold": "2500.0",
@@ -12814,6 +12992,7 @@
           "Can take more than a few hits, but he's not immortal. Be prepared to dedicate as much crew as you can to fight him."
         ]
       },
+      "_id": "prime",
       "race": {
         "name": "prime",
         "essential": "5",
@@ -12880,6 +13059,7 @@
           "Decreases the healing speed of all other crew in the room by 33%"
         ]
       },
+      "_id": "saltpapy",
       "race": {
         "name": "saltpapy",
         "essential": "1",
@@ -12924,6 +13104,7 @@
       "powerList": {
         "power": "Grrr Im Pants, Cashmere Pants and I'm the bad guy grrrr this is funny its a meta joke because its shittily made laugh now way too much effort went into this joke."
       },
+      "_id": "nexus_pants",
       "race": {
         "name": "nexus_pants",
         "essential": "1",
@@ -12993,7 +13174,8 @@
           "Heals quickly from hazards",
           "Does x2 damage, but repairs very slowly"
         ]
-      }
+      },
+      "_id": "gbgozer"
     }
   },
   {
@@ -13012,6 +13194,7 @@
           "Sabotage systems at 2.5x speed"
         ]
       },
+      "_id": "gbeleanor",
       "race": {
         "name": "gbeleanor",
         "maxHealth": "110",
@@ -13054,6 +13237,7 @@
           "Sabotage systems at 2.5x speed"
         ]
       },
+      "_id": "gbpsych",
       "race": {
         "name": "gbpsych",
         "maxHealth": "110",
@@ -13102,6 +13286,7 @@
           "Sabotage systems at 2.5x speed"
         ]
       },
+      "_id": "gbscoleri",
       "race": {
         "name": "gbscoleri",
         "maxHealth": "110",
@@ -13145,6 +13330,7 @@
           "Regenerates 32hp/s if unharmed for 7 seconds"
         ]
       },
+      "_id": "gbslimer",
       "race": {
         "name": "gbslimer",
         "maxHealth": "110",
@@ -13188,6 +13374,7 @@
           "Cannot put out fire successfully, but rapidly heals from it"
         ]
       },
+      "_id": "gbvinz",
       "race": {
         "name": "gbvinz",
         "maxHealth": "110",
@@ -13232,6 +13419,7 @@
           "Near-instantly drains oxygen"
         ]
       },
+      "_id": "gbzuul",
       "race": {
         "name": "gbzuul",
         "maxHealth": "110",
@@ -13273,6 +13461,7 @@
           "Occupies half a crew slot on the ship manifest"
         ]
       },
+      "_id": "blob",
       "race": {
         "name": "blob",
         "maxHealth": "45",
@@ -13301,6 +13490,7 @@
           "Occupies half a crew slot on the ship manifest"
         ]
       },
+      "_id": "blobhuman",
       "race": {
         "name": "blobhuman",
         "maxHealth": "75",
@@ -13339,6 +13529,7 @@
           "Occupies half a crew slot on the ship manifest"
         ]
       },
+      "_id": "blobzoltan",
       "race": {
         "name": "blobzoltan",
         "maxHealth": "75",
@@ -13378,6 +13569,7 @@
           "Occupies half a crew slot on the ship manifest"
         ]
       },
+      "_id": "blobrock",
       "race": {
         "name": "blobrock",
         "maxHealth": "131",
@@ -13415,6 +13607,7 @@
           "Occupies half a crew slot on the ship manifest"
         ]
       },
+      "_id": "blobcrystal",
       "race": {
         "name": "blobcrystal",
         "maxHealth": "95",
@@ -13463,6 +13656,7 @@
           "Occupies half a crew slot on the ship manifest"
         ]
       },
+      "_id": "blobmantis",
       "race": {
         "name": "blobmantis",
         "maxHealth": "75",
@@ -13497,6 +13691,7 @@
           "Occupies half a crew slot on the ship manifest"
         ]
       },
+      "_id": "blobfreemantis",
       "race": {
         "name": "blobfreemantis",
         "maxHealth": "75",
@@ -13532,6 +13727,7 @@
           "Occupies half a crew slot on the ship manifest"
         ]
       },
+      "_id": "blobslug",
       "race": {
         "name": "blobslug",
         "maxHealth": "75",
@@ -13562,6 +13758,7 @@
           "Occupies half a crew slot on the ship manifest"
         ]
       },
+      "_id": "bloborchid",
       "race": {
         "name": "bloborchid",
         "maxHealth": "75",
@@ -13599,6 +13796,7 @@
           "Occupies half a crew slot on the ship manifest"
         ]
       },
+      "_id": "blobvampweed",
       "race": {
         "name": "blobvampweed",
         "maxHealth": "75",
@@ -13636,6 +13834,7 @@
           "Occupies half a crew slot on the ship manifest"
         ]
       },
+      "_id": "blobswarm",
       "race": {
         "name": "blobswarm",
         "maxHealth": "60",
@@ -13672,6 +13871,7 @@
           "Occupies half a crew slot on the ship manifest"
         ]
       },
+      "_id": "blobshell",
       "race": {
         "name": "blobshell",
         "maxHealth": "75",
@@ -13718,6 +13918,7 @@
           "Occupies half a crew slot on the ship manifest"
         ]
       },
+      "_id": "blobleech",
       "race": {
         "name": "blobleech",
         "maxHealth": "67",
@@ -13750,6 +13951,7 @@
           "Occupies half a crew slot on the ship manifest"
         ]
       },
+      "_id": "blobhatch",
       "race": {
         "name": "blobhatch",
         "canMan": "false",
@@ -13796,6 +13998,7 @@
           "Occupies half a crew slot on the ship manifest"
         ]
       },
+      "_id": "blobspider",
       "race": {
         "name": "blobspider",
         "controllable": "true",
@@ -13842,6 +14045,7 @@
           "Occupies half a crew slot on the ship manifest"
         ]
       },
+      "_id": "blobweaver",
       "race": {
         "name": "blobweaver",
         "maxHealth": "70",
@@ -13887,6 +14091,7 @@
           "Occupies half a crew slot on the ship manifest"
         ]
       },
+      "_id": "bloblizard",
       "race": {
         "name": "bloblizard",
         "maxHealth": "90",
@@ -13924,6 +14129,7 @@
           "Occupies half a crew slot on the ship manifest"
         ]
       },
+      "_id": "blobpony",
       "race": {
         "name": "blobpony",
         "controllable": "true",
@@ -13969,6 +14175,7 @@
           "Occupies half a crew slot on the ship manifest"
         ]
       },
+      "_id": "blobsalt",
       "race": {
         "name": "blobsalt",
         "lowHealthThreshold": "2500.0",
@@ -14018,6 +14225,7 @@
           "Occupies half a crew slot on the ship manifest"
         ]
       },
+      "_id": "techno",
       "race": {
         "name": "techno",
         "maxHealth": "55",
@@ -14046,6 +14254,7 @@
           "Occupies half a crew slot on the ship manifest"
         ]
       },
+      "_id": "technoengi",
       "race": {
         "name": "technoengi",
         "maxHealth": "76",
@@ -14076,6 +14285,7 @@
           "Occupies half a crew slot on the ship manifest"
         ]
       },
+      "_id": "technolanius",
       "race": {
         "name": "technolanius",
         "maxHealth": "85",
@@ -14105,6 +14315,7 @@
           "Occupies half a crew slot on the ship manifest"
         ]
       },
+      "_id": "technoancient",
       "race": {
         "name": "technoancient",
         "lowHealthThreshold": "2500.0",
@@ -14138,6 +14349,7 @@
           "Occupies half a crew slot on the ship manifest"
         ]
       },
+      "_id": "technoavatar",
       "race": {
         "name": "technoavatar",
         "maxHealth": "85",
@@ -14189,6 +14401,7 @@
           "Occupies half a crew slot on the ship manifest"
         ]
       },
+      "_id": "technoa55",
       "race": {
         "name": "technoa55",
         "canFight": "true",
@@ -14229,6 +14442,7 @@
           "Occupies half a crew slot on the ship manifest"
         ]
       },
+      "_id": "technogana",
       "race": {
         "name": "technogana",
         "canSuffocate": "false",
@@ -14263,6 +14477,7 @@
           "Occupies half a crew slot on the ship manifest"
         ]
       },
+      "_id": "technobattle",
       "race": {
         "name": "technobattle",
         "canFight": "true",
@@ -14300,6 +14515,7 @@
           "Occupies half a crew slot on the ship manifest"
         ]
       },
+      "_id": "technobattle2",
       "race": {
         "name": "technobattle2",
         "canFight": "true",
@@ -14337,6 +14553,7 @@
           "Occupies half a crew slot on the ship manifest"
         ]
       },
+      "_id": "technoboarderion",
       "race": {
         "name": "technoboarderion",
         "canFight": "false",
@@ -14388,6 +14605,7 @@
           "Occupies half a crew slot on the ship manifest"
         ]
       },
+      "_id": "technorepair",
       "race": {
         "name": "technorepair",
         "canFight": "false",
@@ -14424,6 +14642,7 @@
           "Occupies half a crew slot on the ship manifest"
         ]
       },
+      "_id": "technodoctor",
       "race": {
         "name": "technodoctor",
         "canFight": "false",
@@ -14459,6 +14678,7 @@
           "Occupies half a crew slot on the ship manifest"
         ]
       },
+      "_id": "technorecon",
       "race": {
         "name": "technorecon",
         "controllable": "true",
@@ -14509,6 +14729,7 @@
           "Occupies half a crew slot on the ship manifest"
         ]
       },
+      "_id": "technomanning",
       "race": {
         "name": "technomanning",
         "canMan": "true",
@@ -14548,6 +14769,7 @@
           "Occupies half a crew slot on the ship manifest"
         ]
       },
+      "_id": "technoconstructor",
       "race": {
         "name": "technoconstructor",
         "selectable": "true",
@@ -14589,6 +14811,7 @@
           "Occupies half a crew slot on the ship manifest"
         ]
       },
+      "_id": "technoproducer",
       "race": {
         "name": "technoproducer",
         "selectable": "true",
@@ -14632,6 +14855,7 @@
           "Occupies half a crew slot on the ship manifest"
         ]
       },
+      "_id": "technograzier",
       "race": {
         "name": "technograzier",
         "selectable": "true",
@@ -14674,6 +14898,7 @@
           "Occupies half a crew slot on the ship manifest"
         ]
       },
+      "_id": "technoatom",
       "race": {
         "name": "technoatom",
         "canFight": "true",
@@ -14718,6 +14943,7 @@
           "Occupies half a crew slot on the ship manifest"
         ]
       },
+      "_id": "technodirector",
       "race": {
         "name": "technodirector",
         "canFight": "false",
@@ -14761,6 +14987,7 @@
           "Occupies half a crew slot on the ship manifest"
         ]
       },
+      "_id": "technomender",
       "race": {
         "name": "technomender",
         "canFight": "false",
@@ -14806,6 +15033,7 @@
           "Occupies half a crew slot on the ship manifest"
         ]
       },
+      "_id": "technoroomba",
       "race": {
         "name": "technoroomba",
         "canFight": "true",
@@ -14860,6 +15088,7 @@
           "Occupies half a crew slot on the ship manifest"
         ]
       },
+      "_id": "gold",
       "race": {
         "name": "gold",
         "maxHealth": "60",
@@ -14888,6 +15117,7 @@
           "Occupies half a crew slot on the ship manifest"
         ]
       },
+      "_id": "goldsoldier",
       "race": {
         "name": "goldsoldier",
         "maxHealth": "75",
@@ -14928,6 +15158,7 @@
           "Occupies half a crew slot on the ship manifest"
         ]
       },
+      "_id": "golddefend",
       "race": {
         "name": "golddefend",
         "maxHealth": "75",
@@ -14970,6 +15201,7 @@
           "Occupies half a crew slot on the ship manifest"
         ]
       },
+      "_id": "goldcrusader",
       "race": {
         "name": "goldcrusader",
         "lowHealthThreshold": "2500.0",
@@ -15011,6 +15243,7 @@
           "Occupies half a crew slot on the ship manifest"
         ]
       },
+      "_id": "goldsentinel",
       "race": {
         "name": "goldsentinel",
         "maxHealth": "102",
@@ -15069,6 +15302,7 @@
           "Occupies half a crew slot on the ship manifest"
         ]
       },
+      "_id": "goldsuzerain",
       "race": {
         "name": "goldsuzerain",
         "maxHealth": "75",
@@ -15113,6 +15347,7 @@
           "Occupies half a crew slot on the ship manifest"
         ]
       },
+      "_id": "goldwarlord",
       "race": {
         "name": "goldwarlord",
         "maxHealth": "67",
@@ -15149,6 +15384,7 @@
           "Occupies half a crew slot on the ship manifest"
         ]
       },
+      "_id": "goldsabo",
       "race": {
         "name": "goldsabo",
         "maxHealth": "75",
@@ -15191,6 +15427,7 @@
           "Occupies half a crew slot on the ship manifest"
         ]
       },
+      "_id": "goldwelder",
       "race": {
         "name": "goldwelder",
         "maxHealth": "82",
@@ -15239,6 +15476,7 @@
           "Occupies half a crew slot on the ship manifest"
         ]
       },
+      "_id": "goldpraetor",
       "race": {
         "name": "goldpraetor",
         "maxHealth": "93",
@@ -15290,6 +15528,7 @@
           "Occupies half a crew slot on the ship manifest"
         ]
       },
+      "_id": "goldcultivator",
       "race": {
         "name": "goldcultivator",
         "maxHealth": "93",
@@ -15340,6 +15579,7 @@
           "Occupies half a crew slot on the ship manifest"
         ]
       },
+      "_id": "goldtoxic",
       "race": {
         "name": "goldtoxic",
         "maxHealth": "75",
@@ -15393,6 +15633,7 @@
           "Occupies half a crew slot on the ship manifest"
         ]
       },
+      "_id": "goldampere",
       "race": {
         "name": "goldampere",
         "maxHealth": "67",
@@ -15436,6 +15677,7 @@
           "Occupies half a crew slot on the ship manifest"
         ]
       },
+      "_id": "goldroyal",
       "race": {
         "name": "goldroyal",
         "lowHealthThreshold": "2500.0",
@@ -15469,6 +15711,7 @@
           "Can hatch additional spider Morphs at empty beacons, but occupies a full crew slot"
         ]
       },
+      "_id": "goldqueen",
       "race": {
         "name": "goldqueen",
         "maxHealth": "92",
@@ -15517,6 +15760,7 @@
       "powerList": {
         "power": "Brrrrr."
       },
+      "_id": "snowman",
       "race": {
         "name": "snowman",
         "maxHealth": "1",
@@ -15553,6 +15797,7 @@
       "powerList": {
         "power": "Don't anger the yellow snow."
       },
+      "_id": "snowman_chaos",
       "race": {
         "name": "snowman_chaos",
         "lowHealthThreshold": "-1",
@@ -15597,6 +15842,7 @@
           "Stunned for half the usual duration"
         ]
       },
+      "_id": "easter_brick",
       "race": {
         "name": "easter_brick",
         "lowHealthThreshold": "2500.0",
@@ -15634,6 +15880,7 @@
           "Learns skills much faster"
         ]
       },
+      "_id": "easter_coomer",
       "race": {
         "name": "easter_coomer",
         "damageMultiplier": "1.2",
@@ -15675,6 +15922,7 @@
           "Inflicts halved damage in crew combat, learns combat slower"
         ]
       },
+      "_id": "easter_tommy",
       "race": {
         "name": "easter_tommy",
         "repairSpeed": "1.2",
@@ -15731,6 +15979,7 @@
           "Learns repairs even faster"
         ]
       },
+      "_id": "easter_bubby",
       "race": {
         "name": "easter_bubby",
         "repairSpeed": "1.2",
@@ -15769,6 +16018,7 @@
           "Cannot man systems"
         ]
       },
+      "_id": "easter_sunkist",
       "race": {
         "name": "easter_sunkist",
         "controllable": "true",
@@ -15848,6 +16098,7 @@
           ]
         }
       },
+      "_id": "easter_angel",
       "race": {
         "name": "easter_angel",
         "essential": "1",
@@ -15898,6 +16149,7 @@
       "powerList": {
         "power": "DRONE"
       },
+      "_id": "drone_recon",
       "race": {
         "name": "drone_recon",
         "selectable": "true",
@@ -15944,6 +16196,7 @@
       "powerList": {
         "power": "DRONE"
       },
+      "_id": "drone_recon_defense",
       "race": {
         "name": "drone_recon_defense",
         "selectable": "true",
@@ -15991,6 +16244,7 @@
       "powerList": {
         "power": "DRONE"
       },
+      "_id": "drone_recon_boarder",
       "race": {
         "name": "drone_recon_boarder",
         "selectable": "true",
@@ -16038,6 +16292,7 @@
       "powerList": {
         "power": "DRONE"
       },
+      "_id": "drone_battle",
       "race": {
         "name": "drone_battle",
         "selectable": "true",
@@ -16073,6 +16328,7 @@
       "powerList": {
         "power": "DRONE"
       },
+      "_id": "drone_battle2",
       "race": {
         "name": "drone_battle2",
         "selectable": "true",
@@ -16105,6 +16361,7 @@
       "powerList": {
         "power": "DRONE"
       },
+      "_id": "doctor",
       "race": {
         "name": "doctor",
         "selectable": "true",
@@ -16136,6 +16393,7 @@
       "powerList": {
         "power": "DRONE"
       },
+      "_id": "manning",
       "race": {
         "name": "manning",
         "selectable": "true",
@@ -16170,6 +16428,7 @@
       "powerList": {
         "power": "DRONE"
       },
+      "_id": "manningenemy",
       "race": {
         "name": "manningenemy",
         "selectable": "true",
@@ -16204,6 +16463,7 @@
       "powerList": {
         "power": "DRONE"
       },
+      "_id": "butler",
       "race": {
         "name": "butler",
         "selectable": "true",
@@ -16249,6 +16509,7 @@
       "powerList": {
         "power": "DRONE"
       },
+      "_id": "divrepair",
       "race": {
         "name": "divrepair",
         "selectable": "true",
@@ -16282,6 +16543,7 @@
       "powerList": {
         "power": "The pinnacle of drone technology. Or so she says."
       },
+      "_id": "repairboarder",
       "race": {
         "name": "repairboarder",
         "maxHealth": "35",
@@ -16309,6 +16571,7 @@
       "powerList": {
         "power": "DRONE"
       },
+      "_id": "director",
       "race": {
         "name": "director",
         "selectable": "true",
@@ -16351,6 +16614,7 @@
       "powerList": {
         "power": "DRONE"
       },
+      "_id": "atom",
       "race": {
         "name": "atom",
         "selectable": "true",
@@ -16395,6 +16659,7 @@
       "powerList": {
         "power": "DRONE"
       },
+      "_id": "atomr",
       "race": {
         "name": "atomr",
         "selectable": "true",
@@ -16437,6 +16702,7 @@
       "powerList": {
         "power": "DRONE"
       },
+      "_id": "mender",
       "race": {
         "name": "mender",
         "selectable": "true",
@@ -16482,6 +16748,7 @@
       "powerList": {
         "power": "DRONE"
       },
+      "_id": "menderr",
       "race": {
         "name": "menderr",
         "selectable": "true",
@@ -16528,6 +16795,7 @@
       "powerList": {
         "power": "DRONE"
       },
+      "_id": "roomba",
       "race": {
         "name": "roomba",
         "selectable": "true",
@@ -16579,6 +16847,7 @@
       "powerList": {
         "power": "DRONE"
       },
+      "_id": "loot_separatist_1",
       "race": {
         "name": "loot_separatist_1",
         "selectable": "true",
@@ -16613,6 +16882,7 @@
       "powerList": {
         "power": "DRONE"
       },
+      "_id": "drone_yinyang",
       "race": {
         "name": "drone_yinyang",
         "selectable": "true",
@@ -16649,6 +16919,7 @@
       "powerList": {
         "power": "DRONE"
       },
+      "_id": "drone_yinyang_board",
       "race": {
         "name": "drone_yinyang_board",
         "selectable": "true",
@@ -16686,6 +16957,7 @@
       "powerList": {
         "power": "DRONE"
       },
+      "_id": "drone_yinyang_chaos",
       "race": {
         "name": "drone_yinyang_chaos",
         "selectable": "true",
@@ -16727,6 +16999,7 @@
       "powerList": {
         "power": "DRONE"
       },
+      "_id": "surgeon",
       "race": {
         "name": "surgeon",
         "selectable": "true",
@@ -16760,6 +17033,7 @@
       "powerList": {
         "power": "DRONE"
       },
+      "_id": "surgeon_chaos",
       "race": {
         "name": "surgeon_chaos",
         "selectable": "true",
@@ -16793,6 +17067,7 @@
       "powerList": {
         "power": "DRONE"
       },
+      "_id": "drone_vamp_foreman",
       "race": {
         "name": "drone_vamp_foreman",
         "selectable": "true",
@@ -16843,6 +17118,7 @@
       "powerList": {
         "power": "DRONE"
       },
+      "_id": "drone_vamp_foreman_chaos",
       "race": {
         "name": "drone_vamp_foreman_chaos",
         "selectable": "true",
@@ -16894,6 +17170,7 @@
       "powerList": {
         "power": "DRONE"
       },
+      "_id": "drone_holodrone",
       "race": {
         "name": "drone_holodrone",
         "selectable": "true",
@@ -16935,6 +17212,7 @@
       "powerList": {
         "power": "DRONE"
       },
+      "_id": "drone_holodrone_chaos",
       "race": {
         "name": "drone_holodrone_chaos",
         "selectable": "true",
@@ -16976,6 +17254,7 @@
       "powerList": {
         "power": "Bzzzzzz."
       },
+      "_id": "hologram",
       "race": {
         "name": "hologram",
         "lowHealthThreshold": "-1",
@@ -17022,6 +17301,7 @@
       "powerList": {
         "power": "DRONE"
       },
+      "_id": "drone_vamp_constructor",
       "race": {
         "name": "drone_vamp_constructor",
         "selectable": "true",
@@ -17058,6 +17338,7 @@
       "powerList": {
         "power": "DRONE"
       },
+      "_id": "drone_vamp_producer",
       "race": {
         "name": "drone_vamp_producer",
         "selectable": "true",
@@ -17096,6 +17377,7 @@
       "powerList": {
         "power": "DRONE"
       },
+      "_id": "drone_vamp_grazier",
       "race": {
         "name": "drone_vamp_grazier",
         "selectable": "true",

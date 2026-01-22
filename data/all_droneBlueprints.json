@@ -16,7 +16,8 @@
       "droneImage": "drone_combat",
       "weaponBlueprint": "DRONE_LASER",
       "rarity": "0",
-      "iconImage": "combat"
+      "iconImage": "combat",
+      "_id": "COMBAT_1"
     }
   },
   {
@@ -37,7 +38,8 @@
       "image": "weapons/laser_light2_strip4.png",
       "weaponBlueprint": "DRONE_LASER",
       "rarity": "0",
-      "iconImage": "combat2"
+      "iconImage": "combat2",
+      "_id": "COMBAT_2"
     }
   },
   {
@@ -57,7 +59,8 @@
       "droneImage": "drone_beam",
       "weaponBlueprint": "DRONE_BEAM",
       "rarity": "0",
-      "iconImage": "beam"
+      "iconImage": "beam",
+      "_id": "COMBAT_BEAM"
     }
   },
   {
@@ -73,7 +76,8 @@
       "cost": "35",
       "bp": "3",
       "rarity": "0",
-      "iconImage": "battle"
+      "iconImage": "battle",
+      "_id": "BATTLE"
     }
   },
   {
@@ -89,7 +93,8 @@
       "speed": "18",
       "cost": "70",
       "rarity": "0",
-      "iconImage": "boarder"
+      "iconImage": "boarder",
+      "_id": "BOARDER"
     }
   },
   {
@@ -105,7 +110,8 @@
       "cost": "2147483647",
       "bp": "3",
       "rarity": "0",
-      "iconImage": "battle"
+      "iconImage": "battle",
+      "_id": "SPAWN_BATTLE"
     }
   },
   {
@@ -122,7 +128,8 @@
       "cost": "2147483647",
       "bp": "3",
       "rarity": "0",
-      "iconImage": "battle"
+      "iconImage": "battle",
+      "_id": "SPAWN_BOARDER"
     }
   },
   {
@@ -138,7 +145,8 @@
       "cost": "50",
       "bp": "3",
       "rarity": "0",
-      "iconImage": "battle"
+      "iconImage": "battle",
+      "_id": "GANA_BATTLE"
     }
   },
   {
@@ -154,7 +162,8 @@
       "speed": "50",
       "cost": "50",
       "rarity": "0",
-      "iconImage": "boarder"
+      "iconImage": "boarder",
+      "_id": "GANA_BOARDER"
     }
   },
   {
@@ -170,7 +179,8 @@
       "cost": "50",
       "bp": "3",
       "rarity": "0",
-      "iconImage": "battle"
+      "iconImage": "battle",
+      "_id": "A55_BATTLE"
     }
   },
   {
@@ -186,7 +196,8 @@
       "speed": "20",
       "cost": "50",
       "rarity": "0",
-      "iconImage": "boarder"
+      "iconImage": "boarder",
+      "_id": "A55_BOARDER"
     }
   },
   {
@@ -207,7 +218,8 @@
       "droneImage": "drone_defense_prime",
       "weaponBlueprint": "DRONE_LASER_PRIME",
       "iconImage": "defense",
-      "rarity": "0"
+      "rarity": "0",
+      "_id": "DEFENSE_PRIME"
     }
   },
   {
@@ -227,7 +239,8 @@
       "droneImage": "drone_combat_prime",
       "weaponBlueprint": "DRONE_BEAM_PRIME",
       "rarity": "0",
-      "iconImage": "combat"
+      "iconImage": "combat",
+      "_id": "COMBAT_PRIME"
     }
   },
   {
@@ -247,7 +260,8 @@
       "droneImage": "boss_miner",
       "weaponBlueprint": "DRONE_BEAM_MINER",
       "rarity": "0",
-      "iconImage": "combat"
+      "iconImage": "combat",
+      "_id": "SALT_MINER"
     }
   },
   {
@@ -267,7 +281,8 @@
       "droneImage": "boss_miner_chaos",
       "weaponBlueprint": "DRONE_BEAM_MINER_CHAOS",
       "rarity": "0",
-      "iconImage": "combat"
+      "iconImage": "combat",
+      "_id": "SALT_MINER_CHAOS"
     }
   },
   {
@@ -286,7 +301,8 @@
       "bp": "3",
       "droneImage": "drone_missile2",
       "weaponBlueprint": "DRONE_ASTEROID_DRUG",
-      "rarity": "0"
+      "rarity": "0",
+      "_id": "COMBAT_ASTEROID_DRUG"
     }
   },
   {
@@ -308,7 +324,8 @@
       "droneImage": "drone_defense_1",
       "weaponBlueprint": "DRONE_LASER_DEFENSE",
       "iconImage": "defense",
-      "rarity": "1"
+      "rarity": "1",
+      "_id": "DEFENSE_1"
     }
   },
   {
@@ -330,7 +347,8 @@
       "droneImage": "drone_defense_2",
       "weaponBlueprint": "DRONE_LASER_DEFENSE",
       "iconImage": "defense",
-      "rarity": "3"
+      "rarity": "3",
+      "_id": "DEFENSE_2"
     }
   },
   {
@@ -352,7 +370,8 @@
       "droneImage": "drone_defense_3",
       "weaponBlueprint": "DRONE_LASER_DEFENSE",
       "iconImage": "defense",
-      "rarity": "5"
+      "rarity": "5",
+      "_id": "DEFENSE_3"
     }
   },
   {
@@ -374,7 +393,8 @@
       "droneImage": "drone_defense_3",
       "weaponBlueprint": "DRONE_LASER_DEFENSE",
       "iconImage": "defense",
-      "rarity": "0"
+      "rarity": "0",
+      "_id": "DEFENSE_3_PLAYER_PLAYER"
     }
   },
   {
@@ -396,7 +416,8 @@
       "droneImage": "drone_defense_1",
       "weaponBlueprint": "DRONE_LASER_DEFENSE",
       "iconImage": "defense",
-      "rarity": "0"
+      "rarity": "0",
+      "_id": "DEFENSE_1_ENEMY"
     }
   },
   {
@@ -418,7 +439,8 @@
       "droneImage": "drone_defense_2",
       "weaponBlueprint": "DRONE_LASER_DEFENSE",
       "iconImage": "defense",
-      "rarity": "0"
+      "rarity": "0",
+      "_id": "DEFENSE_2_ENEMY"
     }
   },
   {
@@ -440,7 +462,8 @@
       "droneImage": "drone_defense_3",
       "weaponBlueprint": "DRONE_LASER_DEFENSE",
       "iconImage": "defense",
-      "rarity": "0"
+      "rarity": "0",
+      "_id": "DEFENSE_3_ENEMY"
     }
   },
   {
@@ -461,7 +484,8 @@
       "droneImage": "drone_togguardian_m",
       "weaponBlueprint": "DRONE_MISSILE_DEFENSE",
       "iconImage": "defense",
-      "rarity": "2"
+      "rarity": "2",
+      "_id": "GUARDIAN_1_MISSILE"
     }
   },
   {
@@ -483,7 +507,8 @@
       "droneImage": "drone_togguardian_d",
       "weaponBlueprint": "DRONE_ION_DEFENSE",
       "iconImage": "defense",
-      "rarity": "0"
+      "rarity": "0",
+      "_id": "GUARDIAN_1_DRONE"
     }
   },
   {
@@ -504,7 +529,8 @@
       "droneImage": "drone_togguardian2_m",
       "weaponBlueprint": "DRONE_MISSILE_DEFENSE",
       "iconImage": "defense",
-      "rarity": "3"
+      "rarity": "3",
+      "_id": "GUARDIAN_2_MISSILE"
     }
   },
   {
@@ -526,7 +552,8 @@
       "droneImage": "drone_togguardian2_d",
       "weaponBlueprint": "DRONE_ION_DEFENSE",
       "iconImage": "defense",
-      "rarity": "0"
+      "rarity": "0",
+      "_id": "GUARDIAN_2_DRONE"
     }
   },
   {
@@ -546,7 +573,8 @@
       "droneImage": "drone_combat_l",
       "weaponBlueprint": "DRONE_LASER_COMBAT",
       "rarity": "1",
-      "iconImage": "combat"
+      "iconImage": "combat",
+      "_id": "COMBAT_1_LASER"
     }
   },
   {
@@ -566,7 +594,8 @@
       "droneImage": "drone_combat_b",
       "weaponBlueprint": "DRONE_BEAM_COMBAT",
       "rarity": "0",
-      "iconImage": "combat"
+      "iconImage": "combat",
+      "_id": "COMBAT_1_BEAM"
     }
   },
   {
@@ -586,7 +615,8 @@
       "droneImage": "drone_combat2_l",
       "weaponBlueprint": "DRONE_LASER_COMBAT",
       "rarity": "4",
-      "iconImage": "combat"
+      "iconImage": "combat",
+      "_id": "COMBAT_2_LASER"
     }
   },
   {
@@ -606,7 +636,8 @@
       "droneImage": "drone_combat2_b",
       "weaponBlueprint": "DRONE_BEAM_COMBAT",
       "rarity": "0",
-      "iconImage": "combat"
+      "iconImage": "combat",
+      "_id": "COMBAT_2_BEAM"
     }
   },
   {
@@ -626,7 +657,8 @@
       "droneImage": "drone_conservative_l",
       "weaponBlueprint": "DRONE_LASER_COMBAT",
       "rarity": "3",
-      "iconImage": "combat"
+      "iconImage": "combat",
+      "_id": "COMBAT_CONSERVATIVE_LASER"
     }
   },
   {
@@ -646,7 +678,8 @@
       "droneImage": "drone_conservative_b",
       "weaponBlueprint": "DRONE_BEAM_COMBAT",
       "rarity": "0",
-      "iconImage": "combat"
+      "iconImage": "combat",
+      "_id": "COMBAT_CONSERVATIVE_BEAM"
     }
   },
   {
@@ -666,7 +699,8 @@
       "droneImage": "drone_particle_t",
       "weaponBlueprint": "DRONE_PARTICLE_COMBAT",
       "rarity": "3",
-      "iconImage": "combat"
+      "iconImage": "combat",
+      "_id": "ASSAULT_PARTICLE"
     }
   },
   {
@@ -686,7 +720,8 @@
       "droneImage": "drone_particle_p",
       "weaponBlueprint": "DRONE_PIERCE_COMBAT",
       "rarity": "0",
-      "iconImage": "combat"
+      "iconImage": "combat",
+      "_id": "ASSAULT_PIERCE"
     }
   },
   {
@@ -706,7 +741,8 @@
       "droneImage": "drone_hellraiser_f",
       "weaponBlueprint": "DRONE_FIREBEAM_COMBAT",
       "rarity": "4",
-      "iconImage": "combat"
+      "iconImage": "combat",
+      "_id": "HELLRAISER_FIRE"
     }
   },
   {
@@ -726,7 +762,8 @@
       "droneImage": "drone_hellraiser_h",
       "weaponBlueprint": "DRONE_HULLBEAM_COMBAT",
       "rarity": "0",
-      "iconImage": "combat"
+      "iconImage": "combat",
+      "_id": "HELLRAISER_HULL"
     }
   },
   {
@@ -746,7 +783,8 @@
       "droneImage": "drone_hellraiser_f",
       "weaponBlueprint": "DRONE_FIREBEAM_COMBAT",
       "rarity": "0",
-      "iconImage": "combat"
+      "iconImage": "combat",
+      "_id": "HELLRAISER_FIRE_PLAYER"
     }
   },
   {
@@ -766,7 +804,8 @@
       "droneImage": "drone_hellraiser_h",
       "weaponBlueprint": "DRONE_HULLBEAM_COMBAT",
       "rarity": "0",
-      "iconImage": "combat"
+      "iconImage": "combat",
+      "_id": "HELLRAISER_HULL_PLAYER"
     }
   },
   {
@@ -786,7 +825,8 @@
       "droneImage": "drone_pest_b",
       "weaponBlueprint": "DRONE_BREACH_COMBAT",
       "rarity": "4",
-      "iconImage": "combat"
+      "iconImage": "combat",
+      "_id": "PEST_RAD"
     }
   },
   {
@@ -806,7 +846,8 @@
       "droneImage": "drone_pest_s",
       "weaponBlueprint": "DRONE_DEBUFF_COMBAT",
       "rarity": "0",
-      "iconImage": "combat"
+      "iconImage": "combat",
+      "_id": "PEST_DEBUFF"
     }
   },
   {
@@ -826,7 +867,8 @@
       "droneImage": "drone_pest_b",
       "weaponBlueprint": "DRONE_BREACH_COMBAT",
       "rarity": "0",
-      "iconImage": "combat"
+      "iconImage": "combat",
+      "_id": "PEST_RAD_ENEMY"
     }
   },
   {
@@ -846,7 +888,8 @@
       "droneImage": "drone_pest_s",
       "weaponBlueprint": "DRONE_DEBUFF_COMBAT",
       "rarity": "0",
-      "iconImage": "combat"
+      "iconImage": "combat",
+      "_id": "PEST_DEBUFF_ENEMY"
     }
   },
   {
@@ -866,7 +909,8 @@
       "droneImage": "drone_ion1_a1",
       "weaponBlueprint": "DRONE_ION_AMP_1",
       "rarity": "3",
-      "iconImage": "combat"
+      "iconImage": "combat",
+      "_id": "ION_1_AMP2"
     }
   },
   {
@@ -886,7 +930,8 @@
       "droneImage": "drone_ion1_a1",
       "weaponBlueprint": "DRONE_ION_AMP_1",
       "rarity": "0",
-      "iconImage": "combat"
+      "iconImage": "combat",
+      "_id": "ION_1_AMP2_ENEMY"
     }
   },
   {
@@ -906,7 +951,8 @@
       "droneImage": "drone_ion1_a2",
       "weaponBlueprint": "DRONE_ION_AMP_2",
       "rarity": "0",
-      "iconImage": "combat"
+      "iconImage": "combat",
+      "_id": "ION_1_AMP3"
     }
   },
   {
@@ -926,7 +972,8 @@
       "droneImage": "drone_ion1_a2",
       "weaponBlueprint": "DRONE_ION_AMP_2",
       "rarity": "0",
-      "iconImage": "combat"
+      "iconImage": "combat",
+      "_id": "ION_1_AMP3_ENEMY"
     }
   },
   {
@@ -946,7 +993,8 @@
       "droneImage": "drone_ion1_a3",
       "weaponBlueprint": "DRONE_ION_AMP_3",
       "rarity": "0",
-      "iconImage": "combat"
+      "iconImage": "combat",
+      "_id": "ION_1_AMP4"
     }
   },
   {
@@ -966,7 +1014,8 @@
       "droneImage": "drone_energy1_a1",
       "weaponBlueprint": "DRONE_ENERGY_AMP_1",
       "rarity": "4",
-      "iconImage": "combat"
+      "iconImage": "combat",
+      "_id": "ENERGY_1_AMP2"
     }
   },
   {
@@ -986,7 +1035,8 @@
       "droneImage": "drone_energy1_a1",
       "weaponBlueprint": "DRONE_ENERGY_AMP_1",
       "rarity": "0",
-      "iconImage": "combat"
+      "iconImage": "combat",
+      "_id": "ENERGY_1_AMP2_ENEMY"
     }
   },
   {
@@ -1006,7 +1056,8 @@
       "droneImage": "drone_energy1_a2",
       "weaponBlueprint": "DRONE_ENERGY_AMP_2",
       "rarity": "0",
-      "iconImage": "combat"
+      "iconImage": "combat",
+      "_id": "ENERGY_1_AMP3"
     }
   },
   {
@@ -1026,7 +1077,8 @@
       "droneImage": "drone_energy1_a2",
       "weaponBlueprint": "DRONE_ENERGY_AMP_2",
       "rarity": "0",
-      "iconImage": "combat"
+      "iconImage": "combat",
+      "_id": "ENERGY_1_AMP3_ENEMY"
     }
   },
   {
@@ -1046,7 +1098,8 @@
       "droneImage": "drone_energy1_a3",
       "weaponBlueprint": "DRONE_ENERGY_AMP_3",
       "rarity": "0",
-      "iconImage": "combat"
+      "iconImage": "combat",
+      "_id": "ENERGY_1_AMP4"
     }
   },
   {
@@ -1066,7 +1119,8 @@
       "droneImage": "drone_focus_a1",
       "weaponBlueprint": "DRONE_FOCUS_AMP_1",
       "rarity": "3",
-      "iconImage": "combat"
+      "iconImage": "combat",
+      "_id": "FOCUS_1_AMP2"
     }
   },
   {
@@ -1086,7 +1140,8 @@
       "droneImage": "drone_focus_a2",
       "weaponBlueprint": "DRONE_FOCUS_AMP_2",
       "rarity": "0",
-      "iconImage": "combat"
+      "iconImage": "combat",
+      "_id": "FOCUS_1_AMP3"
     }
   },
   {
@@ -1106,7 +1161,8 @@
       "droneImage": "drone_focus_a3",
       "weaponBlueprint": "DRONE_FOCUS_AMP_3",
       "rarity": "0",
-      "iconImage": "combat"
+      "iconImage": "combat",
+      "_id": "FOCUS_1_AMP4"
     }
   },
   {
@@ -1126,7 +1182,8 @@
       "droneImage": "drone_flak_a1",
       "weaponBlueprint": "DRONE_FLAK_AMP_1",
       "rarity": "3",
-      "iconImage": "combat"
+      "iconImage": "combat",
+      "_id": "FLAK_1_AMP2"
     }
   },
   {
@@ -1146,7 +1203,8 @@
       "droneImage": "drone_flak_a2",
       "weaponBlueprint": "DRONE_FLAK_AMP_2",
       "rarity": "0",
-      "iconImage": "combat"
+      "iconImage": "combat",
+      "_id": "FLAK_1_AMP3"
     }
   },
   {
@@ -1166,7 +1224,8 @@
       "droneImage": "drone_flak_a3",
       "weaponBlueprint": "DRONE_FLAK_AMP_3",
       "rarity": "0",
-      "iconImage": "combat"
+      "iconImage": "combat",
+      "_id": "FLAK_1_AMP4"
     }
   },
   {
@@ -1181,7 +1240,8 @@
       "cost": "40",
       "bp": "2",
       "rarity": "1",
-      "iconImage": "repair"
+      "iconImage": "repair",
+      "_id": "REPAIR"
     }
   },
   {
@@ -1197,7 +1257,8 @@
       "cost": "25",
       "bp": "3",
       "rarity": "0",
-      "iconImage": "battle"
+      "iconImage": "battle",
+      "_id": "RECON_DEFENSE"
     }
   },
   {
@@ -1214,7 +1275,8 @@
       "speed": "15",
       "bp": "3",
       "rarity": "3",
-      "iconImage": "battle"
+      "iconImage": "battle",
+      "_id": "RECON_BOARDER"
     }
   },
   {
@@ -1230,7 +1292,8 @@
       "cost": "50",
       "bp": "3",
       "rarity": "2",
-      "iconImage": "battle"
+      "iconImage": "battle",
+      "_id": "BATTLETOG_DEFEND"
     }
   },
   {
@@ -1246,7 +1309,8 @@
       "speed": "18",
       "cost": "50",
       "rarity": "0",
-      "iconImage": "boarder"
+      "iconImage": "boarder",
+      "_id": "BATTLETOG_BOARDER"
     }
   },
   {
@@ -1262,7 +1326,8 @@
       "cost": "70",
       "bp": "3",
       "rarity": "3",
-      "iconImage": "battle"
+      "iconImage": "battle",
+      "_id": "BATTLETOG2_DEFEND"
     }
   },
   {
@@ -1278,7 +1343,8 @@
       "speed": "10",
       "cost": "70",
       "rarity": "0",
-      "iconImage": "boarder"
+      "iconImage": "boarder",
+      "_id": "BATTLETOG2_BOARDER"
     }
   },
   {
@@ -1294,7 +1360,8 @@
       "speed": "10",
       "cost": "70",
       "rarity": "0",
-      "iconImage": "boarder"
+      "iconImage": "boarder",
+      "_id": "BATTLETOG2_BOARDER_SYLVAN"
     }
   },
   {
@@ -1310,7 +1377,8 @@
       "cost": "50",
       "bp": "3",
       "rarity": "3",
-      "iconImage": "battle"
+      "iconImage": "battle",
+      "_id": "DOCTOR_DEFENSE"
     }
   },
   {
@@ -1327,7 +1395,8 @@
       "speed": "15",
       "bp": "3",
       "rarity": "0",
-      "iconImage": "battle"
+      "iconImage": "battle",
+      "_id": "DOCTOR_BOARDER"
     }
   },
   {
@@ -1343,7 +1412,8 @@
       "cost": "45",
       "bp": "3",
       "rarity": "2",
-      "iconImage": "battle"
+      "iconImage": "battle",
+      "_id": "MANNING"
     }
   },
   {
@@ -1359,7 +1429,8 @@
       "cost": "45",
       "bp": "3",
       "rarity": "0",
-      "iconImage": "battle"
+      "iconImage": "battle",
+      "_id": "MANNING_ENEMY"
     }
   },
   {
@@ -1379,7 +1450,8 @@
       "droneImage": "drone_amphi_c",
       "weaponBlueprint": "DRONE_LASER",
       "rarity": "0",
-      "iconImage": "combat"
+      "iconImage": "combat",
+      "_id": "AMPHI_COMBAT"
     }
   },
   {
@@ -1400,7 +1472,8 @@
       "droneImage": "drone_amphi_d",
       "weaponBlueprint": "DRONE_LASER_DEFENSE",
       "iconImage": "defense",
-      "rarity": "3"
+      "rarity": "3",
+      "_id": "AMPHI_DEFENSE"
     }
   },
   {
@@ -1417,7 +1490,8 @@
       "speed": "15",
       "bp": "3",
       "rarity": "0",
-      "iconImage": "battle"
+      "iconImage": "battle",
+      "_id": "REPAIR_BOARDER"
     }
   },
   {
@@ -1437,7 +1511,8 @@
       "droneImage": "drone_shiprepair",
       "image": "weapons/laser_light2_strip4.png",
       "rarity": "4",
-      "iconImage": "Srepair"
+      "iconImage": "Srepair",
+      "_id": "SHIP_REPAIR"
     }
   },
   {
@@ -1457,7 +1532,8 @@
       "droneImage": "drone_shiprepair",
       "image": "weapons/laser_light2_strip4.png",
       "rarity": "0",
-      "iconImage": "Srepair"
+      "iconImage": "Srepair",
+      "_id": "SHIP_REPAIR_ENEMY"
     }
   },
   {
@@ -1477,7 +1553,8 @@
       "bp": "2",
       "droneImage": "drone_shield",
       "rarity": "4",
-      "iconImage": "shield"
+      "iconImage": "shield",
+      "_id": "DRONE_SHIELD"
     }
   },
   {
@@ -1497,7 +1574,8 @@
       "bp": "2",
       "droneImage": "drone_shield_cons",
       "rarity": "0",
-      "iconImage": "shield"
+      "iconImage": "shield",
+      "_id": "DRONE_SHIELD_POWERLESS"
     }
   },
   {
@@ -1513,7 +1591,8 @@
       "cost": "50",
       "bp": "3",
       "rarity": "0",
-      "iconImage": "battle"
+      "iconImage": "battle",
+      "_id": "CONSTRUCTOR"
     }
   },
   {
@@ -1529,7 +1608,8 @@
       "cost": "55",
       "bp": "3",
       "rarity": "0",
-      "iconImage": "battle"
+      "iconImage": "battle",
+      "_id": "PRODUCER"
     }
   },
   {
@@ -1545,7 +1625,8 @@
       "cost": "65",
       "bp": "3",
       "rarity": "0",
-      "iconImage": "battle"
+      "iconImage": "battle",
+      "_id": "GRAZIER_BATTLE"
     }
   },
   {
@@ -1561,7 +1642,8 @@
       "speed": "18",
       "cost": "65",
       "rarity": "0",
-      "iconImage": "boarder"
+      "iconImage": "boarder",
+      "_id": "GRAZIER_BOARDER"
     }
   },
   {
@@ -1582,7 +1664,8 @@
       "droneImage": "drone_omni",
       "weaponBlueprint": "DRONE_OMNI_LASER",
       "iconImage": "defense",
-      "rarity": "0"
+      "rarity": "0",
+      "_id": "OMNI_DRONE"
     }
   },
   {
@@ -1598,7 +1681,8 @@
       "cost": "50",
       "bp": "3",
       "rarity": "0",
-      "iconImage": "battle"
+      "iconImage": "battle",
+      "_id": "BUTLER_DEFENSE"
     }
   },
   {
@@ -1615,7 +1699,8 @@
       "cost": "50",
       "bp": "3",
       "rarity": "0",
-      "iconImage": "battle"
+      "iconImage": "battle",
+      "_id": "BUTLER_BOARDER"
     }
   },
   {
@@ -1630,7 +1715,8 @@
       "cost": "50",
       "bp": "2",
       "rarity": "0",
-      "iconImage": "repair"
+      "iconImage": "repair",
+      "_id": "DIVREPAIR"
     }
   },
   {
@@ -1649,7 +1735,8 @@
       "bp": "8",
       "droneImage": "drone_random",
       "weaponBlueprint": "DRONE_BEAM_COMBAT_RANDOM",
-      "rarity": "0"
+      "rarity": "0",
+      "_id": "COMBAT_RANDOM"
     }
   },
   {
@@ -1669,7 +1756,8 @@
       "droneImage": "drone_combat_engineer",
       "weaponBlueprint": "DRONE_BEAM_ENGINEER",
       "rarity": "0",
-      "iconImage": "combat"
+      "iconImage": "combat",
+      "_id": "COMBAT_ENGINEER"
     }
   },
   {
@@ -1689,7 +1777,8 @@
       "droneImage": "drone_bio",
       "weaponBlueprint": "DRONE_BIO_BEAM",
       "rarity": "0",
-      "iconImage": "beam"
+      "iconImage": "beam",
+      "_id": "COMBAT_BIO_BEAM"
     }
   },
   {
@@ -1709,7 +1798,8 @@
       "droneImage": "drone_ancient_laser",
       "weaponBlueprint": "ANCIENT_DRONE_LASER",
       "rarity": "0",
-      "iconImage": "combat"
+      "iconImage": "combat",
+      "_id": "ANCIENT_COMBAT_LASER"
     }
   },
   {
@@ -1729,7 +1819,8 @@
       "droneImage": "drone_ancient_laser2",
       "weaponBlueprint": "ANCIENT_DRONE_LASER",
       "rarity": "0",
-      "iconImage": "combat"
+      "iconImage": "combat",
+      "_id": "ANCIENT_COMBAT_LASER_2"
     }
   },
   {
@@ -1749,7 +1840,8 @@
       "droneImage": "drone_royal_laser2",
       "weaponBlueprint": "ROYAL_DRONE_LASER",
       "rarity": "0",
-      "iconImage": "combat"
+      "iconImage": "combat",
+      "_id": "ROYAL_COMBAT_LASER_2"
     }
   },
   {
@@ -1771,7 +1863,8 @@
       "droneImage": "drone_ancient_defense1",
       "weaponBlueprint": "ANCIENT_DRONE_DEFENSE",
       "iconImage": "defense",
-      "rarity": "0"
+      "rarity": "0",
+      "_id": "ANCIENT_DEFENSE_1"
     }
   },
   {
@@ -1793,7 +1886,8 @@
       "droneImage": "drone_ancient_defense1",
       "weaponBlueprint": "ANCIENT_DRONE_DEFENSE",
       "iconImage": "defense",
-      "rarity": "0"
+      "rarity": "0",
+      "_id": "ANCIENT_DEFENSE_1_ENEMY"
     }
   },
   {
@@ -1815,7 +1909,8 @@
       "droneImage": "drone_royal_defense1",
       "weaponBlueprint": "ROYAL_DRONE_DEFENSE",
       "iconImage": "defense",
-      "rarity": "0"
+      "rarity": "0",
+      "_id": "ROYAL_DEFENSE_1"
     }
   },
   {
@@ -1835,7 +1930,8 @@
       "droneImage": "drone_ancient_ion",
       "weaponBlueprint": "ANCIENT_DRONE_ION",
       "rarity": "0",
-      "iconImage": "combat"
+      "iconImage": "combat",
+      "_id": "ANCIENT_COMBAT_ION"
     }
   },
   {
@@ -1855,7 +1951,8 @@
       "droneImage": "drone_royal_ion",
       "weaponBlueprint": "ROYAL_DRONE_ION",
       "rarity": "0",
-      "iconImage": "combat"
+      "iconImage": "combat",
+      "_id": "ROYAL_COMBAT_ION"
     }
   },
   {
@@ -1875,7 +1972,8 @@
       "droneImage": "drone_ancient_missiles",
       "weaponBlueprint": "ANCIENT_DRONE_MISSILES",
       "rarity": "0",
-      "iconImage": "combat"
+      "iconImage": "combat",
+      "_id": "ANCIENT_COMBAT_MISSILE"
     }
   },
   {
@@ -1895,7 +1993,8 @@
       "droneImage": "drone_royal_missiles",
       "weaponBlueprint": "ANCIENT_ROYAL_MISSILES",
       "rarity": "0",
-      "iconImage": "combat"
+      "iconImage": "combat",
+      "_id": "ROYAL_COMBAT_MISSILE"
     }
   },
   {
@@ -1911,7 +2010,8 @@
       "cost": "50",
       "bp": "3",
       "rarity": "0",
-      "iconImage": "battle"
+      "iconImage": "battle",
+      "_id": "MENDER"
     }
   },
   {
@@ -1927,7 +2027,8 @@
       "cost": "75",
       "bp": "3",
       "rarity": "0",
-      "iconImage": "battle"
+      "iconImage": "battle",
+      "_id": "MENDERR"
     }
   },
   {
@@ -1943,7 +2044,8 @@
       "cost": "70",
       "bp": "3",
       "rarity": "0",
-      "iconImage": "battle"
+      "iconImage": "battle",
+      "_id": "DIRECTOR"
     }
   },
   {
@@ -1959,7 +2061,8 @@
       "cost": "60",
       "bp": "3",
       "rarity": "0",
-      "iconImage": "battle"
+      "iconImage": "battle",
+      "_id": "ATOM_DEFEND"
     }
   },
   {
@@ -1975,7 +2078,8 @@
       "speed": "18",
       "cost": "60",
       "rarity": "0",
-      "iconImage": "boarder"
+      "iconImage": "boarder",
+      "_id": "ATOM_BOARDER"
     }
   },
   {
@@ -1991,7 +2095,8 @@
       "cost": "90",
       "bp": "3",
       "rarity": "0",
-      "iconImage": "battle"
+      "iconImage": "battle",
+      "_id": "ATOMR_DEFEND"
     }
   },
   {
@@ -2007,7 +2112,8 @@
       "speed": "18",
       "cost": "90",
       "rarity": "0",
-      "iconImage": "boarder"
+      "iconImage": "boarder",
+      "_id": "ATOMR_BOARDER"
     }
   },
   {
@@ -2023,7 +2129,8 @@
       "cost": "60",
       "bp": "3",
       "rarity": "0",
-      "iconImage": "battle"
+      "iconImage": "battle",
+      "_id": "ROOMBA_DEFEND"
     }
   },
   {
@@ -2039,7 +2146,8 @@
       "speed": "40",
       "cost": "60",
       "rarity": "0",
-      "iconImage": "boarder"
+      "iconImage": "boarder",
+      "_id": "ROOMBA_BOARDER"
     }
   },
   {
@@ -2059,7 +2167,8 @@
       "droneImage": "loot_auto_l",
       "weaponBlueprint": "DRONE_LASER_COMBAT",
       "rarity": "0",
-      "iconImage": "combat"
+      "iconImage": "combat",
+      "_id": "LOOT_AUTO_1_LASER"
     }
   },
   {
@@ -2079,7 +2188,8 @@
       "droneImage": "loot_auto_b",
       "weaponBlueprint": "DRONE_BEAM_COMBAT",
       "rarity": "0",
-      "iconImage": "combat"
+      "iconImage": "combat",
+      "_id": "LOOT_AUTO_1_BEAM"
     }
   },
   {
@@ -2100,7 +2210,8 @@
       "droneImage": "loot_engi_defense",
       "weaponBlueprint": "DRONE_LASER_ENGI_DEFENSE_LOOT",
       "iconImage": "defense",
-      "rarity": "0"
+      "rarity": "0",
+      "_id": "LOOT_ENGI_1"
     }
   },
   {
@@ -2120,7 +2231,8 @@
       "droneImage": "loot_engi_combat",
       "weaponBlueprint": "DRONE_LASER",
       "rarity": "0",
-      "iconImage": "combat"
+      "iconImage": "combat",
+      "_id": "LOOT_ENGI_2"
     }
   },
   {
@@ -2136,7 +2248,8 @@
       "cost": "50",
       "bp": "3",
       "rarity": "0",
-      "iconImage": "battle"
+      "iconImage": "battle",
+      "_id": "LOOT_SEPARATIST_1_DEFEND"
     }
   },
   {
@@ -2152,7 +2265,8 @@
       "speed": "18",
       "cost": "50",
       "rarity": "0",
-      "iconImage": "boarder"
+      "iconImage": "boarder",
+      "_id": "LOOT_SEPARATIST_1_BOARDER"
     }
   },
   {
@@ -2172,7 +2286,8 @@
       "droneImage": "loot_estate_1_c",
       "weaponBlueprint": "DRONE_LASER",
       "rarity": "0",
-      "iconImage": "combat"
+      "iconImage": "combat",
+      "_id": "LOOT_ESTATE_1_COMBAT"
     }
   },
   {
@@ -2193,7 +2308,8 @@
       "droneImage": "loot_estate_1_d",
       "weaponBlueprint": "DRONE_LASER_DEFENSE",
       "iconImage": "defense",
-      "rarity": "0"
+      "rarity": "0",
+      "_id": "LOOT_ESTATE_1_DEFENSE"
     }
   },
   {
@@ -2213,7 +2329,8 @@
       "droneImage": "loot_aug_a1",
       "weaponBlueprint": "DRONE_AUG_FLAK_AMP_1",
       "rarity": "0",
-      "iconImage": "combat"
+      "iconImage": "combat",
+      "_id": "LOOT_AUG_1_AMP2"
     }
   },
   {
@@ -2233,7 +2350,8 @@
       "droneImage": "loot_aug_a2",
       "weaponBlueprint": "DRONE_AUG_FLAK_AMP_2",
       "rarity": "0",
-      "iconImage": "combat"
+      "iconImage": "combat",
+      "_id": "LOOT_AUG_1_AMP3"
     }
   },
   {
@@ -2253,7 +2371,8 @@
       "droneImage": "loot_aug_a3",
       "weaponBlueprint": "DRONE_AUG_FLAK_AMP_3",
       "rarity": "0",
-      "iconImage": "combat"
+      "iconImage": "combat",
+      "_id": "LOOT_AUG_1_AMP4"
     }
   },
   {
@@ -2274,7 +2393,8 @@
       "droneImage": "boss_engic",
       "weaponBlueprint": "DRONE_LASER_DEFENSE",
       "iconImage": "defense",
-      "rarity": "0"
+      "rarity": "0",
+      "_id": "DEFENSE_TRINITY_MISSILE"
     }
   },
   {
@@ -2296,7 +2416,8 @@
       "droneImage": "boss_engic",
       "weaponBlueprint": "DRONE_LASER_DEFENSE",
       "iconImage": "defense",
-      "rarity": "0"
+      "rarity": "0",
+      "_id": "DEFENSE_TRINITY_DRONE"
     }
   },
   {
@@ -2318,7 +2439,8 @@
       "droneImage": "boss_engic",
       "weaponBlueprint": "DRONE_LASER_DEFENSE",
       "iconImage": "defense",
-      "rarity": "0"
+      "rarity": "0",
+      "_id": "DEFENSE_TRINITY_PROJECTILE"
     }
   },
   {
@@ -2339,7 +2461,8 @@
       "droneImage": "boss_engic_chaos",
       "weaponBlueprint": "DRONE_LASER_DEFENSE",
       "iconImage": "defense",
-      "rarity": "0"
+      "rarity": "0",
+      "_id": "DEFENSE_TRINITY_CHAOS"
     }
   },
   {
@@ -2355,7 +2478,8 @@
       "cost": "50",
       "bp": "3",
       "rarity": "0",
-      "iconImage": "battle"
+      "iconImage": "battle",
+      "_id": "YINYANG_BATTLE"
     }
   },
   {
@@ -2371,7 +2495,8 @@
       "speed": "18",
       "cost": "50",
       "rarity": "0",
-      "iconImage": "boarder"
+      "iconImage": "boarder",
+      "_id": "YINYANG_BOARDER"
     }
   },
   {
@@ -2387,7 +2512,8 @@
       "cost": "50",
       "bp": "3",
       "rarity": "0",
-      "iconImage": "battle"
+      "iconImage": "battle",
+      "_id": "YINYANG_BATTLE_CHAOS"
     }
   },
   {
@@ -2403,7 +2529,8 @@
       "speed": "18",
       "cost": "50",
       "rarity": "0",
-      "iconImage": "boarder"
+      "iconImage": "boarder",
+      "_id": "YINYANG_BOARDER_CHAOS"
     }
   },
   {
@@ -2419,7 +2546,8 @@
       "cost": "50",
       "bp": "3",
       "rarity": "0",
-      "iconImage": "battle"
+      "iconImage": "battle",
+      "_id": "SURGEON_BATTLE"
     }
   },
   {
@@ -2435,7 +2563,8 @@
       "speed": "18",
       "cost": "50",
       "rarity": "0",
-      "iconImage": "boarder"
+      "iconImage": "boarder",
+      "_id": "SURGEON_BOARDER"
     }
   },
   {
@@ -2451,7 +2580,8 @@
       "cost": "50",
       "bp": "3",
       "rarity": "0",
-      "iconImage": "battle"
+      "iconImage": "battle",
+      "_id": "SURGEON_BATTLE_CHAOS"
     }
   },
   {
@@ -2467,7 +2597,8 @@
       "speed": "18",
       "cost": "50",
       "rarity": "0",
-      "iconImage": "boarder"
+      "iconImage": "boarder",
+      "_id": "SURGEON_BOARDER_CHAOS"
     }
   },
   {
@@ -2483,7 +2614,8 @@
       "cost": "80",
       "bp": "3",
       "rarity": "0",
-      "iconImage": "battle"
+      "iconImage": "battle",
+      "_id": "FOREMAN_BATTLE"
     }
   },
   {
@@ -2499,7 +2631,8 @@
       "speed": "12",
       "cost": "80",
       "rarity": "0",
-      "iconImage": "boarder"
+      "iconImage": "boarder",
+      "_id": "FOREMAN_BOARDER"
     }
   },
   {
@@ -2515,7 +2648,8 @@
       "cost": "80",
       "bp": "3",
       "rarity": "0",
-      "iconImage": "battle"
+      "iconImage": "battle",
+      "_id": "FOREMAN_BATTLE_CHAOS"
     }
   },
   {
@@ -2531,7 +2665,8 @@
       "speed": "12",
       "cost": "80",
       "rarity": "0",
-      "iconImage": "boarder"
+      "iconImage": "boarder",
+      "_id": "FOREMAN_BOARDER_CHAOS"
     }
   },
   {
@@ -2547,7 +2682,8 @@
       "cost": "50",
       "bp": "3",
       "rarity": "0",
-      "iconImage": "battle"
+      "iconImage": "battle",
+      "_id": "HOLODRONE_BATTLE"
     }
   },
   {
@@ -2563,7 +2699,8 @@
       "speed": "18",
       "cost": "50",
       "rarity": "0",
-      "iconImage": "boarder"
+      "iconImage": "boarder",
+      "_id": "HOLODRONE_BOARDER"
     }
   },
   {
@@ -2579,7 +2716,8 @@
       "cost": "50",
       "bp": "3",
       "rarity": "0",
-      "iconImage": "battle"
+      "iconImage": "battle",
+      "_id": "HOLODRONE_BATTLE_CHAOS"
     }
   },
   {
@@ -2595,7 +2733,8 @@
       "speed": "18",
       "cost": "50",
       "rarity": "0",
-      "iconImage": "boarder"
+      "iconImage": "boarder",
+      "_id": "HOLODRONE_BOARDER_CHAOS"
     }
   },
   {
@@ -2617,7 +2756,8 @@
       "droneImage": "boss_symbiont_defense_2",
       "weaponBlueprint": "DRONE_LASER_DEFENSE",
       "iconImage": "defense",
-      "rarity": "0"
+      "rarity": "0",
+      "_id": "SYMBIONT_DEFENSE"
     }
   },
   {
@@ -2638,7 +2778,8 @@
       "droneImage": "boss_symbiont_togguardian2_m",
       "weaponBlueprint": "DRONE_MISSILE_DEFENSE",
       "iconImage": "defense",
-      "rarity": "0"
+      "rarity": "0",
+      "_id": "SYMBIONT_DEFENSE_MISSILE"
     }
   },
   {
@@ -2660,7 +2801,8 @@
       "droneImage": "boss_symbiont_togguardian2_d",
       "weaponBlueprint": "DRONE_ION_DEFENSE",
       "iconImage": "defense",
-      "rarity": "0"
+      "rarity": "0",
+      "_id": "SYMBIONT_DEFENSE_DRONE"
     }
   },
   {
@@ -2680,7 +2822,8 @@
       "droneImage": "boss_symbiont_combat2_l",
       "weaponBlueprint": "DRONE_LASER_COMBAT",
       "rarity": "0",
-      "iconImage": "combat"
+      "iconImage": "combat",
+      "_id": "SYMBIONT_LASER"
     }
   },
   {
@@ -2700,7 +2843,8 @@
       "droneImage": "boss_symbiont_combat2_b",
       "weaponBlueprint": "DRONE_BEAM_COMBAT",
       "rarity": "0",
-      "iconImage": "combat"
+      "iconImage": "combat",
+      "_id": "SYMBIONT_BEAM"
     }
   },
   {
@@ -2720,7 +2864,8 @@
       "droneImage": "boss_symbiont_hellraiser_f",
       "weaponBlueprint": "DRONE_FIREBEAM_COMBAT",
       "rarity": "0",
-      "iconImage": "combat"
+      "iconImage": "combat",
+      "_id": "SYMBIONT_FIRE"
     }
   },
   {
@@ -2740,7 +2885,8 @@
       "droneImage": "boss_symbiont_hellraiser_h",
       "weaponBlueprint": "DRONE_HULLBEAM_COMBAT",
       "rarity": "0",
-      "iconImage": "combat"
+      "iconImage": "combat",
+      "_id": "SYMBIONT_HULL"
     }
   },
   {
@@ -2760,7 +2906,8 @@
       "droneImage": "boss_symbiont_ion1_a3",
       "weaponBlueprint": "DRONE_ION_AMP_3",
       "rarity": "0",
-      "iconImage": "combat"
+      "iconImage": "combat",
+      "_id": "SYMBIONT_ION"
     }
   },
   {
@@ -2780,7 +2927,8 @@
       "droneImage": "boss_symbiont_energy1_a3",
       "weaponBlueprint": "DRONE_ENERGY_AMP_3",
       "rarity": "0",
-      "iconImage": "combat"
+      "iconImage": "combat",
+      "_id": "SYMBIONT_ENERGY"
     }
   },
   {
@@ -2800,7 +2948,8 @@
       "droneImage": "boss_symbiont_focus_a3",
       "weaponBlueprint": "DRONE_FOCUS_AMP_3",
       "rarity": "0",
-      "iconImage": "combat"
+      "iconImage": "combat",
+      "_id": "SYMBIONT_FOCUS"
     }
   },
   {
@@ -2820,7 +2969,8 @@
       "droneImage": "boss_symbiont_flak_a3",
       "weaponBlueprint": "DRONE_FLAK_AMP_3",
       "rarity": "0",
-      "iconImage": "combat"
+      "iconImage": "combat",
+      "_id": "SYMBIONT_FLAK"
     }
   },
   {
@@ -2841,7 +2991,8 @@
       "droneImage": "boss_symbiont_omni",
       "weaponBlueprint": "DRONE_OMNI_LASER",
       "iconImage": "defense",
-      "rarity": "0"
+      "rarity": "0",
+      "_id": "SYMBIONT_OMNI"
     }
   },
   {
@@ -2861,7 +3012,8 @@
       "droneImage": "boss_symbiont_ancient_laser2",
       "weaponBlueprint": "ANCIENT_DRONE_LASER",
       "rarity": "0",
-      "iconImage": "combat"
+      "iconImage": "combat",
+      "_id": "SYMBIONT_ANCIENT_LASER"
     }
   },
   {
@@ -2883,7 +3035,8 @@
       "droneImage": "boss_symbiont_ancient_defense1",
       "weaponBlueprint": "ANCIENT_DRONE_DEFENSE",
       "iconImage": "defense",
-      "rarity": "0"
+      "rarity": "0",
+      "_id": "SYMBIONT_ANCIENT_DEFENSE"
     }
   },
   {
@@ -2903,7 +3056,8 @@
       "droneImage": "boss_symbiont_ancient_ion",
       "weaponBlueprint": "ANCIENT_DRONE_ION",
       "rarity": "0",
-      "iconImage": "combat"
+      "iconImage": "combat",
+      "_id": "SYMBIONT_ANCIENT_ION"
     }
   },
   {
@@ -2923,7 +3077,8 @@
       "droneImage": "boss_symbiont_ancient_missiles",
       "weaponBlueprint": "ANCIENT_DRONE_MISSILES",
       "rarity": "0",
-      "iconImage": "combat"
+      "iconImage": "combat",
+      "_id": "SYMBIONT_ANCIENT_MISSILE"
     }
   },
   {
@@ -2945,7 +3100,8 @@
       "droneImage": "boss_symbiont_chaos_defense_2",
       "weaponBlueprint": "DRONE_LASER_DEFENSE",
       "iconImage": "defense",
-      "rarity": "0"
+      "rarity": "0",
+      "_id": "SYMBIONT_CHAOS_DEFENSE"
     }
   },
   {
@@ -2966,7 +3122,8 @@
       "droneImage": "boss_symbiont_chaos_togguardian2_m",
       "weaponBlueprint": "DRONE_MISSILE_DEFENSE",
       "iconImage": "defense",
-      "rarity": "0"
+      "rarity": "0",
+      "_id": "SYMBIONT_CHAOS_DEFENSE_MISSILE"
     }
   },
   {
@@ -2988,7 +3145,8 @@
       "droneImage": "boss_symbiont_chaos_togguardian2_d",
       "weaponBlueprint": "DRONE_ION_DEFENSE",
       "iconImage": "defense",
-      "rarity": "0"
+      "rarity": "0",
+      "_id": "SYMBIONT_CHAOS_DEFENSE_DRONE"
     }
   },
   {
@@ -3008,7 +3166,8 @@
       "droneImage": "boss_symbiont_chaos_combat2_l",
       "weaponBlueprint": "DRONE_LASER_COMBAT",
       "rarity": "0",
-      "iconImage": "combat"
+      "iconImage": "combat",
+      "_id": "SYMBIONT_CHAOS_LASER"
     }
   },
   {
@@ -3028,7 +3187,8 @@
       "droneImage": "boss_symbiont_chaos_combat2_b",
       "weaponBlueprint": "DRONE_BEAM_COMBAT",
       "rarity": "0",
-      "iconImage": "combat"
+      "iconImage": "combat",
+      "_id": "SYMBIONT_CHAOS_BEAM"
     }
   },
   {
@@ -3048,7 +3208,8 @@
       "droneImage": "boss_symbiont_chaos_hellraiser_f",
       "weaponBlueprint": "DRONE_FIREBEAM_COMBAT",
       "rarity": "0",
-      "iconImage": "combat"
+      "iconImage": "combat",
+      "_id": "SYMBIONT_CHAOS_FIRE"
     }
   },
   {
@@ -3068,7 +3229,8 @@
       "droneImage": "boss_symbiont_chaos_hellraiser_h",
       "weaponBlueprint": "DRONE_HULLBEAM_COMBAT",
       "rarity": "0",
-      "iconImage": "combat"
+      "iconImage": "combat",
+      "_id": "SYMBIONT_CHAOS_HULL"
     }
   },
   {
@@ -3088,7 +3250,8 @@
       "droneImage": "boss_symbiont_chaos_ion1_a3",
       "weaponBlueprint": "DRONE_ION_AMP_3",
       "rarity": "0",
-      "iconImage": "combat"
+      "iconImage": "combat",
+      "_id": "SYMBIONT_CHAOS_ION"
     }
   },
   {
@@ -3108,7 +3271,8 @@
       "droneImage": "boss_symbiont_chaos_energy1_a3",
       "weaponBlueprint": "DRONE_ENERGY_AMP_3",
       "rarity": "0",
-      "iconImage": "combat"
+      "iconImage": "combat",
+      "_id": "SYMBIONT_CHAOS_ENERGY"
     }
   },
   {
@@ -3128,7 +3292,8 @@
       "droneImage": "boss_symbiont_chaos_focus_a3",
       "weaponBlueprint": "DRONE_FOCUS_AMP_3",
       "rarity": "0",
-      "iconImage": "combat"
+      "iconImage": "combat",
+      "_id": "SYMBIONT_CHAOS_FOCUS"
     }
   },
   {
@@ -3148,7 +3313,8 @@
       "droneImage": "boss_symbiont_chaos_flak_a3",
       "weaponBlueprint": "DRONE_FLAK_AMP_3",
       "rarity": "0",
-      "iconImage": "combat"
+      "iconImage": "combat",
+      "_id": "SYMBIONT_CHAOS_FLAK"
     }
   },
   {
@@ -3169,7 +3335,8 @@
       "droneImage": "boss_symbiont_chaos_omni",
       "weaponBlueprint": "DRONE_OMNI_LASER",
       "iconImage": "defense",
-      "rarity": "0"
+      "rarity": "0",
+      "_id": "SYMBIONT_CHAOS_OMNI"
     }
   },
   {
@@ -3189,7 +3356,8 @@
       "droneImage": "boss_symbiont_chaos_ancient_laser2",
       "weaponBlueprint": "ROYAL_DRONE_LASER",
       "rarity": "0",
-      "iconImage": "combat"
+      "iconImage": "combat",
+      "_id": "SYMBIONT_CHAOS_ANCIENT_LASER"
     }
   },
   {
@@ -3211,7 +3379,8 @@
       "droneImage": "boss_symbiont_chaos_ancient_defense1",
       "weaponBlueprint": "ROYAL_DRONE_DEFENSE",
       "iconImage": "defense",
-      "rarity": "0"
+      "rarity": "0",
+      "_id": "SYMBIONT_CHAOS_ANCIENT_DEFENSE"
     }
   },
   {
@@ -3231,7 +3400,8 @@
       "droneImage": "boss_symbiont_chaos_ancient_ion",
       "weaponBlueprint": "ROYAL_DRONE_ION",
       "rarity": "0",
-      "iconImage": "combat"
+      "iconImage": "combat",
+      "_id": "SYMBIONT_CHAOS_ANCIENT_ION"
     }
   },
   {
@@ -3251,7 +3421,8 @@
       "droneImage": "boss_symbiont_chaos_ancient_missiles",
       "weaponBlueprint": "ANCIENT_ROYAL_MISSILES",
       "rarity": "0",
-      "iconImage": "combat"
+      "iconImage": "combat",
+      "_id": "SYMBIONT_CHAOS_ANCIENT_MISSILE"
     }
   },
   {
@@ -3267,7 +3438,8 @@
       "speed": "18",
       "cost": "65",
       "rarity": "4",
-      "iconImage": "ionD"
+      "iconImage": "ionD",
+      "_id": "BOARDER_ION"
     }
   }
 ]

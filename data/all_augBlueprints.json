@@ -6,7 +6,8 @@
       "desc": "Nanomachines, son! They harden in response to physical trauma! YOU CAN'T HURT ME!",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "IMMUNE"
     }
   },
   {
@@ -18,7 +19,8 @@
       "bp": "8",
       "rarity": "0",
       "stackable": "true",
-      "value": "0.50"
+      "value": "0.50",
+      "_id": "ION_ARMOR"
     }
   },
   {
@@ -30,7 +32,8 @@
       "bp": "8",
       "rarity": "0",
       "stackable": "false",
-      "value": "0.15"
+      "value": "0.15",
+      "_id": "CLOAK_FIRE"
     }
   },
   {
@@ -42,7 +45,8 @@
       "bp": "5",
       "rarity": "0",
       "stackable": "true",
-      "value": "0.10"
+      "value": "0.10",
+      "_id": "AUTO_COOLDOWN"
     }
   },
   {
@@ -54,7 +58,8 @@
       "bp": "5",
       "rarity": "0",
       "stackable": "true",
-      "value": "0.15"
+      "value": "0.15",
+      "_id": "SHIELD_RECHARGE"
     }
   },
   {
@@ -66,7 +71,8 @@
       "bp": "4",
       "rarity": "0",
       "stackable": "true",
-      "value": "0.25"
+      "value": "0.25",
+      "_id": "FTL_BOOSTER"
     }
   },
   {
@@ -77,7 +83,8 @@
       "cost": "50",
       "bp": "5",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "FTL_JUMPER"
     }
   },
   {
@@ -89,7 +96,8 @@
       "bp": "4",
       "rarity": "0",
       "value": "2",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "FTL_JAMMER"
     }
   },
   {
@@ -100,7 +108,8 @@
       "cost": "0",
       "bp": "8",
       "rarity": "0",
-      "stackable": "true"
+      "stackable": "true",
+      "_id": "ANURAK_PRAYER"
     }
   },
   {
@@ -111,7 +120,8 @@
       "cost": "0",
       "rarity": "0",
       "stackable": "false",
-      "bp": "0"
+      "bp": "0",
+      "_id": "FOR_MULTIVERSE"
     }
   },
   {
@@ -122,7 +132,8 @@
       "cost": "0",
       "rarity": "0",
       "stackable": "false",
-      "bp": "0"
+      "bp": "0",
+      "_id": "FEDERATION_DATABASE"
     }
   },
   {
@@ -133,7 +144,8 @@
       "cost": "0",
       "rarity": "0",
       "stackable": "false",
-      "bp": "0"
+      "bp": "0",
+      "_id": "NO_WEAPON"
     }
   },
   {
@@ -144,7 +156,8 @@
       "cost": "0",
       "rarity": "0",
       "stackable": "false",
-      "bp": "0"
+      "bp": "0",
+      "_id": "SKIP_START"
     }
   },
   {
@@ -155,7 +168,8 @@
       "cost": "0",
       "rarity": "0",
       "stackable": "false",
-      "bp": "0"
+      "bp": "0",
+      "_id": "STAGE_2"
     }
   },
   {
@@ -166,7 +180,8 @@
       "cost": "0",
       "rarity": "0",
       "stackable": "false",
-      "bp": "0"
+      "bp": "0",
+      "_id": "STAGE_3"
     }
   },
   {
@@ -177,7 +192,8 @@
       "cost": "0",
       "rarity": "0",
       "stackable": "false",
-      "bp": "0"
+      "bp": "0",
+      "_id": "DRONE_AI_ENABLED"
     }
   },
   {
@@ -188,7 +204,8 @@
       "cost": "0",
       "rarity": "0",
       "stackable": "false",
-      "bp": "0"
+      "bp": "0",
+      "_id": "MARKER_STAGE3_SURGE1"
     }
   },
   {
@@ -199,7 +216,8 @@
       "cost": "0",
       "rarity": "0",
       "stackable": "false",
-      "bp": "0"
+      "bp": "0",
+      "_id": "MARKER_STAGE3_SURGE2"
     }
   },
   {
@@ -210,7 +228,8 @@
       "cost": "0",
       "rarity": "0",
       "stackable": "false",
-      "bp": "0"
+      "bp": "0",
+      "_id": "MARKER_STAGE3_SURGE3"
     }
   },
   {
@@ -221,7 +240,8 @@
       "cost": "0",
       "rarity": "0",
       "stackable": "false",
-      "bp": "0"
+      "bp": "0",
+      "_id": "MARKER_MFK_SURGE"
     }
   },
   {
@@ -232,7 +252,8 @@
       "cost": "0",
       "rarity": "0",
       "stackable": "false",
-      "bp": "0"
+      "bp": "0",
+      "_id": "SHIP_MULTIVERSE"
     }
   },
   {
@@ -243,7 +264,8 @@
       "cost": "0",
       "rarity": "0",
       "stackable": "false",
-      "bp": "0"
+      "bp": "0",
+      "_id": "SHIP_PLEASURE"
     }
   },
   {
@@ -254,7 +276,8 @@
       "cost": "0",
       "rarity": "0",
       "stackable": "false",
-      "bp": "0"
+      "bp": "0",
+      "_id": "SHIP_TUCO"
     }
   },
   {
@@ -265,7 +288,8 @@
       "cost": "0",
       "rarity": "0",
       "stackable": "false",
-      "bp": "0"
+      "bp": "0",
+      "_id": "SHIP_GAMBLING"
     }
   },
   {
@@ -276,7 +300,8 @@
       "cost": "0",
       "rarity": "0",
       "stackable": "false",
-      "bp": "0"
+      "bp": "0",
+      "_id": "SHIP_TUCO_GOLD"
     }
   },
   {
@@ -287,7 +312,8 @@
       "cost": "0",
       "rarity": "0",
       "stackable": "false",
-      "bp": "0"
+      "bp": "0",
+      "_id": "SHIP_GHOSTHUNTER"
     }
   },
   {
@@ -298,7 +324,8 @@
       "cost": "0",
       "rarity": "0",
       "stackable": "false",
-      "bp": "0"
+      "bp": "0",
+      "_id": "SHIP_ANCIENT"
     }
   },
   {
@@ -309,7 +336,8 @@
       "cost": "0",
       "rarity": "0",
       "stackable": "false",
-      "bp": "0"
+      "bp": "0",
+      "_id": "SHIP_SIREN"
     }
   },
   {
@@ -320,7 +348,8 @@
       "cost": "0",
       "rarity": "0",
       "stackable": "false",
-      "bp": "0"
+      "bp": "0",
+      "_id": "SHIP_AUGMENTED"
     }
   },
   {
@@ -331,7 +360,8 @@
       "cost": "0",
       "rarity": "0",
       "stackable": "false",
-      "bp": "0"
+      "bp": "0",
+      "_id": "SHIP_ENGI"
     }
   },
   {
@@ -342,7 +372,8 @@
       "cost": "0",
       "rarity": "0",
       "stackable": "false",
-      "bp": "0"
+      "bp": "0",
+      "_id": "SHIP_ZOLTAN"
     }
   },
   {
@@ -353,7 +384,8 @@
       "cost": "0",
       "rarity": "0",
       "stackable": "false",
-      "bp": "0"
+      "bp": "0",
+      "_id": "SHIP_ZOLTAN_OLD"
     }
   },
   {
@@ -364,7 +396,8 @@
       "cost": "0",
       "rarity": "0",
       "stackable": "false",
-      "bp": "0"
+      "bp": "0",
+      "_id": "SHIP_DUSKBRINGER"
     }
   },
   {
@@ -375,7 +408,8 @@
       "cost": "0",
       "rarity": "0",
       "stackable": "false",
-      "bp": "0"
+      "bp": "0",
+      "_id": "SHIP_MONK"
     }
   },
   {
@@ -386,7 +420,8 @@
       "cost": "0",
       "rarity": "0",
       "stackable": "false",
-      "bp": "0"
+      "bp": "0",
+      "_id": "SHIP_HIVE"
     }
   },
   {
@@ -397,7 +432,8 @@
       "cost": "0",
       "rarity": "0",
       "stackable": "false",
-      "bp": "0"
+      "bp": "0",
+      "_id": "SHIP_FREEMANTIS"
     }
   },
   {
@@ -408,7 +444,8 @@
       "cost": "0",
       "rarity": "0",
       "stackable": "false",
-      "bp": "0"
+      "bp": "0",
+      "_id": "SHIP_ROCK"
     }
   },
   {
@@ -419,7 +456,8 @@
       "cost": "0",
       "rarity": "0",
       "stackable": "false",
-      "bp": "0"
+      "bp": "0",
+      "_id": "SHIP_OUTCAST"
     }
   },
   {
@@ -430,7 +468,8 @@
       "cost": "0",
       "rarity": "0",
       "stackable": "false",
-      "bp": "0"
+      "bp": "0",
+      "_id": "SHIP_LOSTSUN"
     }
   },
   {
@@ -441,7 +480,8 @@
       "cost": "0",
       "rarity": "0",
       "stackable": "false",
-      "bp": "0"
+      "bp": "0",
+      "_id": "SHIP_CULTIST"
     }
   },
   {
@@ -452,7 +492,8 @@
       "cost": "0",
       "rarity": "0",
       "stackable": "false",
-      "bp": "0"
+      "bp": "0",
+      "_id": "SHIP_CRYSTAL"
     }
   },
   {
@@ -463,7 +504,8 @@
       "cost": "0",
       "rarity": "0",
       "stackable": "false",
-      "bp": "0"
+      "bp": "0",
+      "_id": "SHIP_SLUG"
     }
   },
   {
@@ -474,7 +516,8 @@
       "cost": "0",
       "rarity": "0",
       "stackable": "false",
-      "bp": "0"
+      "bp": "0",
+      "_id": "SHIP_COALITION"
     }
   },
   {
@@ -485,7 +528,8 @@
       "cost": "0",
       "rarity": "0",
       "stackable": "false",
-      "bp": "0"
+      "bp": "0",
+      "_id": "SHIP_ORCHID"
     }
   },
   {
@@ -496,7 +540,8 @@
       "cost": "0",
       "rarity": "0",
       "stackable": "false",
-      "bp": "0"
+      "bp": "0",
+      "_id": "SHIP_VAMPWEED"
     }
   },
   {
@@ -507,7 +552,8 @@
       "cost": "0",
       "rarity": "0",
       "stackable": "false",
-      "bp": "0"
+      "bp": "0",
+      "_id": "SHIP_SHELL"
     }
   },
   {
@@ -518,7 +564,8 @@
       "cost": "0",
       "rarity": "0",
       "stackable": "false",
-      "bp": "0"
+      "bp": "0",
+      "_id": "SHIP_MORPH"
     }
   },
   {
@@ -529,7 +576,8 @@
       "cost": "0",
       "rarity": "0",
       "stackable": "false",
-      "bp": "0"
+      "bp": "0",
+      "_id": "SHIP_LEECH"
     }
   },
   {
@@ -540,7 +588,8 @@
       "cost": "0",
       "rarity": "0",
       "stackable": "false",
-      "bp": "0"
+      "bp": "0",
+      "_id": "SHIP_LANIUS"
     }
   },
   {
@@ -551,7 +600,8 @@
       "cost": "0",
       "rarity": "0",
       "stackable": "false",
-      "bp": "0"
+      "bp": "0",
+      "_id": "SHIP_SALT"
     }
   },
   {
@@ -562,7 +612,8 @@
       "cost": "0",
       "rarity": "0",
       "stackable": "false",
-      "bp": "0"
+      "bp": "0",
+      "_id": "SHIP_SPIDER"
     }
   },
   {
@@ -573,7 +624,8 @@
       "cost": "0",
       "rarity": "0",
       "stackable": "false",
-      "bp": "0"
+      "bp": "0",
+      "_id": "SHIP_DYNASTY"
     }
   },
   {
@@ -584,7 +636,8 @@
       "cost": "0",
       "rarity": "0",
       "stackable": "false",
-      "bp": "0"
+      "bp": "0",
+      "_id": "SHIP_UNION"
     }
   },
   {
@@ -595,7 +648,8 @@
       "cost": "0",
       "rarity": "0",
       "stackable": "false",
-      "bp": "0"
+      "bp": "0",
+      "_id": "SHIP_FEDERATION"
     }
   },
   {
@@ -606,7 +660,8 @@
       "cost": "0",
       "rarity": "0",
       "stackable": "false",
-      "bp": "0"
+      "bp": "0",
+      "_id": "SHIP_REBEL"
     }
   },
   {
@@ -617,7 +672,8 @@
       "cost": "0",
       "rarity": "0",
       "stackable": "false",
-      "bp": "0"
+      "bp": "0",
+      "_id": "SHIP_AUTO"
     }
   },
   {
@@ -628,7 +684,8 @@
       "cost": "0",
       "rarity": "0",
       "stackable": "false",
-      "bp": "0"
+      "bp": "0",
+      "_id": "SHIP_AUTO_FED"
     }
   },
   {
@@ -639,7 +696,8 @@
       "cost": "0",
       "rarity": "0",
       "stackable": "false",
-      "bp": "0"
+      "bp": "0",
+      "_id": "SHIP_TECH"
     }
   },
   {
@@ -650,7 +708,8 @@
       "cost": "0",
       "rarity": "0",
       "stackable": "false",
-      "bp": "0"
+      "bp": "0",
+      "_id": "SHIP_KESTREL"
     }
   },
   {
@@ -661,7 +720,8 @@
       "cost": "0",
       "rarity": "0",
       "stackable": "false",
-      "bp": "0"
+      "bp": "0",
+      "_id": "SHIP_STEALTH"
     }
   },
   {
@@ -672,7 +732,8 @@
       "cost": "0",
       "rarity": "0",
       "stackable": "false",
-      "bp": "0"
+      "bp": "0",
+      "_id": "SHIP_ANGEL"
     }
   },
   {
@@ -683,7 +744,8 @@
       "cost": "0",
       "rarity": "0",
       "stackable": "false",
-      "bp": "0"
+      "bp": "0",
+      "_id": "SHIP_ALPHA"
     }
   },
   {
@@ -694,7 +756,8 @@
       "cost": "0",
       "rarity": "0",
       "stackable": "false",
-      "bp": "0"
+      "bp": "0",
+      "_id": "SHIP_GHOST"
     }
   },
   {
@@ -705,7 +768,8 @@
       "cost": "0",
       "rarity": "0",
       "stackable": "false",
-      "bp": "0"
+      "bp": "0",
+      "_id": "SHIP_PIRATE"
     }
   },
   {
@@ -716,7 +780,8 @@
       "cost": "0",
       "rarity": "0",
       "stackable": "false",
-      "bp": "0"
+      "bp": "0",
+      "_id": "SHIP_SPLICE"
     }
   },
   {
@@ -727,7 +792,8 @@
       "cost": "0",
       "rarity": "0",
       "stackable": "false",
-      "bp": "0"
+      "bp": "0",
+      "_id": "SHIP_PROTOTYPE"
     }
   },
   {
@@ -738,7 +804,8 @@
       "cost": "0",
       "rarity": "0",
       "stackable": "false",
-      "bp": "0"
+      "bp": "0",
+      "_id": "SHIP_PONY"
     }
   },
   {
@@ -749,7 +816,8 @@
       "cost": "0",
       "rarity": "0",
       "stackable": "false",
-      "bp": "0"
+      "bp": "0",
+      "_id": "SHIP_FLAGSHIP"
     }
   },
   {
@@ -760,7 +828,8 @@
       "cost": "0",
       "rarity": "0",
       "stackable": "false",
-      "bp": "0"
+      "bp": "0",
+      "_id": "SHIP_GYGES"
     }
   },
   {
@@ -771,7 +840,8 @@
       "cost": "0",
       "rarity": "0",
       "stackable": "false",
-      "bp": "0"
+      "bp": "0",
+      "_id": "SHIP_SYLVAN"
     }
   },
   {
@@ -782,7 +852,8 @@
       "cost": "0",
       "rarity": "0",
       "stackable": "false",
-      "bp": "0"
+      "bp": "0",
+      "_id": "SHIP_TULLY"
     }
   },
   {
@@ -793,7 +864,8 @@
       "cost": "0",
       "rarity": "0",
       "stackable": "false",
-      "bp": "0"
+      "bp": "0",
+      "_id": "SHIP_LIMIT"
     }
   },
   {
@@ -804,7 +876,8 @@
       "cost": "0",
       "rarity": "0",
       "stackable": "false",
-      "bp": "0"
+      "bp": "0",
+      "_id": "SHIP_PROPHET"
     }
   },
   {
@@ -815,7 +888,8 @@
       "cost": "0",
       "rarity": "0",
       "stackable": "false",
-      "bp": "0"
+      "bp": "0",
+      "_id": "TASK_SCHOOLID"
     }
   },
   {
@@ -826,7 +900,8 @@
       "cost": "0",
       "rarity": "0",
       "stackable": "false",
-      "bp": "0"
+      "bp": "0",
+      "_id": "TASK_DRAWING"
     }
   },
   {
@@ -837,7 +912,8 @@
       "cost": "0",
       "rarity": "0",
       "stackable": "false",
-      "bp": "0"
+      "bp": "0",
+      "_id": "TASK_CRUSH"
     }
   },
   {
@@ -848,7 +924,8 @@
       "cost": "0",
       "rarity": "0",
       "stackable": "false",
-      "bp": "0"
+      "bp": "0",
+      "_id": "TASK_TOILET"
     }
   },
   {
@@ -859,7 +936,8 @@
       "cost": "0",
       "rarity": "0",
       "stackable": "false",
-      "bp": "0"
+      "bp": "0",
+      "_id": "TASK_PLUSHIE"
     }
   },
   {
@@ -870,7 +948,8 @@
       "cost": "0",
       "rarity": "0",
       "stackable": "false",
-      "bp": "0"
+      "bp": "0",
+      "_id": "TASK_PETE"
     }
   },
   {
@@ -881,7 +960,8 @@
       "cost": "0",
       "rarity": "0",
       "stackable": "false",
-      "bp": "0"
+      "bp": "0",
+      "_id": "TASK_USB"
     }
   },
   {
@@ -892,7 +972,8 @@
       "cost": "0",
       "rarity": "0",
       "stackable": "false",
-      "bp": "0"
+      "bp": "0",
+      "_id": "TASK_SURVIVOR"
     }
   },
   {
@@ -903,7 +984,8 @@
       "cost": "0",
       "rarity": "0",
       "stackable": "false",
-      "bp": "0"
+      "bp": "0",
+      "_id": "TASK_WEDDING"
     }
   },
   {
@@ -914,7 +996,8 @@
       "cost": "0",
       "rarity": "0",
       "stackable": "false",
-      "bp": "0"
+      "bp": "0",
+      "_id": "TASK_WILL"
     }
   },
   {
@@ -925,7 +1008,8 @@
       "cost": "0",
       "rarity": "0",
       "stackable": "false",
-      "bp": "0"
+      "bp": "0",
+      "_id": "TASK_SCANDAL"
     }
   },
   {
@@ -936,7 +1020,8 @@
       "cost": "0",
       "rarity": "0",
       "stackable": "false",
-      "bp": "0"
+      "bp": "0",
+      "_id": "TASK_TORTURE"
     }
   },
   {
@@ -947,7 +1032,8 @@
       "cost": "0",
       "rarity": "0",
       "stackable": "false",
-      "bp": "0"
+      "bp": "0",
+      "_id": "TASK_OUTPOST"
     }
   },
   {
@@ -958,7 +1044,8 @@
       "cost": "0",
       "rarity": "0",
       "stackable": "false",
-      "bp": "0"
+      "bp": "0",
+      "_id": "TASK_SHIP"
     }
   },
   {
@@ -969,7 +1056,8 @@
       "cost": "0",
       "rarity": "0",
       "stackable": "false",
-      "bp": "0"
+      "bp": "0",
+      "_id": "TASK_DUSK"
     }
   },
   {
@@ -980,7 +1068,8 @@
       "cost": "0",
       "rarity": "0",
       "stackable": "false",
-      "bp": "0"
+      "bp": "0",
+      "_id": "TASK_CONTRACT"
     }
   },
   {
@@ -991,7 +1080,8 @@
       "cost": "0",
       "rarity": "0",
       "stackable": "false",
-      "bp": "0"
+      "bp": "0",
+      "_id": "COMIC_DEVORAK"
     }
   },
   {
@@ -1002,7 +1092,8 @@
       "cost": "0",
       "rarity": "0",
       "stackable": "false",
-      "bp": "0"
+      "bp": "0",
+      "_id": "COMIC_TULLY"
     }
   },
   {
@@ -1013,7 +1104,8 @@
       "cost": "0",
       "rarity": "0",
       "stackable": "false",
-      "bp": "0"
+      "bp": "0",
+      "_id": "COMIC_WAR"
     }
   },
   {
@@ -1024,7 +1116,8 @@
       "cost": "0",
       "rarity": "0",
       "stackable": "false",
-      "bp": "0"
+      "bp": "0",
+      "_id": "TRINKET_WAR"
     }
   },
   {
@@ -1035,7 +1128,8 @@
       "cost": "0",
       "rarity": "0",
       "stackable": "false",
-      "bp": "0"
+      "bp": "0",
+      "_id": "TRINKET_SPEED"
     }
   },
   {
@@ -1046,7 +1140,8 @@
       "cost": "0",
       "rarity": "0",
       "stackable": "false",
-      "bp": "0"
+      "bp": "0",
+      "_id": "TRINKET_SHIELD"
     }
   },
   {
@@ -1057,7 +1152,8 @@
       "cost": "0",
       "rarity": "0",
       "stackable": "false",
-      "bp": "0"
+      "bp": "0",
+      "_id": "HAT_RANGER"
     }
   },
   {
@@ -1068,7 +1164,8 @@
       "cost": "0",
       "rarity": "0",
       "stackable": "false",
-      "bp": "0"
+      "bp": "0",
+      "_id": "HAT_MASK"
     }
   },
   {
@@ -1079,7 +1176,8 @@
       "cost": "0",
       "rarity": "0",
       "stackable": "false",
-      "bp": "0"
+      "bp": "0",
+      "_id": "HAT_FEDORA"
     }
   },
   {
@@ -1089,7 +1187,8 @@
       "desc": ".",
       "cost": "0",
       "rarity": "0",
-      "stackable": "true"
+      "stackable": "true",
+      "_id": "UPG_ARM_SCRAP"
     }
   },
   {
@@ -1101,7 +1200,8 @@
       "bp": "8",
       "rarity": "0",
       "stackable": "true",
-      "value": "0.10"
+      "value": "0.10",
+      "_id": "SCRAP_COLLECTOR"
     }
   },
   {
@@ -1111,7 +1211,8 @@
       "desc": ".",
       "cost": "0",
       "rarity": "0",
-      "stackable": "true"
+      "stackable": "true",
+      "_id": "UPG_ARM_MAGNETIC"
     }
   },
   {
@@ -1121,7 +1222,8 @@
       "desc": "A modified scrap recovery arm, which is short range and only collects scrap as effectively as your own crew, but much faster. Useful for time-sensitive situations, allowing you to salvage supplies in Rebel fleet controlled beacons and empty beacons.\n\t\n\t[M] - As a modular arm upgrade, it does not take up your ship's arm slot and can stack with a different arm. It cannot however be internalized like external [X] augments.",
       "cost": "65",
       "rarity": "0",
-      "stackable": "true"
+      "stackable": "true",
+      "_id": "MAGNET_ARM"
     }
   },
   {
@@ -1131,7 +1233,8 @@
       "desc": ".",
       "cost": "0",
       "rarity": "0",
-      "stackable": "true"
+      "stackable": "true",
+      "_id": "UPG_ARM_DRONES"
     }
   },
   {
@@ -1142,7 +1245,8 @@
       "cost": "50",
       "bp": "8",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "DRONE_RECOVERY"
     }
   },
   {
@@ -1152,7 +1256,8 @@
       "desc": ".",
       "cost": "0",
       "rarity": "0",
-      "stackable": "true"
+      "stackable": "true",
+      "_id": "UPG_ARM_REPAIR"
     }
   },
   {
@@ -1164,7 +1269,8 @@
       "bp": "8",
       "rarity": "0",
       "stackable": "false",
-      "value": "0.10"
+      "value": "0.10",
+      "_id": "REPAIR_ARM"
     }
   },
   {
@@ -1174,7 +1280,8 @@
       "desc": ".",
       "cost": "0",
       "rarity": "0",
-      "stackable": "true"
+      "stackable": "true",
+      "_id": "UPG_TECH_SEALANT"
     }
   },
   {
@@ -1186,7 +1293,8 @@
       "bp": "8",
       "rarity": "0",
       "stackable": "false",
-      "value": "1.f"
+      "value": "1.f",
+      "_id": "EX_BREACH_SEALANT"
     }
   },
   {
@@ -1196,7 +1304,8 @@
       "desc": ".",
       "cost": "0",
       "rarity": "0",
-      "stackable": "true"
+      "stackable": "true",
+      "_id": "UPG_TECH_EXTINGUISHERS"
     }
   },
   {
@@ -1208,7 +1317,8 @@
       "bp": "8",
       "rarity": "0",
       "stackable": "false",
-      "value": "1.f"
+      "value": "1.f",
+      "_id": "EX_FIRE_EXTINGUISHERS"
     }
   },
   {
@@ -1218,7 +1328,8 @@
       "desc": ".",
       "cost": "0",
       "rarity": "0",
-      "stackable": "true"
+      "stackable": "true",
+      "_id": "UPG_TECH_BYPASS"
     }
   },
   {
@@ -1230,7 +1341,8 @@
       "bp": "8",
       "rarity": "0",
       "stackable": "false",
-      "value": "0.0"
+      "value": "0.0",
+      "_id": "EX_ZOLTAN_BYPASS"
     }
   },
   {
@@ -1240,7 +1352,8 @@
       "desc": ".",
       "cost": "0",
       "rarity": "0",
-      "stackable": "true"
+      "stackable": "true",
+      "_id": "UPG_TECH_LIFEFORM"
     }
   },
   {
@@ -1252,7 +1365,8 @@
       "bp": "8",
       "rarity": "0",
       "stackable": "false",
-      "value": "0.0"
+      "value": "0.0",
+      "_id": "EX_LIFE_SCANNER"
     }
   },
   {
@@ -1262,7 +1376,8 @@
       "desc": ".",
       "cost": "0",
       "rarity": "0",
-      "stackable": "true"
+      "stackable": "true",
+      "_id": "UPG_TECH_SCRAMBLER"
     }
   },
   {
@@ -1272,7 +1387,8 @@
       "desc": ".",
       "cost": "0",
       "rarity": "0",
-      "stackable": "true"
+      "stackable": "true",
+      "_id": "UPG_TECH_SCRAMBLER_ENEMY"
     }
   },
   {
@@ -1284,7 +1400,8 @@
       "bp": "8",
       "rarity": "0",
       "stackable": "false",
-      "value": "0.0"
+      "value": "0.0",
+      "_id": "EX_DEFENSE_SCRAMBLER"
     }
   },
   {
@@ -1294,7 +1411,8 @@
       "desc": ".",
       "cost": "0",
       "rarity": "0",
-      "stackable": "true"
+      "stackable": "true",
+      "_id": "UPG_TECH_RESPIRATOR"
     }
   },
   {
@@ -1306,7 +1424,8 @@
       "bp": "8",
       "rarity": "0",
       "stackable": "false",
-      "value": "0.5"
+      "value": "0.5",
+      "_id": "EX_O2_MASKS"
     }
   },
   {
@@ -1316,7 +1435,8 @@
       "desc": "Upgrade - Pilot system is repaired faster.",
       "cost": "0",
       "rarity": "0",
-      "stackable": "true"
+      "stackable": "true",
+      "_id": "UPG_PILOT_REPAIR"
     }
   },
   {
@@ -1326,7 +1446,8 @@
       "desc": "Upgrade - Bonus power in Pilot system is rerouted to Engine system.",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "UPG_PILOT_REROUTE"
     }
   },
   {
@@ -1337,7 +1458,8 @@
       "cost": "15",
       "bp": "8",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "EX_PILOT_REROUTE"
     }
   },
   {
@@ -1347,7 +1469,8 @@
       "desc": "Upgrade - All crew can no longer phase through your doors or use handheld teleporters on your ship.",
       "cost": "0",
       "rarity": "0",
-      "stackable": "true"
+      "stackable": "true",
+      "_id": "UPG_DOOR_NOPHASE"
     }
   },
   {
@@ -1357,7 +1480,8 @@
       "desc": "Upgrade - An upgrade for your engines.",
       "cost": "0",
       "rarity": "0",
-      "stackable": "true"
+      "stackable": "true",
+      "_id": "UPG_AETHER_ENGINES"
     }
   },
   {
@@ -1367,7 +1491,8 @@
       "desc": "Upgrade - An upgrade for your scanners.",
       "cost": "0",
       "rarity": "0",
-      "stackable": "true"
+      "stackable": "true",
+      "_id": "UPG_AETHER_SCANNERS"
     }
   },
   {
@@ -1377,7 +1502,8 @@
       "desc": "Upgrade - An upgrade for your scanners.",
       "cost": "0",
       "rarity": "0",
-      "stackable": "true"
+      "stackable": "true",
+      "_id": "UPG_AETHER_TRANSLATOR"
     }
   },
   {
@@ -1387,7 +1513,8 @@
       "desc": "Upgrade - An upgrade for your weapons.",
       "cost": "0",
       "rarity": "0",
-      "stackable": "true"
+      "stackable": "true",
+      "_id": "UPG_AETHER_PREIGNITER"
     }
   },
   {
@@ -1397,7 +1524,8 @@
       "desc": "Upgrade - An upgrade for your shields.",
       "cost": "0",
       "rarity": "0",
-      "stackable": "true"
+      "stackable": "true",
+      "_id": "UPG_AETHER_SHIELDS"
     }
   },
   {
@@ -1408,7 +1536,8 @@
       "cost": "50",
       "bp": "5",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "UPG_ENGINES_JUMPER"
     }
   },
   {
@@ -1419,7 +1548,8 @@
       "cost": "50",
       "bp": "5",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "EX_FTL_JUMPER"
     }
   },
   {
@@ -1429,7 +1559,8 @@
       "desc": ".",
       "cost": "0",
       "rarity": "0",
-      "stackable": "true"
+      "stackable": "true",
+      "_id": "UPG_ENGINES_PERFORMANCE"
     }
   },
   {
@@ -1441,7 +1572,8 @@
       "bp": "4",
       "rarity": "0",
       "stackable": "true",
-      "value": "0.3"
+      "value": "0.3",
+      "_id": "EX_FTL_BOOSTER"
     }
   },
   {
@@ -1451,7 +1583,8 @@
       "desc": ".",
       "cost": "0",
       "rarity": "0",
-      "stackable": "true"
+      "stackable": "true",
+      "_id": "UPG_SHIELD_ION"
     }
   },
   {
@@ -1463,7 +1596,8 @@
       "bp": "8",
       "rarity": "0",
       "stackable": "true",
-      "value": "0.50"
+      "value": "0.50",
+      "_id": "EX_ION_ARMOR"
     }
   },
   {
@@ -1473,7 +1607,8 @@
       "desc": ".",
       "cost": "0",
       "rarity": "0",
-      "stackable": "true"
+      "stackable": "true",
+      "_id": "UPG_SHIELDS_PERFORMANCE"
     }
   },
   {
@@ -1485,7 +1620,8 @@
       "bp": "5",
       "rarity": "0",
       "stackable": "true",
-      "value": "0.15"
+      "value": "0.15",
+      "_id": "EX_SHIELD_RECHARGE"
     }
   },
   {
@@ -1495,7 +1631,8 @@
       "desc": "Upgrade - Your crew are immune to stun while in the shield room.",
       "cost": "0",
       "rarity": "0",
-      "stackable": "true"
+      "stackable": "true",
+      "_id": "UPG_SHIELDS_STUN"
     }
   },
   {
@@ -1505,7 +1642,8 @@
       "desc": ".",
       "cost": "0",
       "rarity": "0",
-      "stackable": "true"
+      "stackable": "true",
+      "_id": "UPG_WEAPONS_PERFORMANCE"
     }
   },
   {
@@ -1517,7 +1655,8 @@
       "bp": "5",
       "rarity": "0",
       "stackable": "true",
-      "value": "0.10"
+      "value": "0.10",
+      "_id": "EX_AUTO_COOLDOWN"
     }
   },
   {
@@ -1527,7 +1666,8 @@
       "desc": ".",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "UPG_WEAPONS_REPLICATOR"
     }
   },
   {
@@ -1539,7 +1679,8 @@
       "bp": "8",
       "rarity": "0",
       "stackable": "false",
-      "value": "0.5"
+      "value": "0.5",
+      "_id": "EX_EXPLOSIVE_REPLICATOR"
     }
   },
   {
@@ -1549,7 +1690,8 @@
       "desc": ".",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "UPG_ARTILLERY_TARGETING"
     }
   },
   {
@@ -1560,7 +1702,8 @@
       "cost": "60",
       "bp": "5",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "EX_ARTILLERY_TARGETING"
     }
   },
   {
@@ -1570,7 +1713,8 @@
       "desc": ".",
       "cost": "0",
       "rarity": "0",
-      "stackable": "true"
+      "stackable": "true",
+      "_id": "UPG_CLOAK_FIRE"
     }
   },
   {
@@ -1582,7 +1726,8 @@
       "bp": "8",
       "rarity": "0",
       "stackable": "false",
-      "value": "0.15"
+      "value": "0.15",
+      "_id": "EX_CLOAK_FIRE"
     }
   },
   {
@@ -1592,7 +1737,8 @@
       "desc": ".",
       "cost": "0",
       "rarity": "0",
-      "stackable": "true"
+      "stackable": "true",
+      "_id": "UPG_TELEPORTER_HEAL"
     }
   },
   {
@@ -1604,7 +1750,8 @@
       "bp": "8",
       "rarity": "0",
       "stackable": "false",
-      "value": "1.f"
+      "value": "1.f",
+      "_id": "EX_TELEPORT_HEAL"
     }
   },
   {
@@ -1615,7 +1762,8 @@
       "cost": "0",
       "rarity": "0",
       "stackable": "true",
-      "value": "3"
+      "value": "3",
+      "_id": "UPG_TELEPORTER_POWER"
     }
   },
   {
@@ -1625,7 +1773,8 @@
       "desc": "While Medbay is powered, crew passively heal at 25% speed of the current Medbay level.\n\t\n\t[X] - As an external system upgrade, this augment will provide its normal effect but take up an augment slot. Can be converted for free to the internal version under the internal upgrade menu if you have the Medbay system.",
       "cost": "50",
       "rarity": "0",
-      "stackable": "true"
+      "stackable": "true",
+      "_id": "EX_MEDBAY_NANO"
     }
   },
   {
@@ -1635,7 +1784,8 @@
       "desc": ".",
       "cost": "0",
       "rarity": "0",
-      "stackable": "true"
+      "stackable": "true",
+      "_id": "UPG_MEDBAY_NANO"
     }
   },
   {
@@ -1645,7 +1795,8 @@
       "desc": "While Medbay is powered, crew gain an extra 25% movement speed for each powered level of Medbay.\n\t\n\t[X] - As an external system upgrade, this augment will provide its normal effect but take up an augment slot. Can be converted for free to the internal version under the internal upgrade menu if you have the Medbay system.",
       "cost": "40",
       "rarity": "0",
-      "stackable": "true"
+      "stackable": "true",
+      "_id": "EX_MEDBAY_SPEED"
     }
   },
   {
@@ -1655,7 +1806,8 @@
       "desc": ".",
       "cost": "0",
       "rarity": "0",
-      "stackable": "true"
+      "stackable": "true",
+      "_id": "UPG_MEDBAY_SPEED"
     }
   },
   {
@@ -1665,7 +1817,8 @@
       "desc": "Crew gain complete fire and suffocation resistance while in the Medbay.\n\t\n\t[X] - As an external system upgrade, this augment will provide its normal effect but take up an augment slot. Can be converted for free to the internal version under the internal upgrade menu if you have the Medbay system.",
       "cost": "20",
       "rarity": "0",
-      "stackable": "true"
+      "stackable": "true",
+      "_id": "EX_MEDBAY_RESISTANCE"
     }
   },
   {
@@ -1675,7 +1828,8 @@
       "desc": ".",
       "cost": "0",
       "rarity": "0",
-      "stackable": "true"
+      "stackable": "true",
+      "_id": "UPG_MEDBAY_RESISTANCE"
     }
   },
   {
@@ -1685,7 +1839,8 @@
       "desc": ".",
       "cost": "0",
       "rarity": "0",
-      "stackable": "true"
+      "stackable": "true",
+      "_id": "UPG_CLONEBAY_DNA"
     }
   },
   {
@@ -1697,7 +1852,8 @@
       "bp": "8",
       "rarity": "0",
       "stackable": "false",
-      "value": "0.0"
+      "value": "0.0",
+      "_id": "EX_BACKUP_DNA"
     }
   },
   {
@@ -1707,7 +1863,8 @@
       "desc": ".",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "UPG_DRONE_SPEED"
     }
   },
   {
@@ -1719,7 +1876,8 @@
       "bp": "9",
       "rarity": "0",
       "value": "0.25",
-      "stackable": "true"
+      "stackable": "true",
+      "_id": "EX_DRONE_SPEED"
     }
   },
   {
@@ -1729,7 +1887,8 @@
       "desc": ".",
       "cost": "0",
       "rarity": "0",
-      "stackable": "true"
+      "stackable": "true",
+      "_id": "UPG_MIND_IMMUNITY"
     }
   },
   {
@@ -1741,7 +1900,8 @@
       "bp": "4",
       "rarity": "0",
       "value": "2",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "EX_MIND_IMMUNITY"
     }
   },
   {
@@ -1751,7 +1911,8 @@
       "desc": ".",
       "cost": "0",
       "rarity": "0",
-      "stackable": "true"
+      "stackable": "true",
+      "_id": "UPG_MIND_BUFF"
     }
   },
   {
@@ -1763,7 +1924,8 @@
       "bp": "4",
       "rarity": "0",
       "value": "2",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "EX_MIND_BUFF"
     }
   },
   {
@@ -1773,7 +1935,8 @@
       "desc": "Gain ability to harm each controlled enemy crew once for 45 dmg",
       "cost": "25",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "UPG_MIND_KILLSWITCH"
     }
   },
   {
@@ -1783,7 +1946,8 @@
       "desc": ".",
       "cost": "0",
       "rarity": "0",
-      "stackable": "true"
+      "stackable": "true",
+      "_id": "UPG_HACK_JAMMER"
     }
   },
   {
@@ -1795,7 +1959,8 @@
       "bp": "4",
       "rarity": "0",
       "value": "2",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "EX_FTL_JAMMER"
     }
   },
   {
@@ -1805,7 +1970,8 @@
       "desc": ".",
       "cost": "0",
       "rarity": "0",
-      "stackable": "true"
+      "stackable": "true",
+      "_id": "UPG_HACK_STUN"
     }
   },
   {
@@ -1816,7 +1982,8 @@
       "cost": "40",
       "rarity": "0",
       "stackable": "false",
-      "value": "0.0"
+      "value": "0.0",
+      "_id": "EX_HACKING_STUN"
     }
   },
   {
@@ -1826,7 +1993,8 @@
       "desc": {},
       "cost": "0",
       "rarity": "0",
-      "stackable": "true"
+      "stackable": "true",
+      "_id": "UPG_BATTERY_BOOSTER"
     }
   },
   {
@@ -1838,7 +2006,8 @@
       "bp": "8",
       "rarity": "0",
       "stackable": "false",
-      "value": "0.5"
+      "value": "0.5",
+      "_id": "EX_BATTERY_BOOSTER"
     }
   },
   {
@@ -1848,7 +2017,8 @@
       "desc": "YOU SHOULD NEVER SEE THIS.",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "DEBUG_GENERATOR"
     }
   },
   {
@@ -1858,7 +2028,8 @@
       "desc": ".",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "UPG_BATTERY_GENERATOR"
     }
   },
   {
@@ -1868,7 +2039,8 @@
       "desc": "A backup generator for use in combat. Removes the power and fuel cost of combat augments.\n\t\n[X] - As an external system upgrade, this augment will provide its normal effect but take up an augment slot. Can be converted for free to the internal version under the internal upgrade menu if you have the Backup Battery subsystem.",
       "cost": "45",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "EX_BATTERY_GENERATOR"
     }
   },
   {
@@ -1879,7 +2051,8 @@
       "cost": "0",
       "rarity": "0",
       "stackable": "false",
-      "bp": "0"
+      "bp": "0",
+      "_id": "LAB_INSTALLED"
     }
   },
   {
@@ -1890,7 +2063,8 @@
       "cost": "0",
       "rarity": "0",
       "stackable": "false",
-      "bp": "0"
+      "bp": "0",
+      "_id": "LAB_UPGRADE"
     }
   },
   {
@@ -1900,7 +2074,8 @@
       "desc": "Human upgrade installed.",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "LAB_HUMAN_INSTALLED"
     }
   },
   {
@@ -1910,7 +2085,8 @@
       "desc": "Humans gain a 12% buff in movement speed, combat damage, repair speed, and health.",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "LAB_HUMAN_DIVERSE"
     }
   },
   {
@@ -1920,7 +2096,8 @@
       "desc": "Humans gain 15% repair speed and combat damage for each human in the room minus themselves.",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "LAB_HUMAN_TEAMWORK"
     }
   },
   {
@@ -1930,7 +2107,8 @@
       "desc": "Human crew start at level 2 skills.",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "LAB_HUMAN_INTUITION"
     }
   },
   {
@@ -1940,7 +2118,8 @@
       "desc": "Your regular humans are prioritized first in crew loss events.",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "LAB_HUMAN_BASIC_SACRIFICE"
     }
   },
   {
@@ -1950,7 +2129,8 @@
       "desc": "Your medics lose the ability to fight but gives a protective aura to allied crew (excluding themselves) in the same room that grants them 95% resistance to hazards.",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "LAB_MEDIC_OATH"
     }
   },
   {
@@ -1960,7 +2140,8 @@
       "desc": "Your engineers lose their repair bonus but heal your crew drones at 5hp/s and buff their combat damage and repair speed by 15%.",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "LAB_ENGINEER_DRONES"
     }
   },
   {
@@ -1970,7 +2151,8 @@
       "desc": "Engi upgrade installed.",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "LAB_ENGI_INSTALLED"
     }
   },
   {
@@ -1980,7 +2162,8 @@
       "desc": ".",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "LAB_ENGI_COMBAT"
     }
   },
   {
@@ -1990,7 +2173,8 @@
       "desc": "Engi crew gain standard combat damage and 10 Max Health, but lose 25% of their repair speed.\n\t\n\t[L] - As an external lab upgrade, this augment will provide its normal effect but take up an augment slot. It cannot be converted into an actual lab upgrade, but will not consume your primary slot. Does not stack with itself.",
       "cost": "25",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "EX_LAB_ENGI_COMBAT"
     }
   },
   {
@@ -2000,7 +2184,8 @@
       "desc": "Engi crew gain 15% repair speed.",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "LAB_ENGI_EFFICIENCY"
     }
   },
   {
@@ -2010,7 +2195,8 @@
       "desc": "Engi are immune to suffocation.",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "LAB_ENGI_ADAPT"
     }
   },
   {
@@ -2020,7 +2206,8 @@
       "desc": "Your Engi are immune to suffocation.\n\t\n\t[L] - As an external lab upgrade, this augment will provide its normal effect but take up an augment slot. It cannot be converted into an actual lab upgrade, but will not consume your primary slot. Does not stack with itself.",
       "cost": "35",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "EX_LAB_ENGI_ADAPT"
     }
   },
   {
@@ -2030,7 +2217,8 @@
       "desc": "Separatists can heal while in nanomode but cannot ignore doors.",
       "cost": "20",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "LAB_SEPARATIST_HEAL"
     }
   },
   {
@@ -2040,7 +2228,8 @@
       "desc": "Defenders no longer fight enemy crew, but can repair while hostiles are in the room.",
       "cost": "50",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "LAB_DEFENDER_REPAIRS"
     }
   },
   {
@@ -2050,7 +2239,8 @@
       "desc": "Zoltan upgrade installed.",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "LAB_ZOLTAN_INSTALLED"
     }
   },
   {
@@ -2060,7 +2250,8 @@
       "desc": "Zoltans lose 40% of their health but provide double power.",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "LAB_ZOLTAN_OVERCLOCK"
     }
   },
   {
@@ -2070,7 +2261,8 @@
       "desc": "Zoltans lose 40% of their health but provide double power.\n\t\n\t[L] - As an external lab upgrade, this augment will provide its normal effect but take up an augment slot. It cannot be converted into an actual lab upgrade, but will not consume your primary slot. Does not stack with itself.",
       "cost": "30",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "EX_LAB_ZOLTAN_OVERCLOCK"
     }
   },
   {
@@ -2080,7 +2272,8 @@
       "desc": "Zoltans shield other crew in the room, making them take 33% damage, but cannot directly fight other crew themselves.",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "LAB_ZOLTAN_SHIELD"
     }
   },
   {
@@ -2090,7 +2283,8 @@
       "desc": "Zoltan heal on their own, but no longer heal from sources like medbay",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "LAB_ZOLTAN_EMITTER"
     }
   },
   {
@@ -2100,7 +2294,8 @@
       "desc": "Your monks can fight, but only at half damage. Supercedes Hard-Light Shielding.",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "LAB_MONK_COMBAT"
     }
   },
   {
@@ -2110,7 +2305,8 @@
       "desc": "Orchid upgrade installed.",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "LAB_ORCHID_INSTALLED"
     }
   },
   {
@@ -2120,7 +2316,8 @@
       "desc": "Orchids do x1.3 ranged damage",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "LAB_ORCHID_THORNS"
     }
   },
   {
@@ -2130,7 +2327,8 @@
       "desc": "Orchids burn at normal speeds, but have 10 less max health.",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "LAB_ORCHID_PETRIFIED"
     }
   },
   {
@@ -2140,7 +2338,8 @@
       "desc": "Orchids take 15% extra fire damage, but regenerate at 3hp/s when not in combat",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "LAB_ORCHID_TOTIPOTENCY"
     }
   },
   {
@@ -2150,7 +2349,8 @@
       "desc": "Orchids provide oxygen on ships without an oxygen system.",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "LAB_ORCHID_DEPRESSURIZED"
     }
   },
   {
@@ -2160,7 +2360,8 @@
       "desc": "Orchids provide increased oxygen on ships without Life Support.\n\t\n\t[L] - As an external lab upgrade, this augment will provide its normal effect but take up an augment slot. It cannot be converted into an actual lab upgrade, but will not consume your primary slot. Does not stack with itself.",
       "cost": "20",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "EX_LAB_ORCHID_DEPRESSURIZED"
     }
   },
   {
@@ -2170,7 +2371,8 @@
       "desc": "Caretakers provide complete hazard immunity to all allies in the room including themselves, but no longer provide oxygen.",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "LAB_CARETAKER_HAZARD"
     }
   },
   {
@@ -2180,7 +2382,8 @@
       "desc": "Vampweeds prevent all other non-vampweed crew in the room from healing.",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "LAB_VAMPWEED_HEAL"
     }
   },
   {
@@ -2190,7 +2393,8 @@
       "desc": "Mantis upgrade installed.",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "LAB_MANTIS_INSTALLED"
     }
   },
   {
@@ -2200,7 +2404,8 @@
       "desc": "Mantis do an extra 60% damage in melee combat, but lose 50% of their ranged damage.",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "LAB_MANTIS_MELEE"
     }
   },
   {
@@ -2210,7 +2415,8 @@
       "desc": "Mantis gain 75% fire resistance, as well as a 20% sabotage buff. Suzerains and Bishops will take default fire damage during their ability.",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "LAB_MANTIS_FIRE"
     }
   },
   {
@@ -2220,7 +2426,8 @@
       "desc": "Mantis repair at x0.8 speed when another non-mantis is in the room.",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "LAB_MANTIS_SPEED"
     }
   },
   {
@@ -2230,7 +2437,8 @@
       "desc": "Engi repair speed is doubled for each Suzerain or Bishop in the room.",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "LAB_SUZERAIN_SLAVES"
     }
   },
   {
@@ -2240,7 +2448,8 @@
       "desc": "Regular Mantis gain a slash ability that does 15 damage to all enemy crew in the room. Can only slash twice per jump.",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "LAB_HIVE_SLASH"
     }
   },
   {
@@ -2250,7 +2459,8 @@
       "desc": "Mantis gain 75% fire resistance, as well as a 20% sabotage buff. Suzerains and Bishops will take default fire damage during their ability.\n\t\n[L] - As an external lab upgrade, this augment will provide its normal effect but take up an augment slot. It cannot be converted into an actual lab upgrade, but will not consume your primary slot. Does not stack with itself.",
       "cost": "35",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "EX_LAB_MANTIS_FIRE"
     }
   },
   {
@@ -2260,7 +2470,8 @@
       "desc": "Engi repair speed is doubled for each Suzerain or Bishop in the room.\n    \n[L] - As an external lab upgrade, this augment will provide its normal effect but take up an augment slot. It cannot be converted into an actual lab upgrade, but will not consume your primary slot. Does not stack with itself.",
       "cost": "25",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "EX_LAB_SUZERAIN_SLAVES"
     }
   },
   {
@@ -2270,7 +2481,8 @@
       "desc": "Rock upgrade installed.",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "LAB_ROCK_INSTALLED"
     }
   },
   {
@@ -2280,7 +2492,8 @@
       "desc": "Rockmen smash doors three times as fast and cause drones to receive doubled damage when attacking them.",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "LAB_ROCK_DOORS"
     }
   },
   {
@@ -2290,7 +2503,8 @@
       "desc": "Rocks gain +33% Max Health but movespeed is reduced by 40%",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "LAB_ROCK_SKIN"
     }
   },
   {
@@ -2300,7 +2514,8 @@
       "desc": "Rockmen move 75% faster, but lose 25 Max Health",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "LAB_ROCK_SPEED"
     }
   },
   {
@@ -2310,7 +2525,8 @@
       "desc": "Rocks gain +33% Max Health, but their movement speed is reduced by 40%.\n\t\n[L] - As an external lab upgrade, this augment will provide its normal effect but take up an augment slot. It cannot be converted into an actual lab upgrade, but will not consume your primary slot. Does not stack with itself.",
       "cost": "45",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "EX_LAB_ROCK_SKIN"
     }
   },
   {
@@ -2320,7 +2536,8 @@
       "desc": "Cultists gain complete stun and mind control immunity, as well as providing stun immunity to all other rocks in the room.",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "LAB_CULTIST_MIND"
     }
   },
   {
@@ -2330,7 +2547,8 @@
       "desc": "Cultists gain complete stun and mind control immunity, as well as providing stun immunity to all other rocks in the room.\n\t\n[L] - As an external lab upgrade, this augment will provide its normal effect but take up an augment slot. It cannot be converted into an actual lab upgrade, but will not consume your primary slot. Does not stack with itself.",
       "cost": "40",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "EX_LAB_CULTIST_MIND"
     }
   },
   {
@@ -2340,7 +2558,8 @@
       "desc": "Crystal upgrade installed.",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "LAB_CRYSTAL_INSTALLED"
     }
   },
   {
@@ -2350,7 +2569,8 @@
       "desc": "Crystals gain complete suffocation immunity.",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "LAB_CRYSTAL_SUFFOCATION"
     }
   },
   {
@@ -2360,7 +2580,8 @@
       "desc": "Crystals gain 75% sabotage damage, but lose 50% of their move speed",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "LAB_CRYSTAL_SABOTAGE"
     }
   },
   {
@@ -2370,7 +2591,8 @@
       "desc": "Crystals gain 85% fire resistance, but lose their suffocation resistance.",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "LAB_CRYSTAL_FIRE"
     }
   },
   {
@@ -2380,7 +2602,8 @@
       "desc": "Crystals gain complete suffocation immunity.\n\t\n\t[L] - As an external lab upgrade, this augment will provide its normal effect but take up an augment slot. It cannot be converted into an actual lab upgrade, but will not consume your primary slot. Does not stack with itself.",
       "cost": "40",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "EX_LAB_CRYSTAL_SUFFOCATION"
     }
   },
   {
@@ -2390,7 +2613,8 @@
       "desc": "Slug upgrade installed.",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "LAB_SLUG_INSTALLED"
     }
   },
   {
@@ -2400,7 +2624,8 @@
       "desc": "Slugs gain a 75% stun resistance and no longer lose skills when being cloned",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "LAB_SLUG_STUN"
     }
   },
   {
@@ -2410,7 +2635,8 @@
       "desc": "Slugs lose the ability to sense crew on the other ship, but gain a 25% boost to combat, sabotage, and repair speed",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "LAB_SLUG_BUFF"
     }
   },
   {
@@ -2420,7 +2646,8 @@
       "desc": "Allied crew in the same room as your Slug crew gain MC immunity. Enemy crew in the same room lose their MC immunity if they had it.",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "LAB_SLUG_MIND"
     }
   },
   {
@@ -2430,7 +2657,8 @@
       "desc": "Shell upgrade installed.",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "LAB_SHELL_INSTALLED"
     }
   },
   {
@@ -2440,7 +2668,8 @@
       "desc": "Shells suffocate at normal speed but lose 25% movement speed.",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "LAB_SHELL_SUFFOCATION"
     }
   },
   {
@@ -2450,7 +2679,8 @@
       "desc": "Shells inherit the telepathic abilities of slugs.",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "LAB_SHELL_TELEPATHY"
     }
   },
   {
@@ -2460,7 +2690,8 @@
       "desc": "Shells move 50% faster and heal 50% faster.",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "LAB_SHELL_SPEED"
     }
   },
   {
@@ -2470,7 +2701,8 @@
       "desc": "Shell Scientists passively damage nearby enemies at 3hp/s but heal 50% slower.",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "LAB_SCIENTIST_DOT"
     }
   },
   {
@@ -2480,7 +2712,8 @@
       "desc": "Shell Mechanics can repair at x0.75 speed but their ability takes much longer to charge.",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "LAB_MECH_REPAIR"
     }
   },
   {
@@ -2490,7 +2723,8 @@
       "desc": "Shell Guardians gain an additional 33% damage resistance and a 50% ability cooldown reduction while on your own ship.",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "LAB_GUARDIAN_DEFEND"
     }
   },
   {
@@ -2500,7 +2734,8 @@
       "desc": "Leech upgrade installed.",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "LAB_LEECH_INSTALLED"
     }
   },
   {
@@ -2510,7 +2745,8 @@
       "desc": "Leeches ignore doors and move 50% faster.",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "LAB_LEECH_DOOR"
     }
   },
   {
@@ -2520,7 +2756,8 @@
       "desc": "Leeches are stunned for 50% longer and take 33% more fire and asphyxiation damage but provide power on the player ship.",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "LAB_LEECH_POWER"
     }
   },
   {
@@ -2530,7 +2767,8 @@
       "desc": "Leeches have 60 less Max Health and do 4x less damage by default, but steal 3hp/s from all other enemy non-Leech crew in the room.",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "LAB_LEECH_PARASITE"
     }
   },
   {
@@ -2540,7 +2778,8 @@
       "desc": "Lanius upgrade installed.",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "LAB_LANIUS_INSTALLED"
     }
   },
   {
@@ -2550,7 +2789,8 @@
       "desc": "Lanius drain oxygen at double speed, but have greatly reduced move speed.",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "LAB_LANIUS_RUST"
     }
   },
   {
@@ -2560,7 +2800,8 @@
       "desc": "Lanius repair and sabotage 50% faster, but do 30% less crew damage.",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "LAB_LANIUS_METAL"
     }
   },
   {
@@ -2570,7 +2811,8 @@
       "desc": "Lanius gain an extra 35% health, but their oxygen drain speed is quartered.",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "LAB_LANIUS_HEALTH"
     }
   },
   {
@@ -2580,7 +2822,8 @@
       "desc": "Lanius gain an extra 35% health, but their oxygen drain speed is quartered.\n\t\n\t[L] - As an external lab upgrade, this augment will provide its normal effect but take up an augment slot. It cannot be converted into an actual lab upgrade, but will not consume your primary slot. Does not stack with itself.",
       "cost": "25",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "EX_LAB_LANIUS_HEALTH"
     }
   },
   {
@@ -2590,7 +2833,8 @@
       "desc": "Ghost upgrade installed.",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "LAB_GHOST_INSTALLED"
     }
   },
   {
@@ -2600,7 +2844,8 @@
       "desc": "Ghost gain 20 extra health and heal in no oxygen",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "LAB_GHOST_HEALTH"
     }
   },
   {
@@ -2610,7 +2855,8 @@
       "desc": "Ghosts heal from fire. Gouls heal at half the speed from fires of other Ghosts.",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "LAB_GHOST_FIRE"
     }
   },
   {
@@ -2620,7 +2866,8 @@
       "desc": "Ghosts gain doubled movement speed, but sabotage systems 25% slower",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "LAB_GHOST_SPEED"
     }
   },
   {
@@ -2630,7 +2877,8 @@
       "desc": "Vagabond and Haunt abilities can now be manually activated.",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "LAB_VAGABOND_STABLE"
     }
   },
   {
@@ -2640,7 +2888,8 @@
       "desc": "Phantoms gain a crew ability that lets them temporarily ignore enemy crew to focus on ship repairs or system sabotaging.",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "LAB_PHANTOM_SABOTAGE"
     }
   },
   {
@@ -2650,7 +2899,8 @@
       "desc": "Ghosts heal from fire. Gouls heal at half the speed from fires compared to other Ghosts.\n\t\n\t[L] - As an external lab upgrade, this augment will provide its normal effect but take up an augment slot. It cannot be converted into an actual lab upgrade, but will not consume your primary slot. Does not stack with itself.",
       "cost": "30",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "EX_LAB_GHOST_FIRE"
     }
   },
   {
@@ -2660,7 +2910,8 @@
       "desc": "Phantoms gain a crew ability that lets them temporarily ignore enemy crew to focus on ship repairs or system sabotaging.\n\t\n\t[L] - As an external lab upgrade, this augment will provide its normal effect but take up an augment slot. It cannot be converted into an actual lab upgrade, but will not consume your primary slot. Does not stack with itself.",
       "cost": "40",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "EX_LAB_PHANTOM_SABOTAGE"
     }
   },
   {
@@ -2670,7 +2921,8 @@
       "desc": "Morph upgrade installed.",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "LAB_MORPH_INSTALLED"
     }
   },
   {
@@ -2680,7 +2932,8 @@
       "desc": "Morphs gain fire resistance instead of suffocation resistance",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "LAB_MORPH_FIRE"
     }
   },
   {
@@ -2690,7 +2943,8 @@
       "desc": "Morphs can ignore doors and move 60% faster.",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "LAB_MORPH_DOOR"
     }
   },
   {
@@ -2700,7 +2954,8 @@
       "desc": "Morphs gain 50% extra health, but move at half speed",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "LAB_MORPH_HEALTH"
     }
   },
   {
@@ -2710,7 +2965,8 @@
       "desc": "Morphs can ignore doors and move 60% faster.\n\t\n\t[L] - As an external lab upgrade, this augment will provide its normal effect but take up an augment slot. It cannot be converted into an actual lab upgrade, but will not consume your primary slot. Does not stack with itself.",
       "cost": "30",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "EX_LAB_MORPH_DOOR"
     }
   },
   {
@@ -2720,7 +2976,8 @@
       "desc": "Morphs gain 50% extra health, but move at half speed.\n\t\n\t[L] - As an external lab upgrade, this augment will provide its normal effect but take up an augment slot. It cannot be converted into an actual lab upgrade, but will not consume your primary slot. Does not stack with itself.",
       "cost": "30",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "EX_LAB_MORPH_HEALTH"
     }
   },
   {
@@ -2730,7 +2987,8 @@
       "desc": "Technopaths heal at full speed in your drone control room while it is powered.",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "LAB_TECHNO_BAY"
     }
   },
   {
@@ -2740,7 +2998,8 @@
       "desc": "Spider upgrade installed.",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "LAB_SPIDER_INSTALLED"
     }
   },
   {
@@ -2750,7 +3009,8 @@
       "desc": "All non-spider crew move at 50% speed in the presence of spiders. Does not stack.",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "LAB_SPIDER_WEBS"
     }
   },
   {
@@ -2760,7 +3020,8 @@
       "desc": "Spiders gain tripled repair speed, but have their combat damage reduced by 25%",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "LAB_SPIDER_SILK"
     }
   },
   {
@@ -2770,7 +3031,8 @@
       "desc": "Spiders cant repair at all, or man systems, but gain 50% combat damage and movement speed",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "LAB_SPIDER_PREDATOR"
     }
   },
   {
@@ -2780,7 +3042,8 @@
       "desc": "Spiders gain tripled repair speed, but have their combat damage reduced by 25%.\n\t\n\t[L] - As an external lab upgrade, this augment will provide its normal effect but take up an augment slot. It cannot be converted into an actual lab upgrade, but will not consume your primary slot. Does not stack with itself.",
       "cost": "20",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "EX_LAB_SPIDER_SILK"
     }
   },
   {
@@ -2790,7 +3053,8 @@
       "desc": "All non-spider crew move at 50% speed in the presence of spiders. Does not stack.\n\t\n\t[L] - As an external lab upgrade, this augment will provide its normal effect but take up an augment slot. It cannot be converted into an actual lab upgrade, but will not consume your primary slot. Does not stack with itself.",
       "cost": "50",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "EX_LAB_SPIDER_WEBS"
     }
   },
   {
@@ -2800,7 +3064,8 @@
       "desc": "Lizard upgrade installed.",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "LAB_LIZARD_INSTALLED"
     }
   },
   {
@@ -2810,7 +3075,8 @@
       "desc": "Lizards gain a 10% combat and repair buff for each lizard in the room.",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "LAB_LIZARD_STRENGTH"
     }
   },
   {
@@ -2820,7 +3086,8 @@
       "desc": "Lizards gain double sabotage damage, double combat damage when in a room with hostile drones, and increased movement speed that scales with the strength of the enemy shields.",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "LAB_LIZARD_TECH"
     }
   },
   {
@@ -2830,7 +3097,8 @@
       "desc": "Lizards become immune to fire",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "LAB_LIZARD_FIRE"
     }
   },
   {
@@ -2840,7 +3108,8 @@
       "desc": "Lizards gain double sabotage damage, double combat damage when in a room with hostile drones, and increased movement speed that scales with the strength of the enemy shields.\n\t\n\t[L] - As an external lab upgrade, this augment will provide its normal effect but take up an augment slot. It cannot be converted into an actual lab upgrade, but will not consume your primary slot. Does not stack with itself.",
       "cost": "35",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "EX_LAB_LIZARD_TECH"
     }
   },
   {
@@ -2850,7 +3119,8 @@
       "desc": "Ancient upgrade installed.",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "LAB_ANCIENT_INSTALLED"
     }
   },
   {
@@ -2860,7 +3130,8 @@
       "desc": "Obelisks lose their fire and asphyxiation resistance, but gain 50 more health and 25% more combat damage.",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "LAB_ANCIENT_MORTAL"
     }
   },
   {
@@ -2870,7 +3141,8 @@
       "desc": "Obelisks can see adjacent rooms, resist mind control, and are immune to stun.",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "LAB_ANCIENT_NEURAL"
     }
   },
   {
@@ -2880,7 +3152,8 @@
       "desc": ".",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "LAB_ANCIENT_ONEPUNCH"
     }
   },
   {
@@ -2890,7 +3163,8 @@
       "desc": "Obelisks gain x5 combat damage, but all other enemy crew in the room also gain 3x damage.\n\t\n\t[L] - As an external lab upgrade, this augment will provide its normal effect but take up an augment slot. It cannot be converted into an actual lab upgrade, but will not consume your primary slot. Does not stack with itself.",
       "cost": "45",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "EX_LAB_ANCIENT_ONEPUNCH"
     }
   },
   {
@@ -2900,7 +3174,8 @@
       "desc": "Cognitive upgrade installed.",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "LAB_COGNITIVE_INSTALLED"
     }
   },
   {
@@ -2910,7 +3185,8 @@
       "desc": "While in liberated mode on the enemy ship, Cognitives gain 1 power drain, drain oxygen at 3oxy/s, and ignore doors. Regeneration speed in liberated mode is increased by 2hp/s on all ships.",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "LAB_COGNITIVE_RAGE"
     }
   },
   {
@@ -2920,7 +3196,8 @@
       "desc": "Cognitives are immune to fire and stun. Cooldown between normal and liberated modes is also reduced by 50%.",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "LAB_COGNITIVE_FIRE"
     }
   },
   {
@@ -2930,7 +3207,8 @@
       "desc": "Cognitives provide additional power and passively damage enemy crew at 3hp/s while in liberated mode. Cooldown between normal and liberated modes is increased by 10%.",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "LAB_COGNITIVE_POWER"
     }
   },
   {
@@ -2940,7 +3218,8 @@
       "desc": "While in liberated mode on the enemy ship, Cognitives gain 1 power drain, drain oxygen at 3oxy/s, and ignore doors. Regeneration speed in liberated mode is increased by 2hp/s on all ships.\n\t\n\t[L] - As an external lab upgrade, this augment will provide its normal effect but take up an augment slot. It cannot be converted into an actual lab upgrade, but will not consume your primary slot. Does not stack with itself.",
       "cost": "35",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "EX_LAB_COGNITIVE_RAGE"
     }
   },
   {
@@ -2950,7 +3229,8 @@
       "desc": "Humans gain an additional 20% resistance to all hazards.",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "JUDGE_BOON_HUMAN"
     }
   },
   {
@@ -2960,7 +3240,8 @@
       "desc": "Humans gain an additional 20% resistance to all hazards and a 10% boost to damage, repair speed, health, and movement.",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "JUDGE_BOON_HUMAN_2"
     }
   },
   {
@@ -2970,7 +3251,8 @@
       "desc": "Engi gain a 20% repair speed boost.",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "JUDGE_BOON_ENGI"
     }
   },
   {
@@ -2980,7 +3262,8 @@
       "desc": "Zoltans gain 15 more health.",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "JUDGE_BOON_ZOLTAN"
     }
   },
   {
@@ -2990,7 +3273,8 @@
       "desc": "Osmians gain back all of their ability charges per jump and provide passive healing to their holograms.",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "JUDGE_BOON_OSMIAN"
     }
   },
   {
@@ -3000,7 +3284,8 @@
       "desc": "Orchids provide a 0.5hp/s heal effect to allied crew in the same room.",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "JUDGE_BOON_ORCHID"
     }
   },
   {
@@ -3010,7 +3295,8 @@
       "desc": "Mantis deal 20% extra ranged damage.",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "JUDGE_BOON_MANTIS"
     }
   },
   {
@@ -3020,7 +3306,8 @@
       "desc": "Mantis deal 25% extra damage.",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "JUDGE_BOON_MANTIS_2"
     }
   },
   {
@@ -3030,7 +3317,8 @@
       "desc": "Rockmen put out fires 30% faster.",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "JUDGE_BOON_ROCK"
     }
   },
   {
@@ -3040,7 +3328,8 @@
       "desc": "Rockmen put out fires 30% faster and move 25% faster.",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "JUDGE_BOON_ROCK_2"
     }
   },
   {
@@ -3050,7 +3339,8 @@
       "desc": "Crystals gain 20% combat damage.",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "JUDGE_BOON_CRYSTAL"
     }
   },
   {
@@ -3060,7 +3350,8 @@
       "desc": "Slugs gain 20% hazard resistance.",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "JUDGE_BOON_SLUG"
     }
   },
   {
@@ -3070,7 +3361,8 @@
       "desc": "Slugs gain 20% hazard resistance and doubled movement speed.",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "JUDGE_BOON_SLUG_2"
     }
   },
   {
@@ -3080,7 +3372,8 @@
       "desc": "Shells gain an extra 15% combat resistance.",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "JUDGE_BOON_SHELL"
     }
   },
   {
@@ -3090,7 +3383,8 @@
       "desc": "Leeches gain 10 more health.",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "JUDGE_BOON_LEECH"
     }
   },
   {
@@ -3100,7 +3394,8 @@
       "desc": "Phantoms gain 30% movement speed.",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "JUDGE_BOON_GHOST"
     }
   },
   {
@@ -3110,7 +3405,8 @@
       "desc": "Lani gain double heal speed and take 10% less damage.",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "JUDGE_BOON_LANIUS"
     }
   },
   {
@@ -3120,7 +3416,8 @@
       "desc": "Morphs gain 10% more health and 30% more movement speed.",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "JUDGE_BOON_MORPH"
     }
   },
   {
@@ -3130,7 +3427,8 @@
       "desc": "Lizards gain a 15% boost to all standard stats.",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "JUDGE_BOON_LIZARD"
     }
   },
   {
@@ -3140,7 +3438,8 @@
       "desc": "Spiders are controllable even without the queen and gain 10% fire resistance.",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "JUDGE_BOON_SPIDER"
     }
   },
   {
@@ -3150,7 +3449,8 @@
       "desc": "Obelisk and Cognitives gain 20 more health and a 15% boost to damage and repair speed.",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "JUDGE_BOON_OBELISK"
     }
   },
   {
@@ -3160,7 +3460,8 @@
       "desc": "???",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "JUDGE_BOON_SIREN"
     }
   },
   {
@@ -3170,7 +3471,8 @@
       "desc": "Unique crew lost no skills when cloned, heal 50% faster, and gain a 15% boost to damage, repair speed, and movement speed.",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "JUDGE_BOON_UNIQUE"
     }
   },
   {
@@ -3180,7 +3482,8 @@
       "desc": "Crew drones gain 50 health and doubled movement speed.",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "JUDGE_BOON_UNIQUEMECH"
     }
   },
   {
@@ -3190,7 +3493,8 @@
       "desc": "Crew gain a 1% boost to health.",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "JUDGE_BOON_KIDS"
     }
   },
   {
@@ -3200,7 +3504,8 @@
       "desc": "Crew repair your weapons 50% faster.",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "JUDGE_BOON_WEAPONS"
     }
   },
   {
@@ -3210,7 +3515,8 @@
       "desc": "Crew repair your shields 50% faster.",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "JUDGE_BOON_SHIELDS"
     }
   },
   {
@@ -3220,7 +3526,8 @@
       "desc": "Crew repair your engines 75% faster.",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "JUDGE_BOON_ENGINES"
     }
   },
   {
@@ -3230,7 +3537,8 @@
       "desc": "Crew heal 75% faster anywhere.",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "JUDGE_BOON_MEDBAY"
     }
   },
   {
@@ -3240,7 +3548,8 @@
       "desc": "Crew do not lose skills when cloned.",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "JUDGE_BOON_CLONEBAY"
     }
   },
   {
@@ -3250,7 +3559,8 @@
       "desc": "Crew gain 33% resistance to suffocation.",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "JUDGE_BOON_OXYGEN"
     }
   },
   {
@@ -3260,7 +3570,8 @@
       "desc": "Crew heal at 1hp/s in the teleporter.",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "JUDGE_BOON_TELEPORTER"
     }
   },
   {
@@ -3270,7 +3581,8 @@
       "desc": "Crew gain 60% stun resistance on your own ship.",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "JUDGE_BOON_MIND"
     }
   },
   {
@@ -3280,7 +3592,8 @@
       "desc": "Crew can now ignore hacked doors on your own ship.",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "JUDGE_BOON_HACKING"
     }
   },
   {
@@ -3290,7 +3603,8 @@
       "desc": "All of your systems and your hull gain a 10% chance to resist damage.",
       "cost": "0",
       "rarity": "0",
-      "stackable": "true"
+      "stackable": "true",
+      "_id": "JUDGE_BOON_CLOAKING"
     }
   },
   {
@@ -3300,7 +3614,8 @@
       "desc": "All of your crew move twice as fast.",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "JUDGE_BOON_TEMPORAL"
     }
   },
   {
@@ -3310,7 +3625,8 @@
       "desc": "Crew repair your drone control 75% faster.",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "JUDGE_BOON_DRONES"
     }
   },
   {
@@ -3320,7 +3636,8 @@
       "desc": "Crew gain 30% damage resistance in the doors room and enemy crew sabotage your doors 50% slower.",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "JUDGE_BOON_DOORS"
     }
   },
   {
@@ -3330,7 +3647,8 @@
       "desc": "Crew are immune to mind control in the piloting room.",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "JUDGE_BOON_PILOT"
     }
   },
   {
@@ -3340,7 +3658,8 @@
       "desc": "When your backup battery is disabled your crew gain a bonus 33% repair and movement speed.",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "JUDGE_BOON_BATTERY"
     }
   },
   {
@@ -3350,7 +3669,8 @@
       "desc": "You have a 15% chance of breaking off a crystal shard each time you take damage.",
       "cost": "0",
       "rarity": "0",
-      "stackable": "true"
+      "stackable": "true",
+      "_id": "JUDGE_BOON_CRYSTALELITE"
     }
   },
   {
@@ -3360,7 +3680,8 @@
       "desc": "All crew you get will start at lvl 1 skills.",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "JUDGE_BOON_NEWGEN"
     }
   },
   {
@@ -3370,7 +3691,8 @@
       "desc": "Ruin beacons show on the map.",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "JUDGE_BOON_AETHER"
     }
   },
   {
@@ -3380,7 +3702,8 @@
       "desc": "Weapons charge 5% faster.",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "JUDGE_BOON_SPECIAL"
     }
   },
   {
@@ -3390,7 +3713,8 @@
       "desc": "Enemy FTLs charge at half speed.",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "JUDGE_BOON_TRANSPORT"
     }
   },
   {
@@ -3400,7 +3724,8 @@
       "desc": "All of your crew gain a 4% boost to their health and repair speed for each crew member you have.",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "JUDGE_BOON_MATH"
     }
   },
   {
@@ -3410,7 +3735,8 @@
       "desc": "You may avoid fighting any Renegade for free, regular or cruiser.",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "JUDGE_BOON_RENEGADE"
     }
   },
   {
@@ -3420,7 +3746,8 @@
       "desc": "C.U.R.A. will not charge you the next run.",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "JUDGE_BOON_CURA"
     }
   },
   {
@@ -3430,7 +3757,8 @@
       "desc": "Your allied crew and drones will gain a 30% damage and movement speed boost while aboard the enemy ship.",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "JUDGE_BOON_SENTRY"
     }
   },
   {
@@ -3440,7 +3768,8 @@
       "desc": "Weapons charge 10% faster.",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "JUDGE_BOON_GATLING"
     }
   },
   {
@@ -3450,7 +3779,8 @@
       "desc": "Inflicts madness on enemy boarders.",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "JUDGE_BOON_MADNESS"
     }
   },
   {
@@ -3461,7 +3791,8 @@
       "cost": "80",
       "bp": "8",
       "rarity": "0",
-      "stackable": "true"
+      "stackable": "true",
+      "_id": "OBSIDIAN_ARMOR_1"
     }
   },
   {
@@ -3472,7 +3803,8 @@
       "cost": "80",
       "bp": "8",
       "rarity": "0",
-      "stackable": "true"
+      "stackable": "true",
+      "_id": "OBSIDIAN_ARMOR_2"
     }
   },
   {
@@ -3483,7 +3815,8 @@
       "cost": "80",
       "bp": "8",
       "rarity": "0",
-      "stackable": "true"
+      "stackable": "true",
+      "_id": "OBSIDIAN_ARMOR_3"
     }
   },
   {
@@ -3494,7 +3827,8 @@
       "cost": "80",
       "bp": "8",
       "rarity": "0",
-      "stackable": "true"
+      "stackable": "true",
+      "_id": "OBSIDIAN_ARMOR_4"
     }
   },
   {
@@ -3505,7 +3839,8 @@
       "cost": "80",
       "bp": "8",
       "rarity": "0",
-      "stackable": "true"
+      "stackable": "true",
+      "_id": "OBSIDIAN_ARMOR_5"
     }
   },
   {
@@ -3516,7 +3851,8 @@
       "cost": "80",
       "bp": "8",
       "rarity": "0",
-      "stackable": "true"
+      "stackable": "true",
+      "_id": "OBSIDIAN_ARMOR_6"
     }
   },
   {
@@ -3527,7 +3863,8 @@
       "cost": "80",
       "bp": "8",
       "rarity": "0",
-      "stackable": "true"
+      "stackable": "true",
+      "_id": "OBSIDIAN_ARMOR_7"
     }
   },
   {
@@ -3538,7 +3875,8 @@
       "cost": "80",
       "bp": "8",
       "rarity": "0",
-      "stackable": "true"
+      "stackable": "true",
+      "_id": "OBSIDIAN_ARMOR_8"
     }
   },
   {
@@ -3549,7 +3887,8 @@
       "cost": "80",
       "bp": "8",
       "rarity": "0",
-      "stackable": "true"
+      "stackable": "true",
+      "_id": "OBSIDIAN_ARMOR_9"
     }
   },
   {
@@ -3560,7 +3899,8 @@
       "cost": "80",
       "bp": "8",
       "rarity": "0",
-      "stackable": "true"
+      "stackable": "true",
+      "_id": "OBSIDIAN_ARMOR_10"
     }
   },
   {
@@ -3571,7 +3911,8 @@
       "cost": "80",
       "bp": "8",
       "rarity": "0",
-      "stackable": "true"
+      "stackable": "true",
+      "_id": "OBSIDIAN_ARMOR_11"
     }
   },
   {
@@ -3582,7 +3923,8 @@
       "cost": "80",
       "bp": "8",
       "rarity": "0",
-      "stackable": "true"
+      "stackable": "true",
+      "_id": "OBSIDIAN_ARMOR_12"
     }
   },
   {
@@ -3593,7 +3935,8 @@
       "cost": "80",
       "bp": "8",
       "rarity": "0",
-      "stackable": "true"
+      "stackable": "true",
+      "_id": "OBSIDIAN_ARMOR_13"
     }
   },
   {
@@ -3604,7 +3947,8 @@
       "cost": "80",
       "bp": "8",
       "rarity": "0",
-      "stackable": "true"
+      "stackable": "true",
+      "_id": "OBSIDIAN_ARMOR_ION"
     }
   },
   {
@@ -3615,7 +3959,8 @@
       "cost": "80",
       "bp": "8",
       "rarity": "0",
-      "stackable": "true"
+      "stackable": "true",
+      "_id": "OBSIDIAN_ARMOR_SYSTEM"
     }
   },
   {
@@ -3626,7 +3971,8 @@
       "cost": "80",
       "bp": "8",
       "rarity": "0",
-      "stackable": "true"
+      "stackable": "true",
+      "_id": "OBSIDIAN_ARMOR_SHARD"
     }
   },
   {
@@ -3638,7 +3984,8 @@
       "bp": "5",
       "rarity": "0",
       "value": "3",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "FTL_JUMPER_GOOD"
     }
   },
   {
@@ -3650,7 +3997,8 @@
       "bp": "4",
       "rarity": "0",
       "value": "7",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "SECTOR_SCANNER"
     }
   },
   {
@@ -3661,7 +4009,8 @@
       "cost": "50",
       "bp": "8",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "BOARDER_RECOVERY"
     }
   },
   {
@@ -3672,7 +4021,8 @@
       "cost": "50",
       "bp": "8",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "MIND_ORDER"
     }
   },
   {
@@ -3683,7 +4033,8 @@
       "cost": "50",
       "bp": "8",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "ARTILLERY_ORDER"
     }
   },
   {
@@ -3693,7 +4044,8 @@
       "desc": "Crew on an enemy ship that is jumping or being destroyed will be automatically recalled.",
       "cost": "150",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "TELEPORT_RECALL"
     }
   },
   {
@@ -3704,7 +4056,8 @@
       "cost": "50",
       "bp": "5",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "FTL_JUMPER_SCANNER"
     }
   },
   {
@@ -3715,7 +4068,8 @@
       "cost": "50",
       "bp": "5",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "ADV_SCANNERS_CLOAK"
     }
   },
   {
@@ -3726,7 +4080,8 @@
       "cost": "50",
       "bp": "5",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "ASTROMETRICS"
     }
   },
   {
@@ -3737,7 +4092,8 @@
       "cost": "70",
       "bp": "4",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "PECULIAR_GAS"
     }
   },
   {
@@ -3749,7 +4105,8 @@
       "bp": "5",
       "rarity": "0",
       "value": "3",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "MULTIVERSE_DRIVE_GOOD"
     }
   },
   {
@@ -3761,7 +4118,8 @@
       "bp": "5",
       "rarity": "0",
       "value": "3",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "MULTIVERSE_DRIVE"
     }
   },
   {
@@ -3773,7 +4131,8 @@
       "bp": "5",
       "rarity": "0",
       "value": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "EX_PAYLOAD_CREATOR"
     }
   },
   {
@@ -3785,7 +4144,8 @@
       "bp": "5",
       "rarity": "0",
       "value": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "PAYLOAD_CREATOR"
     }
   },
   {
@@ -3797,7 +4157,8 @@
       "bp": "5",
       "rarity": "0",
       "value": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "ATM_MACHINE"
     }
   },
   {
@@ -3809,7 +4170,8 @@
       "bp": "5",
       "rarity": "0",
       "value": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "INFINITE_BEANS"
     }
   },
   {
@@ -3820,7 +4182,8 @@
       "cost": "0",
       "bp": "8",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "EXTRA_LIFE"
     }
   },
   {
@@ -3831,7 +4194,8 @@
       "cost": "80",
       "bp": "8",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "MODULAR_STORE"
     }
   },
   {
@@ -3842,7 +4206,8 @@
       "cost": "60",
       "bp": "8",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "SUICIDE_BUTTON"
     }
   },
   {
@@ -3853,7 +4218,8 @@
       "cost": "60",
       "bp": "8",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "EMERGENCY_DRIVE"
     }
   },
   {
@@ -3864,7 +4230,8 @@
       "cost": "80",
       "bp": "8",
       "rarity": "0",
-      "stackable": "true"
+      "stackable": "true",
+      "_id": "SUPER_ARMOR"
     }
   },
   {
@@ -3875,7 +4242,8 @@
       "cost": "45",
       "bp": "8",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "EQUINOID_DUPLICATOR"
     }
   },
   {
@@ -3886,7 +4254,8 @@
       "cost": "0",
       "bp": "8",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "STORY_TELLER"
     }
   },
   {
@@ -3896,7 +4265,8 @@
       "desc": "Allows you to generate extra fuel with solar energy. You can use this at empty beacons to find a star to generate fuel and missiles, at the risk of starting fires on your ship.",
       "cost": "50",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "SOLAR_PANELS"
     }
   },
   {
@@ -3906,7 +4276,8 @@
       "desc": "Can be used to detect Elite Rebel ships which you can seek and destroy. However, doing so will also boost the Rebel fleet by 1 jump.",
       "cost": "40",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "FLEET_LURE"
     }
   },
   {
@@ -3917,7 +4288,8 @@
       "cost": "100",
       "bp": "8",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "GOLD_ARMOR"
     }
   },
   {
@@ -3928,7 +4300,8 @@
       "cost": "0",
       "bp": "8",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "SCRAP_HULL"
     }
   },
   {
@@ -3938,7 +4311,8 @@
       "desc": "A damaged piece of ancient tech that can reach through space and time to retrieve lifeforms from other realities. Seems only able to lock onto Ghosts for now...",
       "cost": "30",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "GHOST_SPAWNER"
     }
   },
   {
@@ -3948,7 +4322,8 @@
       "desc": "Allows you to unthaw more Osmian crew at empty beacons at the expense of 5 fuel.",
       "cost": "60",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "ZOLTAN_SPAWNER"
     }
   },
   {
@@ -3958,7 +4333,8 @@
       "desc": "All crew can teleport from your ship to the enemy regardless where they are. However, they cannot teleport back during combat.",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "LOCKED_GLOBAL_TELEPORT"
     }
   },
   {
@@ -3968,7 +4344,8 @@
       "desc": "While aboard your own ship, any allied crew can teleport anywhere on the ship from any marked system as long as it is powered.",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "LOCKED_SHIP_TELEPORT"
     }
   },
   {
@@ -3978,7 +4355,8 @@
       "desc": "A secluded place for two members of a species to \"Form a union\" and to use cloning technology to create a \"Child\" who is aged just enough to be able to work. Also come equipped with a stereo system that plays R&B music 24/7.",
       "cost": "30",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "SLUG_DUPLICATOR"
     }
   },
   {
@@ -3988,7 +4366,8 @@
       "desc": "A modified pod that not only functions like standard Pleasure Pods, but also lets you summon any of the Alpha Ghost variants at the expense of 2 fuel if you have none of that type on your ship.",
       "cost": "40",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "SLUG_DUPLICATOR_GHOST"
     }
   },
   {
@@ -3999,7 +4378,8 @@
       "cost": "70",
       "bp": "9",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "LOCKED_XENOPHOBIA"
     }
   },
   {
@@ -4010,7 +4390,8 @@
       "cost": "70",
       "bp": "9",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "LOCKED_NEWORDER"
     }
   },
   {
@@ -4021,7 +4402,8 @@
       "cost": "110",
       "bp": "4",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "MEDBAY_DEFENSE"
     }
   },
   {
@@ -4033,7 +4415,8 @@
       "bp": "5",
       "rarity": "0",
       "value": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "CURA_SURGES_DRONES"
     }
   },
   {
@@ -4045,7 +4428,8 @@
       "bp": "5",
       "rarity": "0",
       "value": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "CURA_SURGES_FIRE"
     }
   },
   {
@@ -4057,7 +4441,8 @@
       "bp": "5",
       "rarity": "0",
       "value": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "CURA_SURGES_DAMAGE"
     }
   },
   {
@@ -4068,7 +4453,8 @@
       "cost": "180",
       "bp": "8",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "CRYSTAL_ARMOR_100"
     }
   },
   {
@@ -4078,7 +4464,8 @@
       "desc": "Opens a rift directly to the Nexus, allowing you to trade for high value items. Can be used only at empty beacons, and does not impact the fleet.",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "STORE_BEACON_SYLVAN"
     }
   },
   {
@@ -4088,7 +4475,8 @@
       "desc": "A special device which can upgrade a Chain Laser all the way into a weapon of ultimate destruction - assuming you can fork over enough resources for it.",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "GATLING_MAKER"
     }
   },
   {
@@ -4098,7 +4486,8 @@
       "desc": "A direct contact with the infamous space-time criminal Wallace, who'll sell you just about anything for the right price.",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "STORE_BEACON_SUPER"
     }
   },
   {
@@ -4109,7 +4498,8 @@
       "cost": "80",
       "bp": "15",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "SYLVAN_SHIELD"
     }
   },
   {
@@ -4120,7 +4510,8 @@
       "cost": "80",
       "bp": "15",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "LOCKED_SYLVAN_SHIELD"
     }
   },
   {
@@ -4131,7 +4522,8 @@
       "cost": "80",
       "bp": "15",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "SYLVAN_SHIELD_REWARD"
     }
   },
   {
@@ -4142,7 +4534,8 @@
       "cost": "120",
       "bp": "15",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "SYLVAN_SHIELD_CONTINUITY"
     }
   },
   {
@@ -4153,7 +4546,8 @@
       "cost": "120",
       "bp": "15",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "LOCKED_SYLVAN_SHIELD_CONTINUITY"
     }
   },
   {
@@ -4164,7 +4558,8 @@
       "cost": "0",
       "bp": "15",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "SYLVAN_SHIELD_CONTINUITY_PROBE"
     }
   },
   {
@@ -4175,7 +4570,8 @@
       "cost": "150",
       "bp": "15",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "SYLVAN_SHIELD_PRIME"
     }
   },
   {
@@ -4186,7 +4582,8 @@
       "cost": "0",
       "bp": "8",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "CHUNGUS_MAKER"
     }
   },
   {
@@ -4195,7 +4592,8 @@
       "title": "Clansman Stolen Pheromones",
       "desc": "I am speed.",
       "cost": "999",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "CREW_STIMS_ULTRA"
     }
   },
   {
@@ -4206,7 +4604,8 @@
       "cost": "80",
       "bp": "15",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "FLAGSHIP_SHIELD"
     }
   },
   {
@@ -4217,7 +4616,8 @@
       "cost": "80",
       "bp": "15",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "FLAGSHIP_SHIELD_FULL"
     }
   },
   {
@@ -4228,7 +4628,8 @@
       "cost": "999",
       "bp": "15",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "SYSTEM_UNBREAKING"
     }
   },
   {
@@ -4239,7 +4640,8 @@
       "cost": "999",
       "bp": "15",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "HULL_UNBREAKING"
     }
   },
   {
@@ -4250,7 +4652,8 @@
       "cost": "999",
       "bp": "15",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "ENEMY_RESIST_50"
     }
   },
   {
@@ -4261,7 +4664,8 @@
       "cost": "80",
       "bp": "15",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "NO_GHOST"
     }
   },
   {
@@ -4272,7 +4676,8 @@
       "cost": "0",
       "bp": "15",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "NO_SUFFOCATE"
     }
   },
   {
@@ -4283,7 +4688,8 @@
       "cost": "50",
       "bp": "8",
       "rarity": "0",
-      "stackable": "true"
+      "stackable": "true",
+      "_id": "LOCKED_UNION_JACKETS"
     }
   },
   {
@@ -4294,7 +4700,8 @@
       "cost": "50",
       "bp": "8",
       "rarity": "0",
-      "stackable": "true"
+      "stackable": "true",
+      "_id": "UNION_JACKETS"
     }
   },
   {
@@ -4306,7 +4713,8 @@
       "bp": "8",
       "rarity": "0",
       "stackable": "true",
-      "value": "0.17"
+      "value": "0.17",
+      "_id": "ROCK_ARMOR"
     }
   },
   {
@@ -4317,7 +4725,8 @@
       "cost": "80",
       "bp": "8",
       "rarity": "0",
-      "stackable": "true"
+      "stackable": "true",
+      "_id": "LOCKED_ROCK_ARMOR"
     }
   },
   {
@@ -4329,7 +4738,8 @@
       "bp": "8",
       "rarity": "0",
       "stackable": "true",
-      "value": "0.4"
+      "value": "0.4",
+      "_id": "PALADIN_ARMOR"
     }
   },
   {
@@ -4341,7 +4751,8 @@
       "bp": "8",
       "rarity": "0",
       "stackable": "true",
-      "value": "0.4"
+      "value": "0.4",
+      "_id": "LOCKED_PALADIN_ARMOR"
     }
   },
   {
@@ -4353,7 +4764,8 @@
       "bp": "8",
       "rarity": "0",
       "stackable": "true",
-      "value": "0.5"
+      "value": "0.5",
+      "_id": "PALADIN_ARMOR_PLAYER"
     }
   },
   {
@@ -4364,7 +4776,8 @@
       "cost": "75",
       "bp": "8",
       "rarity": "0",
-      "stackable": "true"
+      "stackable": "true",
+      "_id": "SALT_ARMOR"
     }
   },
   {
@@ -4375,7 +4788,8 @@
       "cost": "100",
       "bp": "8",
       "rarity": "0",
-      "stackable": "true"
+      "stackable": "true",
+      "_id": "REGEN_ARMOR"
     }
   },
   {
@@ -4386,7 +4800,8 @@
       "cost": "100",
       "bp": "8",
       "rarity": "0",
-      "stackable": "true"
+      "stackable": "true",
+      "_id": "LOCKED_REGEN_ARMOR"
     }
   },
   {
@@ -4398,7 +4813,8 @@
       "bp": "8",
       "rarity": "0",
       "stackable": "true",
-      "value": "0.3"
+      "value": "0.3",
+      "_id": "CRYSTAL_ARMOR_ENEMY"
     }
   },
   {
@@ -4410,7 +4826,8 @@
       "bp": "8",
       "rarity": "0",
       "stackable": "true",
-      "value": "0.75"
+      "value": "0.75",
+      "_id": "CRYSTAL_ARMOR"
     }
   },
   {
@@ -4421,7 +4838,8 @@
       "cost": "60",
       "bp": "8",
       "rarity": "0",
-      "stackable": "true"
+      "stackable": "true",
+      "_id": "LOCKED_CRYSTAL_ARMOR"
     }
   },
   {
@@ -4433,7 +4851,8 @@
       "bp": "8",
       "rarity": "0",
       "stackable": "false",
-      "value": "2"
+      "value": "2",
+      "_id": "ENERGY_SHIELD"
     }
   },
   {
@@ -4445,7 +4864,8 @@
       "bp": "8",
       "rarity": "0",
       "stackable": "false",
-      "value": "2"
+      "value": "2",
+      "_id": "LOCKED_ENERGY_SHIELD"
     }
   },
   {
@@ -4456,7 +4876,8 @@
       "cost": "80",
       "bp": "8",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "OSMIAN_BATTERIES"
     }
   },
   {
@@ -4468,7 +4889,8 @@
       "bp": "12",
       "rarity": "0",
       "stackable": "false",
-      "value": "1"
+      "value": "1",
+      "_id": "SLUG_GEL"
     }
   },
   {
@@ -4480,7 +4902,8 @@
       "bp": "12",
       "rarity": "0",
       "stackable": "false",
-      "value": "1"
+      "value": "1",
+      "_id": "LOCKED_SLUG_GEL"
     }
   },
   {
@@ -4492,7 +4915,8 @@
       "bp": "12",
       "rarity": "0",
       "stackable": "false",
-      "value": "1"
+      "value": "1",
+      "_id": "HEKTAR_GEL"
     }
   },
   {
@@ -4504,7 +4928,8 @@
       "bp": "12",
       "rarity": "0",
       "stackable": "false",
-      "value": "1"
+      "value": "1",
+      "_id": "PLEASURE_GEL"
     }
   },
   {
@@ -4516,7 +4941,8 @@
       "bp": "9",
       "rarity": "0",
       "value": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "CREW_STIMS"
     }
   },
   {
@@ -4527,7 +4953,8 @@
       "cost": "60",
       "bp": "9",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "LOCKED_CREW_STIMS"
     }
   },
   {
@@ -4538,7 +4965,8 @@
       "cost": "65",
       "bp": "9",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "SUPER_CREW_STIMS"
     }
   },
   {
@@ -4549,7 +4977,8 @@
       "cost": "65",
       "bp": "9",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "LOCKED_SUPER_CREW_STIMS"
     }
   },
   {
@@ -4560,7 +4989,8 @@
       "cost": "90",
       "bp": "9",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "LOCKED_ELITE_STIMS"
     }
   },
   {
@@ -4571,7 +5001,8 @@
       "cost": "70",
       "bp": "9",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "SUZERAIN_CREW_STIMS"
     }
   },
   {
@@ -4582,7 +5013,8 @@
       "cost": "70",
       "bp": "9",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "LOCKED_SUZERAIN_CREW_STIMS"
     }
   },
   {
@@ -4593,7 +5025,8 @@
       "cost": "60",
       "bp": "8",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "KERNEL_REPLICATOR"
     }
   },
   {
@@ -4604,7 +5037,8 @@
       "cost": "60",
       "bp": "8",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "LOCKED_KERNEL_REPLICATOR"
     }
   },
   {
@@ -4615,7 +5049,8 @@
       "cost": "40",
       "bp": "8",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "CARETAKER_BUFF"
     }
   },
   {
@@ -4626,7 +5061,8 @@
       "cost": "50",
       "bp": "8",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "PRAETOR_BUFF"
     }
   },
   {
@@ -4637,7 +5073,8 @@
       "cost": "80",
       "bp": "8",
       "rarity": "0",
-      "stackable": "true"
+      "stackable": "true",
+      "_id": "LOCKED_WOOD_PLATING"
     }
   },
   {
@@ -4648,7 +5085,8 @@
       "cost": "80",
       "bp": "8",
       "rarity": "0",
-      "stackable": "true"
+      "stackable": "true",
+      "_id": "WOOD_PLATING"
     }
   },
   {
@@ -4659,7 +5097,8 @@
       "cost": "60",
       "bp": "8",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "SPORE_AIR_TOXIC"
     }
   },
   {
@@ -4670,7 +5109,8 @@
       "cost": "60",
       "bp": "8",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "SPORE_AIR_BUFF"
     }
   },
   {
@@ -4681,7 +5121,8 @@
       "cost": "60",
       "bp": "8",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "SPORE_AIR_ELITE"
     }
   },
   {
@@ -4692,7 +5133,8 @@
       "cost": "50",
       "bp": "8",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "SPORE_AIR_STRONG"
     }
   },
   {
@@ -4703,7 +5145,8 @@
       "cost": "75",
       "bp": "8",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "SPORE_SHIPMENT"
     }
   },
   {
@@ -4714,7 +5157,8 @@
       "cost": "50",
       "bp": "4",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "MORPH_DATABASE"
     }
   },
   {
@@ -4725,7 +5169,8 @@
       "cost": "50",
       "bp": "4",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "MORPH_DATABASE_ADV"
     }
   },
   {
@@ -4736,7 +5181,8 @@
       "cost": "50",
       "bp": "4",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "TOXIC_GAS"
     }
   },
   {
@@ -4747,7 +5193,8 @@
       "cost": "50",
       "bp": "4",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "LOCKED_TOXIC_GAS"
     }
   },
   {
@@ -4758,7 +5205,8 @@
       "cost": "150",
       "bp": "4",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "RADIANT_GAS"
     }
   },
   {
@@ -4769,7 +5217,8 @@
       "cost": "50",
       "bp": "4",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "NANITE_GAS"
     }
   },
   {
@@ -4780,7 +5229,8 @@
       "cost": "50",
       "bp": "4",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "LOCKED_NANITE_GAS"
     }
   },
   {
@@ -4791,7 +5241,8 @@
       "cost": "50",
       "bp": "4",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "REGEN_GAS"
     }
   },
   {
@@ -4802,7 +5253,8 @@
       "cost": "50",
       "bp": "4",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "LOCKED_REGEN_GAS"
     }
   },
   {
@@ -4813,7 +5265,8 @@
       "cost": "50",
       "bp": "8",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "REPAIR_HULL"
     }
   },
   {
@@ -4824,7 +5277,8 @@
       "cost": "110",
       "bp": "8",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "LOCKED_COAL_AUG"
     }
   },
   {
@@ -4835,7 +5289,8 @@
       "cost": "110",
       "bp": "8",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "ANTICOAL_AUG"
     }
   },
   {
@@ -4846,7 +5301,8 @@
       "cost": "110",
       "bp": "8",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "ANTICOAL_AUG_CHAOS"
     }
   },
   {
@@ -4857,7 +5313,8 @@
       "cost": "175",
       "bp": "15",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "ANCIENT_PREIGNITE"
     }
   },
   {
@@ -4868,7 +5325,8 @@
       "cost": "90",
       "bp": "15",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "ANCIENT_REPLICATOR"
     }
   },
   {
@@ -4879,7 +5337,8 @@
       "cost": "80",
       "bp": "15",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "ANCIENT_PROTECTANT"
     }
   },
   {
@@ -4890,7 +5349,8 @@
       "cost": "60",
       "bp": "15",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "ANCIENT_DNA"
     }
   },
   {
@@ -4901,7 +5361,8 @@
       "cost": "80",
       "bp": "15",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "ANCIENT_SHIELD"
     }
   },
   {
@@ -4912,7 +5373,8 @@
       "cost": "80",
       "bp": "15",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "ROYAL_SHIELD"
     }
   },
   {
@@ -4923,7 +5385,8 @@
       "cost": "80",
       "bp": "15",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "ANCIENT_SHIELD_PLAYER"
     }
   },
   {
@@ -4934,7 +5397,8 @@
       "cost": "80",
       "bp": "15",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "LOCKED_ANCIENT_SHIELD"
     }
   },
   {
@@ -4945,7 +5409,8 @@
       "cost": "150",
       "bp": "15",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "ROYAL_SHIELD_PLAYER"
     }
   },
   {
@@ -4956,7 +5421,8 @@
       "cost": "150",
       "bp": "15",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "LOCKED_ROYAL_SHIELD"
     }
   },
   {
@@ -4967,7 +5433,8 @@
       "cost": "0",
       "bp": "15",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "SIREN_ENEMY_MC"
     }
   },
   {
@@ -4978,7 +5445,8 @@
       "cost": "80",
       "bp": "8",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "RHYME_SHIELDS"
     }
   },
   {
@@ -4989,7 +5457,8 @@
       "cost": "80",
       "bp": "8",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "RHYME_SHIELDS_B"
     }
   },
   {
@@ -5000,7 +5469,8 @@
       "cost": "80",
       "bp": "8",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "RHYME_SHIELDS_C"
     }
   },
   {
@@ -5011,7 +5481,8 @@
       "cost": "0",
       "bp": "4",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "CHAOS"
     }
   },
   {
@@ -5021,7 +5492,8 @@
       "desc": "A VERY STRANGE RED BUTTON INSTALLED ON YOUR SHIP BY SLUGS. A SMALL PLACARD UNDERNEATH SAYS IN ALL CAPS, \"SATISFACTION GUARANTEED, BECAUSE YOU AREN'T GETTING YOUR MONEY BACK.\"",
       "cost": "2",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "COMBAT_PANIC_BUTTON"
     }
   },
   {
@@ -5031,7 +5503,8 @@
       "desc": "Single use combat augment that can be deployed before combat to deal 4 damage to an enemy system of your choice as well as against their hull.",
       "cost": "40",
       "rarity": "3",
-      "stackable": "true"
+      "stackable": "true",
+      "_id": "COMBAT_EXPLOSIVE"
     }
   },
   {
@@ -5041,7 +5514,8 @@
       "desc": "A well structured guide on emergency procedures. Adds extra options to last minute preparations before combat to produce fuel, convert missiles and droneparts, or even detonate extra missiles to sabotage enemy weapons.",
       "cost": "30",
       "rarity": "4",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "EXTRA_PREP"
     }
   },
   {
@@ -5051,7 +5525,8 @@
       "desc": "These nanobots take ship parts dislodged from hostile vessels and convert it to metal to repair your hull at the start of ship combat in exchange for reactor power. More power means more bots are available to convert enemy parts.\n\nIncompatible with Emergency Generator.",
       "cost": "70",
       "rarity": "5",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "COMBAT_REPAIR"
     }
   },
   {
@@ -5061,7 +5536,8 @@
       "desc": "Only the Obelisks can understand how this strange and powerful device functions, but it is capable of manipulating reality to summon any hazard before combat.",
       "cost": "80",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "COMBAT_HAZARD"
     }
   },
   {
@@ -5071,7 +5547,8 @@
       "desc": "Can expel electrified nebulous gases to create an ion storm before any fight.",
       "cost": "80",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "COMBAT_IONSTORM"
     }
   },
   {
@@ -5081,7 +5558,8 @@
       "desc": "Jams the enemy targeting systems, weakening the enemy Weapon system by 2 bars. Does not work on Artillery.\n\t[Uses 2 power, 1 fuel, lasts 45 seconds]",
       "cost": "40",
       "rarity": "4",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "COMBAT_WEAPON_JAMMER"
     }
   },
   {
@@ -5091,7 +5569,8 @@
       "desc": "Jams the enemy shield generator, weakening the enemy Shield system by 2 bars.\n\t[Uses 2 power, 1 fuel, lasts 45 seconds]",
       "cost": "45",
       "rarity": "4",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "COMBAT_SHIELDS_JAMMER"
     }
   },
   {
@@ -5101,7 +5580,8 @@
       "desc": "Disables the enemy engines, weakening the enemy Engines system by 2 bars.\n\t[Uses 2 power, 1 fuel, lasts 45 seconds]",
       "cost": "45",
       "rarity": "3",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "COMBAT_ENGINE_JAMMER"
     }
   },
   {
@@ -5111,7 +5591,8 @@
       "desc": "Can be used to either disable enemy auto pilot for free, or completely shut off their evasion for 2 power.",
       "cost": "50",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "COMBAT_PILOT_JAMMER"
     }
   },
   {
@@ -5121,7 +5602,8 @@
       "desc": "Deploys an array of tracking flares that temporarily reveal the enemy, disabling their Cloaking system.\n\t[Uses 2 power, lasts 30 seconds]",
       "cost": "75",
       "rarity": "5",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "COMBAT_CLOAKING_JAMMER"
     }
   },
   {
@@ -5131,7 +5613,8 @@
       "desc": "Creates a protective field around the ship which can be tuned to protect against either enemy teleporter or mind control but not both at the same time.\n\t[Uses 2 power, lasts 30 seconds]",
       "cost": "50",
       "rarity": "5",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "COMBAT_WARP_JAMMER"
     }
   },
   {
@@ -5141,7 +5624,8 @@
       "desc": "Activates an EMP field which cripples the enemy reactor, but is quite heavy on your own. Will not work in an ion storm, or against the Flagship.\n\t[Uses 3 power and 1 fuel, lasts 45 seconds]",
       "cost": "90",
       "rarity": "5",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "COMBAT_REACTOR_JAMMER"
     }
   },
   {
@@ -5151,7 +5635,8 @@
       "desc": "Cripples the enemy Life Support system. Uses more power for each system bar disabled.\n\t[Uses 3 to 5 power, infinite duration]\n\t[Note: The Emergency generator will only reduce power usage by 2]",
       "cost": "45",
       "rarity": "5",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "COMBAT_OXYGEN_JAMMER"
     }
   },
   {
@@ -5161,7 +5646,8 @@
       "desc": "A dangerous bio-engineered virus. Uses no power and reduces enemy and player Life Support power by 2.",
       "cost": "40",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "COMBAT_OXYGEN_UNSTABLE"
     }
   },
   {
@@ -5172,7 +5658,8 @@
       "cost": "75",
       "bp": "15",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "ANCIENT_COMBAT_EQUALIZER"
     }
   },
   {
@@ -5183,7 +5670,8 @@
       "cost": "60",
       "bp": "15",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "ANCIENT_COMBAT_ASB"
     }
   },
   {
@@ -5194,7 +5682,8 @@
       "cost": "0",
       "bp": "15",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "ANCIENT_ACTIVATOR"
     }
   },
   {
@@ -5204,7 +5693,8 @@
       "desc": "This strange machine is in a hibernating state. Perhaps someone will have more information about this.",
       "cost": "100",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "ANCIENT_CONSTRUCTOR"
     }
   },
   {
@@ -5214,7 +5704,8 @@
       "desc": "A Federation supply crate given to you by Vice Admiral Adara. It's protected by several passcodes and a lock that requires a special magnetic key. A large Federation insignia is on the back.",
       "cost": "45",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "TULLY_PRESENT"
     }
   },
   {
@@ -5224,7 +5715,8 @@
       "desc": "A plastic statue painted gold depicting a Zoltan meditating. It appears to be something you could find in just about any tourist location.",
       "cost": "6",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "ZOLTAN_STATUE"
     }
   },
   {
@@ -5234,7 +5726,8 @@
       "desc": "You aren't sure how you feel about the crew drinking this, but they seem to like it. The almost lethal dose of sugar increases combat, repair, and movement speed by 75% for all crew but also lowers their Max Health by 25%.",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "QUARP_JUICE"
     }
   },
   {
@@ -5244,7 +5737,8 @@
       "desc": "You managed to retrieve this from the smuggler's depot, now you just have to bring it back.",
       "cost": "50",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "SMUGGLER_RAID_CARGO"
     }
   },
   {
@@ -5254,7 +5748,8 @@
       "desc": "Rare and expensive nebula gases. Sells for 50 scrap.",
       "cost": "100",
       "rarity": "0",
-      "stackable": "true"
+      "stackable": "true",
+      "_id": "NEBULA_GASSES"
     }
   },
   {
@@ -5264,7 +5759,8 @@
       "desc": "Parts salvaged from a damaged beacon. Maybe you can give them to the Beacon Eater?",
       "cost": "45",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "BEACON_PARTS"
     }
   },
   {
@@ -5274,7 +5770,8 @@
       "desc": "The corpses of dead Orchid children, though they merely resemble small flowers. You can sell them for scrap, at the cost of your soul, you monster.",
       "cost": "65",
       "rarity": "0",
-      "stackable": "true"
+      "stackable": "true",
+      "_id": "ORCHID_KIDS"
     }
   },
   {
@@ -5284,7 +5781,8 @@
       "desc": "A bundle of highly illegal drugs. Using them yourself is out of the question if you don't want to be comatose by the time you get to the Flagship, but you could sell these back for more than you got them, or use them to bribe Slugs out of fighting you. Has no use outside the Royal Nebula.",
       "cost": "90",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "SLUG_NARCOTICS"
     }
   },
   {
@@ -5295,7 +5793,8 @@
       "cost": "0",
       "bp": "8",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "LOSTSUN_BLESSING"
     }
   },
   {
@@ -5306,7 +5805,8 @@
       "cost": "0",
       "bp": "8",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "ZOLTAN_BLESSING"
     }
   },
   {
@@ -5317,7 +5817,8 @@
       "cost": "60",
       "bp": "15",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "NO_GHOST_PLAYER"
     }
   },
   {
@@ -5328,7 +5829,8 @@
       "cost": "50",
       "bp": "15",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "DEATH_VESTS"
     }
   },
   {
@@ -5339,7 +5841,8 @@
       "cost": "120",
       "bp": "16",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "WEAPON_PREIGNITE"
     }
   },
   {
@@ -5351,7 +5854,8 @@
       "bp": "5",
       "rarity": "0",
       "value": "3",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "LOOT_COMPASS"
     }
   },
   {
@@ -5361,7 +5865,8 @@
       "desc": "A machine designed for casinos. It appears to have been modified to be able to dispense a wide variety of items when you win, but you can't seem to figure out how to open it.",
       "cost": "60",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "GAMBLING_MACHINE"
     }
   },
   {
@@ -5371,7 +5876,8 @@
       "desc": "Allows you to track down Ghost vessels from a long running database and fight them for scrap.",
       "cost": "30",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "PROTON_PACK"
     }
   },
   {
@@ -5381,7 +5887,8 @@
       "desc": "Allows you to track down Ghost vessels from a long running database and fight them for scrap.",
       "cost": "30",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "LOCKED_PROTON_PACK"
     }
   },
   {
@@ -5391,7 +5898,8 @@
       "desc": "Can single out and hijack the MV drives of powerful Multiverse cruisers from other realities. Uses 7 fuel to do so, but can spawn any MV boss as a Quest. Always spawns them at Challenge difficulty scaling.",
       "cost": "30",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "MVBOSS_SPAWNER"
     }
   },
   {
@@ -5401,7 +5909,8 @@
       "desc": "Can be activated during hyperspeed to travel so insanely fast that you'll be put 3 jumps ahead of the Rebel fleet. Unfortunately, it's very unstable (and illegal), and will likely destroy your engines afterwards.\n\tCan only be used once.",
       "cost": "30",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "FLEET_SKIP"
     }
   },
   {
@@ -5411,7 +5920,8 @@
       "desc": "A mystical square artifact with bright green lights and a dark black exterior. With it came a small card from the pirates, on it written \"Open the box if you dare, but be warned. For as likely it is that it will grant you infinite power, it is just as likely to damn you.\"",
       "cost": "40",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "PANDORA_BOX"
     }
   },
   {
@@ -5421,7 +5931,8 @@
       "desc": "Also known as a Karthithe, this box holds both divine wonders and unimaginable horrors. Question is, which will be bestowed upon you if you open it?",
       "cost": "0",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "PANDORA_BOX_ANCIENT"
     }
   },
   {
@@ -5433,7 +5944,8 @@
       "bp": "4",
       "rarity": "0",
       "value": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "NANOBOT_DEFENSE_SYSTEM"
     }
   },
   {
@@ -5444,7 +5956,8 @@
       "cost": "60",
       "bp": "4",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "LOCKED_NANOBOT_DEFENSE_SYSTEM"
     }
   },
   {
@@ -5456,7 +5969,8 @@
       "bp": "15",
       "rarity": "0",
       "stackable": "true",
-      "value": "0.15"
+      "value": "0.15",
+      "_id": "SYSTEM_CASING"
     }
   },
   {
@@ -5468,7 +5982,8 @@
       "bp": "15",
       "rarity": "0",
       "stackable": "true",
-      "value": "0.15"
+      "value": "0.15",
+      "_id": "SYSTEM_CASING_NEW"
     }
   },
   {
@@ -5479,7 +5994,8 @@
       "cost": "80",
       "bp": "15",
       "rarity": "0",
-      "stackable": "true"
+      "stackable": "true",
+      "_id": "LOCKED_SYSTEM_CASING"
     }
   },
   {
@@ -5490,7 +6006,8 @@
       "cost": "30",
       "bp": "3",
       "rarity": "1",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "ADV_SCANNERS"
     }
   },
   {
@@ -5500,7 +6017,8 @@
       "desc": "A recycler module similar to that used in Recycler tech weapons. Can be used to convert fuel, scrap, drone parts, or just random junk into missiles.",
       "cost": "50",
       "rarity": "3",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "RECYCLER"
     }
   },
   {
@@ -5510,7 +6028,8 @@
       "desc": "A special component that allows you to disassemble missiles or droneparts into scrap, at a greatly reduced yield.",
       "cost": "40",
       "rarity": "3",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "RECYCLER_REVERSE"
     }
   },
   {
@@ -5520,7 +6039,8 @@
       "desc": "Patented GHOST DUPLICATING technology allows you to quickly and rapidly inflate Ghosts of any type, then force them to divide as if they were an Alpha. It's painless, we promise.",
       "cost": "40",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "GHOST_DUPLICATOR"
     }
   },
   {
@@ -5530,7 +6050,8 @@
       "desc": "Can summon a store at any empty beacon at the cost of 1 fleet boost.",
       "cost": "45",
       "rarity": "5",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "STORE_BEACON"
     }
   },
   {
@@ -5541,7 +6062,8 @@
       "cost": "50",
       "bp": "8",
       "rarity": "3",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "DISTRACTION_BUOY"
     }
   },
   {
@@ -5552,7 +6074,8 @@
       "cost": "50",
       "bp": "8",
       "rarity": "4",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "PRE_SCANNER"
     }
   },
   {
@@ -5563,7 +6086,8 @@
       "cost": "20",
       "bp": "8",
       "rarity": "2",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "FUEL_CONSERVER"
     }
   },
   {
@@ -5573,7 +6097,8 @@
       "desc": "A module that drowns out distress or other signals. Can be used to prevent guards from calling for ASB backup or disable enemy attack satellites.\n\t\n\tProvides helpful blue options during relevant events.",
       "cost": "45",
       "rarity": "4",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "PDS_DISABLE"
     }
   },
   {
@@ -5583,7 +6108,8 @@
       "desc": "Combat augment that can neutralize enemy Hacking systems. Also performs well against malicious viruses from enemy satellites or other sources.\n\t[Uses 2 power, lasts 30 seconds]\n\t\n\tProvides helpful blue options during relevant events.",
       "cost": "30",
       "rarity": "4",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "ANTI_VIRUS"
     }
   },
   {
@@ -5593,7 +6119,8 @@
       "desc": "A self-replenishing supply of holographic flares that make excellent distractions in situations where enemies or satellites are nearby but have not yet locked onto your vessel. Useful for sneaking into places or away from enemies.\n\t\n\tProvides helpful blue options during relevant events.",
       "cost": "40",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "FLARE_DISTRACTION"
     }
   },
   {
@@ -5603,7 +6130,8 @@
       "desc": "Outfits your crew with superior firearms, adding 30% extra damage in ranged crew combat.",
       "cost": "45",
       "rarity": "3",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "CREW_FIREARMS"
     }
   },
   {
@@ -5614,7 +6142,8 @@
       "cost": "40",
       "bp": "8",
       "rarity": "3",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "SPEED_SUITS"
     }
   },
   {
@@ -5624,7 +6153,8 @@
       "desc": "Life Support now prioritizes your crew, refilling oxygen 65% faster in rooms where crew are present. Requires the system to be powered, and scales with power.",
       "cost": "40",
       "rarity": "2",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "CREW_OXYGEN"
     }
   },
   {
@@ -5634,7 +6164,8 @@
       "desc": "Can be opened in the storage. Can contain anywhere from 30 to 45 scrap.",
       "cost": "60",
       "rarity": "0",
-      "stackable": "true"
+      "stackable": "true",
+      "_id": "CRATE_SCRAP"
     }
   },
   {
@@ -5644,7 +6175,8 @@
       "desc": "Can be opened in the storage. Contains 175 scrap.",
       "cost": "350",
       "rarity": "0",
-      "stackable": "true"
+      "stackable": "true",
+      "_id": "CRATE_SCRAP_HUGE"
     }
   },
   {
@@ -5654,7 +6186,8 @@
       "desc": "Can be opened in the storage. Can contain anywhere from 5 to 10 fuel.",
       "cost": "22",
       "rarity": "0",
-      "stackable": "true"
+      "stackable": "true",
+      "_id": "CRATE_FUEL"
     }
   },
   {
@@ -5664,7 +6197,8 @@
       "desc": "Can be opened in the storage. Can contain anywhere from 5 to 10 missiles.",
       "cost": "42",
       "rarity": "0",
-      "stackable": "true"
+      "stackable": "true",
+      "_id": "CRATE_MISSILES"
     }
   },
   {
@@ -5674,7 +6208,8 @@
       "desc": "Can be opened in the storage. Can contain anywhere from 5 to 10 droneparts.",
       "cost": "49",
       "rarity": "0",
-      "stackable": "true"
+      "stackable": "true",
+      "_id": "CRATE_DRONES"
     }
   },
   {
@@ -5685,7 +6220,8 @@
       "cost": "60",
       "bp": "16",
       "rarity": "0",
-      "stackable": "false"
+      "stackable": "false",
+      "_id": "PART_GATLING_AUGMENT"
     }
   },
   {
@@ -5697,7 +6233,8 @@
       "bp": "8",
       "rarity": "0",
       "stackable": "false",
-      "value": "0.5"
+      "value": "0.5",
+      "_id": "O2_MASKS"
     }
   },
   {
@@ -5709,7 +6246,8 @@
       "bp": "8",
       "rarity": "0",
       "stackable": "false",
-      "value": "0.5"
+      "value": "0.5",
+      "_id": "EXPLOSIVE_REPLICATOR"
     }
   },
   {
@@ -5721,7 +6259,8 @@
       "bp": "8",
       "rarity": "0",
       "stackable": "false",
-      "value": "1.f"
+      "value": "1.f",
+      "_id": "FIRE_EXTINGUISHERS"
     }
   },
   {
@@ -5733,7 +6272,8 @@
       "bp": "8",
       "rarity": "0",
       "stackable": "false",
-      "value": "1.f"
+      "value": "1.f",
+      "_id": "FLEET_DISTRACTION"
     }
   },
   {
@@ -5745,7 +6285,8 @@
       "bp": "8",
       "rarity": "0",
       "stackable": "false",
-      "value": "1.f"
+      "value": "1.f",
+      "_id": "TELEPORT_HEAL"
     }
   },
   {
@@ -5757,7 +6298,8 @@
       "bp": "8",
       "rarity": "0",
       "stackable": "false",
-      "value": "0.5"
+      "value": "0.5",
+      "_id": "BATTERY_BOOSTER"
     }
   },
   {
@@ -5769,7 +6311,8 @@
       "bp": "8",
       "rarity": "0",
       "stackable": "false",
-      "value": "0.0"
+      "value": "0.0",
+      "_id": "DEFENSE_SCRAMBLER"
     }
   },
   {
@@ -5781,7 +6324,8 @@
       "bp": "8",
       "rarity": "0",
       "stackable": "false",
-      "value": "0.0"
+      "value": "0.0",
+      "_id": "BACKUP_DNA"
     }
   },
   {
@@ -5792,7 +6336,8 @@
       "cost": "60",
       "rarity": "0",
       "stackable": "false",
-      "value": "0.0"
+      "value": "0.0",
+      "_id": "HACKING_STUN"
     }
   },
   {
@@ -5804,7 +6349,8 @@
       "bp": "8",
       "rarity": "0",
       "stackable": "false",
-      "value": "0.0"
+      "value": "0.0",
+      "_id": "LIFE_SCANNER"
     }
   },
   {
@@ -5816,7 +6362,8 @@
       "bp": "8",
       "rarity": "0",
       "stackable": "false",
-      "value": "0.0"
+      "value": "0.0",
+      "_id": "ZOLTAN_BYPASS"
     }
   }
 ]

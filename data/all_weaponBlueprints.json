@@ -41,7 +41,8 @@
         "sound": "miss"
       },
       "weaponArt": "missiles_2",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "MISSILES_BREACH"
     }
   },
   {
@@ -91,7 +92,8 @@
         "sound": "miss"
       },
       "weaponArt": "missiles_2",
-      "iconImage": "missileH"
+      "iconImage": "missileH",
+      "_id": "MISSILES_HULL"
     }
   },
   {
@@ -126,7 +128,8 @@
         "sound": "smallExplosion"
       },
       "weaponArt": "bomb_breach",
-      "iconImage": "bomb"
+      "iconImage": "bomb",
+      "_id": "BOMB_BREACH_2"
     }
   },
   {
@@ -171,7 +174,8 @@
         "sound": "miss"
       },
       "explosion": "explosion_crystal_2",
-      "weaponArt": "crystal_shard"
+      "weaponArt": "crystal_shard",
+      "_id": "OBSIDIAN_ARMOR_PROJ"
     }
   },
   {
@@ -216,7 +220,8 @@
         "sound": "miss"
       },
       "explosion": "explosion_crystal_2",
-      "weaponArt": "crystal_shard"
+      "weaponArt": "crystal_shard",
+      "_id": "CRYSTAL_ARMOR_PROJ_SHATTER"
     }
   },
   {
@@ -260,7 +265,8 @@
         "sound": "miss"
       },
       "explosion": "explosion_crystal_2",
-      "weaponArt": "crystal_shard"
+      "weaponArt": "crystal_shard",
+      "_id": "CRYSTAL_1"
     }
   },
   {
@@ -305,7 +311,8 @@
         "sound": "miss"
       },
       "explosion": "explosion_crystal_2",
-      "weaponArt": "crystal_shard"
+      "weaponArt": "crystal_shard",
+      "_id": "CRYSTAL_ARMOR_PROJ"
     }
   },
   {
@@ -352,7 +359,8 @@
         "sound": "miss"
       },
       "weaponArt": "laser_burst_1",
-      "iconImage": "laser"
+      "iconImage": "laser",
+      "_id": "LASER_BURST_1"
     }
   },
   {
@@ -399,7 +407,8 @@
         "sound": "miss"
       },
       "weaponArt": "laser_burst_2",
-      "iconImage": "laser"
+      "iconImage": "laser",
+      "_id": "LASER_BURST_2"
     }
   },
   {
@@ -446,7 +455,8 @@
         "sound": "miss"
       },
       "weaponArt": "laser_burst_2",
-      "iconImage": "laser"
+      "iconImage": "laser",
+      "_id": "LASER_BURST_2_ENEMY"
     }
   },
   {
@@ -493,7 +503,8 @@
         "sound": "miss"
       },
       "weaponArt": "laser_burst_2",
-      "iconImage": "laser"
+      "iconImage": "laser",
+      "_id": "LASER_BURST_2_A"
     }
   },
   {
@@ -540,7 +551,8 @@
         "sound": "miss"
       },
       "weaponArt": "laser_burst_3",
-      "iconImage": "laser"
+      "iconImage": "laser",
+      "_id": "LASER_BURST_3"
     }
   },
   {
@@ -587,7 +599,8 @@
         "sound": "miss"
       },
       "weaponArt": "laser_burst_5",
-      "iconImage": "laser"
+      "iconImage": "laser",
+      "_id": "LASER_BURST_5"
     }
   },
   {
@@ -634,7 +647,8 @@
         "sound": "miss"
       },
       "weaponArt": "laser_burst_7",
-      "iconImage": "laser"
+      "iconImage": "laser",
+      "_id": "LASER_BURST_8"
     }
   },
   {
@@ -679,7 +693,8 @@
         "sound": "miss"
       },
       "weaponArt": "laser_heavy_1",
-      "iconImage": "heavyL"
+      "iconImage": "heavyL",
+      "_id": "LASER_HEAVY_1"
     }
   },
   {
@@ -724,7 +739,8 @@
         "sound": "miss"
       },
       "weaponArt": "laser_heavy_2",
-      "iconImage": "heavyL"
+      "iconImage": "heavyL",
+      "_id": "LASER_HEAVY_2"
     }
   },
   {
@@ -769,7 +785,8 @@
         "sound": "miss"
       },
       "weaponArt": "laser_heavy_3",
-      "iconImage": "heavyL"
+      "iconImage": "heavyL",
+      "_id": "LASER_HEAVY_3"
     }
   },
   {
@@ -821,7 +838,8 @@
         "sound": "miss"
       },
       "weaponArt": "laser_heavy_chain",
-      "iconImage": "laser_chain"
+      "iconImage": "laser_chain",
+      "_id": "LASER_HEAVY_CHAINGUN"
     }
   },
   {
@@ -867,7 +885,8 @@
         "sound": "miss"
       },
       "weaponArt": "laser_heavy_pierce",
-      "iconImage": "heavyL"
+      "iconImage": "heavyL",
+      "_id": "LASER_HEAVY_PIERCE"
     }
   },
   {
@@ -912,7 +931,8 @@
         "sound": "miss"
       },
       "weaponArt": "laser_hull_1",
-      "iconImage": "laserH"
+      "iconImage": "laserH",
+      "_id": "LASER_HULL_1"
     }
   },
   {
@@ -957,7 +977,8 @@
         "sound": "miss"
       },
       "weaponArt": "laser_hull_1",
-      "iconImage": "laserH"
+      "iconImage": "laserH",
+      "_id": "LASER_HULL_1_ENEMY"
     }
   },
   {
@@ -1003,7 +1024,8 @@
         "sound": "miss"
       },
       "weaponArt": "laser_hull_2",
-      "iconImage": "laserH"
+      "iconImage": "laserH",
+      "_id": "LASER_HULL_2"
     }
   },
   {
@@ -1049,7 +1071,8 @@
         "sound": "miss"
       },
       "weaponArt": "laser_hull_3",
-      "iconImage": "laserH"
+      "iconImage": "laserH",
+      "_id": "LASER_HULL_3"
     }
   },
   {
@@ -1095,7 +1118,8 @@
         "sound": "miss"
       },
       "weaponArt": "laser_hull_3",
-      "iconImage": "laserH"
+      "iconImage": "laserH",
+      "_id": "LASER_HULL_3_PLAYER"
     }
   },
   {
@@ -1145,7 +1169,8 @@
         "sound": "miss"
       },
       "weaponArt": "laser_hull_chain",
-      "iconImage": "laserH"
+      "iconImage": "laserH",
+      "_id": "LASER_HULL_CHAINGUN"
     }
   },
   {
@@ -1195,7 +1220,8 @@
         "sound": "miss"
       },
       "weaponArt": "laser_light",
-      "iconImage": "laser"
+      "iconImage": "laser",
+      "_id": "LASER_LIGHT"
     }
   },
   {
@@ -1245,7 +1271,8 @@
         "sound": "miss"
       },
       "weaponArt": "laser_light_2",
-      "iconImage": "laser"
+      "iconImage": "laser",
+      "_id": "LASER_LIGHT_2"
     }
   },
   {
@@ -1291,7 +1318,8 @@
         "sound": "miss"
       },
       "weaponArt": "laser_pierce",
-      "iconImage": "laser"
+      "iconImage": "laser",
+      "_id": "LASER_PIERCE"
     }
   },
   {
@@ -1335,7 +1363,8 @@
         "sound": "miss"
       },
       "weaponArt": "laser_pierce",
-      "iconImage": "laser"
+      "iconImage": "laser",
+      "_id": "LASER_PIERCE_ENEMY"
     }
   },
   {
@@ -1381,7 +1410,8 @@
         "sound": "miss"
       },
       "weaponArt": "laser_pierce_2",
-      "iconImage": "laser"
+      "iconImage": "laser",
+      "_id": "LASER_PIERCE_2"
     }
   },
   {
@@ -1425,7 +1455,8 @@
         "sound": "miss"
       },
       "weaponArt": "laser_pierce_2",
-      "iconImage": "laser"
+      "iconImage": "laser",
+      "_id": "LASER_PIERCE_2_ENEMY"
     }
   },
   {
@@ -1477,7 +1508,8 @@
         "sound": "miss"
       },
       "weaponArt": "chainlaser",
-      "iconImage": "laser_chain"
+      "iconImage": "laser_chain",
+      "_id": "LASER_CHAINGUN"
     }
   },
   {
@@ -1529,7 +1561,8 @@
         "sound": "miss"
       },
       "weaponArt": "chainlaser",
-      "iconImage": "laser_chain"
+      "iconImage": "laser_chain",
+      "_id": "LASER_CHAINGUN_ENEMY"
     }
   },
   {
@@ -1589,7 +1622,8 @@
         "sound": "miss"
       },
       "weaponArt": "chainlaser_2",
-      "iconImage": "laser_chain"
+      "iconImage": "laser_chain",
+      "_id": "LASER_CHAINGUN_2"
     }
   },
   {
@@ -1637,7 +1671,8 @@
         "sound": "miss"
       },
       "weaponArt": "chargelaser",
-      "iconImage": "laser_charge2"
+      "iconImage": "laser_charge2",
+      "_id": "LASER_CHARGEGUN"
     }
   },
   {
@@ -1685,7 +1720,8 @@
         "sound": "miss"
       },
       "weaponArt": "chargelaser",
-      "iconImage": "laser_charge2"
+      "iconImage": "laser_charge2",
+      "_id": "LASER_CHARGEGUN_ENEMY"
     }
   },
   {
@@ -1733,7 +1769,8 @@
         "sound": "miss"
       },
       "weaponArt": "chargelaser2",
-      "iconImage": "laser_charge4"
+      "iconImage": "laser_charge4",
+      "_id": "LASER_CHARGEGUN_2"
     }
   },
   {
@@ -1781,7 +1818,8 @@
         "sound": "miss"
       },
       "weaponArt": "chargelaser3",
-      "iconImage": "laser_charge4"
+      "iconImage": "laser_charge4",
+      "_id": "LASER_CHARGEGUN_3"
     }
   },
   {
@@ -1835,7 +1873,8 @@
         "sound": "miss"
       },
       "weaponArt": "chain_charge",
-      "iconImage": "laser_charge2"
+      "iconImage": "laser_charge2",
+      "_id": "LASER_CHARGE_CHAIN"
     }
   },
   {
@@ -1887,7 +1926,8 @@
         "sound": "miss"
       },
       "weaponArt": "chainlaser_damage",
-      "iconImage": "laser_chain"
+      "iconImage": "laser_chain",
+      "_id": "LASER_CHAINGUN_DAMAGE"
     }
   },
   {
@@ -1935,7 +1975,8 @@
         "sound": "miss"
       },
       "weaponArt": "laser_fire",
-      "iconImage": "laser"
+      "iconImage": "laser",
+      "_id": "LASER_FIRE"
     }
   },
   {
@@ -1983,7 +2024,8 @@
         "sound": "miss"
       },
       "weaponArt": "laser_fire",
-      "iconImage": "laser"
+      "iconImage": "laser",
+      "_id": "LASER_FIRE_PLAYER"
     }
   },
   {
@@ -2028,7 +2070,8 @@
         "sound": "miss"
       },
       "weaponArt": "laser_stun",
-      "iconImage": "laser"
+      "iconImage": "laser",
+      "_id": "LASER_STUN"
     }
   },
   {
@@ -2098,7 +2141,8 @@
         "sound": "miss"
       },
       "weaponArt": "laser_frost",
-      "iconImage": "laser"
+      "iconImage": "laser",
+      "_id": "LASER_FROST_1"
     }
   },
   {
@@ -2168,7 +2212,8 @@
         "sound": "miss"
       },
       "weaponArt": "laser_frost_2",
-      "iconImage": "laser"
+      "iconImage": "laser",
+      "_id": "LASER_FROST_2"
     }
   },
   {
@@ -2238,7 +2283,8 @@
         "sound": "miss"
       },
       "weaponArt": "laser_frost_2",
-      "iconImage": "laser"
+      "iconImage": "laser",
+      "_id": "LASER_FROST_2_PLAYER"
     }
   },
   {
@@ -2302,7 +2348,8 @@
         "sound": "miss"
       },
       "weaponArt": "laser_bio",
-      "iconImage": "laser"
+      "iconImage": "laser",
+      "_id": "LASER_BIO"
     }
   },
   {
@@ -2352,7 +2399,8 @@
       "missSounds": {
         "sound": "miss"
       },
-      "weaponArt": "laser_particle"
+      "weaponArt": "laser_particle",
+      "_id": "LASER_PARTICLE"
     }
   },
   {
@@ -2402,7 +2450,8 @@
       "missSounds": {
         "sound": "miss"
       },
-      "weaponArt": "laser_particle_2"
+      "weaponArt": "laser_particle_2",
+      "_id": "LASER_PARTICLE_2"
     }
   },
   {
@@ -2435,7 +2484,8 @@
         "sound": "beam2"
       },
       "weaponArt": "beam_particle",
-      "iconImage": "beam"
+      "iconImage": "beam",
+      "_id": "BEAM_PARTICLE"
     }
   },
   {
@@ -2482,7 +2532,8 @@
         "sound": "miss"
       },
       "weaponArt": "missiles_particle",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "MISSILES_PARTICLE"
     }
   },
   {
@@ -2529,7 +2580,8 @@
         "sound": "miss"
       },
       "weaponArt": "missiles_particle",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "MISSILES_PARTICLE_PLAYER"
     }
   },
   {
@@ -2577,7 +2629,8 @@
         "sound": "miss"
       },
       "weaponArt": "missiles_energy",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "MISSILES_ENERGY"
     }
   },
   {
@@ -2632,7 +2685,8 @@
         "sound": "miss"
       },
       "weaponArt": "ion_1",
-      "iconImage": "ion"
+      "iconImage": "ion",
+      "_id": "ION_1"
     }
   },
   {
@@ -2687,7 +2741,8 @@
         "sound": "miss"
       },
       "weaponArt": "ion_2",
-      "iconImage": "ion"
+      "iconImage": "ion",
+      "_id": "ION_2"
     }
   },
   {
@@ -2742,7 +2797,8 @@
         "sound": "miss"
       },
       "weaponArt": "ion_4",
-      "iconImage": "ion"
+      "iconImage": "ion",
+      "_id": "ION_3"
     }
   },
   {
@@ -2797,7 +2853,8 @@
         "sound": "miss"
       },
       "weaponArt": "ion_5",
-      "iconImage": "ion"
+      "iconImage": "ion",
+      "_id": "ION_4"
     }
   },
   {
@@ -2852,7 +2909,8 @@
         "sound": "miss"
       },
       "weaponArt": "ion_heavy",
-      "iconImage": "ion"
+      "iconImage": "ion",
+      "_id": "ION_HEAVY"
     }
   },
   {
@@ -2915,7 +2973,8 @@
         "sound": "miss"
       },
       "weaponArt": "ion_dual",
-      "iconImage": "ion"
+      "iconImage": "ion",
+      "_id": "ION_TRI"
     }
   },
   {
@@ -2979,7 +3038,8 @@
         "sound": "miss"
       },
       "weaponArt": "ion_instant",
-      "iconImage": "ion_chain"
+      "iconImage": "ion_chain",
+      "_id": "ION_INSTANT"
     }
   },
   {
@@ -3038,7 +3098,8 @@
         "sound": "miss"
       },
       "weaponArt": "ion_chaingun",
-      "iconImage": "ion_chain"
+      "iconImage": "ion_chain",
+      "_id": "ION_CHAINGUN"
     }
   },
   {
@@ -3092,7 +3153,8 @@
         "sound": "miss"
       },
       "weaponArt": "chargeion",
-      "iconImage": "ion_charge"
+      "iconImage": "ion_charge",
+      "_id": "ION_CHARGEGUN"
     }
   },
   {
@@ -3146,7 +3208,8 @@
         "sound": "miss"
       },
       "weaponArt": "ion_charger_2",
-      "iconImage": "ion_charge"
+      "iconImage": "ion_charge",
+      "_id": "ION_CHARGEGUN_2"
     }
   },
   {
@@ -3199,7 +3262,8 @@
         "sound": "miss"
       },
       "weaponArt": "ion_stun_1",
-      "iconImage": "ion"
+      "iconImage": "ion",
+      "_id": "ION_STUN"
     }
   },
   {
@@ -3252,7 +3316,8 @@
         "sound": "miss"
       },
       "weaponArt": "ion_stun_2",
-      "iconImage": "ion"
+      "iconImage": "ion",
+      "_id": "ION_STUN_2"
     }
   },
   {
@@ -3306,7 +3371,8 @@
         "sound": "miss"
       },
       "weaponArt": "ion_stun_heavy",
-      "iconImage": "ion"
+      "iconImage": "ion",
+      "_id": "ION_STUN_HEAVY"
     }
   },
   {
@@ -3360,7 +3426,8 @@
         "sound": "miss"
       },
       "weaponArt": "ion_stun_charge",
-      "iconImage": "ion_charge"
+      "iconImage": "ion_charge",
+      "_id": "ION_STUN_CHARGEGUN"
     }
   },
   {
@@ -3414,7 +3481,8 @@
         "sound": "miss"
       },
       "weaponArt": "ion_stun_charge",
-      "iconImage": "ion_charge"
+      "iconImage": "ion_charge",
+      "_id": "ION_STUN_CHARGEGUN_PLAYER"
     }
   },
   {
@@ -3468,7 +3536,8 @@
         "sound": "miss"
       },
       "weaponArt": "ion_disco",
-      "iconImage": "ion"
+      "iconImage": "ion",
+      "_id": "ION_PIERCE_DISCO"
     }
   },
   {
@@ -3522,7 +3591,8 @@
         "sound": "miss"
       },
       "weaponArt": "ion_phase_1",
-      "iconImage": "ion"
+      "iconImage": "ion",
+      "_id": "ION_PIERCE_1"
     }
   },
   {
@@ -3576,7 +3646,8 @@
         "sound": "miss"
       },
       "weaponArt": "ion_phase_2",
-      "iconImage": "ion"
+      "iconImage": "ion",
+      "_id": "ION_PIERCE_2"
     }
   },
   {
@@ -3631,7 +3702,8 @@
         "sound": "miss"
       },
       "weaponArt": "ion_fire",
-      "iconImage": "ion"
+      "iconImage": "ion",
+      "_id": "ION_FIRE"
     }
   },
   {
@@ -3686,7 +3758,8 @@
         "sound": "miss"
       },
       "weaponArt": "ion_fire",
-      "iconImage": "ion"
+      "iconImage": "ion",
+      "_id": "ION_FIRE_PLAYER"
     }
   },
   {
@@ -3756,7 +3829,8 @@
         "sound": "miss"
       },
       "weaponArt": "ion_bio",
-      "iconImage": "ion"
+      "iconImage": "ion",
+      "_id": "ION_BIO"
     }
   },
   {
@@ -3802,7 +3876,8 @@
         "sound": "miss"
       },
       "weaponArt": "missiles_1",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "MISSILES_1"
     }
   },
   {
@@ -3848,7 +3923,8 @@
         "sound": "miss"
       },
       "weaponArt": "missiles_1",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "MISSILES_1_ENEMY"
     }
   },
   {
@@ -3895,7 +3971,8 @@
         "sound": "miss"
       },
       "weaponArt": "missiles_2",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "MISSILES_2"
     }
   },
   {
@@ -3941,7 +4018,8 @@
         "sound": "miss"
       },
       "weaponArt": "missiles_2",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "MISSILES_2_ENEMY"
     }
   },
   {
@@ -3988,7 +4066,8 @@
         "sound": "miss"
       },
       "weaponArt": "missiles_3",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "MISSILES_3"
     }
   },
   {
@@ -4034,7 +4113,8 @@
         "sound": "miss"
       },
       "weaponArt": "missiles_3",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "MISSILES_3_ENEMY"
     }
   },
   {
@@ -4081,7 +4161,8 @@
         "sound": "miss"
       },
       "weaponArt": "missiles_4",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "MISSILES_4"
     }
   },
   {
@@ -4127,7 +4208,8 @@
         "sound": "miss"
       },
       "weaponArt": "missiles_4",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "MISSILES_4_ENEMY"
     }
   },
   {
@@ -4174,7 +4256,8 @@
         "sound": "miss"
       },
       "weaponArt": "chargemissile",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "MISSILES_BURST"
     }
   },
   {
@@ -4221,7 +4304,8 @@
         "sound": "miss"
       },
       "weaponArt": "chargemissile",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "MISSILES_BURST_ENEMY"
     }
   },
   {
@@ -4269,7 +4353,8 @@
         "sound": "miss"
       },
       "weaponArt": "chargemissile_2",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "MISSILES_BURST_2"
     }
   },
   {
@@ -4317,7 +4402,8 @@
         "sound": "miss"
       },
       "weaponArt": "chargemissile_2",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "MISSILES_BURST_2_PLAYER"
     }
   },
   {
@@ -4365,7 +4451,8 @@
         "sound": "miss"
       },
       "weaponArt": "chargemissile_2",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "MISSILES_BURST_2_ENEMY"
     }
   },
   {
@@ -4415,7 +4502,8 @@
         "sound": "miss"
       },
       "weaponArt": "missiles_cloak",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "MISSILES_CLOAK"
     }
   },
   {
@@ -4465,7 +4553,8 @@
         "sound": "miss"
       },
       "weaponArt": "missiles_cloak",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "MISSILES_CLOAK_PLAYER"
     }
   },
   {
@@ -4512,7 +4601,8 @@
         "sound": "miss"
       },
       "weaponArt": "missiles_fire",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "MISSILES_FIRE"
     }
   },
   {
@@ -4559,7 +4649,8 @@
         "sound": "miss"
       },
       "weaponArt": "missiles_fire",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "MISSILES_FIRE_PLAYER"
     }
   },
   {
@@ -4605,7 +4696,8 @@
         "sound": "miss"
       },
       "weaponArt": "missiles_fire",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "MISSILES_FIRE_ENEMY"
     }
   },
   {
@@ -4653,7 +4745,8 @@
         "sound": "miss"
       },
       "weaponArt": "missiles_free",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "MISSILES_FREE"
     }
   },
   {
@@ -4717,7 +4810,8 @@
         "sound": "miss"
       },
       "weaponArt": "missiles_radiation",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "MISSILES_BIO"
     }
   },
   {
@@ -4764,7 +4858,8 @@
         "sound": "miss"
       },
       "weaponArt": "missiles_stun",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "MISSILES_STUN"
     }
   },
   {
@@ -4810,7 +4905,8 @@
         "sound": "miss"
       },
       "weaponArt": "missiles_stun",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "MISSILES_STUN_ENEMY"
     }
   },
   {
@@ -4841,7 +4937,8 @@
         ]
       },
       "weaponArt": "beam_1",
-      "iconImage": "beam"
+      "iconImage": "beam",
+      "_id": "BEAM_1"
     }
   },
   {
@@ -4868,7 +4965,8 @@
         "sound": "beam2"
       },
       "weaponArt": "beam_2",
-      "iconImage": "beam"
+      "iconImage": "beam",
+      "_id": "BEAM_2"
     }
   },
   {
@@ -4895,7 +4993,8 @@
         "sound": "beam2"
       },
       "weaponArt": "beam_2",
-      "iconImage": "beam"
+      "iconImage": "beam",
+      "_id": "BEAM_2_PLAYER"
     }
   },
   {
@@ -4922,7 +5021,8 @@
         "sound": "beam2"
       },
       "weaponArt": "beam_3",
-      "iconImage": "beam"
+      "iconImage": "beam",
+      "_id": "BEAM_3"
     }
   },
   {
@@ -4949,7 +5049,8 @@
         "sound": "beam2"
       },
       "weaponArt": "beam_4",
-      "iconImage": "beam"
+      "iconImage": "beam",
+      "_id": "BEAM_4"
     }
   },
   {
@@ -4980,7 +5081,8 @@
         ]
       },
       "weaponArt": "beam_long",
-      "iconImage": "beam"
+      "iconImage": "beam",
+      "_id": "BEAM_LONG"
     }
   },
   {
@@ -5011,7 +5113,8 @@
         ]
       },
       "weaponArt": "beam_long",
-      "iconImage": "beam"
+      "iconImage": "beam",
+      "_id": "BEAM_LONG_PLAYER"
     }
   },
   {
@@ -5042,7 +5145,8 @@
         ]
       },
       "weaponArt": "beam_long_2",
-      "iconImage": "beam"
+      "iconImage": "beam",
+      "_id": "BEAM_LONG_2"
     }
   },
   {
@@ -5073,7 +5177,8 @@
         ]
       },
       "weaponArt": "beam_long_2",
-      "iconImage": "beam"
+      "iconImage": "beam",
+      "_id": "BEAM_LONG_2_PLAYER"
     }
   },
   {
@@ -5104,7 +5209,8 @@
         ]
       },
       "weaponArt": "beam_scythe",
-      "iconImage": "beam"
+      "iconImage": "beam",
+      "_id": "BEAM_SCYTHE"
     }
   },
   {
@@ -5136,7 +5242,8 @@
         "sound": "beam2"
       },
       "weaponArt": "beam_chain",
-      "iconImage": "beam"
+      "iconImage": "beam",
+      "_id": "BEAM_CHAIN"
     }
   },
   {
@@ -5167,7 +5274,8 @@
         ]
       },
       "weaponArt": "beam_pierce",
-      "iconImage": "beam"
+      "iconImage": "beam",
+      "_id": "BEAM_PIERCE"
     }
   },
   {
@@ -5194,7 +5302,8 @@
         "sound": "beam2"
       },
       "weaponArt": "beam_fire",
-      "iconImage": "beam"
+      "iconImage": "beam",
+      "_id": "BEAM_FIRE"
     }
   },
   {
@@ -5221,7 +5330,8 @@
         "sound": "beam2"
       },
       "weaponArt": "beam_fire_pierce",
-      "iconImage": "beam"
+      "iconImage": "beam",
+      "_id": "BEAM_FIRE_PIERCE"
     }
   },
   {
@@ -5251,7 +5361,8 @@
         "sound": "beam2"
       },
       "weaponArt": "pre_fire",
-      "iconImage": "beam"
+      "iconImage": "beam",
+      "_id": "BEAM_FIRE_INSTANT"
     }
   },
   {
@@ -5278,7 +5389,8 @@
         "sound": "beam2"
       },
       "weaponArt": "beam_breach",
-      "iconImage": "beam"
+      "iconImage": "beam",
+      "_id": "BEAM_BREACH"
     }
   },
   {
@@ -5309,7 +5421,8 @@
         ]
       },
       "weaponArt": "beam_hull",
-      "iconImage": "beamH"
+      "iconImage": "beamH",
+      "_id": "BEAM_HULL"
     }
   },
   {
@@ -5339,7 +5452,8 @@
         ]
       },
       "weaponArt": "beam_hull_2",
-      "iconImage": "beamH"
+      "iconImage": "beamH",
+      "_id": "BEAM_HULL_2"
     }
   },
   {
@@ -5368,7 +5482,8 @@
         "sound": "beam2"
       },
       "weaponArt": "beam_mining",
-      "iconImage": "beam"
+      "iconImage": "beam",
+      "_id": "BEAM_MINING"
     }
   },
   {
@@ -5400,7 +5515,8 @@
         "sound": "beam2"
       },
       "weaponArt": "beam_longbow",
-      "iconImage": "beam"
+      "iconImage": "beam",
+      "_id": "BEAM_ADAPT"
     }
   },
   {
@@ -5433,7 +5549,8 @@
       },
       "weaponArt": "beam_longbow2",
       "iconReplace": "beam_longbow2_icon",
-      "iconImage": "beam"
+      "iconImage": "beam",
+      "_id": "BEAM_ADAPT_2"
     }
   },
   {
@@ -5483,7 +5600,8 @@
         "sound": "beam2"
       },
       "weaponArt": "beam_bio",
-      "iconImage": "beam"
+      "iconImage": "beam",
+      "_id": "BEAM_BIO"
     }
   },
   {
@@ -5538,7 +5656,8 @@
         "sound": "beam2"
       },
       "weaponArt": "beam_bio_chain",
-      "iconImage": "beam"
+      "iconImage": "beam",
+      "_id": "BEAM_BIO_CHAIN"
     }
   },
   {
@@ -5574,7 +5693,8 @@
         "sound": "beam2"
       },
       "weaponArt": "beam_stun",
-      "iconImage": "beam"
+      "iconImage": "beam",
+      "_id": "BEAM_STUN"
     }
   },
   {
@@ -5619,7 +5739,8 @@
         "sound": "beam2"
       },
       "weaponArt": "beam_guillotine",
-      "iconImage": "beam"
+      "iconImage": "beam",
+      "_id": "BEAM_GUILLOTINE"
     }
   },
   {
@@ -5664,7 +5785,8 @@
         "sound": "beam2"
       },
       "weaponArt": "beam_guillotine",
-      "iconImage": "beam"
+      "iconImage": "beam",
+      "_id": "BEAM_GUILLOTINE_PLAYER"
     }
   },
   {
@@ -5693,7 +5815,8 @@
         "sound": "focus_weak"
       },
       "weaponArt": "focus_1",
-      "iconImage": "beam"
+      "iconImage": "beam",
+      "_id": "FOCUS_1"
     }
   },
   {
@@ -5722,7 +5845,8 @@
         "sound": "focus_strong"
       },
       "weaponArt": "focus_2",
-      "iconImage": "beam"
+      "iconImage": "beam",
+      "_id": "FOCUS_2"
     }
   },
   {
@@ -5751,7 +5875,8 @@
         "sound": "focus_strong"
       },
       "weaponArt": "focus_3",
-      "iconImage": "beam"
+      "iconImage": "beam",
+      "_id": "FOCUS_3"
     }
   },
   {
@@ -5785,7 +5910,8 @@
         "sound": "focus_weak"
       },
       "weaponArt": "focus_chain",
-      "iconImage": "beam"
+      "iconImage": "beam",
+      "_id": "FOCUS_CHAIN"
     }
   },
   {
@@ -5819,7 +5945,8 @@
         "sound": "focus_weak"
       },
       "weaponArt": "focus_chain",
-      "iconImage": "beam"
+      "iconImage": "beam",
+      "_id": "FOCUS_CHAIN_ENEMY"
     }
   },
   {
@@ -5870,7 +5997,8 @@
         "sound": "focus_weak"
       },
       "weaponArt": "focus_bio",
-      "iconImage": "beam"
+      "iconImage": "beam",
+      "_id": "FOCUS_BIO"
     }
   },
   {
@@ -5906,7 +6034,8 @@
         "sound": "smallExplosion"
       },
       "weaponArt": "bomblauncher_small",
-      "iconImage": "bomb"
+      "iconImage": "bomb",
+      "_id": "BOMB_1"
     }
   },
   {
@@ -5941,7 +6070,8 @@
         "sound": "smallExplosion"
       },
       "weaponArt": "bomblauncher_small",
-      "iconImage": "bomb"
+      "iconImage": "bomb",
+      "_id": "BOMB_1_ENEMY"
     }
   },
   {
@@ -5977,7 +6107,8 @@
         "sound": "smallExplosion"
       },
       "weaponArt": "bomblauncher_breach",
-      "iconImage": "bomb"
+      "iconImage": "bomb",
+      "_id": "BOMB_BREACH_1"
     }
   },
   {
@@ -6012,7 +6143,8 @@
         "sound": "smallExplosion"
       },
       "weaponArt": "bomblauncher_breach",
-      "iconImage": "bomb"
+      "iconImage": "bomb",
+      "_id": "BOMB_BREACH_1_ENEMY"
     }
   },
   {
@@ -6048,7 +6180,8 @@
         "sound": "fireBomb"
       },
       "weaponArt": "bomblauncher_fire",
-      "iconImage": "bomb"
+      "iconImage": "bomb",
+      "_id": "BOMB_FIRE"
     }
   },
   {
@@ -6083,7 +6216,8 @@
         "sound": "fireBomb"
       },
       "weaponArt": "bomblauncher_fire",
-      "iconImage": "bomb"
+      "iconImage": "bomb",
+      "_id": "BOMB_FIRE_ENEMY"
     }
   },
   {
@@ -6120,7 +6254,8 @@
         "sound": "smallExplosion"
       },
       "weaponArt": "bomblauncher_recycle",
-      "iconImage": "bomb"
+      "iconImage": "bomb",
+      "_id": "BOMB_FREE"
     }
   },
   {
@@ -6160,7 +6295,8 @@
         ]
       },
       "weaponArt": "bomblauncher_ion",
-      "iconImage": "bomb"
+      "iconImage": "bomb",
+      "_id": "BOMB_ION"
     }
   },
   {
@@ -6199,7 +6335,8 @@
         ]
       },
       "weaponArt": "bomblauncher_ion",
-      "iconImage": "bomb"
+      "iconImage": "bomb",
+      "_id": "BOMB_ION_ENEMY"
     }
   },
   {
@@ -6237,7 +6374,8 @@
         "sound": "smallExplosion"
       },
       "weaponArt": "bomblauncher_stun",
-      "iconImage": "bomb"
+      "iconImage": "bomb",
+      "_id": "BOMB_STUN"
     }
   },
   {
@@ -6274,7 +6412,8 @@
         "sound": "smallExplosion"
       },
       "weaponArt": "bomblauncher_stun",
-      "iconImage": "bomb"
+      "iconImage": "bomb",
+      "_id": "BOMB_STUN_ENEMY"
     }
   },
   {
@@ -6325,7 +6464,8 @@
         "sound": "smallExplosion"
       },
       "weaponArt": "bomblauncher_bio",
-      "iconImage": "bomb"
+      "iconImage": "bomb",
+      "_id": "BOMB_BIO"
     }
   },
   {
@@ -6362,7 +6502,8 @@
         "sound": "smallExplosion"
       },
       "weaponArt": "bomblauncher_lockdown",
-      "iconImage": "bomb"
+      "iconImage": "bomb",
+      "_id": "BOMB_LOCK"
     }
   },
   {
@@ -6398,7 +6539,8 @@
         "sound": "smallExplosion"
       },
       "weaponArt": "bomblauncher_lockdown",
-      "iconImage": "bomb"
+      "iconImage": "bomb",
+      "_id": "BOMB_LOCK_ENEMY"
     }
   },
   {
@@ -6449,7 +6591,8 @@
         "sound": "healBomb"
       },
       "weaponArt": "bomblauncher_heal",
-      "iconImage": "bomb_heal"
+      "iconImage": "bomb_heal",
+      "_id": "BOMB_HEAL"
     }
   },
   {
@@ -6490,7 +6633,8 @@
         "sound": "healBomb"
       },
       "weaponArt": "bomblauncher_repair",
-      "iconImage": "bomb_heal"
+      "iconImage": "bomb_heal",
+      "_id": "BOMB_HEAL_SYSTEM"
     }
   },
   {
@@ -6531,7 +6675,8 @@
         "sound": "healBomb"
       },
       "weaponArt": "bomblauncher_repair",
-      "iconImage": "bomb_heal"
+      "iconImage": "bomb_heal",
+      "_id": "BOMB_HEAL_SYSTEM_STRONG"
     }
   },
   {
@@ -6616,7 +6761,8 @@
         "sound": "healBomb"
       },
       "weaponArt": "bomblauncher_buff",
-      "iconImage": "bomb_heal"
+      "iconImage": "bomb_heal",
+      "_id": "BOMB_BUFF"
     }
   },
   {
@@ -6668,7 +6814,8 @@
         "sound": "miss"
       },
       "weaponArt": "energy_1",
-      "iconImage": "ion"
+      "iconImage": "ion",
+      "_id": "ENERGY_1"
     }
   },
   {
@@ -6719,7 +6866,8 @@
         "sound": "miss"
       },
       "weaponArt": "energy_2",
-      "iconImage": "ion"
+      "iconImage": "ion",
+      "_id": "ENERGY_2"
     }
   },
   {
@@ -6770,7 +6918,8 @@
         "sound": "miss"
       },
       "weaponArt": "energy_2",
-      "iconImage": "ion"
+      "iconImage": "ion",
+      "_id": "ENERGY_2_PLAYER"
     }
   },
   {
@@ -6821,7 +6970,8 @@
         "sound": "miss"
       },
       "weaponArt": "energy_3",
-      "iconImage": "ion"
+      "iconImage": "ion",
+      "_id": "ENERGY_3"
     }
   },
   {
@@ -6874,7 +7024,8 @@
         "sound": "miss"
       },
       "weaponArt": "energy_hull",
-      "iconImage": "ion"
+      "iconImage": "ion",
+      "_id": "ENERGY_HULL"
     }
   },
   {
@@ -6926,7 +7077,8 @@
         "sound": "miss"
       },
       "weaponArt": "energy_stun",
-      "iconImage": "ion"
+      "iconImage": "ion",
+      "_id": "ENERGY_STUN"
     }
   },
   {
@@ -6978,7 +7130,8 @@
         "sound": "miss"
       },
       "weaponArt": "energy_stun",
-      "iconImage": "ion"
+      "iconImage": "ion",
+      "_id": "ENERGY_STUN_PLAYER"
     }
   },
   {
@@ -7034,7 +7187,8 @@
         "sound": "miss"
       },
       "weaponArt": "energy_chaingun",
-      "iconImage": "ion_chain"
+      "iconImage": "ion_chain",
+      "_id": "ENERGY_CHAINGUN"
     }
   },
   {
@@ -7085,7 +7239,8 @@
         "sound": "miss"
       },
       "weaponArt": "energy_charge",
-      "iconImage": "ion_charge"
+      "iconImage": "ion_charge",
+      "_id": "ENERGY_CHARGEGUN"
     }
   },
   {
@@ -7136,7 +7291,8 @@
         "sound": "miss"
       },
       "weaponArt": "energy_charge",
-      "iconImage": "ion_charge"
+      "iconImage": "ion_charge",
+      "_id": "ENERGY_CHARGEGUN_PLAYER"
     }
   },
   {
@@ -7199,7 +7355,8 @@
         "sound": "miss"
       },
       "weaponArt": "shotgun_mini",
-      "iconImage": "flak"
+      "iconImage": "flak",
+      "_id": "SHOTGUN_1"
     }
   },
   {
@@ -7262,7 +7419,8 @@
         "sound": "miss"
       },
       "weaponArt": "shotgun_mini",
-      "iconImage": "flak"
+      "iconImage": "flak",
+      "_id": "SHOTGUN_1_ENEMY"
     }
   },
   {
@@ -7330,7 +7488,8 @@
         "sound": "miss"
       },
       "weaponArt": "shotgun",
-      "iconImage": "flak"
+      "iconImage": "flak",
+      "_id": "SHOTGUN_2"
     }
   },
   {
@@ -7398,7 +7557,8 @@
         "sound": "miss"
       },
       "weaponArt": "shotgun",
-      "iconImage": "flak"
+      "iconImage": "flak",
+      "_id": "SHOTGUN_2_PLAYER"
     }
   },
   {
@@ -7466,7 +7626,8 @@
         "sound": "miss"
       },
       "weaponArt": "shotgun_2",
-      "iconImage": "flak"
+      "iconImage": "flak",
+      "_id": "SHOTGUN_3"
     }
   },
   {
@@ -7535,7 +7696,8 @@
       },
       "weaponArt": "shotgun_3",
       "iconReplace": "shotgun_3_icon",
-      "iconImage": "flak"
+      "iconImage": "flak",
+      "_id": "SHOTGUN_4"
     }
   },
   {
@@ -7596,7 +7758,8 @@
         "sound": "miss"
       },
       "weaponArt": "shotgun_charge",
-      "iconImage": "missile_charge"
+      "iconImage": "missile_charge",
+      "_id": "SHOTGUN_CHARGE"
     }
   },
   {
@@ -7669,7 +7832,8 @@
         "sound": "miss"
       },
       "weaponArt": "shotgun_chain",
-      "iconImage": "flak"
+      "iconImage": "flak",
+      "_id": "SHOTGUN_CHAIN"
     }
   },
   {
@@ -7739,7 +7903,8 @@
         "sound": "miss"
       },
       "weaponArt": "shotgun_adv",
-      "iconImage": "flak"
+      "iconImage": "flak",
+      "_id": "SHOTGUN_INSTANT"
     }
   },
   {
@@ -7807,7 +7972,8 @@
         "sound": "miss"
       },
       "weaponArt": "shotgun_fire",
-      "iconImage": "flak"
+      "iconImage": "flak",
+      "_id": "SHOTGUN_FIRE"
     }
   },
   {
@@ -7876,7 +8042,8 @@
         "sound": "miss"
       },
       "weaponArt": "shotgun_electric",
-      "iconImage": "flak"
+      "iconImage": "flak",
+      "_id": "SHOTGUN_ION"
     }
   },
   {
@@ -7961,7 +8128,8 @@
         "sound": "miss"
       },
       "weaponArt": "shotgun_toxic",
-      "iconImage": "flak"
+      "iconImage": "flak",
+      "_id": "SHOTGUN_TOXIC"
     }
   },
   {
@@ -8046,7 +8214,8 @@
         "sound": "miss"
       },
       "weaponArt": "shotgun_toxic",
-      "iconImage": "flak"
+      "iconImage": "flak",
+      "_id": "SHOTGUN_TOXIC_PLAYER"
     }
   },
   {
@@ -8094,7 +8263,8 @@
         "sound": "miss"
       },
       "weaponArt": "kernel_1",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "KERNEL_1"
     }
   },
   {
@@ -8141,7 +8311,8 @@
         "sound": "miss"
       },
       "weaponArt": "kernel_1",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "KERNEL_1_ENEMY"
     }
   },
   {
@@ -8190,7 +8361,8 @@
         "sound": "miss"
       },
       "weaponArt": "kernel_1_elite",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "KERNEL_1_ELITE"
     }
   },
   {
@@ -8238,7 +8410,8 @@
         "sound": "miss"
       },
       "weaponArt": "kernel_1_elite",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "KERNEL_1_ELITE_ENEMY"
     }
   },
   {
@@ -8286,7 +8459,8 @@
         "sound": "miss"
       },
       "weaponArt": "kernel_2",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "KERNEL_2"
     }
   },
   {
@@ -8333,7 +8507,8 @@
         "sound": "miss"
       },
       "weaponArt": "kernel_2",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "KERNEL_2_ENEMY"
     }
   },
   {
@@ -8382,7 +8557,8 @@
         "sound": "miss"
       },
       "weaponArt": "kernel_2_elite",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "KERNEL_2_ELITE"
     }
   },
   {
@@ -8430,7 +8606,8 @@
         "sound": "miss"
       },
       "weaponArt": "kernel_2_elite",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "KERNEL_2_ELITE_ENEMY"
     }
   },
   {
@@ -8478,7 +8655,8 @@
         "sound": "miss"
       },
       "weaponArt": "kernel_heavy",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "KERNEL_HEAVY"
     }
   },
   {
@@ -8525,7 +8703,8 @@
         "sound": "miss"
       },
       "weaponArt": "kernel_heavy",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "KERNEL_HEAVY_ENEMY"
     }
   },
   {
@@ -8574,7 +8753,8 @@
         "sound": "miss"
       },
       "weaponArt": "kernel_heavy_elite",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "KERNEL_HEAVY_ELITE"
     }
   },
   {
@@ -8622,7 +8802,8 @@
         "sound": "miss"
       },
       "weaponArt": "kernel_heavy_elite",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "KERNEL_HEAVY_ELITE_ENEMY"
     }
   },
   {
@@ -8670,7 +8851,8 @@
         "sound": "miss"
       },
       "weaponArt": "kernel_fire",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "KERNEL_FIRE"
     }
   },
   {
@@ -8717,7 +8899,8 @@
         "sound": "miss"
       },
       "weaponArt": "kernel_fire",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "KERNEL_FIRE_ENEMY"
     }
   },
   {
@@ -8766,7 +8949,8 @@
         "sound": "miss"
       },
       "weaponArt": "kernel_fire_elite",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "KERNEL_FIRE_ELITE"
     }
   },
   {
@@ -8814,7 +8998,8 @@
         "sound": "miss"
       },
       "weaponArt": "kernel_fire_elite",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "KERNEL_FIRE_ELITE_ENEMY"
     }
   },
   {
@@ -8867,7 +9052,8 @@
         "sound": "miss"
       },
       "weaponArt": "kernel_chain",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "KERNEL_CHAIN"
     }
   },
   {
@@ -8919,7 +9105,8 @@
         "sound": "miss"
       },
       "weaponArt": "kernel_chain",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "KERNEL_CHAIN_ENEMY"
     }
   },
   {
@@ -8973,7 +9160,8 @@
         "sound": "miss"
       },
       "weaponArt": "kernel_chain_elite",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "KERNEL_CHAIN_ELITE"
     }
   },
   {
@@ -9026,7 +9214,8 @@
         "sound": "miss"
       },
       "weaponArt": "kernel_chain_elite",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "KERNEL_CHAIN_ELITE_ENEMY"
     }
   },
   {
@@ -9075,7 +9264,8 @@
         "sound": "miss"
       },
       "weaponArt": "kernel_charge",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "KERNEL_CHARGE"
     }
   },
   {
@@ -9123,7 +9313,8 @@
         "sound": "miss"
       },
       "weaponArt": "kernel_charge",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "KERNEL_CHARGE_ENEMY"
     }
   },
   {
@@ -9173,7 +9364,8 @@
         "sound": "miss"
       },
       "weaponArt": "kernel_charge_elite",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "KERNEL_CHARGE_ELITE"
     }
   },
   {
@@ -9222,7 +9414,8 @@
         "sound": "miss"
       },
       "weaponArt": "kernel_charge_elite",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "KERNEL_CHARGE_ELITE_ENEMY"
     }
   },
   {
@@ -9258,7 +9451,8 @@
         "sound": "smallExplosion"
       },
       "weaponArt": "spore_1",
-      "iconImage": "bomb"
+      "iconImage": "bomb",
+      "_id": "SPORE_1"
     }
   },
   {
@@ -9293,7 +9487,8 @@
         "sound": "smallExplosion"
       },
       "weaponArt": "spore_1",
-      "iconImage": "bomb"
+      "iconImage": "bomb",
+      "_id": "SPORE_1_ENEMY"
     }
   },
   {
@@ -9354,7 +9549,8 @@
         "sound": "smallExplosion"
       },
       "weaponArt": "spore_1_elite",
-      "iconImage": "bomb"
+      "iconImage": "bomb",
+      "_id": "SPORE_1_ELITE"
     }
   },
   {
@@ -9414,7 +9610,8 @@
         "sound": "smallExplosion"
       },
       "weaponArt": "spore_1_elite",
-      "iconImage": "bomb"
+      "iconImage": "bomb",
+      "_id": "SPORE_1_ELITE_ENEMY"
     }
   },
   {
@@ -9450,7 +9647,8 @@
         "sound": "smallExplosion"
       },
       "weaponArt": "spore_2",
-      "iconImage": "bomb"
+      "iconImage": "bomb",
+      "_id": "SPORE_2"
     }
   },
   {
@@ -9485,7 +9683,8 @@
         "sound": "smallExplosion"
       },
       "weaponArt": "spore_2",
-      "iconImage": "bomb"
+      "iconImage": "bomb",
+      "_id": "SPORE_2_ENEMY"
     }
   },
   {
@@ -9546,7 +9745,8 @@
         "sound": "smallExplosion"
       },
       "weaponArt": "spore_2_elite",
-      "iconImage": "bomb"
+      "iconImage": "bomb",
+      "_id": "SPORE_2_ELITE"
     }
   },
   {
@@ -9606,7 +9806,8 @@
         "sound": "smallExplosion"
       },
       "weaponArt": "spore_2_elite",
-      "iconImage": "bomb"
+      "iconImage": "bomb",
+      "_id": "SPORE_2_ELITE_ENEMY"
     }
   },
   {
@@ -9642,7 +9843,8 @@
         "sound": "smallExplosion"
       },
       "weaponArt": "spore_heavy",
-      "iconImage": "bomb"
+      "iconImage": "bomb",
+      "_id": "SPORE_HEAVY"
     }
   },
   {
@@ -9677,7 +9879,8 @@
         "sound": "smallExplosion"
       },
       "weaponArt": "spore_heavy",
-      "iconImage": "bomb"
+      "iconImage": "bomb",
+      "_id": "SPORE_HEAVY_ENEMY"
     }
   },
   {
@@ -9738,7 +9941,8 @@
         "sound": "smallExplosion"
       },
       "weaponArt": "spore_heavy_elite",
-      "iconImage": "bomb"
+      "iconImage": "bomb",
+      "_id": "SPORE_HEAVY_ELITE"
     }
   },
   {
@@ -9798,7 +10002,8 @@
         "sound": "smallExplosion"
       },
       "weaponArt": "spore_heavy_elite",
-      "iconImage": "bomb"
+      "iconImage": "bomb",
+      "_id": "SPORE_HEAVY_ELITE_ENEMY"
     }
   },
   {
@@ -9839,7 +10044,8 @@
         "sound": "smallExplosion"
       },
       "weaponArt": "spore_chain",
-      "iconImage": "bomb"
+      "iconImage": "bomb",
+      "_id": "SPORE_CHAIN"
     }
   },
   {
@@ -9879,7 +10085,8 @@
         "sound": "smallExplosion"
       },
       "weaponArt": "spore_chain",
-      "iconImage": "bomb"
+      "iconImage": "bomb",
+      "_id": "SPORE_CHAIN_ENEMY"
     }
   },
   {
@@ -9945,7 +10152,8 @@
         "sound": "smallExplosion"
       },
       "weaponArt": "spore_chain_elite",
-      "iconImage": "bomb"
+      "iconImage": "bomb",
+      "_id": "SPORE_CHAIN_ELITE"
     }
   },
   {
@@ -10010,7 +10218,8 @@
         "sound": "smallExplosion"
       },
       "weaponArt": "spore_chain_elite",
-      "iconImage": "bomb"
+      "iconImage": "bomb",
+      "_id": "SPORE_CHAIN_ELITE_ENEMY"
     }
   },
   {
@@ -10046,7 +10255,8 @@
         "sound": "smallExplosion"
       },
       "weaponArt": "spore_stun",
-      "iconImage": "bomb"
+      "iconImage": "bomb",
+      "_id": "SPORE_STUN"
     }
   },
   {
@@ -10081,7 +10291,8 @@
         "sound": "smallExplosion"
       },
       "weaponArt": "spore_stun",
-      "iconImage": "bomb"
+      "iconImage": "bomb",
+      "_id": "SPORE_STUN_ENEMY"
     }
   },
   {
@@ -10142,7 +10353,8 @@
         "sound": "smallExplosion"
       },
       "weaponArt": "spore_stun_elite",
-      "iconImage": "bomb"
+      "iconImage": "bomb",
+      "_id": "SPORE_STUN_ELITE"
     }
   },
   {
@@ -10202,7 +10414,8 @@
         "sound": "smallExplosion"
       },
       "weaponArt": "spore_stun_elite",
-      "iconImage": "bomb"
+      "iconImage": "bomb",
+      "_id": "SPORE_STUN_ELITE_ENEMY"
     }
   },
   {
@@ -10250,7 +10463,8 @@
       },
       "explosion": "explosion_crystal_2",
       "weaponArt": "crystal_burst_1",
-      "iconImage": "crystal"
+      "iconImage": "crystal",
+      "_id": "CRYSTAL_BURST_1"
     }
   },
   {
@@ -10298,7 +10512,8 @@
       },
       "explosion": "explosion_crystal_2",
       "weaponArt": "crystal_burst_1",
-      "iconImage": "crystal"
+      "iconImage": "crystal",
+      "_id": "CRYSTAL_BURST_1_ENEMY"
     }
   },
   {
@@ -10347,7 +10562,8 @@
       },
       "explosion": "explosion_crystal_2",
       "weaponArt": "crystal_burst_1_red",
-      "iconImage": "crystal"
+      "iconImage": "crystal",
+      "_id": "CRYSTAL_BURST_1_RED"
     }
   },
   {
@@ -10396,7 +10612,8 @@
       },
       "explosion": "explosion_crystal_2",
       "weaponArt": "crystal_burst_1_red",
-      "iconImage": "crystal"
+      "iconImage": "crystal",
+      "_id": "CRYSTAL_BURST_1_RED_ENEMY"
     }
   },
   {
@@ -10444,7 +10661,8 @@
       },
       "explosion": "explosion_crystal_2",
       "weaponArt": "crystal_burst_2",
-      "iconImage": "crystal"
+      "iconImage": "crystal",
+      "_id": "CRYSTAL_BURST_2"
     }
   },
   {
@@ -10492,7 +10710,8 @@
       },
       "explosion": "explosion_crystal_2",
       "weaponArt": "crystal_burst_2",
-      "iconImage": "crystal"
+      "iconImage": "crystal",
+      "_id": "CRYSTAL_BURST_2_ENEMY"
     }
   },
   {
@@ -10541,7 +10760,8 @@
       },
       "explosion": "explosion_crystal_2",
       "weaponArt": "crystal_burst_2_red",
-      "iconImage": "crystal"
+      "iconImage": "crystal",
+      "_id": "CRYSTAL_BURST_2_RED"
     }
   },
   {
@@ -10590,7 +10810,8 @@
       },
       "explosion": "explosion_crystal_2",
       "weaponArt": "crystal_burst_2_red",
-      "iconImage": "crystal"
+      "iconImage": "crystal",
+      "_id": "CRYSTAL_BURST_2_RED_ENEMY"
     }
   },
   {
@@ -10637,7 +10858,8 @@
       },
       "explosion": "explosion_crystal",
       "weaponArt": "crystal_heavy_1",
-      "iconImage": "crystalH"
+      "iconImage": "crystalH",
+      "_id": "CRYSTAL_HEAVY_1"
     }
   },
   {
@@ -10685,7 +10907,8 @@
       },
       "explosion": "explosion_crystal",
       "weaponArt": "crystal_heavy_1_red",
-      "iconImage": "crystalH"
+      "iconImage": "crystalH",
+      "_id": "CRYSTAL_HEAVY_1_RED"
     }
   },
   {
@@ -10732,7 +10955,8 @@
       },
       "explosion": "explosion_crystal",
       "weaponArt": "crystal_heavy_2",
-      "iconImage": "crystalH"
+      "iconImage": "crystalH",
+      "_id": "CRYSTAL_HEAVY_2"
     }
   },
   {
@@ -10779,7 +11003,8 @@
       },
       "explosion": "explosion_crystal",
       "weaponArt": "crystal_heavy_2",
-      "iconImage": "crystalH"
+      "iconImage": "crystalH",
+      "_id": "CRYSTAL_HEAVY_2_ENEMY"
     }
   },
   {
@@ -10827,7 +11052,8 @@
       },
       "explosion": "explosion_crystal",
       "weaponArt": "crystal_heavy_2_red",
-      "iconImage": "crystalH"
+      "iconImage": "crystalH",
+      "_id": "CRYSTAL_HEAVY_2_RED"
     }
   },
   {
@@ -10875,7 +11101,8 @@
       },
       "explosion": "explosion_crystal",
       "weaponArt": "crystal_heavy_2_red",
-      "iconImage": "crystalH"
+      "iconImage": "crystalH",
+      "_id": "CRYSTAL_HEAVY_2_RED_ENEMY"
     }
   },
   {
@@ -10922,7 +11149,8 @@
       },
       "explosion": "explosion_crystal_2",
       "weaponArt": "crystal_stun",
-      "iconImage": "crystal"
+      "iconImage": "crystal",
+      "_id": "CRYSTAL_STUN"
     }
   },
   {
@@ -10969,7 +11197,8 @@
       },
       "explosion": "explosion_crystal_2",
       "weaponArt": "crystal_stun",
-      "iconImage": "crystal"
+      "iconImage": "crystal",
+      "_id": "CRYSTAL_STUN_ENEMY"
     }
   },
   {
@@ -11017,7 +11246,8 @@
       },
       "explosion": "explosion_crystal_2",
       "weaponArt": "crystal_stun_red",
-      "iconImage": "crystal"
+      "iconImage": "crystal",
+      "_id": "CRYSTAL_STUN_RED"
     }
   },
   {
@@ -11065,7 +11295,8 @@
       },
       "explosion": "explosion_crystal_2",
       "weaponArt": "crystal_stun_red",
-      "iconImage": "crystal"
+      "iconImage": "crystal",
+      "_id": "CRYSTAL_STUN_RED_ENEMY"
     }
   },
   {
@@ -11119,7 +11350,8 @@
         "sound": "miss"
       },
       "weaponArt": "crystal_flak",
-      "iconImage": "flak"
+      "iconImage": "flak",
+      "_id": "CRYSTAL_SHOTGUN"
     }
   },
   {
@@ -11174,7 +11406,8 @@
         "sound": "miss"
       },
       "weaponArt": "crystal_flak_red",
-      "iconImage": "flak"
+      "iconImage": "flak",
+      "_id": "CRYSTAL_SHOTGUN_RED"
     }
   },
   {
@@ -11220,7 +11453,8 @@
       },
       "explosion": "explosion_crystal_2",
       "weaponArt": "crystal_charge",
-      "iconImage": "crystalH"
+      "iconImage": "crystalH",
+      "_id": "CRYSTAL_CHARGEGUN"
     }
   },
   {
@@ -11266,7 +11500,8 @@
       },
       "explosion": "explosion_crystal_2",
       "weaponArt": "crystal_charge",
-      "iconImage": "crystalH"
+      "iconImage": "crystalH",
+      "_id": "CRYSTAL_CHARGEGUN_ENEMY"
     }
   },
   {
@@ -11313,7 +11548,8 @@
       },
       "explosion": "explosion_crystal_2",
       "weaponArt": "crystal_charge_red",
-      "iconImage": "crystalH"
+      "iconImage": "crystalH",
+      "_id": "CRYSTAL_CHARGEGUN_RED"
     }
   },
   {
@@ -11360,7 +11596,8 @@
       },
       "explosion": "explosion_crystal_2",
       "weaponArt": "crystal_charge_red",
-      "iconImage": "crystalH"
+      "iconImage": "crystalH",
+      "_id": "CRYSTAL_CHARGEGUN_RED_ENEMY"
     }
   },
   {
@@ -11414,7 +11651,8 @@
         "sound": "miss"
       },
       "weaponArt": "minelauncher_1",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "MINELAUNCHER_1"
     }
   },
   {
@@ -11468,7 +11706,8 @@
         "sound": "miss"
       },
       "weaponArt": "minelauncher_2",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "MINELAUNCHER_2"
     }
   },
   {
@@ -11523,7 +11762,8 @@
       },
       "weaponArt": "minelauncher_3",
       "iconReplace": "minelauncher_3_icon",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "MINELAUNCHER_3"
     }
   },
   {
@@ -11578,7 +11818,8 @@
         "sound": "miss"
       },
       "weaponArt": "minelauncher_free",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "MINELAUNCHER_FREE"
     }
   },
   {
@@ -11632,7 +11873,8 @@
         "sound": "miss"
       },
       "weaponArt": "minelauncher_fire",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "MINELAUNCHER_FIRE"
     }
   },
   {
@@ -11686,7 +11928,8 @@
         "sound": "miss"
       },
       "weaponArt": "minelauncher_breach",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "MINELAUNCHER_BREACH"
     }
   },
   {
@@ -11742,7 +11985,8 @@
         "sound": "miss"
       },
       "weaponArt": "minelauncher_stun",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "MINELAUNCHER_STUN"
     }
   },
   {
@@ -11799,7 +12043,8 @@
         "sound": "miss"
       },
       "weaponArt": "crystal_minelauncher",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "MINELAUNCHER_CRYSTAL"
     }
   },
   {
@@ -11855,7 +12100,8 @@
         "sound": "miss"
       },
       "weaponArt": "kernel_minelauncher",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "MINELAUNCHER_KERNEL"
     }
   },
   {
@@ -11904,7 +12150,8 @@
         "sound": "miss"
       },
       "weaponArt": "laser_conservative",
-      "iconImage": "laser"
+      "iconImage": "laser",
+      "_id": "LASER_CONSERVATIVE"
     }
   },
   {
@@ -11937,7 +12184,8 @@
         ]
       },
       "weaponArt": "beam_conservative",
-      "iconImage": "beam"
+      "iconImage": "beam",
+      "_id": "BEAM_CONSERVATIVE"
     }
   },
   {
@@ -11991,7 +12239,8 @@
         "sound": "miss"
       },
       "weaponArt": "ion_conservative",
-      "iconImage": "ion"
+      "iconImage": "ion",
+      "_id": "ION_CONSERVATIVE"
     }
   },
   {
@@ -12040,7 +12289,8 @@
         "sound": "miss"
       },
       "weaponArt": "missiles_conservative",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "MISSILES_CONSERVATIVE"
     }
   },
   {
@@ -12077,7 +12327,8 @@
         "sound": "smallExplosion"
       },
       "weaponArt": "bomblauncher_conservative",
-      "iconImage": "bomb"
+      "iconImage": "bomb",
+      "_id": "BOMB_CONSERVATIVE"
     }
   },
   {
@@ -12130,7 +12381,8 @@
         "sound": "miss"
       },
       "weaponArt": "energy_conservative",
-      "iconImage": "ion"
+      "iconImage": "ion",
+      "_id": "ENERGY_CONSERVATIVE"
     }
   },
   {
@@ -12181,7 +12433,8 @@
         "sound": "beam2"
       },
       "weaponArt": "beam_bio_conservative",
-      "iconImage": "beam"
+      "iconImage": "beam",
+      "_id": "BEAM_BIO_CONSERVATIVE"
     }
   },
   {
@@ -12221,7 +12474,8 @@
         "sound": "miss"
       },
       "weaponArt": "zenith_1",
-      "iconImage": "heavyL"
+      "iconImage": "heavyL",
+      "_id": "ZENITH_1"
     }
   },
   {
@@ -12248,7 +12502,8 @@
         "sound": "ancient_beam"
       },
       "weaponArt": "lance_1",
-      "iconImage": "beam"
+      "iconImage": "beam",
+      "_id": "LANCE_1"
     }
   },
   {
@@ -12283,7 +12538,8 @@
         "sound": "smallExplosion"
       },
       "weaponArt": "bomb_cluster",
-      "iconImage": "bomb"
+      "iconImage": "bomb",
+      "_id": "BOMB_CLUSTER"
     }
   },
   {
@@ -12318,7 +12574,8 @@
         "sound": "smallExplosion"
       },
       "weaponArt": "bomb_cluster",
-      "iconImage": "bomb"
+      "iconImage": "bomb",
+      "_id": "BOMB_CLUSTER_ENEMY"
     }
   },
   {
@@ -12360,7 +12617,8 @@
         "sound": "miss"
       },
       "weaponArt": "ancient_laser",
-      "iconImage": "heavyL"
+      "iconImage": "heavyL",
+      "_id": "ANCIENT_LASER"
     }
   },
   {
@@ -12403,7 +12661,8 @@
       },
       "weaponArt": "ancient_laser2",
       "iconReplace": "ancient_laser2_icon",
-      "iconImage": "heavyL"
+      "iconImage": "heavyL",
+      "_id": "ANCIENT_LASER_2"
     }
   },
   {
@@ -12446,7 +12705,8 @@
       },
       "weaponArt": "ancient_laser3",
       "iconReplace": "ancient_laser3_icon",
-      "iconImage": "heavyL"
+      "iconImage": "heavyL",
+      "_id": "ANCIENT_LASER_3"
     }
   },
   {
@@ -12495,7 +12755,8 @@
         "sound": "miss"
       },
       "weaponArt": "ancient_laser_wreck",
-      "iconImage": "heavyL"
+      "iconImage": "heavyL",
+      "_id": "ANCIENT_LASER_WRECK"
     }
   },
   {
@@ -12537,7 +12798,8 @@
         "sound": "miss"
       },
       "weaponArt": "ancient_laser2_wreck",
-      "iconImage": "heavyL"
+      "iconImage": "heavyL",
+      "_id": "ANCIENT_LASER_2_WRECK"
     }
   },
   {
@@ -12592,7 +12854,8 @@
       },
       "weaponArt": "ancient_missiles",
       "iconReplace": "ancient_missiles_icon",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "ANCIENT_MISSILES"
     }
   },
   {
@@ -12628,7 +12891,8 @@
         "sound": "smallExplosion"
       },
       "weaponArt": "ancient_bomblauncher",
-      "iconImage": "bomb"
+      "iconImage": "bomb",
+      "_id": "ANCIENT_BOMB"
     }
   },
   {
@@ -12664,7 +12928,8 @@
         "sound": "smallExplosion"
       },
       "weaponArt": "ancient_bomblauncher",
-      "iconImage": "bomb"
+      "iconImage": "bomb",
+      "_id": "ANCIENT_BOMB_ENEMY"
     }
   },
   {
@@ -12716,7 +12981,8 @@
         "sound": "miss"
       },
       "weaponArt": "ancient_minelauncher",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "ANCIENT_MINELAUNCHER"
     }
   },
   {
@@ -12749,7 +13015,8 @@
         "sound": "ancient_beam"
       },
       "weaponArt": "ancient_beam",
-      "iconImage": "beam"
+      "iconImage": "beam",
+      "_id": "ANCIENT_BEAM"
     }
   },
   {
@@ -12782,7 +13049,8 @@
         "sound": "ancient_beam"
       },
       "weaponArt": "ancient_beam2",
-      "iconImage": "beam"
+      "iconImage": "beam",
+      "_id": "ANCIENT_BEAM_2"
     }
   },
   {
@@ -12815,7 +13083,8 @@
         "sound": "ancient_beam"
       },
       "weaponArt": "ancient_beam3",
-      "iconImage": "beam"
+      "iconImage": "beam",
+      "_id": "ANCIENT_BEAM_3"
     }
   },
   {
@@ -12851,7 +13120,8 @@
       },
       "weaponArt": "ancient_havoc",
       "iconReplace": "ancient_havoc_icon",
-      "iconImage": "beam"
+      "iconImage": "beam",
+      "_id": "ANCIENT_HAVOC"
     }
   },
   {
@@ -12887,7 +13157,8 @@
         "sound": "ancient_focus"
       },
       "weaponArt": "ancient_focus",
-      "iconImage": "beam"
+      "iconImage": "beam",
+      "_id": "ANCIENT_FOCUS"
     }
   },
   {
@@ -12923,7 +13194,8 @@
         "sound": "ancient_focus"
       },
       "weaponArt": "ancient_focus_2",
-      "iconImage": "beam"
+      "iconImage": "beam",
+      "_id": "ANCIENT_FOCUS_2"
     }
   },
   {
@@ -12959,7 +13231,8 @@
         "sound": "ancient_focus"
       },
       "weaponArt": "ancient_focus_2",
-      "iconImage": "beam"
+      "iconImage": "beam",
+      "_id": "ANCIENT_FOCUS_2_ENEMY"
     }
   },
   {
@@ -13002,7 +13275,8 @@
         "sound": "miss"
       },
       "weaponArt": "ancient_ion_1",
-      "iconImage": "heavyL"
+      "iconImage": "heavyL",
+      "_id": "ANCIENT_ION_1"
     }
   },
   {
@@ -13045,7 +13319,8 @@
         "sound": "miss"
       },
       "weaponArt": "ancient_ion_2",
-      "iconImage": "heavyL"
+      "iconImage": "heavyL",
+      "_id": "ANCIENT_ION_2"
     }
   },
   {
@@ -13085,7 +13360,8 @@
         ]
       },
       "weaponArt": "ancient_stun",
-      "iconImage": "bomb"
+      "iconImage": "bomb",
+      "_id": "ANCIENT_STUN"
     }
   },
   {
@@ -13130,7 +13406,8 @@
       },
       "weaponArt": "royal_laser3",
       "iconReplace": "royal_laser3_icon",
-      "iconImage": "heavyL"
+      "iconImage": "heavyL",
+      "_id": "ROYAL_LASER_3"
     }
   },
   {
@@ -13165,7 +13442,8 @@
         "sound": "ancient_beam"
       },
       "weaponArt": "royal_beam3",
-      "iconImage": "beam"
+      "iconImage": "beam",
+      "_id": "ROYAL_BEAM_3"
     }
   },
   {
@@ -13201,7 +13479,8 @@
       },
       "weaponArt": "royal_havoc",
       "iconReplace": "royal_havoc_icon",
-      "iconImage": "beam"
+      "iconImage": "beam",
+      "_id": "ROYAL_HAVOC"
     }
   },
   {
@@ -13237,7 +13516,8 @@
         "sound": "ancient_focus"
       },
       "weaponArt": "royal_focus",
-      "iconImage": "beam"
+      "iconImage": "beam",
+      "_id": "ROYAL_FOCUS"
     }
   },
   {
@@ -13292,7 +13572,8 @@
       },
       "weaponArt": "royal_missiles",
       "iconReplace": "royal_missiles_icon",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "ROYAL_MISSILES"
     }
   },
   {
@@ -13329,7 +13610,8 @@
         "sound": "smallExplosion"
       },
       "weaponArt": "royal_bomblauncher",
-      "iconImage": "bomb"
+      "iconImage": "bomb",
+      "_id": "ROYAL_BOMB"
     }
   },
   {
@@ -13372,7 +13654,8 @@
         "sound": "miss"
       },
       "weaponArt": "royal_ion_2",
-      "iconImage": "heavyL"
+      "iconImage": "heavyL",
+      "_id": "ROYAL_ION_2"
     }
   },
   {
@@ -13408,7 +13691,8 @@
         "sound": "beam3"
       },
       "weaponArt": "ancient_artillery",
-      "iconImage": "beam"
+      "iconImage": "beam",
+      "_id": "ANCIENT_ARTILLERY"
     }
   },
   {
@@ -13444,7 +13728,8 @@
         "sound": "beam3"
       },
       "weaponArt": "royal_artillery",
-      "iconImage": "beam"
+      "iconImage": "beam",
+      "_id": "ROYAL_ARTILLERY"
     }
   },
   {
@@ -13480,7 +13765,8 @@
         "sound": "ancient_beam"
       },
       "weaponArt": "artillery_ancient_a",
-      "iconImage": "beam"
+      "iconImage": "beam",
+      "_id": "ARTILLERY_ANCIENT_A"
     }
   },
   {
@@ -13517,7 +13803,8 @@
         "sound": "smallExplosion"
       },
       "weaponArt": "artillery_ancient_b",
-      "iconImage": "bomb"
+      "iconImage": "bomb",
+      "_id": "ARTILLERY_ANCIENT_B"
     }
   },
   {
@@ -13553,7 +13840,8 @@
         "sound": "ancient_beam"
       },
       "weaponArt": "artillery_ancient_c",
-      "iconImage": "beam"
+      "iconImage": "beam",
+      "_id": "ARTILLERY_ANCIENT_C"
     }
   },
   {
@@ -13590,7 +13878,8 @@
         "sound": "smallExplosion"
       },
       "weaponArt": "artillery_wither",
-      "iconImage": "bomb"
+      "iconImage": "bomb",
+      "_id": "ARTILLERY_WITHER"
     }
   },
   {
@@ -13623,7 +13912,8 @@
         "sound": "ancient_focus"
       },
       "weaponArt": "prime_focus",
-      "iconImage": "beam"
+      "iconImage": "beam",
+      "_id": "ARBITER"
     }
   },
   {
@@ -13669,7 +13959,8 @@
         "sound": "miss"
       },
       "weaponArt": "prime_laser",
-      "iconImage": "laser"
+      "iconImage": "laser",
+      "_id": "PRIME_LASER"
     }
   },
   {
@@ -13714,7 +14005,8 @@
         "sound": "miss"
       },
       "weaponArt": "prime_laser",
-      "iconImage": "laser"
+      "iconImage": "laser",
+      "_id": "PRIME_LASER_DESYNC"
     }
   },
   {
@@ -13751,7 +14043,8 @@
       "missSounds": {
         "sound": "miss"
       },
-      "weaponArt": "laser_burst_1"
+      "weaponArt": "laser_burst_1",
+      "_id": "DRONE_LASER_PRIME"
     }
   },
   {
@@ -13781,7 +14074,8 @@
           "beam1_2"
         ]
       },
-      "weaponArt": "beam_1"
+      "weaponArt": "beam_1",
+      "_id": "DRONE_BEAM_PRIME"
     }
   },
   {
@@ -13829,7 +14123,8 @@
         "sound": "miss"
       },
       "weaponArt": "awesome_laser_red",
-      "iconImage": "laser"
+      "iconImage": "laser",
+      "_id": "AWESOME_LASER_RED"
     }
   },
   {
@@ -13877,7 +14172,8 @@
         "sound": "miss"
       },
       "weaponArt": "awesome_laser_blue",
-      "iconImage": "laser"
+      "iconImage": "laser",
+      "_id": "AWESOME_LASER_BLUE"
     }
   },
   {
@@ -13925,7 +14221,8 @@
         "sound": "miss"
       },
       "weaponArt": "awesome_laser_green",
-      "iconImage": "laser"
+      "iconImage": "laser",
+      "_id": "AWESOME_LASER_GREEN"
     }
   },
   {
@@ -13973,7 +14270,8 @@
         "sound": "miss"
       },
       "weaponArt": "awesome_laser_yellow",
-      "iconImage": "laser"
+      "iconImage": "laser",
+      "_id": "AWESOME_LASER_YELLOW"
     }
   },
   {
@@ -14021,7 +14319,8 @@
         "sound": "miss"
       },
       "weaponArt": "awesome_laser_pink",
-      "iconImage": "laser"
+      "iconImage": "laser",
+      "_id": "AWESOME_LASER_PINK"
     }
   },
   {
@@ -14069,7 +14368,8 @@
         "sound": "miss"
       },
       "weaponArt": "awesome_laser_black",
-      "iconImage": "laser"
+      "iconImage": "laser",
+      "_id": "AWESOME_LASER_BLACK"
     }
   },
   {
@@ -14106,7 +14406,8 @@
         "sound": "beam2"
       },
       "weaponArt": "beam_repair",
-      "iconImage": "beam"
+      "iconImage": "beam",
+      "_id": "BEAM_REPAIR"
     }
   },
   {
@@ -14216,7 +14517,8 @@
         "sound": "miss"
       },
       "weaponArt": "crash_laser",
-      "iconImage": "laser"
+      "iconImage": "laser",
+      "_id": "CRASH_LASER"
     }
   },
   {
@@ -14242,7 +14544,8 @@
         "sound": "beam2"
       },
       "weaponArt": "laser_beam",
-      "iconImage": "beam"
+      "iconImage": "beam",
+      "_id": "BEAM_HARDSCIFI"
     }
   },
   {
@@ -14290,7 +14593,8 @@
         "sound": "miss"
       },
       "weaponArt": "laser3_sylvan",
-      "iconImage": "laser"
+      "iconImage": "laser",
+      "_id": "LASER_BURST_SYLVAN"
     }
   },
   {
@@ -14338,7 +14642,8 @@
         "sound": "miss"
       },
       "weaponArt": "laser3_sylvan",
-      "iconImage": "laser"
+      "iconImage": "laser",
+      "_id": "LASER_BURST_SYLVAN_DELAY"
     }
   },
   {
@@ -14386,7 +14691,8 @@
         "sound": "miss"
       },
       "weaponArt": "laser5_sylvan",
-      "iconImage": "laser"
+      "iconImage": "laser",
+      "_id": "LASER_BURST_5_SYLVAN"
     }
   },
   {
@@ -14413,7 +14719,8 @@
         "sound": "beam2"
       },
       "weaponArt": "beam_4_sylvan",
-      "iconImage": "beam"
+      "iconImage": "beam",
+      "_id": "BEAM_4_SYLVAN"
     }
   },
   {
@@ -14482,7 +14789,8 @@
       },
       "weaponArt": "shotgun_gold_3",
       "iconReplace": "shotgun_gold_3_icon",
-      "iconImage": "flak"
+      "iconImage": "flak",
+      "_id": "SHOTGUN_GOLD_3"
     }
   },
   {
@@ -14527,7 +14835,8 @@
       "missSounds": {
         "sound": "miss"
       },
-      "weaponArt": "ba_laser_artillery_2"
+      "weaponArt": "ba_laser_artillery_2",
+      "_id": "BA_LASER_ARTILLERY_2"
     }
   },
   {
@@ -14582,7 +14891,8 @@
         "sound": "miss"
       },
       "weaponArt": "horse_gun",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "HORSE_GUN"
     }
   },
   {
@@ -14630,7 +14940,8 @@
         "sound": "miss"
       },
       "weaponArt": "missiles_rock",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "MISSILES_ROCK"
     }
   },
   {
@@ -14680,7 +14991,8 @@
         "sound": "miss"
       },
       "weaponArt": "laser_bishop",
-      "iconImage": "laser"
+      "iconImage": "laser",
+      "_id": "LASER_BISHOP"
     }
   },
   {
@@ -14739,7 +15051,8 @@
         "sound": "miss"
       },
       "weaponArt": "ion_phase_chaingun",
-      "iconImage": "ion"
+      "iconImage": "ion",
+      "_id": "ION_PIERCE_CHAIN"
     }
   },
   {
@@ -14787,7 +15100,8 @@
         "sound": "miss"
       },
       "weaponArt": "laser_fire_special",
-      "iconImage": "laser"
+      "iconImage": "laser",
+      "_id": "LASER_FIRE_SPECIAL"
     }
   },
   {
@@ -14827,7 +15141,8 @@
         "sound": "fireBomb"
       },
       "weaponArt": "bomblauncher_cherri",
-      "iconImage": "bomb"
+      "iconImage": "bomb",
+      "_id": "BOMB_CHERRI"
     }
   },
   {
@@ -14887,7 +15202,8 @@
         "sound": "miss"
       },
       "weaponArt": "chainlaser_gold",
-      "iconImage": "laser_chain"
+      "iconImage": "laser_chain",
+      "_id": "LASER_CHAINGUN_GOLD"
     }
   },
   {
@@ -14947,7 +15263,8 @@
         "sound": "miss"
       },
       "weaponArt": "chainlaser_gold",
-      "iconImage": "laser_chain"
+      "iconImage": "laser_chain",
+      "_id": "LASER_CHAINGUN_GOLD_PLAYER"
     }
   },
   {
@@ -15093,7 +15410,8 @@
         "sound": "miss"
       },
       "weaponArt": "saltlauncher",
-      "iconImage": "missile_charge"
+      "iconImage": "missile_charge",
+      "_id": "SALT_LAUNCHER"
     }
   },
   {
@@ -15155,7 +15473,8 @@
         "sound": "miss"
       },
       "weaponArt": "saltlauncher",
-      "iconImage": "missile_charge"
+      "iconImage": "missile_charge",
+      "_id": "SALT_LAUNCHER_ENEMY"
     }
   },
   {
@@ -15223,7 +15542,8 @@
         "sound": "miss"
       },
       "weaponArt": "shotgun_gold",
-      "iconImage": "flak"
+      "iconImage": "flak",
+      "_id": "SHOTGUN_GOLD"
     }
   },
   {
@@ -15257,7 +15577,8 @@
         "sound": "beam2"
       },
       "weaponArt": "shell_beam",
-      "iconImage": "beam"
+      "iconImage": "beam",
+      "_id": "BEAM_SHELL"
     }
   },
   {
@@ -15312,7 +15633,8 @@
       },
       "weaponArt": "rhymer_gun",
       "iconReplace": "rhymer_gun_icon",
-      "iconImage": "beam"
+      "iconImage": "beam",
+      "_id": "BEAM_MADNESS"
     }
   },
   {
@@ -15372,7 +15694,8 @@
       },
       "weaponArt": "rhymer_gun_chaos",
       "iconReplace": "rhymer_gun_chaos_icon",
-      "iconImage": "beam"
+      "iconImage": "beam",
+      "_id": "BEAM_MADNESS_CHAOS"
     }
   },
   {
@@ -15497,7 +15820,8 @@
       },
       "weaponArt": "rhymer_gun_elite",
       "iconReplace": "rhymer_gun_elite_icon",
-      "iconImage": "beam"
+      "iconImage": "beam",
+      "_id": "BEAM_MADNESS_ELITE"
     }
   },
   {
@@ -15622,7 +15946,8 @@
       },
       "weaponArt": "rhymer_gun_vision",
       "iconReplace": "rhymer_gun_vision_icon",
-      "iconImage": "beam"
+      "iconImage": "beam",
+      "_id": "BEAM_MADNESS_VISION"
     }
   },
   {
@@ -15701,7 +16026,8 @@
         "sound": "miss"
       },
       "weaponArt": "rhymer_artillery",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "ARTILLERY_MADNESS"
     }
   },
   {
@@ -15755,7 +16081,8 @@
         "sound": "miss"
       },
       "weaponArt": "rhymer_artillery_elite",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "ARTILLERY_MADNESS_ELITE"
     }
   },
   {
@@ -15809,7 +16136,8 @@
         "sound": "miss"
       },
       "weaponArt": "rhymer_artillery_vision",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "ARTILLERY_MADNESS_VISION"
     }
   },
   {
@@ -15866,7 +16194,8 @@
         "sound": "beam2"
       },
       "weaponArt": "zoltan_deleter",
-      "iconImage": "beam"
+      "iconImage": "beam",
+      "_id": "ZOLTAN_DELETER"
     }
   },
   {
@@ -15928,7 +16257,8 @@
         "sound": "miss"
       },
       "weaponArt": "gatling",
-      "iconImage": "laser_chain"
+      "iconImage": "laser_chain",
+      "_id": "GATLING_VERSION1"
     }
   },
   {
@@ -15990,7 +16320,8 @@
         "sound": "miss"
       },
       "weaponArt": "gatling",
-      "iconImage": "laser_chain"
+      "iconImage": "laser_chain",
+      "_id": "GATLING_VERSION2"
     }
   },
   {
@@ -16052,7 +16383,8 @@
         "sound": "miss"
       },
       "weaponArt": "gatling",
-      "iconImage": "laser_chain"
+      "iconImage": "laser_chain",
+      "_id": "GATLING_VERSION3"
     }
   },
   {
@@ -16114,7 +16446,8 @@
         "sound": "miss"
       },
       "weaponArt": "gatling",
-      "iconImage": "laser_chain"
+      "iconImage": "laser_chain",
+      "_id": "GATLING_VERSION4"
     }
   },
   {
@@ -16176,7 +16509,8 @@
         "sound": "miss"
       },
       "weaponArt": "gatling",
-      "iconImage": "laser_chain"
+      "iconImage": "laser_chain",
+      "_id": "GATLING_VERSION5"
     }
   },
   {
@@ -16238,7 +16572,8 @@
         "sound": "miss"
       },
       "weaponArt": "gatling",
-      "iconImage": "laser_chain"
+      "iconImage": "laser_chain",
+      "_id": "GATLING_VERSION6"
     }
   },
   {
@@ -16300,7 +16635,8 @@
         "sound": "miss"
       },
       "weaponArt": "gatling",
-      "iconImage": "laser_chain"
+      "iconImage": "laser_chain",
+      "_id": "GATLING_VERSION7"
     }
   },
   {
@@ -16362,7 +16698,8 @@
         "sound": "miss"
       },
       "weaponArt": "gatling",
-      "iconImage": "laser_chain"
+      "iconImage": "laser_chain",
+      "_id": "GATLING_VERSION8"
     }
   },
   {
@@ -16424,7 +16761,8 @@
         "sound": "miss"
       },
       "weaponArt": "gatling",
-      "iconImage": "laser_chain"
+      "iconImage": "laser_chain",
+      "_id": "GATLING"
     }
   },
   {
@@ -16477,7 +16815,8 @@
         "sound": "miss"
       },
       "weaponArt": "gatling_gold",
-      "iconImage": "laser_chain"
+      "iconImage": "laser_chain",
+      "_id": "GATLING_SYLVAN"
     }
   },
   {
@@ -16530,7 +16869,8 @@
         "sound": "miss"
       },
       "weaponArt": "gatling_gold",
-      "iconImage": "laser_chain"
+      "iconImage": "laser_chain",
+      "_id": "GATLING_SYLVAN_HONOR"
     }
   },
   {
@@ -16578,7 +16918,8 @@
         "sound": "miss"
       },
       "weaponArt": "gatling_ancient",
-      "iconImage": "laser_chain"
+      "iconImage": "laser_chain",
+      "_id": "GATLING_ANCIENT"
     }
   },
   {
@@ -16601,7 +16942,8 @@
       "cost": "30",
       "image": "beam_contact",
       "weaponArt": "invisible",
-      "iconReplace": "gatling_barrel"
+      "iconReplace": "gatling_barrel",
+      "_id": "PART_GATLING_BARREL"
     }
   },
   {
@@ -16624,7 +16966,8 @@
       "cost": "45",
       "image": "beam_contact",
       "weaponArt": "invisible",
-      "iconReplace": "gatling_base"
+      "iconReplace": "gatling_base",
+      "_id": "PART_GATLING_BASE"
     }
   },
   {
@@ -16671,7 +17014,8 @@
         "sound": "miss"
       },
       "weaponArt": "loot_union_1",
-      "iconImage": "laser"
+      "iconImage": "laser",
+      "_id": "LOOT_UNION_1"
     }
   },
   {
@@ -16700,7 +17044,8 @@
         "sound": "focus_weak"
       },
       "weaponArt": "loot_union_2",
-      "iconImage": "beam"
+      "iconImage": "beam",
+      "_id": "LOOT_UNION_2"
     }
   },
   {
@@ -16747,7 +17092,8 @@
         "sound": "miss"
       },
       "weaponArt": "loot_militia_1",
-      "iconImage": "laser"
+      "iconImage": "laser",
+      "_id": "LOOT_MILITIA_1"
     }
   },
   {
@@ -16794,7 +17140,8 @@
         "sound": "miss"
       },
       "weaponArt": "loot_federation_1",
-      "iconImage": "heavyL"
+      "iconImage": "heavyL",
+      "_id": "LOOT_FEDERATION_1"
     }
   },
   {
@@ -16823,7 +17170,8 @@
         "sound": "beam2"
       },
       "weaponArt": "loot_federation_2",
-      "iconImage": "beam"
+      "iconImage": "beam",
+      "_id": "LOOT_FEDERATION_2"
     }
   },
   {
@@ -16871,7 +17219,8 @@
         "sound": "miss"
       },
       "weaponArt": "loot_rebel_1",
-      "iconImage": "laser_charge4"
+      "iconImage": "laser_charge4",
+      "_id": "LOOT_REBEL_1"
     }
   },
   {
@@ -16902,7 +17251,8 @@
         ]
       },
       "weaponArt": "loot_zoltan_1",
-      "iconImage": "beam"
+      "iconImage": "beam",
+      "_id": "LOOT_ZOLTAN_1"
     }
   },
   {
@@ -16954,7 +17304,8 @@
         "sound": "miss"
       },
       "weaponArt": "loot_duskbringer_1",
-      "iconImage": "ion"
+      "iconImage": "ion",
+      "_id": "LOOT_DUSKBRINGER_1"
     }
   },
   {
@@ -16990,7 +17341,8 @@
         "sound": "smallExplosion"
       },
       "weaponArt": "loot_mantis_1",
-      "iconImage": "bomb"
+      "iconImage": "bomb",
+      "_id": "LOOT_MANTIS_1"
     }
   },
   {
@@ -17041,7 +17393,8 @@
         "sound": "miss"
       },
       "weaponArt": "loot_mantis_2",
-      "iconImage": "laser"
+      "iconImage": "laser",
+      "_id": "LOOT_MANTIS_2"
     }
   },
   {
@@ -17079,7 +17432,8 @@
         "sound": "smallExplosion"
       },
       "weaponArt": "loot_freemantis_1",
-      "iconImage": "bomb"
+      "iconImage": "bomb",
+      "_id": "LOOT_FREEMANTIS_1"
     }
   },
   {
@@ -17116,7 +17470,8 @@
         "sound": "smallExplosion"
       },
       "weaponArt": "loot_freemantis_2",
-      "iconImage": "bomb"
+      "iconImage": "bomb",
+      "_id": "LOOT_FREEMANTIS_2"
     }
   },
   {
@@ -17164,7 +17519,8 @@
         "sound": "miss"
       },
       "weaponArt": "loot_rock_1",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "LOOT_ROCK_1"
     }
   },
   {
@@ -17219,7 +17575,8 @@
         "sound": "miss"
       },
       "weaponArt": "loot_lostsun_1",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "LOOT_LOSTSUN_1"
     }
   },
   {
@@ -17266,7 +17623,8 @@
         "sound": "miss"
       },
       "weaponArt": "loot_lostsun_2",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "LOOT_LOSTSUN_2"
     }
   },
   {
@@ -17316,7 +17674,8 @@
         "sound": "beam2"
       },
       "weaponArt": "loot_slug_1",
-      "iconImage": "beam"
+      "iconImage": "beam",
+      "_id": "LOOT_SLUG_1"
     }
   },
   {
@@ -17352,7 +17711,8 @@
         "sound": "smallExplosion"
       },
       "weaponArt": "loot_slug_2",
-      "iconImage": "bomb"
+      "iconImage": "bomb",
+      "_id": "LOOT_SLUG_2"
     }
   },
   {
@@ -17417,7 +17777,8 @@
         "sound": "miss"
       },
       "weaponArt": "loot_clan_1",
-      "iconImage": "laser"
+      "iconImage": "laser",
+      "_id": "LOOT_CLAN_1"
     }
   },
   {
@@ -17490,7 +17851,8 @@
         "sound": "miss"
       },
       "weaponArt": "loot_lanius_1",
-      "iconImage": "flak"
+      "iconImage": "flak",
+      "_id": "LOOT_LANIUS_1"
     }
   },
   {
@@ -17518,7 +17880,8 @@
         "sound": "beam2"
       },
       "weaponArt": "loot_dynasty_1",
-      "iconImage": "beam"
+      "iconImage": "beam",
+      "_id": "LOOT_DYNASTY_1"
     }
   },
   {
@@ -17565,7 +17928,8 @@
         "sound": "miss"
       },
       "weaponArt": "loot_dynasty_2",
-      "iconImage": "laser"
+      "iconImage": "laser",
+      "_id": "LOOT_DYNASTY_2"
     }
   },
   {
@@ -17612,7 +17976,8 @@
         "sound": "miss"
       },
       "weaponArt": "loot_shell_1",
-      "iconImage": "laserH"
+      "iconImage": "laserH",
+      "_id": "LOOT_SHELL_1"
     }
   },
   {
@@ -17643,7 +18008,8 @@
         ]
       },
       "weaponArt": "loot_shell_2",
-      "iconImage": "beamH"
+      "iconImage": "beamH",
+      "_id": "LOOT_SHELL_2"
     }
   },
   {
@@ -17711,7 +18077,8 @@
         "sound": "miss"
       },
       "weaponArt": "loot_leech_1",
-      "iconImage": "flak"
+      "iconImage": "flak",
+      "_id": "LOOT_LEECH_1"
     }
   },
   {
@@ -17760,7 +18127,8 @@
         "sound": "miss"
       },
       "weaponArt": "loot_coalition_1",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "LOOT_COALITION_1"
     }
   },
   {
@@ -17787,7 +18155,8 @@
         "sound": "beam2"
       },
       "weaponArt": "loot_cultist_1",
-      "iconImage": "beam"
+      "iconImage": "beam",
+      "_id": "LOOT_CULTIST_1"
     }
   },
   {
@@ -17843,7 +18212,8 @@
         "sound": "beam2"
       },
       "weaponArt": "loot_knight_1",
-      "iconImage": "beam"
+      "iconImage": "beam",
+      "_id": "LOOT_KNIGHT_1"
     }
   },
   {
@@ -17895,7 +18265,8 @@
         "sound": "miss"
       },
       "weaponArt": "loot_math_1",
-      "iconImage": "laser_chain"
+      "iconImage": "laser_chain",
+      "_id": "LOOT_MATH_1"
     }
   },
   {
@@ -17945,7 +18316,8 @@
         "sound": "smallExplosion"
       },
       "weaponArt": "loot_math_2",
-      "iconImage": "bomb"
+      "iconImage": "bomb",
+      "_id": "LOOT_MATH_2"
     }
   },
   {
@@ -18003,7 +18375,8 @@
         "sound": "miss"
       },
       "weaponArt": "loot_math_3",
-      "iconImage": "missile_charge"
+      "iconImage": "missile_charge",
+      "_id": "LOOT_MATH_3"
     }
   },
   {
@@ -18034,7 +18407,8 @@
         ]
       },
       "weaponArt": "loot_math_4",
-      "iconImage": "beam"
+      "iconImage": "beam",
+      "_id": "LOOT_MATH_4"
     }
   },
   {
@@ -18094,7 +18468,8 @@
         "sound": "miss"
       },
       "weaponArt": "loot_math_5",
-      "iconImage": "ion_chain"
+      "iconImage": "ion_chain",
+      "_id": "LOOT_MATH_5"
     }
   },
   {
@@ -18150,7 +18525,8 @@
         "sound": "miss"
       },
       "weaponArt": "loot_math_6",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "LOOT_MATH_6"
     }
   },
   {
@@ -18199,7 +18575,8 @@
         "sound": "miss"
       },
       "weaponArt": "loot_math_7",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "LOOT_MATH_7"
     }
   },
   {
@@ -18230,7 +18607,8 @@
         ]
       },
       "weaponArt": "beam_battery",
-      "iconImage": "beam"
+      "iconImage": "beam",
+      "_id": "BEAM_BATTERY"
     }
   },
   {
@@ -18261,7 +18639,8 @@
         ]
       },
       "weaponArt": "beam_battery_chaos",
-      "iconImage": "beam"
+      "iconImage": "beam",
+      "_id": "BEAM_BATTERY_CHAOS"
     }
   },
   {
@@ -18292,7 +18671,8 @@
         ]
       },
       "weaponArt": "beam_quick",
-      "iconImage": "beam"
+      "iconImage": "beam",
+      "_id": "BEAM_QUICK"
     }
   },
   {
@@ -18323,7 +18703,8 @@
         ]
       },
       "weaponArt": "beam_quick_chaos",
-      "iconImage": "beam"
+      "iconImage": "beam",
+      "_id": "BEAM_QUICK_CHAOS"
     }
   },
   {
@@ -18356,7 +18737,8 @@
       },
       "weaponArt": "beam_longbow3",
       "iconReplace": "beam_longbow3_icon",
-      "iconImage": "beam"
+      "iconImage": "beam",
+      "_id": "BEAM_ADAPT_3"
     }
   },
   {
@@ -18390,7 +18772,8 @@
       },
       "weaponArt": "beam_longbow3_chaos",
       "iconReplace": "beam_longbow3_chaos_icon",
-      "iconImage": "beam"
+      "iconImage": "beam",
+      "_id": "BEAM_ADAPT_3_CHAOS"
     }
   },
   {
@@ -18450,7 +18833,8 @@
         "sound": "miss"
       },
       "weaponArt": "big_ion",
-      "iconImage": "ion_chain"
+      "iconImage": "ion_chain",
+      "_id": "BIG_ION"
     }
   },
   {
@@ -18509,7 +18893,8 @@
         "sound": "miss"
       },
       "weaponArt": "big_ion_chaos",
-      "iconImage": "ion_chain"
+      "iconImage": "ion_chain",
+      "_id": "BIG_ION_CHAOS"
     }
   },
   {
@@ -18546,7 +18931,8 @@
         "sound": "smallExplosion"
       },
       "weaponArt": "bomblauncher_sustain",
-      "iconImage": "bomb"
+      "iconImage": "bomb",
+      "_id": "BOMB_CONSERVRECYCLER"
     }
   },
   {
@@ -18582,7 +18968,8 @@
         "sound": "smallExplosion"
       },
       "weaponArt": "bomblauncher_sustain_chaos",
-      "iconImage": "bomb"
+      "iconImage": "bomb",
+      "_id": "BOMB_CONSERVRECYCLER_CHAOS"
     }
   },
   {
@@ -18641,7 +19028,8 @@
         "sound": "healBomb"
       },
       "weaponArt": "bomblauncher_drain",
-      "iconImage": "bomb_heal"
+      "iconImage": "bomb_heal",
+      "_id": "BOMB_DRAIN"
     }
   },
   {
@@ -18700,7 +19088,8 @@
         "sound": "healBomb"
       },
       "weaponArt": "bomblauncher_drain_chaos",
-      "iconImage": "bomb_heal"
+      "iconImage": "bomb_heal",
+      "_id": "BOMB_DRAIN_CHAOS"
     }
   },
   {
@@ -18779,7 +19168,8 @@
       },
       "weaponArt": "frost_charger_base",
       "iconReplace": "frost_charger_icon",
-      "iconImage": "laser_charge4"
+      "iconImage": "laser_charge4",
+      "_id": "FROST_CHARGEGUN"
     }
   },
   {
@@ -18844,7 +19234,8 @@
       },
       "weaponArt": "frost_charger_base_chaos",
       "iconReplace": "frost_charger_chaos_icon",
-      "iconImage": "laser_charge4"
+      "iconImage": "laser_charge4",
+      "_id": "FROST_CHARGEGUN_CHAOS"
     }
   },
   {
@@ -18902,7 +19293,8 @@
         "sound": "miss"
       },
       "weaponArt": "ion_chain_charger",
-      "iconImage": "ion_charge"
+      "iconImage": "ion_charge",
+      "_id": "ION_CHAIN_CHARGEGUN"
     }
   },
   {
@@ -18960,7 +19352,8 @@
         "sound": "miss"
       },
       "weaponArt": "ion_chain_charger_chaos",
-      "iconImage": "ion_charge"
+      "iconImage": "ion_charge",
+      "_id": "ION_CHAIN_CHARGEGUN_CHAOS"
     }
   },
   {
@@ -19006,7 +19399,8 @@
         "sound": "miss"
       },
       "weaponArt": "missiles_obsidian",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "MISSILES_OBSIDIAN"
     }
   },
   {
@@ -19051,7 +19445,8 @@
         "sound": "miss"
       },
       "weaponArt": "missiles_obsidian",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "MISSILES_OBSIDIAN_ENEMY"
     }
   },
   {
@@ -19097,7 +19492,8 @@
         "sound": "miss"
       },
       "weaponArt": "missiles_obsidian_chaos",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "MISSILES_OBSIDIAN_CHAOS"
     }
   },
   {
@@ -19144,7 +19540,8 @@
         "sound": "miss"
       },
       "weaponArt": "sniper",
-      "iconImage": "laser"
+      "iconImage": "laser",
+      "_id": "SNIPER"
     }
   },
   {
@@ -19190,7 +19587,8 @@
         "sound": "miss"
       },
       "weaponArt": "sniper",
-      "iconImage": "laser"
+      "iconImage": "laser",
+      "_id": "SNIPER_ENEMY"
     }
   },
   {
@@ -19219,7 +19617,8 @@
         "sound": "focus_strong"
       },
       "weaponArt": "sniper_chaos",
-      "iconImage": "laser"
+      "iconImage": "laser",
+      "_id": "SNIPER_CHAOS"
     }
   },
   {
@@ -19288,7 +19687,8 @@
         "sound": "miss"
       },
       "weaponArt": "shotgun_steel",
-      "iconImage": "flak"
+      "iconImage": "flak",
+      "_id": "SHOTGUN_STEEL"
     }
   },
   {
@@ -19339,7 +19739,8 @@
         "sound": "miss"
       },
       "weaponArt": "shotgun_steel_chaos",
-      "iconImage": "flak"
+      "iconImage": "flak",
+      "_id": "SHOTGUN_STEEL_CHAOS"
     }
   },
   {
@@ -19396,7 +19797,8 @@
         "sound": "miss"
       },
       "weaponArt": "slotgun",
-      "iconImage": "flak"
+      "iconImage": "flak",
+      "_id": "SLOTGUN"
     }
   },
   {
@@ -19454,7 +19856,8 @@
         "sound": "miss"
       },
       "weaponArt": "slotgun_chaos",
-      "iconImage": "flak"
+      "iconImage": "flak",
+      "_id": "SLOTGUN_CHAOS"
     }
   },
   {
@@ -19518,7 +19921,8 @@
       },
       "weaponArt": "toggle_flak_fire",
       "iconReplace": "toggle_flak_fire_icon",
-      "iconImage": "flak"
+      "iconImage": "flak",
+      "_id": "SHOTGUN_TOGGLE_FIRE"
     }
   },
   {
@@ -19583,7 +19987,8 @@
       },
       "weaponArt": "toggle_flak_ion",
       "iconReplace": "toggle_flak_ion_icon",
-      "iconImage": "flak"
+      "iconImage": "flak",
+      "_id": "SHOTGUN_TOGGLE_ION"
     }
   },
   {
@@ -19664,7 +20069,8 @@
       },
       "weaponArt": "toggle_flak_toxic",
       "iconReplace": "toggle_flak_toxic_icon",
-      "iconImage": "flak"
+      "iconImage": "flak",
+      "_id": "SHOTGUN_TOGGLE_TOXIC"
     }
   },
   {
@@ -19703,7 +20109,8 @@
       },
       "missSounds": {
         "sound": "miss"
-      }
+      },
+      "_id": "CHAOS_TOGGLE_FIRE"
     }
   },
   {
@@ -19743,7 +20150,8 @@
       },
       "missSounds": {
         "sound": "miss"
-      }
+      },
+      "_id": "CHAOS_TOGGLE_ION"
     }
   },
   {
@@ -19799,7 +20207,8 @@
       },
       "missSounds": {
         "sound": "miss"
-      }
+      },
+      "_id": "CHAOS_TOGGLE_TOXIC"
     }
   },
   {
@@ -19876,7 +20285,8 @@
       },
       "weaponArt": "toggle_flak_chaos",
       "iconReplace": "toggle_flak_chaos_icon",
-      "iconImage": "flak"
+      "iconImage": "flak",
+      "_id": "SHOTGUN_TOGGLE_CHAOS"
     }
   },
   {
@@ -19937,7 +20347,8 @@
         "sound": "miss"
       },
       "weaponArt": "shell_launcher",
-      "iconImage": "flak"
+      "iconImage": "flak",
+      "_id": "SHELL_LAUNCHER"
     }
   },
   {
@@ -19998,7 +20409,8 @@
         "sound": "miss"
       },
       "weaponArt": "shell_launcher_chaos",
-      "iconImage": "flak"
+      "iconImage": "flak",
+      "_id": "SHELL_LAUNCHER_CHAOS"
     }
   },
   {
@@ -20056,7 +20468,8 @@
         "sound": "miss"
       },
       "weaponArt": "swarm_unspooler",
-      "iconImage": "missile_charge"
+      "iconImage": "missile_charge",
+      "_id": "UNSPOOLER"
     }
   },
   {
@@ -20118,7 +20531,8 @@
         "sound": "miss"
       },
       "weaponArt": "swarm_unspooler_chaos",
-      "iconImage": "missile_charge"
+      "iconImage": "missile_charge",
+      "_id": "UNSPOOLER_CHAOS"
     }
   },
   {
@@ -20168,7 +20582,8 @@
       },
       "weaponArt": "minelauncher_massive",
       "iconReplace": "minelauncher_massive_icon",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "MINELAUNCHER_GIANT"
     }
   },
   {
@@ -20217,7 +20632,8 @@
       },
       "weaponArt": "minelauncher_massive",
       "iconReplace": "minelauncher_massive_icon",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "MINELAUNCHER_GIANT_ENEMY"
     }
   },
   {
@@ -20273,7 +20689,8 @@
       },
       "weaponArt": "minelauncher_massive_chaos",
       "iconReplace": "minelauncher_massive_chaos_icon",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "MINELAUNCHER_GIANT_CHAOS"
     }
   },
   {
@@ -20324,7 +20741,8 @@
         "sound": "miss"
       },
       "weaponArt": "laser_light_charger",
-      "iconImage": "laser_charge4"
+      "iconImage": "laser_charge4",
+      "_id": "LASER_LIGHT_CHARGEGUN"
     }
   },
   {
@@ -20376,7 +20794,8 @@
         "sound": "miss"
       },
       "weaponArt": "laser_light_charger_chaos",
-      "iconImage": "laser_charge4"
+      "iconImage": "laser_charge4",
+      "_id": "LASER_LIGHT_CHARGEGUN_CHAOS"
     }
   },
   {
@@ -20425,7 +20844,8 @@
       },
       "explosion": "explosion_crystal_2",
       "weaponArt": "crystal_firesalvo",
-      "iconImage": "crystal"
+      "iconImage": "crystal",
+      "_id": "CRYSTAL_BURST_FIRE"
     }
   },
   {
@@ -20487,7 +20907,8 @@
       },
       "explosion": "explosion_crystal_2",
       "weaponArt": "crystal_firesalvo_chaos",
-      "iconImage": "crystal"
+      "iconImage": "crystal",
+      "_id": "CRYSTAL_BURST_FIRE_CHAOS"
     }
   },
   {
@@ -20534,7 +20955,8 @@
         "sound": "miss"
       },
       "weaponArt": "strawberry_launcher",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "STRAWBERRY"
     }
   },
   {
@@ -20593,7 +21015,8 @@
         "sound": "miss"
       },
       "weaponArt": "strawberry_launcher_chaos",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "STRAWBERRY_CHAOS"
     }
   },
   {
@@ -21159,7 +21582,8 @@
         "sound": "healBomb"
       },
       "weaponArt": "bomblauncher_elite",
-      "iconImage": "bomb_heal"
+      "iconImage": "bomb_heal",
+      "_id": "BOMB_ELITE"
     }
   },
   {
@@ -21874,7 +22298,8 @@
         "sound": "healBomb"
       },
       "weaponArt": "bomblauncher_elite_chaos",
-      "iconImage": "bomb_heal"
+      "iconImage": "bomb_heal",
+      "_id": "BOMB_ELITE_CHAOS"
     }
   },
   {
@@ -21897,7 +22322,8 @@
           "beam1_2"
         ]
       },
-      "weaponArt": "beam_mining"
+      "weaponArt": "beam_mining",
+      "_id": "DRONE_BEAM_MINER"
     }
   },
   {
@@ -21920,7 +22346,8 @@
           "beam1_2"
         ]
       },
-      "weaponArt": "beam_mining"
+      "weaponArt": "beam_mining",
+      "_id": "DRONE_BEAM_MINER_CHAOS"
     }
   },
   {
@@ -21961,7 +22388,8 @@
       },
       "weaponArt": "gaster_blaster",
       "iconReplace": "gaster_blaster_icon",
-      "iconImage": "beam"
+      "iconImage": "beam",
+      "_id": "GASTER_BLASTER"
     }
   },
   {
@@ -21997,7 +22425,8 @@
       },
       "weaponArt": "gaster_blaster_chaos",
       "iconReplace": "gaster_blaster_chaos_icon",
-      "iconImage": "beam"
+      "iconImage": "beam",
+      "_id": "GASTER_BLASTER_CHAOS"
     }
   },
   {
@@ -22033,7 +22462,8 @@
         "sound": "beam2"
       },
       "weaponArt": "beam_hack",
-      "iconImage": "beam"
+      "iconImage": "beam",
+      "_id": "BEAM_HACK"
     }
   },
   {
@@ -22069,7 +22499,8 @@
         "sound": "focus_strong"
       },
       "weaponArt": "beam_hack_chaos",
-      "iconImage": "beam"
+      "iconImage": "beam",
+      "_id": "BEAM_HACK_CHAOS"
     }
   },
   {
@@ -22117,7 +22548,8 @@
         "sound": "miss"
       },
       "weaponArt": "modular_charger_base",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "MODULAR_CHARGE_BASE"
     }
   },
   {
@@ -22181,7 +22613,8 @@
         "sound": "miss"
       },
       "weaponArt": "modular_charger_base_bio",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "MODULAR_CHARGE_BASE_BIO"
     }
   },
   {
@@ -22228,7 +22661,8 @@
         "sound": "miss"
       },
       "weaponArt": "modular_charger_base_cooldown",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "MODULAR_CHARGE_BASE_COOLDOWN"
     }
   },
   {
@@ -22276,7 +22710,8 @@
         "sound": "miss"
       },
       "weaponArt": "modular_charger_base_lockdown",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "MODULAR_CHARGE_BASE_LOCKDOWN"
     }
   },
   {
@@ -22323,7 +22758,8 @@
         "sound": "miss"
       },
       "weaponArt": "modular_charger_base_stun",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "MODULAR_CHARGE_BASE_STUN"
     }
   },
   {
@@ -22371,7 +22807,8 @@
         "sound": "miss"
       },
       "weaponArt": "modular_charger_accuracy",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "MODULAR_CHARGE_ACCURACY"
     }
   },
   {
@@ -22436,7 +22873,8 @@
         "sound": "miss"
       },
       "weaponArt": "modular_charger_accuracy_bio",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "MODULAR_CHARGE_ACCURACY_BIO"
     }
   },
   {
@@ -22484,7 +22922,8 @@
         "sound": "miss"
       },
       "weaponArt": "modular_charger_accuracy_cooldown",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "MODULAR_CHARGE_ACCURACY_COOLDOWN"
     }
   },
   {
@@ -22533,7 +22972,8 @@
         "sound": "miss"
       },
       "weaponArt": "modular_charger_accuracy_lockdown",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "MODULAR_CHARGE_ACCURACY_LOCKDOWN"
     }
   },
   {
@@ -22581,7 +23021,8 @@
         "sound": "miss"
       },
       "weaponArt": "modular_charger_accuracy_stun",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "MODULAR_CHARGE_ACCURACY_STUN"
     }
   },
   {
@@ -22628,7 +23069,8 @@
         "sound": "miss"
       },
       "weaponArt": "modular_charger_fire",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "MODULAR_CHARGE_FIRE"
     }
   },
   {
@@ -22692,7 +23134,8 @@
         "sound": "miss"
       },
       "weaponArt": "modular_charger_fire_bio",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "MODULAR_CHARGE_FIRE_BIO"
     }
   },
   {
@@ -22739,7 +23182,8 @@
         "sound": "miss"
       },
       "weaponArt": "modular_charger_fire_cooldown",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "MODULAR_CHARGE_FIRE_COOLDOWN"
     }
   },
   {
@@ -22787,7 +23231,8 @@
         "sound": "miss"
       },
       "weaponArt": "modular_charger_fire_lockdown",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "MODULAR_CHARGE_FIRE_LOCKDOWN"
     }
   },
   {
@@ -22834,7 +23279,8 @@
         "sound": "miss"
       },
       "weaponArt": "modular_charger_fire_stun",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "MODULAR_CHARGE_FIRE_STUN"
     }
   },
   {
@@ -22882,7 +23328,8 @@
         "sound": "miss"
       },
       "weaponArt": "modular_charger_hull",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "MODULAR_CHARGE_HULL"
     }
   },
   {
@@ -22946,7 +23393,8 @@
         "sound": "miss"
       },
       "weaponArt": "modular_charger_hull_bio",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "MODULAR_CHARGE_HULL_BIO"
     }
   },
   {
@@ -22994,7 +23442,8 @@
         "sound": "miss"
       },
       "weaponArt": "modular_charger_hull_cooldown",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "MODULAR_CHARGE_HULL_COOLDOWN"
     }
   },
   {
@@ -23043,7 +23492,8 @@
         "sound": "miss"
       },
       "weaponArt": "modular_charger_hull_lockdown",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "MODULAR_CHARGE_HULL_LOCKDOWN"
     }
   },
   {
@@ -23091,7 +23541,8 @@
         "sound": "miss"
       },
       "weaponArt": "modular_charger_hull_stun",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "MODULAR_CHARGE_HULL_STUN"
     }
   },
   {
@@ -23138,7 +23589,8 @@
         "sound": "miss"
       },
       "weaponArt": "modular_charger_power",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "MODULAR_CHARGE_POWER"
     }
   },
   {
@@ -23202,7 +23654,8 @@
         "sound": "miss"
       },
       "weaponArt": "modular_charger_power_bio",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "MODULAR_CHARGE_POWER_BIO"
     }
   },
   {
@@ -23249,7 +23702,8 @@
         "sound": "miss"
       },
       "weaponArt": "modular_charger_power_cooldown",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "MODULAR_CHARGE_POWER_COOLDOWN"
     }
   },
   {
@@ -23297,7 +23751,8 @@
         "sound": "miss"
       },
       "weaponArt": "modular_charger_power_lockdown",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "MODULAR_CHARGE_POWER_LOCKDOWN"
     }
   },
   {
@@ -23344,7 +23799,8 @@
         "sound": "miss"
       },
       "weaponArt": "modular_charger_power_stun",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "MODULAR_CHARGE_POWER_STUN"
     }
   },
   {
@@ -23392,7 +23848,8 @@
         "sound": "miss"
       },
       "weaponArt": "modular_charger_chaos_base",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "MODULAR_CHARGE_CHAOS_BASE"
     }
   },
   {
@@ -23453,7 +23910,8 @@
         "sound": "miss"
       },
       "weaponArt": "modular_charger_chaos_base_bio",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "MODULAR_CHARGE_CHAOS_BASE_BIO"
     }
   },
   {
@@ -23505,7 +23963,8 @@
         "sound": "miss"
       },
       "weaponArt": "modular_charger_chaos_base_cooldown",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "MODULAR_CHARGE_CHAOS_BASE_COOLDOWN"
     }
   },
   {
@@ -23604,7 +24063,8 @@
         "sound": "miss"
       },
       "weaponArt": "modular_charger_chaos_base_lockdown",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "MODULAR_CHARGE_CHAOS_BASE_LOCKDOWN"
     }
   },
   {
@@ -23653,7 +24113,8 @@
         "sound": "miss"
       },
       "weaponArt": "modular_charger_chaos_base_stun",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "MODULAR_CHARGE_CHAOS_BASE_STUN"
     }
   },
   {
@@ -23701,7 +24162,8 @@
         "sound": "miss"
       },
       "weaponArt": "modular_charger_chaos_accuracy",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "MODULAR_CHARGE_CHAOS_ACCURACY"
     }
   },
   {
@@ -23763,7 +24225,8 @@
         "sound": "miss"
       },
       "weaponArt": "modular_charger_chaos_accuracy_bio",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "MODULAR_CHARGE_CHAOS_ACCURACY_BIO"
     }
   },
   {
@@ -23816,7 +24279,8 @@
         "sound": "miss"
       },
       "weaponArt": "modular_charger_chaos_accuracy_cooldown",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "MODULAR_CHARGE_CHAOS_ACCURACY_COOLDOWN"
     }
   },
   {
@@ -23916,7 +24380,8 @@
         "sound": "miss"
       },
       "weaponArt": "modular_charger_chaos_accuracy_lockdown",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "MODULAR_CHARGE_CHAOS_ACCURACY_LOCKDOWN"
     }
   },
   {
@@ -23966,7 +24431,8 @@
         "sound": "miss"
       },
       "weaponArt": "modular_charger_chaos_accuracy_stun",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "MODULAR_CHARGE_CHAOS_ACCURACY_STUN"
     }
   },
   {
@@ -24032,7 +24498,8 @@
         "sound": "miss"
       },
       "weaponArt": "modular_charger_chaos_fire",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "MODULAR_CHARGE_CHAOS_FIRE"
     }
   },
   {
@@ -24112,7 +24579,8 @@
         "sound": "miss"
       },
       "weaponArt": "modular_charger_chaos_fire_bio",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "MODULAR_CHARGE_CHAOS_FIRE_BIO"
     }
   },
   {
@@ -24183,7 +24651,8 @@
         "sound": "miss"
       },
       "weaponArt": "modular_charger_chaos_fire_cooldown",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "MODULAR_CHARGE_CHAOS_FIRE_COOLDOWN"
     }
   },
   {
@@ -24301,7 +24770,8 @@
         "sound": "miss"
       },
       "weaponArt": "modular_charger_chaos_fire_lockdown",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "MODULAR_CHARGE_CHAOS_FIRE_LOCKDOWN"
     }
   },
   {
@@ -24369,7 +24839,8 @@
         "sound": "miss"
       },
       "weaponArt": "modular_charger_chaos_fire_stun",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "MODULAR_CHARGE_CHAOS_FIRE_STUN"
     }
   },
   {
@@ -24416,7 +24887,8 @@
         "sound": "miss"
       },
       "weaponArt": "modular_charger_chaos_hull",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "MODULAR_CHARGE_CHAOS_HULL"
     }
   },
   {
@@ -24477,7 +24949,8 @@
         "sound": "miss"
       },
       "weaponArt": "modular_charger_chaos_hull_bio",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "MODULAR_CHARGE_CHAOS_HULL_BIO"
     }
   },
   {
@@ -24529,7 +25002,8 @@
         "sound": "miss"
       },
       "weaponArt": "modular_charger_chaos_hull_cooldown",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "MODULAR_CHARGE_CHAOS_HULL_COOLDOWN"
     }
   },
   {
@@ -24628,7 +25102,8 @@
         "sound": "miss"
       },
       "weaponArt": "modular_charger_chaos_hull_lockdown",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "MODULAR_CHARGE_CHAOS_HULL_LOCKDOWN"
     }
   },
   {
@@ -24677,7 +25152,8 @@
         "sound": "miss"
       },
       "weaponArt": "modular_charger_chaos_hull_stun",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "MODULAR_CHARGE_CHAOS_HULL_STUN"
     }
   },
   {
@@ -24724,7 +25200,8 @@
         "sound": "miss"
       },
       "weaponArt": "modular_charger_chaos_power",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "MODULAR_CHARGE_CHAOS_POWER"
     }
   },
   {
@@ -24785,7 +25262,8 @@
         "sound": "miss"
       },
       "weaponArt": "modular_charger_chaos_power_bio",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "MODULAR_CHARGE_CHAOS_POWER_BIO"
     }
   },
   {
@@ -24837,7 +25315,8 @@
         "sound": "miss"
       },
       "weaponArt": "modular_charger_chaos_power_cooldown",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "MODULAR_CHARGE_CHAOS_POWER_COOLDOWN"
     }
   },
   {
@@ -24936,7 +25415,8 @@
         "sound": "miss"
       },
       "weaponArt": "modular_charger_chaos_power_lockdown",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "MODULAR_CHARGE_CHAOS_POWER_LOCKDOWN"
     }
   },
   {
@@ -24985,7 +25465,8 @@
         "sound": "miss"
       },
       "weaponArt": "modular_charger_chaos_power_stun",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "MODULAR_CHARGE_CHAOS_POWER_STUN"
     }
   },
   {
@@ -25039,7 +25520,8 @@
         "sound": "miss"
       },
       "weaponArt": "laser_burst_2_rusty",
-      "iconImage": "laser"
+      "iconImage": "laser",
+      "_id": "RUSTY_LASER_BURST_2"
     }
   },
   {
@@ -25094,7 +25576,8 @@
         "sound": "miss"
       },
       "weaponArt": "laser_burst_3_rusty",
-      "iconImage": "laser"
+      "iconImage": "laser",
+      "_id": "RUSTY_LASER_BURST_3"
     }
   },
   {
@@ -25148,7 +25631,8 @@
         "sound": "miss"
       },
       "weaponArt": "laser_burst_5_rusty",
-      "iconImage": "laser"
+      "iconImage": "laser",
+      "_id": "RUSTY_LASER_BURST_5"
     }
   },
   {
@@ -25200,7 +25684,8 @@
         "sound": "miss"
       },
       "weaponArt": "laser_heavy_1_rusty",
-      "iconImage": "heavyL"
+      "iconImage": "heavyL",
+      "_id": "RUSTY_LASER_HEAVY_1"
     }
   },
   {
@@ -25255,7 +25740,8 @@
         "sound": "miss"
       },
       "weaponArt": "missiles_1_rusty",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "RUSTY_MISSILES_1"
     }
   },
   {
@@ -25309,7 +25795,8 @@
         "sound": "miss"
       },
       "weaponArt": "missiles_2_rusty",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "RUSTY_MISSILES_2"
     }
   },
   {
@@ -25363,7 +25850,8 @@
         "sound": "miss"
       },
       "weaponArt": "missiles_3_rusty",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "RUSTY_MISSILES_3"
     }
   },
   {
@@ -25417,7 +25905,8 @@
         "sound": "miss"
       },
       "weaponArt": "missiles_burst_rusty",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "RUSTY_MISSILES_BURST"
     }
   },
   {
@@ -25484,7 +25973,8 @@
         "sound": "miss"
       },
       "weaponArt": "sentry_damage",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "SENTRY_NORMAL"
     }
   },
   {
@@ -25563,7 +26053,8 @@
         "sound": "miss"
       },
       "weaponArt": "sentry_mind",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "SENTRY_MIND"
     }
   },
   {
@@ -25640,7 +26131,8 @@
         "sound": "miss"
       },
       "weaponArt": "sentry_heal",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "SENTRY_HEAL"
     }
   },
   {
@@ -25736,7 +26228,8 @@
         "sound": "miss"
       },
       "weaponArt": "sentry_frost",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "SENTRY_FROST"
     }
   },
   {
@@ -25815,7 +26308,8 @@
         "sound": "miss"
       },
       "weaponArt": "sentry_vamp",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "SENTRY_VAMP"
     }
   },
   {
@@ -25878,7 +26372,8 @@
         "sound": "miss"
       },
       "weaponArt": "sentry_damage",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "SENTRY_NORMAL_SURGE"
     }
   },
   {
@@ -25970,7 +26465,8 @@
         "sound": "miss"
       },
       "weaponArt": "sentry_frost",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "SENTRY_FROST_SURGE"
     }
   },
   {
@@ -25993,7 +26489,8 @@
       "cost": "15",
       "image": "beam_contact",
       "weaponArt": "invisible",
-      "iconReplace": "module_bio"
+      "iconReplace": "module_bio",
+      "_id": "MODULE_BIO"
     }
   },
   {
@@ -26016,7 +26513,8 @@
       "cost": "40",
       "image": "beam_contact",
       "weaponArt": "invisible",
-      "iconReplace": "module_cooldown"
+      "iconReplace": "module_cooldown",
+      "_id": "MODULE_COOLDOWN"
     }
   },
   {
@@ -26039,7 +26537,8 @@
       "cost": "30",
       "image": "beam_contact",
       "weaponArt": "invisible",
-      "iconReplace": "module_lockdown"
+      "iconReplace": "module_lockdown",
+      "_id": "MODULE_LOCKDOWN"
     }
   },
   {
@@ -26062,7 +26561,8 @@
       "cost": "20",
       "image": "beam_contact",
       "weaponArt": "invisible",
-      "iconReplace": "module_pierce"
+      "iconReplace": "module_pierce",
+      "_id": "MODULE_PIERCE"
     }
   },
   {
@@ -26085,7 +26585,8 @@
       "cost": "20",
       "image": "beam_contact",
       "weaponArt": "invisible",
-      "iconReplace": "module_stun"
+      "iconReplace": "module_stun",
+      "_id": "MODULE_STUN"
     }
   },
   {
@@ -26108,7 +26609,8 @@
       "cost": "25",
       "image": "beam_contact",
       "weaponArt": "invisible",
-      "iconReplace": "module_accuracy"
+      "iconReplace": "module_accuracy",
+      "_id": "MODULE_ACCURACY"
     }
   },
   {
@@ -26131,7 +26633,8 @@
       "cost": "30",
       "image": "beam_contact",
       "weaponArt": "invisible",
-      "iconReplace": "module_fire"
+      "iconReplace": "module_fire",
+      "_id": "MODULE_FIRE"
     }
   },
   {
@@ -26154,7 +26657,8 @@
       "cost": "35",
       "image": "beam_contact",
       "weaponArt": "invisible",
-      "iconReplace": "module_hullbust"
+      "iconReplace": "module_hullbust",
+      "_id": "MODULE_HULL"
     }
   },
   {
@@ -26176,7 +26680,8 @@
       "power": "0",
       "cost": "35",
       "image": "beam_contact",
-      "weaponArt": "module_hullbust_mounted"
+      "weaponArt": "module_hullbust_mounted",
+      "_id": "MODULE_HULL_VISIBLE"
     }
   },
   {
@@ -26199,7 +26704,8 @@
       "cost": "30",
       "image": "beam_contact",
       "weaponArt": "invisible",
-      "iconReplace": "module_power"
+      "iconReplace": "module_power",
+      "_id": "MODULE_POWER"
     }
   },
   {
@@ -26246,7 +26752,8 @@
         "sound": "miss"
       },
       "weaponArt": "modular_laser_base",
-      "iconImage": "laser"
+      "iconImage": "laser",
+      "_id": "MODULAR_LASER_BASE"
     }
   },
   {
@@ -26310,7 +26817,8 @@
         "sound": "miss"
       },
       "weaponArt": "modular_laser_base_bio",
-      "iconImage": "laser"
+      "iconImage": "laser",
+      "_id": "MODULAR_LASER_BASE_BIO"
     }
   },
   {
@@ -26357,7 +26865,8 @@
         "sound": "miss"
       },
       "weaponArt": "modular_laser_base_cooldown",
-      "iconImage": "laser"
+      "iconImage": "laser",
+      "_id": "MODULAR_LASER_BASE_COOLDOWN"
     }
   },
   {
@@ -26405,7 +26914,8 @@
         "sound": "miss"
       },
       "weaponArt": "modular_laser_base_lockdown",
-      "iconImage": "laser"
+      "iconImage": "laser",
+      "_id": "MODULAR_LASER_BASE_LOCKDOWN"
     }
   },
   {
@@ -26452,7 +26962,8 @@
         "sound": "miss"
       },
       "weaponArt": "modular_laser_base_pierce",
-      "iconImage": "laser"
+      "iconImage": "laser",
+      "_id": "MODULAR_LASER_BASE_PIERCE"
     }
   },
   {
@@ -26500,7 +27011,8 @@
         "sound": "miss"
       },
       "weaponArt": "modular_laser_base_stun",
-      "iconImage": "laser"
+      "iconImage": "laser",
+      "_id": "MODULAR_LASER_BASE_STUN"
     }
   },
   {
@@ -26548,7 +27060,8 @@
         "sound": "miss"
       },
       "weaponArt": "modular_laser_accuracy",
-      "iconImage": "laser"
+      "iconImage": "laser",
+      "_id": "MODULAR_LASER_ACCURACY"
     }
   },
   {
@@ -26613,7 +27126,8 @@
         "sound": "miss"
       },
       "weaponArt": "modular_laser_accuracy_bio",
-      "iconImage": "laser"
+      "iconImage": "laser",
+      "_id": "MODULAR_LASER_ACCURACY_BIO"
     }
   },
   {
@@ -26661,7 +27175,8 @@
         "sound": "miss"
       },
       "weaponArt": "modular_laser_accuracy_cooldown",
-      "iconImage": "laser"
+      "iconImage": "laser",
+      "_id": "MODULAR_LASER_ACCURACY_COOLDOWN"
     }
   },
   {
@@ -26710,7 +27225,8 @@
         "sound": "miss"
       },
       "weaponArt": "modular_laser_accuracy_lockdown",
-      "iconImage": "laser"
+      "iconImage": "laser",
+      "_id": "MODULAR_LASER_ACCURACY_LOCKDOWN"
     }
   },
   {
@@ -26758,7 +27274,8 @@
         "sound": "miss"
       },
       "weaponArt": "modular_laser_accuracy_pierce",
-      "iconImage": "laser"
+      "iconImage": "laser",
+      "_id": "MODULAR_LASER_ACCURACY_PIERCE"
     }
   },
   {
@@ -26807,7 +27324,8 @@
         "sound": "miss"
       },
       "weaponArt": "modular_laser_accuracy_stun",
-      "iconImage": "laser"
+      "iconImage": "laser",
+      "_id": "MODULAR_LASER_ACCURACY_STUN"
     }
   },
   {
@@ -26854,7 +27372,8 @@
         "sound": "miss"
       },
       "weaponArt": "modular_laser_fire",
-      "iconImage": "laser"
+      "iconImage": "laser",
+      "_id": "MODULAR_LASER_FIRE"
     }
   },
   {
@@ -26918,7 +27437,8 @@
         "sound": "miss"
       },
       "weaponArt": "modular_laser_fire_bio",
-      "iconImage": "laser"
+      "iconImage": "laser",
+      "_id": "MODULAR_LASER_FIRE_BIO"
     }
   },
   {
@@ -26965,7 +27485,8 @@
         "sound": "miss"
       },
       "weaponArt": "modular_laser_fire_cooldown",
-      "iconImage": "laser"
+      "iconImage": "laser",
+      "_id": "MODULAR_LASER_FIRE_COOLDOWN"
     }
   },
   {
@@ -27013,7 +27534,8 @@
         "sound": "miss"
       },
       "weaponArt": "modular_laser_fire_lockdown",
-      "iconImage": "laser"
+      "iconImage": "laser",
+      "_id": "MODULAR_LASER_FIRE_LOCKDOWN"
     }
   },
   {
@@ -27060,7 +27582,8 @@
         "sound": "miss"
       },
       "weaponArt": "modular_laser_fire_pierce",
-      "iconImage": "laser"
+      "iconImage": "laser",
+      "_id": "MODULAR_LASER_FIRE_PIERCE"
     }
   },
   {
@@ -27108,7 +27631,8 @@
         "sound": "miss"
       },
       "weaponArt": "modular_laser_fire_stun",
-      "iconImage": "laser"
+      "iconImage": "laser",
+      "_id": "MODULAR_LASER_FIRE_STUN"
     }
   },
   {
@@ -27156,7 +27680,8 @@
         "sound": "miss"
       },
       "weaponArt": "modular_laser_hull",
-      "iconImage": "laser"
+      "iconImage": "laser",
+      "_id": "MODULAR_LASER_HULL"
     }
   },
   {
@@ -27220,7 +27745,8 @@
         "sound": "miss"
       },
       "weaponArt": "modular_laser_hull_bio",
-      "iconImage": "laser"
+      "iconImage": "laser",
+      "_id": "MODULAR_LASER_HULL_BIO"
     }
   },
   {
@@ -27268,7 +27794,8 @@
         "sound": "miss"
       },
       "weaponArt": "modular_laser_hull_cooldown",
-      "iconImage": "laser"
+      "iconImage": "laser",
+      "_id": "MODULAR_LASER_HULL_COOLDOWN"
     }
   },
   {
@@ -27317,7 +27844,8 @@
         "sound": "miss"
       },
       "weaponArt": "modular_laser_hull_lockdown",
-      "iconImage": "laser"
+      "iconImage": "laser",
+      "_id": "MODULAR_LASER_HULL_LOCKDOWN"
     }
   },
   {
@@ -27365,7 +27893,8 @@
         "sound": "miss"
       },
       "weaponArt": "modular_laser_hull_pierce",
-      "iconImage": "laser"
+      "iconImage": "laser",
+      "_id": "MODULAR_LASER_HULL_PIERCE"
     }
   },
   {
@@ -27414,7 +27943,8 @@
         "sound": "miss"
       },
       "weaponArt": "modular_laser_hull_stun",
-      "iconImage": "laser"
+      "iconImage": "laser",
+      "_id": "MODULAR_LASER_HULL_STUN"
     }
   },
   {
@@ -27461,7 +27991,8 @@
         "sound": "miss"
       },
       "weaponArt": "modular_laser_power",
-      "iconImage": "laser"
+      "iconImage": "laser",
+      "_id": "MODULAR_LASER_POWER"
     }
   },
   {
@@ -27525,7 +28056,8 @@
         "sound": "miss"
       },
       "weaponArt": "modular_laser_power_bio",
-      "iconImage": "laser"
+      "iconImage": "laser",
+      "_id": "MODULAR_LASER_POWER_BIO"
     }
   },
   {
@@ -27572,7 +28104,8 @@
         "sound": "miss"
       },
       "weaponArt": "modular_laser_power_cooldown",
-      "iconImage": "laser"
+      "iconImage": "laser",
+      "_id": "MODULAR_LASER_POWER_COOLDOWN"
     }
   },
   {
@@ -27620,7 +28153,8 @@
         "sound": "miss"
       },
       "weaponArt": "modular_laser_power_lockdown",
-      "iconImage": "laser"
+      "iconImage": "laser",
+      "_id": "MODULAR_LASER_POWER_LOCKDOWN"
     }
   },
   {
@@ -27667,7 +28201,8 @@
         "sound": "miss"
       },
       "weaponArt": "modular_laser_power_pierce",
-      "iconImage": "laser"
+      "iconImage": "laser",
+      "_id": "MODULAR_LASER_POWER_PIERCE"
     }
   },
   {
@@ -27715,7 +28250,8 @@
         "sound": "miss"
       },
       "weaponArt": "modular_laser_power_stun",
-      "iconImage": "laser"
+      "iconImage": "laser",
+      "_id": "MODULAR_LASER_POWER_STUN"
     }
   },
   {
@@ -27742,7 +28278,8 @@
         "sound": "beam2"
       },
       "weaponArt": "modular_beam_base",
-      "iconImage": "beam"
+      "iconImage": "beam",
+      "_id": "MODULAR_BEAM_BASE"
     }
   },
   {
@@ -27787,7 +28324,8 @@
         "sound": "beam2"
       },
       "weaponArt": "modular_beam_base_bio",
-      "iconImage": "beam"
+      "iconImage": "beam",
+      "_id": "MODULAR_BEAM_BASE_BIO"
     }
   },
   {
@@ -27814,7 +28352,8 @@
         "sound": "beam2"
       },
       "weaponArt": "modular_beam_base_cooldown",
-      "iconImage": "beam"
+      "iconImage": "beam",
+      "_id": "MODULAR_BEAM_BASE_COOLDOWN"
     }
   },
   {
@@ -27841,7 +28380,8 @@
         "sound": "beam2"
       },
       "weaponArt": "modular_beam_base_pierce",
-      "iconImage": "beam"
+      "iconImage": "beam",
+      "_id": "MODULAR_BEAM_BASE_PIERCE"
     }
   },
   {
@@ -27869,7 +28409,8 @@
         "sound": "beam2"
       },
       "weaponArt": "modular_beam_base_stun",
-      "iconImage": "beam"
+      "iconImage": "beam",
+      "_id": "MODULAR_BEAM_BASE_STUN"
     }
   },
   {
@@ -27896,7 +28437,8 @@
         "sound": "beam2"
       },
       "weaponArt": "modular_beam_fire",
-      "iconImage": "beam"
+      "iconImage": "beam",
+      "_id": "MODULAR_BEAM_FIRE"
     }
   },
   {
@@ -27941,7 +28483,8 @@
         "sound": "beam2"
       },
       "weaponArt": "modular_beam_fire_bio",
-      "iconImage": "beam"
+      "iconImage": "beam",
+      "_id": "MODULAR_BEAM_FIRE_BIO"
     }
   },
   {
@@ -27968,7 +28511,8 @@
         "sound": "beam2"
       },
       "weaponArt": "modular_beam_fire_cooldown",
-      "iconImage": "beam"
+      "iconImage": "beam",
+      "_id": "MODULAR_BEAM_FIRE_COOLDOWN"
     }
   },
   {
@@ -27995,7 +28539,8 @@
         "sound": "beam2"
       },
       "weaponArt": "modular_beam_fire_pierce",
-      "iconImage": "beam"
+      "iconImage": "beam",
+      "_id": "MODULAR_BEAM_FIRE_PIERCE"
     }
   },
   {
@@ -28023,7 +28568,8 @@
         "sound": "beam2"
       },
       "weaponArt": "modular_beam_fire_stun",
-      "iconImage": "beam"
+      "iconImage": "beam",
+      "_id": "MODULAR_BEAM_FIRE_STUN"
     }
   },
   {
@@ -28051,7 +28597,8 @@
         "sound": "beam2"
       },
       "weaponArt": "modular_beam_hull",
-      "iconImage": "beam"
+      "iconImage": "beam",
+      "_id": "MODULAR_BEAM_HULL"
     }
   },
   {
@@ -28095,7 +28642,8 @@
         "sound": "beam2"
       },
       "weaponArt": "modular_beam_hull_bio",
-      "iconImage": "beam"
+      "iconImage": "beam",
+      "_id": "MODULAR_BEAM_HULL_BIO"
     }
   },
   {
@@ -28123,7 +28671,8 @@
         "sound": "beam2"
       },
       "weaponArt": "modular_beam_hull_cooldown",
-      "iconImage": "beam"
+      "iconImage": "beam",
+      "_id": "MODULAR_BEAM_HULL_COOLDOWN"
     }
   },
   {
@@ -28151,7 +28700,8 @@
         "sound": "beam2"
       },
       "weaponArt": "modular_beam_hull_pierce",
-      "iconImage": "beam"
+      "iconImage": "beam",
+      "_id": "MODULAR_BEAM_HULL_PIERCE"
     }
   },
   {
@@ -28180,7 +28730,8 @@
         "sound": "beam2"
       },
       "weaponArt": "modular_beam_hull_stun",
-      "iconImage": "beam"
+      "iconImage": "beam",
+      "_id": "MODULAR_BEAM_HULL_STUN"
     }
   },
   {
@@ -28208,7 +28759,8 @@
         "sound": "beam2"
       },
       "weaponArt": "modular_beam_power",
-      "iconImage": "beam"
+      "iconImage": "beam",
+      "_id": "MODULAR_BEAM_POWER"
     }
   },
   {
@@ -28254,7 +28806,8 @@
         "sound": "beam2"
       },
       "weaponArt": "modular_beam_power_bio",
-      "iconImage": "beam"
+      "iconImage": "beam",
+      "_id": "MODULAR_BEAM_POWER_BIO"
     }
   },
   {
@@ -28282,7 +28835,8 @@
         "sound": "beam2"
       },
       "weaponArt": "modular_beam_power_cooldown",
-      "iconImage": "beam"
+      "iconImage": "beam",
+      "_id": "MODULAR_BEAM_POWER_COOLDOWN"
     }
   },
   {
@@ -28310,7 +28864,8 @@
         "sound": "beam2"
       },
       "weaponArt": "modular_beam_power_pierce",
-      "iconImage": "beam"
+      "iconImage": "beam",
+      "_id": "MODULAR_BEAM_POWER_PIERCE"
     }
   },
   {
@@ -28339,7 +28894,8 @@
         "sound": "beam2"
       },
       "weaponArt": "modular_beam_power_stun",
-      "iconImage": "beam"
+      "iconImage": "beam",
+      "_id": "MODULAR_BEAM_POWER_STUN"
     }
   },
   {
@@ -28385,7 +28941,8 @@
         "sound": "miss"
       },
       "weaponArt": "modular_missiles_base",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "MODULAR_MISSILE_BASE"
     }
   },
   {
@@ -28448,7 +29005,8 @@
         "sound": "miss"
       },
       "weaponArt": "modular_missiles_base_bio",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "MODULAR_MISSILE_BASE_BIO"
     }
   },
   {
@@ -28494,7 +29052,8 @@
         "sound": "miss"
       },
       "weaponArt": "modular_missiles_base_cooldown",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "MODULAR_MISSILE_BASE_COOLDOWN"
     }
   },
   {
@@ -28541,7 +29100,8 @@
         "sound": "miss"
       },
       "weaponArt": "modular_missiles_base_lockdown",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "MODULAR_MISSILE_BASE_LOCKDOWN"
     }
   },
   {
@@ -28587,7 +29147,8 @@
         "sound": "miss"
       },
       "weaponArt": "modular_missiles_base_stun",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "MODULAR_MISSILE_BASE_STUN"
     }
   },
   {
@@ -28634,7 +29195,8 @@
         "sound": "miss"
       },
       "weaponArt": "modular_missiles_accuracy",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "MODULAR_MISSILE_ACCURACY"
     }
   },
   {
@@ -28698,7 +29260,8 @@
         "sound": "miss"
       },
       "weaponArt": "modular_missiles_accuracy_bio",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "MODULAR_MISSILE_ACCURACY_BIO"
     }
   },
   {
@@ -28745,7 +29308,8 @@
         "sound": "miss"
       },
       "weaponArt": "modular_missiles_accuracy_cooldown",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "MODULAR_MISSILE_ACCURACY_COOLDOWN"
     }
   },
   {
@@ -28793,7 +29357,8 @@
         "sound": "miss"
       },
       "weaponArt": "modular_missiles_accuracy_lockdown",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "MODULAR_MISSILE_ACCURACY_LOCKDOWN"
     }
   },
   {
@@ -28840,7 +29405,8 @@
         "sound": "miss"
       },
       "weaponArt": "modular_missiles_accuracy_stun",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "MODULAR_MISSILE_ACCURACY_STUN"
     }
   },
   {
@@ -28886,7 +29452,8 @@
         "sound": "miss"
       },
       "weaponArt": "modular_missiles_fire",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "MODULAR_MISSILE_FIRE"
     }
   },
   {
@@ -28949,7 +29516,8 @@
         "sound": "miss"
       },
       "weaponArt": "modular_missiles_fire_bio",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "MODULAR_MISSILE_FIRE_BIO"
     }
   },
   {
@@ -28995,7 +29563,8 @@
         "sound": "miss"
       },
       "weaponArt": "modular_missiles_fire_cooldown",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "MODULAR_MISSILE_FIRE_COOLDOWN"
     }
   },
   {
@@ -29042,7 +29611,8 @@
         "sound": "miss"
       },
       "weaponArt": "modular_missiles_fire_lockdown",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "MODULAR_MISSILE_FIRE_LOCKDOWN"
     }
   },
   {
@@ -29089,7 +29659,8 @@
         "sound": "miss"
       },
       "weaponArt": "modular_missiles_fire_stun",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "MODULAR_MISSILE_FIRE_STUN"
     }
   },
   {
@@ -29136,7 +29707,8 @@
         "sound": "miss"
       },
       "weaponArt": "modular_missiles_hull",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "MODULAR_MISSILE_HULL"
     }
   },
   {
@@ -29199,7 +29771,8 @@
         "sound": "miss"
       },
       "weaponArt": "modular_missiles_hull_bio",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "MODULAR_MISSILE_HULL_BIO"
     }
   },
   {
@@ -29246,7 +29819,8 @@
         "sound": "miss"
       },
       "weaponArt": "modular_missiles_hull_cooldown",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "MODULAR_MISSILE_HULL_COOLDOWN"
     }
   },
   {
@@ -29294,7 +29868,8 @@
         "sound": "miss"
       },
       "weaponArt": "modular_missiles_hull_lockdown",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "MODULAR_MISSILE_HULL_LOCKDOWN"
     }
   },
   {
@@ -29341,7 +29916,8 @@
         "sound": "miss"
       },
       "weaponArt": "modular_missiles_hull_stun",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "MODULAR_MISSILE_HULL_STUN"
     }
   },
   {
@@ -29387,7 +29963,8 @@
         "sound": "miss"
       },
       "weaponArt": "modular_missiles_power",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "MODULAR_MISSILE_POWER"
     }
   },
   {
@@ -29450,7 +30027,8 @@
         "sound": "miss"
       },
       "weaponArt": "modular_missiles_power_bio",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "MODULAR_MISSILE_POWER_BIO"
     }
   },
   {
@@ -29496,7 +30074,8 @@
         "sound": "miss"
       },
       "weaponArt": "modular_missiles_power_cooldown",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "MODULAR_MISSILE_POWER_COOLDOWN"
     }
   },
   {
@@ -29543,7 +30122,8 @@
         "sound": "miss"
       },
       "weaponArt": "modular_missiles_power_lockdown",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "MODULAR_MISSILE_POWER_LOCKDOWN"
     }
   },
   {
@@ -29589,7 +30169,8 @@
         "sound": "miss"
       },
       "weaponArt": "modular_missiles_power_stun",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "MODULAR_MISSILE_POWER_STUN"
     }
   },
   {
@@ -29642,7 +30223,8 @@
         "sound": "miss"
       },
       "weaponArt": "modular_ion_base",
-      "iconImage": "laser"
+      "iconImage": "laser",
+      "_id": "MODULAR_ION_BASE"
     }
   },
   {
@@ -29712,7 +30294,8 @@
         "sound": "miss"
       },
       "weaponArt": "modular_ion_base_bio",
-      "iconImage": "laser"
+      "iconImage": "laser",
+      "_id": "MODULAR_ION_BASE_BIO"
     }
   },
   {
@@ -29765,7 +30348,8 @@
         "sound": "miss"
       },
       "weaponArt": "modular_ion_base_cooldown",
-      "iconImage": "laser"
+      "iconImage": "laser",
+      "_id": "MODULAR_ION_BASE_COOLDOWN"
     }
   },
   {
@@ -29819,7 +30403,8 @@
         "sound": "miss"
       },
       "weaponArt": "modular_ion_base_lockdown",
-      "iconImage": "laser"
+      "iconImage": "laser",
+      "_id": "MODULAR_ION_BASE_LOCKDOWN"
     }
   },
   {
@@ -29872,7 +30457,8 @@
         "sound": "miss"
       },
       "weaponArt": "modular_ion_base_pierce",
-      "iconImage": "laser"
+      "iconImage": "laser",
+      "_id": "MODULAR_ION_BASE_PIERCE"
     }
   },
   {
@@ -29926,7 +30512,8 @@
         "sound": "miss"
       },
       "weaponArt": "modular_ion_base_stun",
-      "iconImage": "laser"
+      "iconImage": "laser",
+      "_id": "MODULAR_ION_BASE_STUN"
     }
   },
   {
@@ -29980,7 +30567,8 @@
         "sound": "miss"
       },
       "weaponArt": "modular_ion_accuracy",
-      "iconImage": "laser"
+      "iconImage": "laser",
+      "_id": "MODULAR_ION_ACCURACY"
     }
   },
   {
@@ -30051,7 +30639,8 @@
         "sound": "miss"
       },
       "weaponArt": "modular_ion_accuracy_bio",
-      "iconImage": "laser"
+      "iconImage": "laser",
+      "_id": "MODULAR_ION_ACCURACY_BIO"
     }
   },
   {
@@ -30105,7 +30694,8 @@
         "sound": "miss"
       },
       "weaponArt": "modular_ion_accuracy_cooldown",
-      "iconImage": "laser"
+      "iconImage": "laser",
+      "_id": "MODULAR_ION_ACCURACY_COOLDOWN"
     }
   },
   {
@@ -30160,7 +30750,8 @@
         "sound": "miss"
       },
       "weaponArt": "modular_ion_accuracy_lockdown",
-      "iconImage": "laser"
+      "iconImage": "laser",
+      "_id": "MODULAR_ION_ACCURACY_LOCKDOWN"
     }
   },
   {
@@ -30214,7 +30805,8 @@
         "sound": "miss"
       },
       "weaponArt": "modular_ion_accuracy_pierce",
-      "iconImage": "laser"
+      "iconImage": "laser",
+      "_id": "MODULAR_ION_ACCURACY_PIERCE"
     }
   },
   {
@@ -30269,7 +30861,8 @@
         "sound": "miss"
       },
       "weaponArt": "modular_ion_accuracy_stun",
-      "iconImage": "laser"
+      "iconImage": "laser",
+      "_id": "MODULAR_ION_ACCURACY_STUN"
     }
   },
   {
@@ -30322,7 +30915,8 @@
         "sound": "miss"
       },
       "weaponArt": "modular_ion_fire",
-      "iconImage": "laser"
+      "iconImage": "laser",
+      "_id": "MODULAR_ION_FIRE"
     }
   },
   {
@@ -30392,7 +30986,8 @@
         "sound": "miss"
       },
       "weaponArt": "modular_ion_fire_bio",
-      "iconImage": "laser"
+      "iconImage": "laser",
+      "_id": "MODULAR_ION_FIRE_BIO"
     }
   },
   {
@@ -30445,7 +31040,8 @@
         "sound": "miss"
       },
       "weaponArt": "modular_ion_fire_cooldown",
-      "iconImage": "laser"
+      "iconImage": "laser",
+      "_id": "MODULAR_ION_FIRE_COOLDOWN"
     }
   },
   {
@@ -30499,7 +31095,8 @@
         "sound": "miss"
       },
       "weaponArt": "modular_ion_fire_lockdown",
-      "iconImage": "laser"
+      "iconImage": "laser",
+      "_id": "MODULAR_ION_FIRE_LOCKDOWN"
     }
   },
   {
@@ -30552,7 +31149,8 @@
         "sound": "miss"
       },
       "weaponArt": "modular_ion_fire_pierce",
-      "iconImage": "laser"
+      "iconImage": "laser",
+      "_id": "MODULAR_ION_FIRE_PIERCE"
     }
   },
   {
@@ -30606,7 +31204,8 @@
         "sound": "miss"
       },
       "weaponArt": "modular_ion_fire_stun",
-      "iconImage": "laser"
+      "iconImage": "laser",
+      "_id": "MODULAR_ION_FIRE_STUN"
     }
   },
   {
@@ -30657,7 +31256,8 @@
         "sound": "miss"
       },
       "weaponArt": "modular_ion_hull",
-      "iconImage": "laser"
+      "iconImage": "laser",
+      "_id": "MODULAR_ION_HULL"
     }
   },
   {
@@ -30724,7 +31324,8 @@
         "sound": "miss"
       },
       "weaponArt": "modular_ion_hull_bio",
-      "iconImage": "laser"
+      "iconImage": "laser",
+      "_id": "MODULAR_ION_HULL_BIO"
     }
   },
   {
@@ -30775,7 +31376,8 @@
         "sound": "miss"
       },
       "weaponArt": "modular_ion_hull_cooldown",
-      "iconImage": "laser"
+      "iconImage": "laser",
+      "_id": "MODULAR_ION_HULL_COOLDOWN"
     }
   },
   {
@@ -30827,7 +31429,8 @@
         "sound": "miss"
       },
       "weaponArt": "modular_ion_hull_lockdown",
-      "iconImage": "laser"
+      "iconImage": "laser",
+      "_id": "MODULAR_ION_HULL_LOCKDOWN"
     }
   },
   {
@@ -30878,7 +31481,8 @@
         "sound": "miss"
       },
       "weaponArt": "modular_ion_hull_pierce",
-      "iconImage": "laser"
+      "iconImage": "laser",
+      "_id": "MODULAR_ION_HULL_PIERCE"
     }
   },
   {
@@ -30930,7 +31534,8 @@
         "sound": "miss"
       },
       "weaponArt": "modular_ion_hull_stun",
-      "iconImage": "laser"
+      "iconImage": "laser",
+      "_id": "MODULAR_ION_HULL_STUN"
     }
   },
   {
@@ -30983,7 +31588,8 @@
         "sound": "miss"
       },
       "weaponArt": "modular_ion_power",
-      "iconImage": "laser"
+      "iconImage": "laser",
+      "_id": "MODULAR_ION_POWER"
     }
   },
   {
@@ -31053,7 +31659,8 @@
         "sound": "miss"
       },
       "weaponArt": "modular_ion_power_bio",
-      "iconImage": "laser"
+      "iconImage": "laser",
+      "_id": "MODULAR_ION_POWER_BIO"
     }
   },
   {
@@ -31106,7 +31713,8 @@
         "sound": "miss"
       },
       "weaponArt": "modular_ion_power_cooldown",
-      "iconImage": "laser"
+      "iconImage": "laser",
+      "_id": "MODULAR_ION_POWER_COOLDOWN"
     }
   },
   {
@@ -31160,7 +31768,8 @@
         "sound": "miss"
       },
       "weaponArt": "modular_ion_power_lockdown",
-      "iconImage": "laser"
+      "iconImage": "laser",
+      "_id": "MODULAR_ION_POWER_LOCKDOWN"
     }
   },
   {
@@ -31213,7 +31822,8 @@
         "sound": "miss"
       },
       "weaponArt": "modular_ion_power_pierce",
-      "iconImage": "laser"
+      "iconImage": "laser",
+      "_id": "MODULAR_ION_POWER_PIERCE"
     }
   },
   {
@@ -31267,7 +31877,8 @@
         "sound": "miss"
       },
       "weaponArt": "modular_ion_power_stun",
-      "iconImage": "laser"
+      "iconImage": "laser",
+      "_id": "MODULAR_ION_POWER_STUN"
     }
   },
   {
@@ -31290,7 +31901,8 @@
       "cost": "70",
       "image": "beam_contact",
       "weaponArt": "battery_core",
-      "iconReplace": "battery_core_icon"
+      "iconReplace": "battery_core_icon",
+      "_id": "POWER_CORE"
     }
   },
   {
@@ -31328,7 +31940,8 @@
         "sound": "miss"
       },
       "weaponArt": "scanner",
-      "iconImage": "bomb"
+      "iconImage": "bomb",
+      "_id": "SCANNER_RECON"
     }
   },
   {
@@ -31383,7 +31996,8 @@
         "sound": "miss"
       },
       "weaponArt": "scanner",
-      "iconImage": "bomb"
+      "iconImage": "bomb",
+      "_id": "SCANNER_BAIT"
     }
   },
   {
@@ -31442,7 +32056,8 @@
         "sound": "miss"
       },
       "weaponArt": "harpoon_launcher",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "HARPOON_LAUNCHER"
     }
   },
   {
@@ -31499,7 +32114,8 @@
       },
       "weaponArt": "clone_cannon_def",
       "iconReplace": "clone_cannon_icon",
-      "iconImage": "flak"
+      "iconImage": "flak",
+      "_id": "CLONE_CANNON"
     }
   },
   {
@@ -31557,7 +32173,8 @@
       },
       "weaponArt": "clone_cannon_def",
       "iconReplace": "clone_cannon_icon",
-      "iconImage": "flak"
+      "iconImage": "flak",
+      "_id": "CLONE_CANNON_BABYORCHID"
     }
   },
   {
@@ -31648,7 +32265,8 @@
       },
       "weaponArt": "clone_cannon_def",
       "iconReplace": "clone_cannon_icon",
-      "iconImage": "flak"
+      "iconImage": "flak",
+      "_id": "CLONE_CANNON_ANCIENT"
     }
   },
   {
@@ -31739,7 +32357,8 @@
       },
       "weaponArt": "clone_cannon_def",
       "iconReplace": "clone_cannon_icon",
-      "iconImage": "flak"
+      "iconImage": "flak",
+      "_id": "CLONE_CANNON_BIRD"
     }
   },
   {
@@ -31830,7 +32449,8 @@
       },
       "weaponArt": "clone_cannon_def",
       "iconReplace": "clone_cannon_icon",
-      "iconImage": "flak"
+      "iconImage": "flak",
+      "_id": "CLONE_CANNON_AVATAR"
     }
   },
   {
@@ -31921,7 +32541,8 @@
       },
       "weaponArt": "clone_cannon_def",
       "iconReplace": "clone_cannon_icon",
-      "iconImage": "flak"
+      "iconImage": "flak",
+      "_id": "CLONE_CANNON_AVATAR_ROYAL"
     }
   },
   {
@@ -32011,7 +32632,8 @@
       },
       "weaponArt": "clone_cannon_def",
       "iconReplace": "clone_cannon_icon",
-      "iconImage": "flak"
+      "iconImage": "flak",
+      "_id": "CLONE_CANNON_AUGMENTED"
     }
   },
   {
@@ -32102,7 +32724,8 @@
       },
       "weaponArt": "clone_cannon_def",
       "iconReplace": "clone_cannon_icon",
-      "iconImage": "flak"
+      "iconImage": "flak",
+      "_id": "CLONE_CANNON_BISHOP"
     }
   },
   {
@@ -32193,7 +32816,8 @@
       },
       "weaponArt": "clone_cannon_def",
       "iconReplace": "clone_cannon_icon",
-      "iconImage": "flak"
+      "iconImage": "flak",
+      "_id": "CLONE_CANNON_CARETAKER"
     }
   },
   {
@@ -32284,7 +32908,8 @@
       },
       "weaponArt": "clone_cannon_def",
       "iconReplace": "clone_cannon_icon",
-      "iconImage": "flak"
+      "iconImage": "flak",
+      "_id": "CLONE_CANNON_CLAN"
     }
   },
   {
@@ -32375,7 +33000,8 @@
       },
       "weaponArt": "clone_cannon_def",
       "iconReplace": "clone_cannon_icon",
-      "iconImage": "flak"
+      "iconImage": "flak",
+      "_id": "CLONE_CANNON_COMMANDO"
     }
   },
   {
@@ -32466,7 +33092,8 @@
       },
       "weaponArt": "clone_cannon_def",
       "iconReplace": "clone_cannon_icon",
-      "iconImage": "flak"
+      "iconImage": "flak",
+      "_id": "CLONE_CANNON_CRUSADER"
     }
   },
   {
@@ -32557,7 +33184,8 @@
       },
       "weaponArt": "clone_cannon_def",
       "iconReplace": "clone_cannon_icon",
-      "iconImage": "flak"
+      "iconImage": "flak",
+      "_id": "CLONE_CANNON_PALADIN"
     }
   },
   {
@@ -32648,7 +33276,8 @@
       },
       "weaponArt": "clone_cannon_def",
       "iconReplace": "clone_cannon_icon",
-      "iconImage": "flak"
+      "iconImage": "flak",
+      "_id": "CLONE_CANNON_CRYSTAL"
     }
   },
   {
@@ -32739,7 +33368,8 @@
       },
       "weaponArt": "clone_cannon_def",
       "iconReplace": "clone_cannon_icon",
-      "iconImage": "flak"
+      "iconImage": "flak",
+      "_id": "CLONE_CANNON_SSLG"
     }
   },
   {
@@ -32830,7 +33460,8 @@
       },
       "weaponArt": "clone_cannon_def",
       "iconReplace": "clone_cannon_icon",
-      "iconImage": "flak"
+      "iconImage": "flak",
+      "_id": "CLONE_CANNON_CULTIST"
     }
   },
   {
@@ -32925,7 +33556,8 @@
       },
       "weaponArt": "clone_cannon_def",
       "iconReplace": "clone_cannon_icon",
-      "iconImage": "flak"
+      "iconImage": "flak",
+      "_id": "CLONE_CANNON_DEFEND"
     }
   },
   {
@@ -33016,7 +33648,8 @@
       },
       "weaponArt": "clone_cannon",
       "iconReplace": "clone_cannon_icon",
-      "iconImage": "flak"
+      "iconImage": "flak",
+      "_id": "CLONE_CANNON_DUSK"
     }
   },
   {
@@ -33107,7 +33740,8 @@
       },
       "weaponArt": "clone_cannon_def",
       "iconReplace": "clone_cannon_icon",
-      "iconImage": "flak"
+      "iconImage": "flak",
+      "_id": "CLONE_CANNON_ENGINEER"
     }
   },
   {
@@ -33206,7 +33840,8 @@
       },
       "weaponArt": "clone_cannon_def",
       "iconReplace": "clone_cannon_icon",
-      "iconImage": "flak"
+      "iconImage": "flak",
+      "_id": "CLONE_CANNON_TECHNICIAN"
     }
   },
   {
@@ -33297,7 +33932,8 @@
       },
       "weaponArt": "clone_cannon_def",
       "iconReplace": "clone_cannon_icon",
-      "iconImage": "flak"
+      "iconImage": "flak",
+      "_id": "CLONE_CANNON_TECHNICIAN_DRONE"
     }
   },
   {
@@ -33388,7 +34024,8 @@
       },
       "weaponArt": "clone_cannon_def",
       "iconReplace": "clone_cannon_icon",
-      "iconImage": "flak"
+      "iconImage": "flak",
+      "_id": "CLONE_CANNON_ENGI"
     }
   },
   {
@@ -33479,7 +34116,8 @@
       },
       "weaponArt": "clone_cannon_def",
       "iconReplace": "clone_cannon_icon",
-      "iconImage": "flak"
+      "iconImage": "flak",
+      "_id": "CLONE_CANNON_PHANTOM"
     }
   },
   {
@@ -33570,7 +34208,8 @@
       },
       "weaponArt": "clone_cannon_def",
       "iconReplace": "clone_cannon_icon",
-      "iconImage": "flak"
+      "iconImage": "flak",
+      "_id": "CLONE_CANNON_PHANTOM_ALPHA"
     }
   },
   {
@@ -33661,7 +34300,8 @@
       },
       "weaponArt": "clone_cannon_def",
       "iconReplace": "clone_cannon_icon",
-      "iconImage": "flak"
+      "iconImage": "flak",
+      "_id": "CLONE_CANNON_GOUL"
     }
   },
   {
@@ -33752,7 +34392,8 @@
       },
       "weaponArt": "clone_cannon_def",
       "iconReplace": "clone_cannon_icon",
-      "iconImage": "flak"
+      "iconImage": "flak",
+      "_id": "CLONE_CANNON_GOUL_ALPHA"
     }
   },
   {
@@ -33843,7 +34484,8 @@
       },
       "weaponArt": "clone_cannon_def",
       "iconReplace": "clone_cannon_icon",
-      "iconImage": "flak"
+      "iconImage": "flak",
+      "_id": "CLONE_CANNON_MARE"
     }
   },
   {
@@ -33934,7 +34576,8 @@
       },
       "weaponArt": "clone_cannon_def",
       "iconReplace": "clone_cannon_icon",
-      "iconImage": "flak"
+      "iconImage": "flak",
+      "_id": "CLONE_CANNON_MARE_ALPHA"
     }
   },
   {
@@ -34025,7 +34668,8 @@
       },
       "weaponArt": "clone_cannon_def",
       "iconReplace": "clone_cannon_icon",
-      "iconImage": "flak"
+      "iconImage": "flak",
+      "_id": "CLONE_CANNON_WRAITH"
     }
   },
   {
@@ -34116,7 +34760,8 @@
       },
       "weaponArt": "clone_cannon_def",
       "iconReplace": "clone_cannon_icon",
-      "iconImage": "flak"
+      "iconImage": "flak",
+      "_id": "CLONE_CANNON_WRAITH_ALPHA"
     }
   },
   {
@@ -34206,7 +34851,8 @@
       },
       "weaponArt": "clone_cannon_def",
       "iconReplace": "clone_cannon_icon",
-      "iconImage": "flak"
+      "iconImage": "flak",
+      "_id": "CLONE_CANNON_HATCH"
     }
   },
   {
@@ -34296,7 +34942,8 @@
       },
       "weaponArt": "clone_cannon_def",
       "iconReplace": "clone_cannon_icon",
-      "iconImage": "flak"
+      "iconImage": "flak",
+      "_id": "CLONE_CANNON_HUMAN"
     }
   },
   {
@@ -34386,7 +35033,8 @@
       },
       "weaponArt": "clone_cannon_def",
       "iconReplace": "clone_cannon_icon",
-      "iconImage": "flak"
+      "iconImage": "flak",
+      "_id": "CLONE_CANNON_LANIUS"
     }
   },
   {
@@ -34477,7 +35125,8 @@
       },
       "weaponArt": "clone_cannon_def",
       "iconReplace": "clone_cannon_icon",
-      "iconImage": "flak"
+      "iconImage": "flak",
+      "_id": "CLONE_CANNON_LIZARD"
     }
   },
   {
@@ -34568,7 +35217,8 @@
       },
       "weaponArt": "clone_cannon_def",
       "iconReplace": "clone_cannon_icon",
-      "iconImage": "flak"
+      "iconImage": "flak",
+      "_id": "CLONE_CANNON_MANTIS"
     }
   },
   {
@@ -34659,7 +35309,8 @@
       },
       "weaponArt": "clone_cannon_def",
       "iconReplace": "clone_cannon_icon",
-      "iconImage": "flak"
+      "iconImage": "flak",
+      "_id": "CLONE_CANNON_FREEMANTIS"
     }
   },
   {
@@ -34750,7 +35401,8 @@
       },
       "weaponArt": "clone_cannon_def",
       "iconReplace": "clone_cannon_icon",
-      "iconImage": "flak"
+      "iconImage": "flak",
+      "_id": "CLONE_CANNON_MEDIC"
     }
   },
   {
@@ -34841,7 +35493,8 @@
       },
       "weaponArt": "clone_cannon_def",
       "iconReplace": "clone_cannon_icon",
-      "iconImage": "flak"
+      "iconImage": "flak",
+      "_id": "CLONE_CANNON_MONK"
     }
   },
   {
@@ -34932,7 +35585,8 @@
       },
       "weaponArt": "clone_cannon_def",
       "iconReplace": "clone_cannon_icon",
-      "iconImage": "flak"
+      "iconImage": "flak",
+      "_id": "CLONE_CANNON_INFERNUM"
     }
   },
   {
@@ -35023,7 +35677,8 @@
       },
       "weaponArt": "clone_cannon_def",
       "iconReplace": "clone_cannon_icon",
-      "iconImage": "flak"
+      "iconImage": "flak",
+      "_id": "CLONE_CANNON_ORCHID"
     }
   },
   {
@@ -35114,7 +35769,8 @@
       },
       "weaponArt": "clone_cannon_def",
       "iconReplace": "clone_cannon_icon",
-      "iconImage": "flak"
+      "iconImage": "flak",
+      "_id": "CLONE_CANNON_PRAETOR"
     }
   },
   {
@@ -35205,7 +35861,8 @@
       },
       "weaponArt": "clone_cannon_def",
       "iconReplace": "clone_cannon_icon",
-      "iconImage": "flak"
+      "iconImage": "flak",
+      "_id": "CLONE_CANNON_VAMPWEED"
     }
   },
   {
@@ -35296,7 +35953,8 @@
       },
       "weaponArt": "clone_cannon_def",
       "iconReplace": "clone_cannon_icon",
-      "iconImage": "flak"
+      "iconImage": "flak",
+      "_id": "CLONE_CANNON_CULTIVATOR"
     }
   },
   {
@@ -35395,7 +36053,8 @@
       },
       "weaponArt": "clone_cannon_def",
       "iconReplace": "clone_cannon_icon",
-      "iconImage": "flak"
+      "iconImage": "flak",
+      "_id": "CLONE_CANNON_OSMIAN"
     }
   },
   {
@@ -35486,7 +36145,8 @@
       },
       "weaponArt": "clone_cannon_def",
       "iconReplace": "clone_cannon_icon",
-      "iconImage": "flak"
+      "iconImage": "flak",
+      "_id": "CLONE_CANNON_OSMIAN_HOLOGRAM"
     }
   },
   {
@@ -35577,7 +36237,8 @@
       },
       "weaponArt": "clone_cannon_def",
       "iconReplace": "clone_cannon_icon",
-      "iconImage": "flak"
+      "iconImage": "flak",
+      "_id": "CLONE_CANNON_OUTCAST"
     }
   },
   {
@@ -35668,7 +36329,8 @@
       },
       "weaponArt": "clone_cannon_def",
       "iconReplace": "clone_cannon_icon",
-      "iconImage": "flak"
+      "iconImage": "flak",
+      "_id": "CLONE_CANNON_PEACE"
     }
   },
   {
@@ -35759,7 +36421,8 @@
       },
       "weaponArt": "clone_cannon_def",
       "iconReplace": "clone_cannon_icon",
-      "iconImage": "flak"
+      "iconImage": "flak",
+      "_id": "CLONE_CANNON_PONY"
     }
   },
   {
@@ -35850,7 +36513,8 @@
       },
       "weaponArt": "clone_cannon_def",
       "iconReplace": "clone_cannon_icon",
-      "iconImage": "flak"
+      "iconImage": "flak",
+      "_id": "CLONE_CANNON_PONYC"
     }
   },
   {
@@ -35940,7 +36604,8 @@
       },
       "weaponArt": "clone_cannon_def",
       "iconReplace": "clone_cannon_icon",
-      "iconImage": "flak"
+      "iconImage": "flak",
+      "_id": "CLONE_CANNON_QUEEN"
     }
   },
   {
@@ -36030,7 +36695,8 @@
       },
       "weaponArt": "clone_cannon_def",
       "iconReplace": "clone_cannon_icon",
-      "iconImage": "flak"
+      "iconImage": "flak",
+      "_id": "CLONE_CANNON_RADIANT"
     }
   },
   {
@@ -36121,7 +36787,8 @@
       },
       "weaponArt": "clone_cannon",
       "iconReplace": "clone_cannon_icon",
-      "iconImage": "flak"
+      "iconImage": "flak",
+      "_id": "CLONE_CANNON_RADICAL"
     }
   },
   {
@@ -36212,7 +36879,8 @@
       },
       "weaponArt": "clone_cannon",
       "iconReplace": "clone_cannon_icon",
-      "iconImage": "flak"
+      "iconImage": "flak",
+      "_id": "CLONE_CANNON_DEVORAK"
     }
   },
   {
@@ -36303,7 +36971,8 @@
       },
       "weaponArt": "clone_cannon_def",
       "iconReplace": "clone_cannon_icon",
-      "iconImage": "flak"
+      "iconImage": "flak",
+      "_id": "CLONE_CANNON_ANURAK"
     }
   },
   {
@@ -36394,7 +37063,8 @@
       },
       "weaponArt": "clone_cannon_def",
       "iconReplace": "clone_cannon_icon",
-      "iconImage": "flak"
+      "iconImage": "flak",
+      "_id": "CLONE_CANNON_RANGER"
     }
   },
   {
@@ -36485,7 +37155,8 @@
       },
       "weaponArt": "clone_cannon_def",
       "iconReplace": "clone_cannon_icon",
-      "iconImage": "flak"
+      "iconImage": "flak",
+      "_id": "CLONE_CANNON_ROCK"
     }
   },
   {
@@ -36576,7 +37247,8 @@
       },
       "weaponArt": "clone_cannon_def",
       "iconReplace": "clone_cannon_icon",
-      "iconImage": "flak"
+      "iconImage": "flak",
+      "_id": "CLONE_CANNON_ROYAL"
     }
   },
   {
@@ -36667,7 +37339,8 @@
       },
       "weaponArt": "clone_cannon_def",
       "iconReplace": "clone_cannon_icon",
-      "iconImage": "flak"
+      "iconImage": "flak",
+      "_id": "CLONE_CANNON_SABO"
     }
   },
   {
@@ -36758,7 +37431,8 @@
       },
       "weaponArt": "clone_cannon_def",
       "iconReplace": "clone_cannon_icon",
-      "iconImage": "flak"
+      "iconImage": "flak",
+      "_id": "CLONE_CANNON_KNIGHT"
     }
   },
   {
@@ -36849,7 +37523,8 @@
       },
       "weaponArt": "clone_cannon_def",
       "iconReplace": "clone_cannon_icon",
-      "iconImage": "flak"
+      "iconImage": "flak",
+      "_id": "CLONE_CANNON_SENTINEL"
     }
   },
   {
@@ -36940,7 +37615,8 @@
       },
       "weaponArt": "clone_cannon_def",
       "iconReplace": "clone_cannon_icon",
-      "iconImage": "flak"
+      "iconImage": "flak",
+      "_id": "CLONE_CANNON_SEPARATIST"
     }
   },
   {
@@ -37030,7 +37706,8 @@
       },
       "weaponArt": "clone_cannon_def",
       "iconReplace": "clone_cannon_icon",
-      "iconImage": "flak"
+      "iconImage": "flak",
+      "_id": "CLONE_CANNON_SHELL"
     }
   },
   {
@@ -37120,7 +37797,8 @@
       },
       "weaponArt": "clone_cannon_def",
       "iconReplace": "clone_cannon_icon",
-      "iconImage": "flak"
+      "iconImage": "flak",
+      "_id": "CLONE_CANNON_SHELL_MECH"
     }
   },
   {
@@ -37210,7 +37888,8 @@
       },
       "weaponArt": "clone_cannon_def",
       "iconReplace": "clone_cannon_icon",
-      "iconImage": "flak"
+      "iconImage": "flak",
+      "_id": "CLONE_CANNON_SHELL_MEDIC"
     }
   },
   {
@@ -37300,7 +37979,8 @@
       },
       "weaponArt": "clone_cannon_def",
       "iconReplace": "clone_cannon_icon",
-      "iconImage": "flak"
+      "iconImage": "flak",
+      "_id": "CLONE_CANNON_SHELL_GUARDIAN"
     }
   },
   {
@@ -37398,7 +38078,8 @@
       },
       "weaponArt": "clone_cannon_def",
       "iconReplace": "clone_cannon_icon",
-      "iconImage": "flak"
+      "iconImage": "flak",
+      "_id": "CLONE_CANNON_SIREN"
     }
   },
   {
@@ -37496,7 +38177,8 @@
       },
       "weaponArt": "clone_cannon_def",
       "iconReplace": "clone_cannon_icon",
-      "iconImage": "flak"
+      "iconImage": "flak",
+      "_id": "CLONE_CANNON_HARPY"
     }
   },
   {
@@ -37587,7 +38269,8 @@
       },
       "weaponArt": "clone_cannon_def",
       "iconReplace": "clone_cannon_icon",
-      "iconImage": "flak"
+      "iconImage": "flak",
+      "_id": "CLONE_CANNON_SLUG"
     }
   },
   {
@@ -37678,7 +38361,8 @@
       },
       "weaponArt": "clone_cannon_def",
       "iconReplace": "clone_cannon_icon",
-      "iconImage": "flak"
+      "iconImage": "flak",
+      "_id": "CLONE_CANNON_HEKTAR"
     }
   },
   {
@@ -37769,7 +38453,8 @@
       },
       "weaponArt": "clone_cannon_def",
       "iconReplace": "clone_cannon_icon",
-      "iconImage": "flak"
+      "iconImage": "flak",
+      "_id": "CLONE_CANNON_SOLDIER"
     }
   },
   {
@@ -37860,7 +38545,8 @@
       },
       "weaponArt": "clone_cannon_def",
       "iconReplace": "clone_cannon_icon",
-      "iconImage": "flak"
+      "iconImage": "flak",
+      "_id": "CLONE_CANNON_MFK"
     }
   },
   {
@@ -37951,7 +38637,8 @@
       },
       "weaponArt": "clone_cannon_def",
       "iconReplace": "clone_cannon_icon",
-      "iconImage": "flak"
+      "iconImage": "flak",
+      "_id": "CLONE_CANNON_ANGEL"
     }
   },
   {
@@ -38041,7 +38728,8 @@
       },
       "weaponArt": "clone_cannon_def",
       "iconReplace": "clone_cannon_icon",
-      "iconImage": "flak"
+      "iconImage": "flak",
+      "_id": "CLONE_CANNON_SPIDER"
     }
   },
   {
@@ -38132,7 +38820,8 @@
       },
       "weaponArt": "clone_cannon_def",
       "iconReplace": "clone_cannon_icon",
-      "iconImage": "flak"
+      "iconImage": "flak",
+      "_id": "CLONE_CANNON_SUZERAIN"
     }
   },
   {
@@ -38223,7 +38912,8 @@
       },
       "weaponArt": "clone_cannon_def",
       "iconReplace": "clone_cannon_icon",
-      "iconImage": "flak"
+      "iconImage": "flak",
+      "_id": "CLONE_CANNON_WARLORD"
     }
   },
   {
@@ -38313,7 +39003,8 @@
       },
       "weaponArt": "clone_cannon_def",
       "iconReplace": "clone_cannon_icon",
-      "iconImage": "flak"
+      "iconImage": "flak",
+      "_id": "CLONE_CANNON_WEAVER"
     }
   },
   {
@@ -38403,7 +39094,8 @@
       },
       "weaponArt": "clone_cannon_def",
       "iconReplace": "clone_cannon_icon",
-      "iconImage": "flak"
+      "iconImage": "flak",
+      "_id": "CLONE_CANNON_WELDER"
     }
   },
   {
@@ -38494,7 +39186,8 @@
       },
       "weaponArt": "clone_cannon_def",
       "iconReplace": "clone_cannon_icon",
-      "iconImage": "flak"
+      "iconImage": "flak",
+      "_id": "CLONE_CANNON_ZOLTAN"
     }
   },
   {
@@ -38585,7 +39278,8 @@
       },
       "weaponArt": "clone_cannon_def",
       "iconReplace": "clone_cannon_icon",
-      "iconImage": "flak"
+      "iconImage": "flak",
+      "_id": "CLONE_CANNON_LEECH"
     }
   },
   {
@@ -38676,7 +39370,8 @@
       },
       "weaponArt": "clone_cannon_def",
       "iconReplace": "clone_cannon_icon",
-      "iconImage": "flak"
+      "iconImage": "flak",
+      "_id": "CLONE_CANNON_AMPERE"
     }
   },
   {
@@ -38721,7 +39416,8 @@
       "missSounds": {
         "sound": "miss"
       },
-      "weaponArt": "laser_heavy_1"
+      "weaponArt": "laser_heavy_1",
+      "_id": "PDS_SHOT"
     }
   },
   {
@@ -38794,7 +39490,8 @@
         "sound": "miss"
       },
       "weaponArt": "missiles_1",
-      "iconImage": "flak"
+      "iconImage": "flak",
+      "_id": "ASTEROID_ENEMY"
     }
   },
   {
@@ -38836,7 +39533,8 @@
         "sound": "miss"
       },
       "weaponArt": "missiles_1",
-      "iconImage": "heavyL"
+      "iconImage": "heavyL",
+      "_id": "DRONE_ASTEROID_DRUG"
     }
   },
   {
@@ -38874,7 +39572,8 @@
       "missSounds": {
         "sound": "miss"
       },
-      "weaponArt": "laser_burst_1"
+      "weaponArt": "laser_burst_1",
+      "_id": "DRONE_LASER_DEFENSE"
     }
   },
   {
@@ -38909,7 +39608,8 @@
       "missSounds": {
         "sound": "miss"
       },
-      "weaponArt": "missiles_1"
+      "weaponArt": "missiles_1",
+      "_id": "DRONE_MISSILE_DEFENSE"
     }
   },
   {
@@ -38951,7 +39651,8 @@
       "missSounds": {
         "sound": "miss"
       },
-      "weaponArt": "ion_1"
+      "weaponArt": "ion_1",
+      "_id": "DRONE_ION_DEFENSE"
     }
   },
   {
@@ -38988,7 +39689,8 @@
       "missSounds": {
         "sound": "miss"
       },
-      "weaponArt": "laser_burst_1"
+      "weaponArt": "laser_burst_1",
+      "_id": "DRONE_LASER_COMBAT"
     }
   },
   {
@@ -39011,7 +39713,8 @@
           "beam1_2"
         ]
       },
-      "weaponArt": "beam_1"
+      "weaponArt": "beam_1",
+      "_id": "DRONE_BEAM_COMBAT"
     }
   },
   {
@@ -39045,7 +39748,8 @@
       "missSounds": {
         "sound": "miss"
       },
-      "weaponArt": "laser_particle"
+      "weaponArt": "laser_particle",
+      "_id": "DRONE_PARTICLE_COMBAT"
     }
   },
   {
@@ -39080,7 +39784,8 @@
       "missSounds": {
         "sound": "miss"
       },
-      "weaponArt": "laser_pierce"
+      "weaponArt": "laser_pierce",
+      "_id": "DRONE_PIERCE_COMBAT"
     }
   },
   {
@@ -39103,7 +39808,8 @@
           "beam1_2"
         ]
       },
-      "weaponArt": "beam_fire"
+      "weaponArt": "beam_fire",
+      "_id": "DRONE_FIREBEAM_COMBAT"
     }
   },
   {
@@ -39127,7 +39833,8 @@
           "beam1_2"
         ]
       },
-      "weaponArt": "beam_hull"
+      "weaponArt": "beam_hull",
+      "_id": "DRONE_HULLBEAM_COMBAT"
     }
   },
   {
@@ -39191,7 +39898,8 @@
       "missSounds": {
         "sound": "miss"
       },
-      "weaponArt": "laser_stun"
+      "weaponArt": "laser_stun",
+      "_id": "DRONE_DEBUFF_COMBAT"
     }
   },
   {
@@ -39220,7 +39928,8 @@
           "beam1_2"
         ]
       },
-      "weaponArt": "beam_bio"
+      "weaponArt": "beam_bio",
+      "_id": "DRONE_BREACH_COMBAT"
     }
   },
   {
@@ -39262,7 +39971,8 @@
       "missSounds": {
         "sound": "miss"
       },
-      "weaponArt": "ion_1"
+      "weaponArt": "ion_1",
+      "_id": "DRONE_ION_AMP_1"
     }
   },
   {
@@ -39304,7 +40014,8 @@
       "missSounds": {
         "sound": "miss"
       },
-      "weaponArt": "ion_1"
+      "weaponArt": "ion_1",
+      "_id": "DRONE_ION_AMP_2"
     }
   },
   {
@@ -39346,7 +40057,8 @@
       "missSounds": {
         "sound": "miss"
       },
-      "weaponArt": "ion_1"
+      "weaponArt": "ion_1",
+      "_id": "DRONE_ION_AMP_3"
     }
   },
   {
@@ -39386,7 +40098,8 @@
       "missSounds": {
         "sound": "miss"
       },
-      "weaponArt": "ion_1"
+      "weaponArt": "ion_1",
+      "_id": "DRONE_ENERGY_AMP_1"
     }
   },
   {
@@ -39426,7 +40139,8 @@
       "missSounds": {
         "sound": "miss"
       },
-      "weaponArt": "ion_1"
+      "weaponArt": "ion_1",
+      "_id": "DRONE_ENERGY_AMP_2"
     }
   },
   {
@@ -39466,7 +40180,8 @@
       "missSounds": {
         "sound": "miss"
       },
-      "weaponArt": "ion_1"
+      "weaponArt": "ion_1",
+      "_id": "DRONE_ENERGY_AMP_3"
     }
   },
   {
@@ -39487,7 +40202,8 @@
       "launchSounds": {
         "sound": "focus_weak"
       },
-      "weaponArt": "focus_1"
+      "weaponArt": "focus_1",
+      "_id": "DRONE_FOCUS_AMP_1"
     }
   },
   {
@@ -39508,7 +40224,8 @@
       "launchSounds": {
         "sound": "focus_strong"
       },
-      "weaponArt": "focus_1"
+      "weaponArt": "focus_1",
+      "_id": "DRONE_FOCUS_AMP_2"
     }
   },
   {
@@ -39529,7 +40246,8 @@
       "launchSounds": {
         "sound": "focus_strong"
       },
-      "weaponArt": "focus_1"
+      "weaponArt": "focus_1",
+      "_id": "DRONE_FOCUS_AMP_3"
     }
   },
   {
@@ -39578,7 +40296,8 @@
       "missSounds": {
         "sound": "miss"
       },
-      "weaponArt": "shotgun"
+      "weaponArt": "shotgun",
+      "_id": "DRONE_FLAK_AMP_1"
     }
   },
   {
@@ -39627,7 +40346,8 @@
       "missSounds": {
         "sound": "miss"
       },
-      "weaponArt": "shotgun"
+      "weaponArt": "shotgun",
+      "_id": "DRONE_FLAK_AMP_2"
     }
   },
   {
@@ -39676,7 +40396,8 @@
       "missSounds": {
         "sound": "miss"
       },
-      "weaponArt": "shotgun"
+      "weaponArt": "shotgun",
+      "_id": "DRONE_FLAK_AMP_3"
     }
   },
   {
@@ -39725,7 +40446,8 @@
       "missSounds": {
         "sound": "miss"
       },
-      "weaponArt": "laser_light"
+      "weaponArt": "laser_light",
+      "_id": "DRONE_OMNI_LASER"
     }
   },
   {
@@ -39745,7 +40467,8 @@
       "launchSounds": {
         "sound": "nothing"
       },
-      "weaponArt": "beam_1"
+      "weaponArt": "beam_1",
+      "_id": "DRONE_BEAM_COMBAT_RANDOM"
     }
   },
   {
@@ -39768,7 +40491,8 @@
           "beam1_2"
         ]
       },
-      "weaponArt": "beam_1"
+      "weaponArt": "beam_1",
+      "_id": "DRONE_BEAM_ENGINEER"
     }
   },
   {
@@ -39821,7 +40545,8 @@
         ]
       },
       "weaponArt": "beam_bio",
-      "iconImage": "beam"
+      "iconImage": "beam",
+      "_id": "DRONE_BIO_BEAM"
     }
   },
   {
@@ -39863,7 +40588,8 @@
         "sound": "miss"
       },
       "weaponArt": "ancient_laser",
-      "iconImage": "heavyL"
+      "iconImage": "heavyL",
+      "_id": "ANCIENT_DRONE_LASER"
     }
   },
   {
@@ -39904,7 +40630,8 @@
         "sound": "miss"
       },
       "weaponArt": "ancient_laser",
-      "iconImage": "heavyL"
+      "iconImage": "heavyL",
+      "_id": "ROYAL_DRONE_LASER"
     }
   },
   {
@@ -39947,7 +40674,8 @@
         "sound": "miss"
       },
       "weaponArt": "ancient_laser",
-      "iconImage": "heavyL"
+      "iconImage": "heavyL",
+      "_id": "ANCIENT_DRONE_DEFENSE"
     }
   },
   {
@@ -39990,7 +40718,8 @@
         "sound": "miss"
       },
       "weaponArt": "royal_laser3",
-      "iconImage": "heavyL"
+      "iconImage": "heavyL",
+      "_id": "ROYAL_DRONE_DEFENSE"
     }
   },
   {
@@ -40031,7 +40760,8 @@
         "sound": "miss"
       },
       "weaponArt": "ancient_laser",
-      "iconImage": "heavyL"
+      "iconImage": "heavyL",
+      "_id": "ANCIENT_DRONE_ION"
     }
   },
   {
@@ -40072,7 +40802,8 @@
         "sound": "miss"
       },
       "weaponArt": "ancient_laser",
-      "iconImage": "heavyL"
+      "iconImage": "heavyL",
+      "_id": "ROYAL_DRONE_ION"
     }
   },
   {
@@ -40113,7 +40844,8 @@
         "sound": "miss"
       },
       "weaponArt": "ancient_missiles",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "ANCIENT_DRONE_MISSILES"
     }
   },
   {
@@ -40155,7 +40887,8 @@
         "sound": "miss"
       },
       "weaponArt": "royal_missiles",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "ANCIENT_ROYAL_MISSILES"
     }
   },
   {
@@ -40193,7 +40926,8 @@
       "missSounds": {
         "sound": "miss"
       },
-      "weaponArt": "laser_burst_1"
+      "weaponArt": "laser_burst_1",
+      "_id": "DRONE_LASER_ENGI_DEFENSE_LOOT"
     }
   },
   {
@@ -40242,7 +40976,8 @@
       "missSounds": {
         "sound": "miss"
       },
-      "weaponArt": "shotgun"
+      "weaponArt": "shotgun",
+      "_id": "DRONE_AUG_FLAK_AMP_1"
     }
   },
   {
@@ -40291,7 +41026,8 @@
       "missSounds": {
         "sound": "miss"
       },
-      "weaponArt": "shotgun"
+      "weaponArt": "shotgun",
+      "_id": "DRONE_AUG_FLAK_AMP_2"
     }
   },
   {
@@ -40340,7 +41076,8 @@
       "missSounds": {
         "sound": "miss"
       },
-      "weaponArt": "shotgun"
+      "weaponArt": "shotgun",
+      "_id": "DRONE_AUG_FLAK_AMP_3"
     }
   },
   {
@@ -40363,7 +41100,8 @@
       "cost": "85",
       "image": "beam_contact",
       "weaponArt": "invisible",
-      "iconReplace": "symbiont_container"
+      "iconReplace": "symbiont_container",
+      "_id": "SYMBIONT"
     }
   },
   {
@@ -40386,7 +41124,8 @@
       "cost": "85",
       "image": "beam_contact",
       "weaponArt": "invisible",
-      "iconReplace": "symbiont_chaos_container"
+      "iconReplace": "symbiont_chaos_container",
+      "_id": "SYMBIONT_CHAOS"
     }
   },
   {
@@ -40446,7 +41185,8 @@
         "sound": "miss"
       },
       "weaponArt": "shotgun",
-      "iconImage": "flak"
+      "iconImage": "flak",
+      "_id": "BARRAGE_FLAK"
     }
   },
   {
@@ -40488,7 +41228,8 @@
         "sound": "miss"
       },
       "weaponArt": "laser_heavy_1",
-      "iconImage": "heavyL"
+      "iconImage": "heavyL",
+      "_id": "BARRAGE_LASER"
     }
   },
   {
@@ -40527,7 +41268,8 @@
         "sound": "miss"
       },
       "weaponArt": "beam_fire",
-      "iconImage": "heavyL"
+      "iconImage": "heavyL",
+      "_id": "BARRAGE_FIRE"
     }
   },
   {
@@ -40556,7 +41298,8 @@
         "sound": "beam2"
       },
       "weaponArt": "beam_2",
-      "iconImage": "beam"
+      "iconImage": "beam",
+      "_id": "BARRAGE_MELTDOWN"
     }
   },
   {
@@ -40599,7 +41342,8 @@
       "missSounds": {
         "sound": "miss"
       },
-      "weaponArt": "artillery_fed"
+      "weaponArt": "artillery_fed",
+      "_id": "ARTILLERY_LASER"
     }
   },
   {
@@ -40622,7 +41366,8 @@
       "launchSounds": {
         "sound": "beam2"
       },
-      "weaponArt": "artillery_fed"
+      "weaponArt": "artillery_fed",
+      "_id": "ARTILLERY_BEAM"
     }
   },
   {
@@ -40645,7 +41390,8 @@
       "launchSounds": {
         "sound": "beam2"
       },
-      "weaponArt": "artillery_fed"
+      "weaponArt": "artillery_fed",
+      "_id": "ARTILLERY_BEAM_ELITE"
     }
   },
   {
@@ -40712,7 +41458,8 @@
         "sound": "miss"
       },
       "iconImage": "flak",
-      "weaponArt": "artillery_fed"
+      "weaponArt": "artillery_fed",
+      "_id": "ARTILLERY_FLAK"
     }
   },
   {
@@ -40759,7 +41506,8 @@
       "missSounds": {
         "sound": "miss"
       },
-      "weaponArt": "artillery_fed"
+      "weaponArt": "artillery_fed",
+      "_id": "ARTILLERY_MINELAUNCHER"
     }
   },
   {
@@ -40805,7 +41553,8 @@
       "missSounds": {
         "sound": "miss"
       },
-      "weaponArt": "artillery_fed"
+      "weaponArt": "artillery_fed",
+      "_id": "ARTILLERY_MINELAUNCHER_ENEMY"
     }
   },
   {
@@ -40828,7 +41577,8 @@
       "launchSounds": {
         "sound": "beam2"
       },
-      "weaponArt": "artillery_fed"
+      "weaponArt": "artillery_fed",
+      "_id": "ARTILLERY_FIRE"
     }
   },
   {
@@ -40876,7 +41626,8 @@
       "hitShipSounds": {
         "sound": "smallExplosion"
       },
-      "weaponArt": "artillery_jerry"
+      "weaponArt": "artillery_jerry",
+      "_id": "ARTILLERY_JERRY"
     }
   },
   {
@@ -40918,7 +41669,8 @@
       "missSounds": {
         "sound": "miss"
       },
-      "weaponArt": "artillery_rebel_laser"
+      "weaponArt": "artillery_rebel_laser",
+      "_id": "ARTILLERY_REBEL_LASER"
     }
   },
   {
@@ -40944,7 +41696,8 @@
       "launchSounds": {
         "sound": "beam2"
       },
-      "weaponArt": "artillery_rebel_beam"
+      "weaponArt": "artillery_rebel_beam",
+      "_id": "ARTILLERY_REBEL_BEAM"
     }
   },
   {
@@ -40993,7 +41746,8 @@
       "missSounds": {
         "sound": "miss"
       },
-      "weaponArt": "boss_4_phase"
+      "weaponArt": "boss_4_phase",
+      "_id": "ARTILLERY_REBEL_ION"
     }
   },
   {
@@ -41036,7 +41790,8 @@
       "missSounds": {
         "sound": "miss"
       },
-      "weaponArt": "artillery_rebel_missile"
+      "weaponArt": "artillery_rebel_missile",
+      "_id": "ARTILLERY_REBEL_MISSILE"
     }
   },
   {
@@ -41082,7 +41837,8 @@
       "missSounds": {
         "sound": "miss"
       },
-      "weaponArt": "bossmv_laser"
+      "weaponArt": "bossmv_laser",
+      "_id": "ARTILLERY_BOSSMV_LASER"
     }
   },
   {
@@ -41128,7 +41884,8 @@
       "missSounds": {
         "sound": "miss"
       },
-      "weaponArt": "bossmv_missile"
+      "weaponArt": "bossmv_missile",
+      "_id": "ARTILLERY_BOSSMV_MISSILE"
     }
   },
   {
@@ -41158,7 +41915,8 @@
       "launchSounds": {
         "sound": "beam2"
       },
-      "weaponArt": "bossmv_beam"
+      "weaponArt": "bossmv_beam",
+      "_id": "ARTILLERY_BOSSMV_BEAM"
     }
   },
   {
@@ -41207,7 +41965,8 @@
       "missSounds": {
         "sound": "miss"
       },
-      "weaponArt": "boss_4_phase"
+      "weaponArt": "boss_4_phase",
+      "_id": "ARTILLERY_BOSSMV_PHASE"
     }
   },
   {
@@ -41250,7 +42009,8 @@
       "missSounds": {
         "sound": "miss"
       },
-      "weaponArt": "boss_1_mfk"
+      "weaponArt": "boss_1_mfk",
+      "_id": "ARTILLERY_MFK_1"
     }
   },
   {
@@ -41294,7 +42054,8 @@
       "missSounds": {
         "sound": "miss"
       },
-      "weaponArt": "boss_2_mfk"
+      "weaponArt": "boss_2_mfk",
+      "_id": "ARTILLERY_MFK_2"
     }
   },
   {
@@ -41321,7 +42082,8 @@
       "launchSounds": {
         "sound": "beam2"
       },
-      "weaponArt": "boss_3_mfk"
+      "weaponArt": "boss_3_mfk",
+      "_id": "ARTILLERY_MFK_3"
     }
   },
   {
@@ -41372,7 +42134,8 @@
       "missSounds": {
         "sound": "miss"
       },
-      "weaponArt": "boss_4_mfk"
+      "weaponArt": "boss_4_mfk",
+      "_id": "ARTILLERY_MFK_4"
     }
   },
   {
@@ -41425,7 +42188,8 @@
       "missSounds": {
         "sound": "miss"
       },
-      "weaponArt": "boss_4_mfk"
+      "weaponArt": "boss_4_mfk",
+      "_id": "ARTILLERY_MFK_DYLAN"
     }
   },
   {
@@ -41462,7 +42226,8 @@
         "sound": "smallExplosion"
       },
       "weaponArt": "ancient_dread",
-      "iconImage": "bomb"
+      "iconImage": "bomb",
+      "_id": "ANCIENT_DREAD"
     }
   },
   {
@@ -41499,7 +42264,8 @@
         "sound": "smallExplosion"
       },
       "weaponArt": "royal_dread",
-      "iconImage": "bomb"
+      "iconImage": "bomb",
+      "_id": "ROYAL_DREAD"
     }
   },
   {
@@ -41528,7 +42294,8 @@
           "beam1_2"
         ]
       },
-      "weaponArt": "artillery_fed"
+      "weaponArt": "artillery_fed",
+      "_id": "ARTILLERY_BEAM_ENEMY"
     }
   },
   {
@@ -41579,7 +42346,8 @@
       "missSounds": {
         "sound": "miss"
       },
-      "weaponArt": "boss_2"
+      "weaponArt": "boss_2",
+      "_id": "ARTILLERY_BOSS_2"
     }
   },
   {
@@ -41621,7 +42389,8 @@
       "missSounds": {
         "sound": "miss"
       },
-      "weaponArt": "boss_auto"
+      "weaponArt": "boss_auto",
+      "_id": "ARTILLERY_BOSS_AUTO"
     }
   },
   {
@@ -41667,7 +42436,8 @@
         "sound": "miss"
       },
       "weaponArt": "artillery_fed",
-      "iconImage": "missile"
+      "iconImage": "missile",
+      "_id": "ARTILLERY_AUTO_MINELAUNCHER"
     }
   },
   {
@@ -41703,7 +42473,8 @@
         "sound": "miss"
       },
       "weaponArt": "artillery_fed",
-      "iconImage": "bomb"
+      "iconImage": "bomb",
+      "_id": "ARTILLERY_COALITION_CEALAFORMER"
     }
   },
   {
@@ -41755,7 +42526,8 @@
         "sound": "miss"
       },
       "weaponArt": "artillery_rock_miniboss",
-      "iconImage": "laser"
+      "iconImage": "laser",
+      "_id": "ARTILLERY_ROCK_MINIBOSS"
     }
   }
 ]
