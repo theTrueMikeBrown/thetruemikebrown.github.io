@@ -1,0 +1,388 @@
+[
+  {
+    "systemBlueprint": {
+      "name": "weapons",
+      "type": "weapons",
+      "title": "Weapon Control",
+      "desc": "Powers all of the ship's weapons. Upgrading lets you power more weapons.",
+      "startPower": "2",
+      "rarity": "1",
+      "maxPower": "8",
+      "upgradeCost": {
+        "level": [
+          "45",
+          "30",
+          "45",
+          "60",
+          "85",
+          "100",
+          "110",
+          "120",
+          "130",
+          "140",
+          "160",
+          "180",
+          "200",
+          "220",
+          "240"
+        ]
+      },
+      "cost": "50",
+      "_id": "weapons"
+    }
+  },
+  {
+    "systemBlueprint": {
+      "name": "shields",
+      "type": "shields",
+      "title": "Shields",
+      "desc": "Powers your shields. Each additional barrier can block one shot.",
+      "startPower": "2",
+      "maxPower": "16",
+      "rarity": "1",
+      "upgradeCost": {
+        "level": [
+          "100",
+          "20",
+          "50",
+          "30",
+          "90",
+          "60",
+          "150",
+          "70",
+          "180",
+          "70",
+          "180",
+          "70",
+          "180",
+          "70",
+          "180",
+          "200"
+        ]
+      },
+      "cost": "125",
+      "_id": "shields"
+    }
+  },
+  {
+    "systemBlueprint": {
+      "name": "engines",
+      "type": "engines",
+      "title": "Engines",
+      "desc": "Powers the FTL drive and allows the ship to dodge. Upgrading improves dodge chance and the rate that your FTL drive charges.",
+      "startPower": "2",
+      "maxPower": "8",
+      "rarity": "1",
+      "upgradeCost": {
+        "level": [
+          "15",
+          "25",
+          "40",
+          "60",
+          "65",
+          "80",
+          "100"
+        ]
+      },
+      "cost": "1",
+      "_id": "engines"
+    }
+  },
+  {
+    "systemBlueprint": {
+      "name": "oxygen",
+      "type": "oxygen",
+      "title": "Life Support",
+      "desc": "Refills the oxygen in the ship. Upgrading increases the rate of refill.",
+      "startPower": "1",
+      "maxPower": "3",
+      "rarity": "1",
+      "upgradeCost": {
+        "level": [
+          "25",
+          "35",
+          "65"
+        ]
+      },
+      "cost": "35",
+      "_id": "oxygen"
+    }
+  },
+  {
+    "systemBlueprint": {
+      "name": "teleporter",
+      "type": "teleporter",
+      "title": "Crew Teleporter",
+      "desc": "Allows you to send your crew-members to board enemy vessels.",
+      "startPower": "1",
+      "maxPower": "3",
+      "rarity": "1",
+      "upgradeCost": {
+        "level": [
+          "35",
+          "60",
+          "9999"
+        ]
+      },
+      "cost": "90",
+      "locked": "1",
+      "_id": "teleporter"
+    }
+  },
+  {
+    "systemBlueprint": {
+      "name": "medbay",
+      "type": "medbay",
+      "title": "Medbay",
+      "desc": "Heals all crew-members within the Medbay room. Upgrading increases healing speed.",
+      "startPower": "1",
+      "maxPower": "3",
+      "rarity": "1",
+      "upgradeCost": {
+        "level": [
+          "40",
+          "55",
+          "200"
+        ]
+      },
+      "cost": "50",
+      "_id": "medbay"
+    }
+  },
+  {
+    "systemBlueprint": {
+      "name": "clonebay",
+      "type": "clonebay",
+      "title": "Clone Bay",
+      "desc": "Automatically clones dead crew with skill penalty. Taking advantage of micro-cloning, crew heals partially every jump. Jump heal is passive and requires no power.",
+      "startPower": "1",
+      "maxPower": "3",
+      "rarity": "1",
+      "upgradeCost": {
+        "level": [
+          "40",
+          "55",
+          "200"
+        ]
+      },
+      "cost": "55",
+      "_id": "clonebay"
+    }
+  },
+  {
+    "systemBlueprint": {
+      "name": "drones",
+      "type": "drones",
+      "title": "Drone Control",
+      "desc": "Powers all of the ship's drones. Drones are automated robots that perform tasks like attacking enemy ships or repairing systems.",
+      "startPower": "2",
+      "maxPower": "15",
+      "rarity": "1",
+      "upgradeCost": {
+        "level": [
+          "20",
+          "25",
+          "30",
+          "40",
+          "50",
+          "60",
+          "70",
+          "105",
+          "110",
+          "115",
+          "120",
+          "130",
+          "140",
+          "150",
+          "160",
+          "170",
+          "180",
+          "190",
+          "200"
+        ]
+      },
+      "cost": "45",
+      "_id": "drones"
+    }
+  },
+  {
+    "systemBlueprint": {
+      "name": "cloaking",
+      "type": "cloaking",
+      "title": "Cloaking",
+      "desc": "Cloaks the ship, adding 60 to your evasion and preventing the enemy ship from locking on with their weapons. [Level 3 is installed in the storage menu]",
+      "startPower": "1",
+      "maxPower": "3",
+      "rarity": "1",
+      "upgradeCost": {
+        "level": [
+          "55",
+          "9999",
+          "9999",
+          "9999"
+        ]
+      },
+      "cost": "170",
+      "locked": "1",
+      "_id": "cloaking"
+    }
+  },
+  {
+    "systemBlueprint": {
+      "name": "hacking",
+      "type": "hacking",
+      "title": "Hacking",
+      "desc": "Targets a single system, locking its doors, and granting the ability to temporarily disable or disrupt it. Requires drone part to launch.",
+      "startPower": "1",
+      "maxPower": "3",
+      "rarity": "1",
+      "upgradeCost": {
+        "level": [
+          "40",
+          "70"
+        ]
+      },
+      "cost": "110",
+      "_id": "hacking"
+    }
+  },
+  {
+    "systemBlueprint": {
+      "name": "mind",
+      "type": "mind",
+      "title": "Mind Control",
+      "desc": "Temporarily turn enemies into allies, allowing you to control them and take advantage of their effects.",
+      "startPower": "1",
+      "maxPower": "3",
+      "rarity": "1",
+      "upgradeCost": {
+        "level": [
+          "30",
+          "55",
+          "90"
+        ]
+      },
+      "cost": "65",
+      "locked": "1",
+      "_id": "mind"
+    }
+  },
+  {
+    "systemBlueprint": {
+      "name": "artillery",
+      "type": "artillery",
+      "title": "Artillery Beam",
+      "desc": "Powers a slow, high-powered beam that pierces all shields and does one damage per room hit. More power means faster cooldown.",
+      "startPower": "2",
+      "maxPower": "5",
+      "rarity": "0",
+      "upgradeCost": {
+        "level": [
+          "35",
+          "55",
+          "80",
+          "120",
+          "999"
+        ]
+      },
+      "cost": "150",
+      "_id": "artillery"
+    }
+  },
+  {
+    "systemBlueprint": {
+      "name": "temporal",
+      "type": "temporal",
+      "title": "Temporal Manipulator",
+      "desc": "Changes the rate of time in one room. Upgrading increases duration and time dilation strength.",
+      "startPower": "1",
+      "maxPower": "3",
+      "rarity": "0",
+      "upgradeCost": {
+        "level": [
+          "40",
+          "80",
+          "120"
+        ]
+      },
+      "cost": "80",
+      "_id": "temporal"
+    }
+  },
+  {
+    "systemBlueprint": {
+      "name": "pilot",
+      "type": "pilot",
+      "title": "Piloting",
+      "desc": "Allows the ship to make FTL jumps and dodge when piloted. Upgrading adds auto-pilot that allows some evasion even without a pilot.",
+      "startPower": "1",
+      "maxPower": "3",
+      "rarity": "1",
+      "upgradeCost": {
+        "level": [
+          "25",
+          "35"
+        ]
+      },
+      "cost": "1",
+      "_id": "pilot"
+    }
+  },
+  {
+    "systemBlueprint": {
+      "name": "sensors",
+      "type": "sensors",
+      "title": "Sensors",
+      "desc": "Reveals the interior of your ship and gives information about enemy ships.",
+      "startPower": "1",
+      "maxPower": "3",
+      "rarity": "1",
+      "upgradeCost": {
+        "level": [
+          "20",
+          "30"
+        ]
+      },
+      "cost": "30",
+      "_id": "sensors"
+    }
+  },
+  {
+    "systemBlueprint": {
+      "name": "doors",
+      "type": "doors",
+      "title": "Door System",
+      "desc": "Allows remote opening and closing of doors. Upgrades to Blast Doors that impede fire spread and intruder movement.",
+      "startPower": "1",
+      "maxPower": "3",
+      "rarity": "1",
+      "upgradeCost": {
+        "level": [
+          "40",
+          "55"
+        ]
+      },
+      "cost": "40",
+      "_id": "doors"
+    }
+  },
+  {
+    "systemBlueprint": {
+      "name": "battery",
+      "type": "battery",
+      "title": "Backup Battery",
+      "desc": "Provides a 30 second power boost to your Reactor. Upgrading increases the boost amount.",
+      "startPower": "1",
+      "maxPower": "2",
+      "rarity": "1",
+      "upgradeCost": {
+        "level": [
+          "55",
+          "75"
+        ]
+      },
+      "cost": "45",
+      "_id": "battery"
+    }
+  }
+]
