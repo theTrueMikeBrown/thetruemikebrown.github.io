@@ -14,7 +14,9 @@
   {
     "name": "REBEL_PULSAR",
     "unique": "true",
-    "text": "",
+    "text": {
+      "load": "REBEL_PULSAR_TEXT"
+    },
     "ship": {
       "load": "SHIP_REBEL_FIGHT",
       "hostile": "true"
@@ -33,7 +35,9 @@
   {
     "name": "PIRATE_PULSAR",
     "unique": "true",
-    "text": "",
+    "text": {
+      "load": "PIRATE_PULSAR_TEXT"
+    },
     "ship": {
       "load": "SHIP_PIRATE_ALL",
       "hostile": "true"
@@ -52,7 +56,9 @@
   {
     "name": "REBEL_PDS",
     "unique": "true",
-    "text": "",
+    "text": {
+      "load": "REBEL_PDS_TEXT"
+    },
     "environment": {
       "type": "PDS",
       "target": "player"
@@ -143,7 +149,9 @@
   {
     "name": "REBEL_AUTO_PDS",
     "unique": "true",
-    "text": "",
+    "text": {
+      "load": "REBEL_AUTO_PDS_TEXT"
+    },
     "environment": {
       "type": "PDS",
       "target": "player"
@@ -577,7 +585,9 @@
   },
   {
     "name": "GENERIC_SURRENDER",
-    "text": "",
+    "text": {
+      "load": "GENERIC_SURRENDER_TEXT"
+    },
     "choice": [
       {
         "text": "Accept their offer.",
@@ -1259,7 +1269,9 @@
   },
   {
     "name": "ABANDONED_PIRATE_CIVILIAN",
-    "text": "",
+    "text": {
+      "load": "ABANDONED_PIRATE_CIVILIAN_TEXT"
+    },
     "ship": {
       "load": "SHIP_PIRATE_CIVILIAN_LANIUS",
       "hostile": "false"
@@ -2036,7 +2048,9 @@
   },
   {
     "name": "ENCOUNTER_LANIUS_ABANDONED_REGULAR",
-    "text": "",
+    "text": {
+      "load": "TEXT_ENCOUNTER_LANIUS_ABANDONED"
+    },
     "ship": {
       "load": "SHIP_LANIUS_FIGHT",
       "hostile": "true"
@@ -2085,7 +2099,9 @@
   },
   {
     "name": "ENCOUNTER_GHOST_ABANDONED_REGULAR",
-    "text": "",
+    "text": {
+      "load": "TEXT_ENCOUNTER_GHOST_ABANDONED"
+    },
     "ship": {
       "load": "SHIP_GHOST_ALL",
       "hostile": "true"
@@ -2119,7 +2135,9 @@
   },
   {
     "name": "ENCOUNTER_PIRATE_ABANDONED",
-    "text": "",
+    "text": {
+      "load": "TEXT_ENCOUNTER_PIRATE_ABANDONED"
+    },
     "ship": {
       "load": "SHIP_PIRATE_ALL",
       "hostile": "true"
@@ -2134,7 +2152,9 @@
   },
   {
     "name": "ENCOUNTER_REBEL_ABANDONED",
-    "text": "",
+    "text": {
+      "load": "TEXT_ENCOUNTER_REBEL_ABANDONED"
+    },
     "ship": {
       "load": "SHIP_REBEL_FIGHT",
       "hostile": "true"
@@ -3298,7 +3318,9 @@
   },
   {
     "name": "ENCOUNTER_ROCK_ASTEROID",
-    "text": "",
+    "text": {
+      "load": "TEXT_ENCOUNTER_ROCK"
+    },
     "ship": {
       "load": "SHIP_ROCK_FIGHT",
       "hostile": "true"
@@ -3316,7 +3338,9 @@
   },
   {
     "name": "ENCOUNTER_ZOLTAN_ASTEROID",
-    "text": "",
+    "text": {
+      "load": "TEXT_ENCOUNTER_ZOLTAN"
+    },
     "ship": {
       "load": "SHIP_ZOLTAN_FIGHT",
       "hostile": "true"
@@ -3344,7 +3368,9 @@
   },
   {
     "name": "ENCOUNTER_VAMPWEED_ASTEROID",
-    "text": "",
+    "text": {
+      "load": "TEXT_ENCOUNTER_VAMPWEED"
+    },
     "ship": {
       "hostile": "true",
       "load": "SHIP_VAMPWEED_FIGHT"
@@ -3579,7 +3605,9 @@
               "req": "LIST_CREW_JERRY",
               "text": "(Jerry) \"Hello!\"",
               "event": {
-                "text": "",
+                "text": {
+                  "load": "TEXT_ENCOUNTER_REBEL_JERRY_HELLO"
+                },
                 "ship": {
                   "hostile": "false"
                 }
@@ -4569,7 +4597,9 @@
   },
   {
     "name": "AUGMENTED_CHOICE",
-    "text": "",
+    "text": {
+      "load": "TEXT_AUGMENTED_CHOICE"
+    },
     "ship": {
       "load": "SHIP_AUGMENTED",
       "hostile": "false"
@@ -5346,7 +5376,9 @@
   },
   {
     "name": "ENCOUNTER_AUGMENTED",
-    "text": "",
+    "text": {
+      "load": "TEXT_ENCOUNTER_AUGMENTED"
+    },
     "ship": {
       "load": "SHIP_AUGMENTED",
       "hostile": "true"
@@ -5361,7 +5393,9 @@
   },
   {
     "name": "ENCOUNTER_AUGMENTED_LANIUS",
-    "text": "",
+    "text": {
+      "load": "TEXT_ENCOUNTER_AUGMENTED_LANIUS"
+    },
     "ship": {
       "load": "SHIP_LANIUS_FIGHT",
       "hostile": "true"
@@ -5544,7 +5578,9 @@
   {
     "name": "AUTO_FREE_ITEMS",
     "unique": "true",
-    "text": "",
+    "text": {
+      "load": "AUTO_FREE_ITEMS"
+    },
     "autoReward": {
       "level": "MED",
       "text": "standard"
@@ -6297,7 +6333,9 @@
   },
   {
     "name": "AUTO_YARD_CHOICE",
-    "text": "",
+    "text": {
+      "load": "TEXT_AUTO_YARD_CHOICE"
+    },
     "ship": {
       "load": "SHIP_AUTO_FIGHT",
       "hostile": "false"
@@ -7205,7 +7243,9 @@
   },
   {
     "name": "ENCOUNTER_AUTO_REGULAR",
-    "text": "",
+    "text": {
+      "load": "TEXT_ENCOUNTER_AUTO"
+    },
     "ship": {
       "load": "SHIP_AUTO_FIGHT",
       "hostile": "true"
@@ -7221,7 +7261,9 @@
   {
     "name": "ENCOUNTER_AUTO_WARNING",
     "unique": "true",
-    "text": "",
+    "text": {
+      "load": "TEXT_ENCOUNTER_AUTO"
+    },
     "ship": {
       "load": "SHIP_AUTO_WARNING",
       "hostile": "true"
@@ -7361,7 +7403,9 @@
   },
   {
     "name": "ENCOUNTER_ENGINEER",
-    "text": "",
+    "text": {
+      "load": "TEXT_ENCOUNTER_ENGINEER"
+    },
     "ship": {
       "load": "SHIP_ENGINEER",
       "hostile": "true"
@@ -10291,7 +10335,9 @@
   },
   {
     "name": "NEBULA_ENCOUNTER_CLAN_REGULAR",
-    "text": "",
+    "text": {
+      "load": "NEBULA_CLAN_FIGHT"
+    },
     "ship": {
       "load": "SHIP_CLAN_FIGHT",
       "hostile": "true"
@@ -10327,7 +10373,9 @@
   },
   {
     "name": "NEBULA_ENCOUNTER_SLUG_CLAN",
-    "text": "",
+    "text": {
+      "load": "NEBULA_SLUG_CLAN_FIGHT"
+    },
     "ship": {
       "load": "SHIP_SLUG_FIGHT",
       "hostile": "true"
@@ -10345,7 +10393,9 @@
   },
   {
     "name": "NEBULA_ENCOUNTER_SHELL_CLAN",
-    "text": "",
+    "text": {
+      "load": "NEBULA_SHELL_CLAN_FIGHT"
+    },
     "ship": {
       "load": "SHIP_SHELL_FIGHT",
       "hostile": "true"
@@ -13015,7 +13065,9 @@
       {
         "text": "Buy some random information.",
         "event": {
-          "text": "",
+          "text": {
+            "load": "INFORMATION_BROKER_RANDOM"
+          },
           "reveal_map": {},
           "item_modify": {
             "item": {
@@ -13997,7 +14049,9 @@
   },
   {
     "name": "COALITION_CIVILIAN",
-    "text": "",
+    "text": {
+      "load": "TEXT_COALITION_CIVILIAN"
+    },
     "ship": {
       "load": "SHIP_COALITION_CIVILIAN",
       "hostile": "false"
@@ -14401,7 +14455,9 @@
   },
   {
     "name": "NEBULA_COALITION_CIVILIAN",
-    "text": "",
+    "text": {
+      "load": "TEXT_COALITION_CIVILIAN"
+    },
     "ship": {
       "load": "SHIP_COALITION_CIVILIAN",
       "hostile": "false"
@@ -15384,7 +15440,9 @@
   },
   {
     "name": "ENCOUNTER_COALITION_REGULAR",
-    "text": "",
+    "text": {
+      "load": "TEXT_ENCOUNTER_COALITION"
+    },
     "ship": {
       "load": "SHIP_COALITION_FIGHT",
       "hostile": "true"
@@ -15437,7 +15495,9 @@
   },
   {
     "name": "ENCOUNTER_REBEL_COALITION",
-    "text": "",
+    "text": {
+      "load": "TEXT_ENCOUNTER_REBEL_COALITION"
+    },
     "ship": {
       "load": "SHIP_REBEL_FIGHT",
       "hostile": "true"
@@ -15548,7 +15608,9 @@
   },
   {
     "name": "NEBULA_ENCOUNTER_COALITION",
-    "text": "",
+    "text": {
+      "load": "TEXT_NEBULA_ENCOUNTER_COALITION"
+    },
     "ship": {
       "load": "SHIP_COALITION_FIGHT",
       "hostile": "true"
@@ -18337,7 +18399,9 @@
   },
   {
     "name": "ENCOUNTER_VAMPWEED",
-    "text": "",
+    "text": {
+      "load": "TEXT_ENCOUNTER_VAMPWEED"
+    },
     "ship": {
       "load": "SHIP_VAMPWEED_FIGHT",
       "hostile": "true"
@@ -18367,7 +18431,9 @@
   },
   {
     "name": "ENCOUNTER_COALITION_VAMPWEED",
-    "text": "",
+    "text": {
+      "load": "TEXT_ENCOUNTER_COALITION_VAMPWEED"
+    },
     "ship": {
       "load": "SHIP_COALITION_FIGHT",
       "hostile": "true"
@@ -18382,7 +18448,9 @@
   },
   {
     "name": "ENCOUNTER_LEECH_VAMPWEED",
-    "text": "",
+    "text": {
+      "load": "TEXT_ENCOUNTER_LEECH_VAMPWEED"
+    },
     "ship": {
       "load": "SHIP_LEECH_FIGHT",
       "hostile": "true"
@@ -18397,7 +18465,9 @@
   },
   {
     "name": "ENCOUNTER_MANTIS_VAMPWEED",
-    "text": "",
+    "text": {
+      "load": "TEXT_ENCOUNTER_MANTIS_VAMPWEED"
+    },
     "ship": {
       "load": "SHIP_MANTIS_FIGHT",
       "hostile": "true"
@@ -18412,7 +18482,9 @@
   },
   {
     "name": "ENCOUNTER_REBEL_VAMPWEED",
-    "text": "",
+    "text": {
+      "load": "TEXT_ENCOUNTER_REBEL_VAMPWEED"
+    },
     "ship": {
       "load": "SHIP_REBEL_FIGHT",
       "hostile": "true"
@@ -19605,7 +19677,9 @@
   },
   {
     "name": "FINISH_BEACON_DROPPOINT_ENCOUNTER_CASUAL",
-    "text": "",
+    "text": {
+      "load": "TEXT_FINISH_BEACON_DROPPOINT_ENCOUNTER"
+    },
     "ship": {
       "load": "SHIP_START_MULTIVERSE_CASUAL",
       "hostile": "true"
@@ -19620,7 +19694,9 @@
   },
   {
     "name": "FINISH_BEACON_DROPPOINT_ENCOUNTER_NORMAL",
-    "text": "",
+    "text": {
+      "load": "TEXT_FINISH_BEACON_DROPPOINT_ENCOUNTER"
+    },
     "ship": {
       "load": "SHIP_START_MULTIVERSE_NORMAL",
       "hostile": "true"
@@ -19635,7 +19711,9 @@
   },
   {
     "name": "FINISH_BEACON_DROPPOINT_ENCOUNTER_CHALLENGE",
-    "text": "",
+    "text": {
+      "load": "TEXT_FINISH_BEACON_DROPPOINT_ENCOUNTER"
+    },
     "ship": {
       "load": "SHIP_START_MULTIVERSE_CHALLENGE",
       "hostile": "true"
@@ -19650,7 +19728,9 @@
   },
   {
     "name": "FINISH_BEACON_DROPPOINT_ENCOUNTER_EXTREME",
-    "text": "",
+    "text": {
+      "load": "TEXT_FINISH_BEACON_DROPPOINT_ENCOUNTER"
+    },
     "ship": {
       "load": "SHIP_START_MULTIVERSE_EXTREME",
       "hostile": "true"
@@ -19899,7 +19979,9 @@
   {
     "name": "MV_QUEST_ESCORT",
     "unique": "false",
-    "text": "",
+    "text": {
+      "load": "QUEST_ESCORT_TEXT"
+    },
     "ship": {
       "load": "SHIP_UNION_ALL",
       "hostile": "false"
@@ -19960,7 +20042,9 @@
     "name": "MV_DISTRESS_TRAP_BEACON",
     "unique": "true",
     "distressBeacon": {},
-    "text": "",
+    "text": {
+      "load": "TRAP_BEACON_TEXT"
+    },
     "ship": {
       "load": "SHIP_PIRATE_START",
       "hostile": "true"
@@ -20398,7 +20482,9 @@
   },
   {
     "name": "MV_ROGUE_REBEL",
-    "text": "",
+    "text": {
+      "load": "FILLER_ROGUE_REBEL_TEXT"
+    },
     "choice": [
       {
         "text": "Go looking for the Rebel ship.",
@@ -21769,7 +21855,9 @@
   },
   {
     "name": "ENCOUNTER_REBEL_DROPPOINT",
-    "text": "",
+    "text": {
+      "load": "TEXT_ENCOUNTER_REBEL"
+    },
     "ship": {
       "hostile": "true",
       "load": "SHIP_REBEL_START"
@@ -21784,7 +21872,9 @@
   },
   {
     "name": "ENCOUNTER_MULTIVERSE_DROPPOINT",
-    "text": "",
+    "text": {
+      "load": "TEXT_ENCOUNTER_REBEL"
+    },
     "ship": {
       "hostile": "true",
       "load": "SHIP_MULTIVERSE_START"
@@ -21799,7 +21889,9 @@
   },
   {
     "name": "ENCOUNTER_PIRATE_DROPPOINT",
-    "text": "",
+    "text": {
+      "load": "TEXT_ENCOUNTER_PIRATE"
+    },
     "ship": {
       "hostile": "true",
       "load": "SHIP_PIRATE_START"
@@ -21814,7 +21906,9 @@
   },
   {
     "name": "DROPPOINT_SUPPLY_DEPOT",
-    "text": "",
+    "text": {
+      "load": "TEXT_DROPPOINT_SUPPLY_DEPOT"
+    },
     "choice": {
       "hidden": "true",
       "text": "Continue...",
@@ -22201,7 +22295,9 @@
     "name": "SHIP_REBEL_MV_POD",
     "auto_blueprint": "LIST_SHIPS_MULTIVERSE_START",
     "destroyed": {
-      "text": "",
+      "text": {
+        "load": "TEXT_DESTROYED_REBEL_MULTIVERSE"
+      },
       "autoReward": {
         "level": "MED",
         "text": "standard"
@@ -22214,7 +22310,9 @@
       }
     },
     "deadCrew": {
-      "text": "",
+      "text": {
+        "load": "TEXT_DEAD_CREW_REBEL_MULTIVERSE"
+      },
       "autoReward": {
         "level": "HIGH",
         "text": "standard"
@@ -25556,7 +25654,9 @@
   },
   {
     "name": "ENCOUNTER_DUSKBRINGER",
-    "text": "",
+    "text": {
+      "load": "TEXT_ENCOUNTER_DUSKBRINGER"
+    },
     "ship": {
       "load": "SHIP_DUSK_FIGHT",
       "hostile": "true"
@@ -25572,7 +25672,9 @@
   {
     "name": "ENCOUNTER_DUSKBRINGER_STATION",
     "unique": "true",
-    "text": "",
+    "text": {
+      "load": "TEXT_ENCOUNTER_DUSKBRINGER_STATION"
+    },
     "ship": {
       "load": "SHIP_DUSK_STATION",
       "hostile": "true"
@@ -25587,7 +25689,9 @@
   },
   {
     "name": "ENCOUNTER_REBEL_DUSKBRINGER",
-    "text": "",
+    "text": {
+      "load": "TEXT_ENCOUNTER_REBEL_DUSKBRINGER"
+    },
     "ship": {
       "load": "SHIP_REBEL_FIGHT",
       "hostile": "true"
@@ -25602,7 +25706,9 @@
   },
   {
     "name": "ENCOUNTER_PIRATE_DUSKBRINGER",
-    "text": "",
+    "text": {
+      "load": "TEXT_ENCOUNTER_PIRATE_DUSKBRINGER"
+    },
     "ship": {
       "load": "SHIP_PIRATE_ALL",
       "hostile": "true"
@@ -25706,7 +25812,9 @@
   },
   {
     "name": "ENCOUNTER_REBEL_DUSKBRINGER_CAPITOL",
-    "text": "",
+    "text": {
+      "load": "TEXT_ENCOUNTER_REBEL_DUSKBRINGER_CAPITOL"
+    },
     "ship": {
       "load": "SHIP_REBEL_FIGHT",
       "hostile": "true"
@@ -28276,7 +28384,9 @@
   },
   {
     "name": "NEBULA_ENCOUNTER_DYNASTY",
-    "text": "",
+    "text": {
+      "load": "NEBULA_DYNASTY_FIGHT"
+    },
     "ship": {
       "load": "SHIP_DYNASTY_FIGHT",
       "hostile": "true"
@@ -28294,7 +28404,9 @@
   },
   {
     "name": "NEBULA_ENCOUNTER_VAGABOND_DYNASTY",
-    "text": "",
+    "text": {
+      "load": "NEBULA_VAGABOND_DYNASTY_FIGHT"
+    },
     "ship": {
       "load": "SHIP_GHOST_ALL",
       "hostile": "true"
@@ -28312,7 +28424,9 @@
   },
   {
     "name": "NEBULA_ENCOUNTER_ENGINEER_DYNASTY",
-    "text": "",
+    "text": {
+      "load": "NEBULA_ENGINEER_DYNASTY_FIGHT"
+    },
     "ship": {
       "load": "SHIP_ENGINEER",
       "hostile": "true"
@@ -28330,7 +28444,9 @@
   },
   {
     "name": "NEBULA_ENCOUNTER_AUTO_DYNASTY",
-    "text": "",
+    "text": {
+      "load": "NEBULA_AUTO_DYNASTY_FIGHT"
+    },
     "ship": {
       "load": "SHIP_AUTO_FIGHT",
       "hostile": "true"
@@ -28348,7 +28464,9 @@
   },
   {
     "name": "NEBULA_ENCOUNTER_DYNASTY_HOSTAGE",
-    "text": "",
+    "text": {
+      "load": "NEBULA_DYNASTY_HOSTAGE"
+    },
     "ship": {
       "load": "SHIP_DYNASTY_HOSTAGE",
       "hostile": "true"
@@ -28402,7 +28520,9 @@
         "text": "Explored location. Nothing left of interest."
       }
     },
-    "text": "",
+    "text": {
+      "load": "TEXT_DYNASTY_OUTPOST"
+    },
     "ship": {
       "load": "SHIP_DYNASTY_OUTPOST",
       "hostile": "false"
@@ -28481,7 +28601,9 @@
         "text": "Explored location. Nothing left of interest."
       }
     },
-    "text": "",
+    "text": {
+      "load": "TEXT_DYNASTY_OUTPOST"
+    },
     "ship": {
       "load": "SHIP_DYNASTY_OUTPOST",
       "hostile": "false"
@@ -28910,7 +29032,9 @@
   {
     "name": "CRYSTAL_FREE",
     "unique": "true",
-    "text": "",
+    "text": {
+      "load": "TEXT_FREE_CRYSTAL"
+    },
     "weapon": {
       "name": "GIFTLIST_CRYSTAL"
     },
@@ -29499,7 +29623,9 @@
   },
   {
     "name": "DEAD_CREW_CRYSTAL_TORTURE",
-    "text": "",
+    "text": {
+      "load": "TEXT_DEAD_CREW_CRYSTAL"
+    },
     "autoReward": {
       "level": "HIGH",
       "text": "standard"
@@ -30650,7 +30776,9 @@
   {
     "name": "ENCOUNTER_CRYSTAL",
     "unique": "false",
-    "text": "",
+    "text": {
+      "load": "TEXT_ENCOUNTER_CRYSTAL"
+    },
     "ship": {
       "load": "SHIP_CRYSTAL_FIGHT",
       "hostile": "true"
@@ -30713,7 +30841,9 @@
   },
   {
     "name": "ENCOUNTER_REBEL_CRYSTAL",
-    "text": "",
+    "text": {
+      "load": "TEXT_ENCOUNTER_REBEL_CRYSTAL"
+    },
     "ship": {
       "load": "SHIP_REBEL_FIGHT",
       "hostile": "true"
@@ -30728,7 +30858,9 @@
   },
   {
     "name": "ENCOUNTER_ROCK_CRYSTAL",
-    "text": "",
+    "text": {
+      "load": "TEXT_ENCOUNTER_ROCK_CRYSTAL"
+    },
     "ship": {
       "load": "SHIP_ROCK_FIGHT",
       "hostile": "true"
@@ -30743,7 +30875,9 @@
   },
   {
     "name": "ENCOUNTER_COALITION_CRYSTAL",
-    "text": "",
+    "text": {
+      "load": "TEXT_ENCOUNTER_COALITION_CRYSTAL"
+    },
     "ship": {
       "load": "SHIP_COALITION_FIGHT",
       "hostile": "true"
@@ -30759,7 +30893,9 @@
   {
     "name": "NEBULA_ENCOUNTER_CRYSTAL",
     "unique": "false",
-    "text": "",
+    "text": {
+      "load": "TEXT_NEBULA_ENCOUNTER_CRYSTAL"
+    },
     "ship": {
       "load": "SHIP_CRYSTAL_FIGHT",
       "hostile": "true"
@@ -31789,7 +31925,9 @@
   },
   {
     "name": "FEDERATION_REBEL_CHOICE",
-    "text": "",
+    "text": {
+      "load": "TEXT_FED_REBEL_CHOICE"
+    },
     "ship": {
       "load": "SHIP_REBEL_FIGHT",
       "hostile": "false"
@@ -35862,7 +36000,9 @@
   },
   {
     "name": "ENCOUNTER_MANTIS_FREEMANTIS_REGULAR",
-    "text": "",
+    "text": {
+      "load": "TEXT_ENCOUNTER_MANTIS_FREEMANTIS"
+    },
     "ship": {
       "load": "SHIP_MANTIS_FIGHT",
       "hostile": "true"
@@ -35896,7 +36036,9 @@
   },
   {
     "name": "ENCOUNTER_ZOLTAN_FREEMANTIS",
-    "text": "",
+    "text": {
+      "load": "TEXT_ENCOUNTER_ZOLTAN_FREEMANTIS"
+    },
     "ship": {
       "load": "SHIP_ZOLTAN_FIGHT",
       "hostile": "true"
@@ -35927,7 +36069,9 @@
   },
   {
     "name": "ENCOUNTER_REBEL_FREEMANTIS",
-    "text": "",
+    "text": {
+      "load": "TEXT_ENCOUNTER_REBEL_FREEMANTIS"
+    },
     "ship": {
       "load": "SHIP_REBEL_FIGHT",
       "hostile": "true"
@@ -36426,7 +36570,9 @@
   {
     "name": "ORCHID_FREE_ITEMS",
     "unique": "true",
-    "text": "",
+    "text": {
+      "load": "ORCHID_FREE_ITEMS"
+    },
     "autoReward": {
       "level": "MED",
       "text": "standard"
@@ -38083,15 +38229,21 @@
   },
   {
     "name": "ORCHID_CHILDREN_MAYEB_LOOP",
-    "text": "",
+    "text": {
+      "load": "MAYEB_CHILDREN_1"
+    },
     "choice": {
       "text": "Try to get a word in.",
       "event": {
-        "text": "",
+        "text": {
+          "load": "MAYEB_CHILDREN_2"
+        },
         "choice": {
           "text": "Wait for her to calm down.",
           "event": {
-            "text": "",
+            "text": {
+              "load": "MAYEB_CHILDREN_3"
+            },
             "modifyPursuit": {
               "amount": "1"
             },
@@ -39156,7 +39308,9 @@
   {
     "name": "ENCOUNTER_PIRATE_ORCHID",
     "unique": "true",
-    "text": "",
+    "text": {
+      "load": "TEXT_ENCOUNTER_PIRATE_ORCHID"
+    },
     "ship": {
       "hostile": "true",
       "load": "SHIP_PIRATE_ALL"
@@ -39172,7 +39326,9 @@
   {
     "name": "ENCOUNTER_ROCK_ORCHID",
     "unique": "true",
-    "text": "",
+    "text": {
+      "load": "TEXT_ENCOUNTER_ROCK_ORCHID"
+    },
     "ship": {
       "hostile": "true",
       "load": "SHIP_ROCK_FIGHT"
@@ -39188,7 +39344,9 @@
   {
     "name": "ENCOUNTER_REBEL_ORCHID",
     "unique": "true",
-    "text": "",
+    "text": {
+      "load": "TEXT_ENCOUNTER_REBEL_ORCHID"
+    },
     "ship": {
       "hostile": "true",
       "load": "SHIP_REBEL_FIGHT"
@@ -40414,7 +40572,9 @@
           }
         },
         {
-          "text": "",
+          "text": {
+            "load": "GENERIC_SURRENDER_CHOICE_NOMERCY"
+          },
           "event": {
             "load": "MORALITY_UPDATE_ORCHID"
           }
@@ -40689,7 +40849,9 @@
   {
     "name": "ENCOUNTER_CLAN_SHELL_CLEARING",
     "unique": "true",
-    "text": "",
+    "text": {
+      "load": "CLAN_FIGHT"
+    },
     "ship": {
       "load": "SHIP_CLAN_FIGHT",
       "hostile": "true"
@@ -42250,7 +42412,9 @@
   },
   {
     "name": "NEBULA_ENCOUNTER_SHELL_MILITARY",
-    "text": "",
+    "text": {
+      "load": "NEBULA_SHELL_MILITARY_FIGHT"
+    },
     "ship": {
       "load": "SHIP_SHELL_SOLDIER",
       "hostile": "true"
@@ -42287,7 +42451,9 @@
   },
   {
     "name": "NEBULA_ENCOUNTER_CLAN_SHELL",
-    "text": "",
+    "text": {
+      "load": "NEBULA_CLAN_SHELL_FIGHT"
+    },
     "ship": {
       "load": "SHIP_CLAN_FIGHT",
       "hostile": "true"
@@ -42731,7 +42897,9 @@
               "req": "LIST_CREW_JERRY",
               "text": "(Jerry) \"Hello!\"",
               "event": {
-                "text": "",
+                "text": {
+                  "load": "TEXT_ENCOUNTER_REBEL_JERRY_HELLO"
+                },
                 "ship": {
                   "hostile": "false"
                 }
@@ -43622,7 +43790,9 @@
   {
     "name": "DISTRESS_HACKER_TRAP",
     "distressBeacon": {},
-    "text": "",
+    "text": {
+      "load": "TEXT_ENCOUNTER_HACKER_DISTRESS"
+    },
     "ship": {
       "load": "SHIP_HACKER",
       "hostile": "true"
@@ -43905,7 +44075,9 @@
   },
   {
     "name": "ENCOUNTER_HACKER",
-    "text": "",
+    "text": {
+      "load": "TEXT_ENCOUNTER_HACKER"
+    },
     "ship": {
       "load": "SHIP_HACKER",
       "hostile": "true"
@@ -43920,7 +44092,9 @@
   },
   {
     "name": "ENCOUNTER_HACKER_PIRATE",
-    "text": "",
+    "text": {
+      "load": "TEXT_ENCOUNTER_HACKER_PIRATE"
+    },
     "ship": {
       "load": "SHIP_PIRATE_ALL",
       "hostile": "true"
@@ -44423,7 +44597,9 @@
   },
   {
     "name": "ENGI_GIFT",
-    "text": "",
+    "text": {
+      "load": "ENGI_GIFT"
+    },
     "autoReward": {
       "level": "RANDOM",
       "text": "standard"
@@ -44685,7 +44861,9 @@
   },
   {
     "name": "HARMONY_SEARCH_NORMAL_STANDING",
-    "text": "",
+    "text": {
+      "load": "HARMONY_SEARCH_INTRO"
+    },
     "choice": [
       {
         "hidden": "true",
@@ -44919,7 +45097,9 @@
   },
   {
     "name": "HARMONY_SEARCH_BAD_STANDING",
-    "text": "",
+    "text": {
+      "load": "HARMONY_SEARCH_ATTACK"
+    },
     "ship": {
       "hostile": "true"
     },
@@ -45125,7 +45305,9 @@
   },
   {
     "name": "RESCUED_CIVILIAN_IMPLANTS",
-    "text": "",
+    "text": {
+      "load": "ENGI_IMPLANT_UNION_SAVED"
+    },
     "autoReward": {
       "level": "MED",
       "text": "augment"
@@ -47905,7 +48087,9 @@
   },
   {
     "name": "ENCOUNTER_MANTIS_ENGI",
-    "text": "",
+    "text": {
+      "load": "ENGI_MANTIS_FIGHT_MV"
+    },
     "ship": {
       "load": "SHIP_MANTIS_FIGHT",
       "hostile": "true"
@@ -48724,7 +48908,9 @@
   },
   {
     "name": "TURZIL_REINFORCEMENTS",
-    "text": "",
+    "text": {
+      "load": "TEXT_TURZIL_REINFORCEMENTS"
+    },
     "ship": {
       "load": "SHIP_ENGI_ELITE_FIGHT",
       "hostile": "true"
@@ -48974,7 +49160,9 @@
               "req": "LIST_CREW_JERRY",
               "text": "(Jerry) \"Hello!\"",
               "event": {
-                "text": "",
+                "text": {
+                  "load": "TEXT_ENCOUNTER_REBEL_JERRY_HELLO"
+                },
                 "ship": {
                   "hostile": "false"
                 }
@@ -49107,7 +49295,9 @@
               "req": "LIST_CREW_JERRY",
               "text": "(Jerry) \"Hello!\"",
               "event": {
-                "text": "",
+                "text": {
+                  "load": "TEXT_ENCOUNTER_REBEL_JERRY_HELLO"
+                },
                 "ship": {
                   "hostile": "false"
                 }
@@ -50970,7 +51160,9 @@
   },
   {
     "name": "NEBULA_ENCOUNTER_HEKTAR",
-    "text": "",
+    "text": {
+      "load": "TEXT_ENCOUNTER_HEKTAR"
+    },
     "ship": {
       "load": "SHIP_HEKTAR_FIGHT",
       "hostile": "true"
@@ -52962,7 +53154,9 @@
   {
     "name": "MANTIS_FIGHT_CHOICE",
     "unique": "false",
-    "text": "",
+    "text": {
+      "load": "MANTIS_FIGHT_CHOICE"
+    },
     "ship": {
       "load": "SHIP_MANTIS_FIGHT",
       "hostile": "false"
@@ -53005,7 +53199,9 @@
   {
     "name": "MANTIS_CIVILIAN",
     "unique": "false",
-    "text": "",
+    "text": {
+      "load": "MANTIS_CIVILIAN"
+    },
     "ship": {
       "load": "SHIP_MANTIS_CIVILIAN",
       "hostile": "false"
@@ -53031,7 +53227,9 @@
       {
         "text": "Stay out of it.",
         "event": {
-          "text": "",
+          "text": {
+            "load": "MANTIS_CIVILIAN_AVOID"
+          },
           "choice": [
             {
               "text": "Do something onboard the ship.",
@@ -54445,7 +54643,9 @@
   },
   {
     "name": "ENCOUNTER_MANTIS_REGULAR",
-    "text": "",
+    "text": {
+      "load": "TEXT_ENCOUNTER_MANTIS"
+    },
     "ship": {
       "load": "SHIP_MANTIS_FIGHT",
       "hostile": "true"
@@ -54545,7 +54745,9 @@
   },
   {
     "name": "ENCOUNTER_MANTIS_HIVE_REGULAR",
-    "text": "",
+    "text": {
+      "load": "TEXT_ENCOUNTER_MANTIS_HIVE"
+    },
     "ship": {
       "load": "SHIP_MANTIS_FIGHT",
       "hostile": "true"
@@ -54561,7 +54763,9 @@
   {
     "name": "ENCOUNTER_SUZERAIN_HIVE_1",
     "unique": "true",
-    "text": "",
+    "text": {
+      "load": "TEXT_ENCOUNTER_SUZERAIN"
+    },
     "ship": {
       "load": "SHIP_SUZERAIN_FIGHT",
       "hostile": "true"
@@ -54577,7 +54781,9 @@
   {
     "name": "ENCOUNTER_SUZERAIN_HIVE_2",
     "unique": "true",
-    "text": "",
+    "text": {
+      "load": "TEXT_ENCOUNTER_SUZERAIN"
+    },
     "ship": {
       "load": "SHIP_SUZERAIN_FIGHT",
       "hostile": "true"
@@ -56366,7 +56572,9 @@
   },
   {
     "name": "ENCOUNTER_ESTATE",
-    "text": "",
+    "text": {
+      "load": "TEXT_ENCOUNTER_ESTATE"
+    },
     "ship": {
       "load": "SHIP_ESTATE",
       "hostile": "true"
@@ -56396,7 +56604,9 @@
   },
   {
     "name": "ENCOUNTER_TECHNICIAN_REGULAR",
-    "text": "",
+    "text": {
+      "load": "TEXT_ENCOUNTER_TECHNICIAN"
+    },
     "ship": {
       "load": "SHIP_TECHNICIAN",
       "hostile": "true"
@@ -56430,7 +56640,9 @@
   },
   {
     "name": "ENCOUNTER_REBEL_ESTATE",
-    "text": "",
+    "text": {
+      "load": "TEXT_ENCOUNTER_REBEL_ESTATE"
+    },
     "ship": {
       "load": "SHIP_REBEL_ELITE_FIGHT",
       "hostile": "true"
@@ -59980,7 +60192,9 @@
   },
   {
     "name": "ENCOUNTER_MV_JERRY",
-    "text": "",
+    "text": {
+      "load": "TEXT_ENCOUNTER_MV_JERRY"
+    },
     "ship": {
       "load": "SHIP_REBEL_MV_FIGHT",
       "hostile": "true"
@@ -59998,7 +60212,9 @@
         "req": "LIST_CREW_JERRY",
         "text": "(Jerry) \"Hello!\"",
         "event": {
-          "text": "",
+          "text": {
+            "load": "TEXT_ENCOUNTER_REBEL_JERRY_HELLO"
+          },
           "ship": {
             "hostile": "false"
           }
@@ -60008,7 +60224,9 @@
   },
   {
     "name": "ENCOUNTER_REBEL_JERRY",
-    "text": "",
+    "text": {
+      "load": "TEXT_ENCOUNTER_REBEL_JERRY"
+    },
     "ship": {
       "load": "SHIP_REBEL_FIGHT",
       "hostile": "true"
@@ -60026,7 +60244,9 @@
         "req": "LIST_CREW_JERRY",
         "text": "(Jerry) \"Hello!\"",
         "event": {
-          "text": "",
+          "text": {
+            "load": "TEXT_ENCOUNTER_REBEL_JERRY_HELLO"
+          },
           "ship": {
             "hostile": "false"
           }
@@ -60036,7 +60256,9 @@
   },
   {
     "name": "ENCOUNTER_AUTO_JERRY",
-    "text": "",
+    "text": {
+      "load": "TEXT_ENCOUNTER_AUTO_JERRY"
+    },
     "ship": {
       "load": "SHIP_AUTO_FIGHT",
       "hostile": "true"
@@ -60520,7 +60742,9 @@
   },
   {
     "name": "ENCOUNTER_SLUG_PIRATE_CLEARING",
-    "text": "",
+    "text": {
+      "load": "TEXT_SLUG_PIRATE_CLEARING"
+    },
     "ship": {
       "load": "SHIP_PIRATE_ALL",
       "hostile": "true"
@@ -60535,7 +60759,9 @@
   },
   {
     "name": "ENCOUNTER_SLUG_REBEL_CLEARING",
-    "text": "",
+    "text": {
+      "load": "TEXT_SLUG_REBEL_CLEARING"
+    },
     "ship": {
       "load": "SHIP_REBEL_FIGHT",
       "hostile": "true"
@@ -63314,7 +63540,9 @@
   },
   {
     "name": "NEBULA_ENCOUNTER_SLUG_REGULAR",
-    "text": "",
+    "text": {
+      "load": "NEBULA_SLUG_FIGHT"
+    },
     "ship": {
       "load": "SHIP_SLUG_FIGHT",
       "hostile": "true"
@@ -63333,7 +63561,9 @@
   {
     "name": "NEBULA_ENCOUNTER_SLUG_STORM",
     "unique": "true",
-    "text": "",
+    "text": {
+      "load": "STORM_SLUG_FIGHT"
+    },
     "ship": {
       "load": "SHIP_SLUG_FIGHT",
       "hostile": "true"
@@ -64171,7 +64401,9 @@
         }
       },
       {
-        "text": "",
+        "text": {
+          "load": "GENERIC_SURRENDER_CHOICE_NOMERCY"
+        },
         "event": {}
       }
     ]
@@ -66658,7 +66890,9 @@
   },
   {
     "name": "NEBULA_ENCOUNTER_KNIGHT_REGULAR",
-    "text": "",
+    "text": {
+      "load": "NEBULA_KNIGHT_FIGHT"
+    },
     "ship": {
       "load": "SHIP_KNIGHT",
       "hostile": "true"
@@ -66713,7 +66947,9 @@
   },
   {
     "name": "NEBULA_ENCOUNTER_KNIGHT_CLAIRVOYANT",
-    "text": "",
+    "text": {
+      "load": "NEBULA_KNIGHT_CLAIRVOYANT_FIGHT"
+    },
     "ship": {
       "load": "SHIP_SLUG_ELITE_FIGHT",
       "hostile": "true"
@@ -68237,7 +68473,9 @@
   {
     "name": "LANIUS_TRADER_MV",
     "unique": "true",
-    "text": "",
+    "text": {
+      "load": "LANIUS_TRADER_MV_TEXT"
+    },
     "choice": [
       {
         "text": "Agree to the exchange.",
@@ -68387,7 +68625,9 @@
   {
     "name": "LANIUS_CIVILIAN_MV",
     "unique": "true",
-    "text": "",
+    "text": {
+      "load": "LANIUS_CIVILIAN_MV_TEXT"
+    },
     "ship": {
       "load": "SHIP_LANIUS_CIVILIAN",
       "hostile": "false"
@@ -68432,7 +68672,9 @@
   },
   {
     "name": "LANIUS_SOLO_SALVAGE_MV",
-    "text": "",
+    "text": {
+      "load": "LANIUS_SOLO_SALVAGE_MV_TEXT"
+    },
     "ship": {
       "load": "SHIP_LANIUS_FIGHT",
       "hostile": "false"
@@ -68791,7 +69033,9 @@
     "name": "DISTRESS_LANIUS_EMPTY",
     "unique": "true",
     "distressBeacon": {},
-    "text": "",
+    "text": {
+      "load": "TEXT_DISTRESS_LANIUS_EMPTY"
+    },
     "choice": [
       {
         "text": "Do something onboard the ship.",
@@ -69225,7 +69469,9 @@
   },
   {
     "name": "ENCOUNTER_LANIUS_SWARM",
-    "text": "",
+    "text": {
+      "load": "TEXT_ENCOUNTER_LANIUS"
+    },
     "ship": {
       "load": "SHIP_LANIUS_FIGHT",
       "hostile": "true"
@@ -69298,7 +69544,9 @@
   },
   {
     "name": "ENCOUNTER_REBEL_LANIUS",
-    "text": "",
+    "text": {
+      "load": "TEXT_ENCOUNTER_REBEL_LANIUS"
+    },
     "ship": {
       "load": "SHIP_REBEL_FIGHT",
       "hostile": "true"
@@ -69313,7 +69561,9 @@
   },
   {
     "name": "ENCOUNTER_PIRATE_LANIUS",
-    "text": "",
+    "text": {
+      "load": "TEXT_ENCOUNTER_PIRATE_LANIUS"
+    },
     "ship": {
       "load": "SHIP_PIRATE_ALL",
       "hostile": "true"
@@ -69328,7 +69578,9 @@
   },
   {
     "name": "ENCOUNTER_AUTO_LANIUS",
-    "text": "",
+    "text": {
+      "load": "TEXT_ENCOUNTER_AUTO_LANIUS"
+    },
     "ship": {
       "load": "SHIP_AUTO_FIGHT",
       "hostile": "true"
@@ -70247,7 +70499,9 @@
   },
   {
     "name": "LAST_STAND_START",
-    "text": "",
+    "text": {
+      "load": "TEXT_LIGHTSPEED"
+    },
     "img": {
       "back": "BACKGROUND_LIGHTSPEED",
       "planet": "PLANET_INVISIBLE"
@@ -73440,7 +73694,9 @@
     "name": "DISTRESS_NODE17_RESCUE",
     "unique": "true",
     "distressBeacon": {},
-    "text": "",
+    "text": {
+      "load": "TEXT_NODE17_RESCUE"
+    },
     "choice": [
       {
         "text": "Prepare to fight the Rebel ship!",
@@ -73847,7 +74103,9 @@
         "text": "CUSTOM_FLEET_FED"
       }
     ],
-    "text": "",
+    "text": {
+      "load": "TEXT_NODE17_ENCOUNTER_REBEL"
+    },
     "ship": {
       "load": "SHIP_REBEL_NODE17",
       "hostile": "true"
@@ -73876,7 +74134,9 @@
         "text": "CUSTOM_FLEET_FED"
       }
     ],
-    "text": "",
+    "text": {
+      "load": "TEXT_NODE17_ENCOUNTER_MV"
+    },
     "ship": {
       "load": "SHIP_REBEL_MV_FIGHT",
       "hostile": "true"
@@ -73905,7 +74165,9 @@
         "text": "CUSTOM_FLEET_FED"
       }
     ],
-    "text": "",
+    "text": {
+      "load": "TEXT_NODE17_ENCOUNTER_AUTO"
+    },
     "ship": {
       "load": "SHIP_AUTO_NODE17",
       "hostile": "true"
@@ -74185,7 +74447,9 @@
   },
   {
     "name": "NODE17_REPAIR_STATION_NORMAL",
-    "text": "",
+    "text": {
+      "load": "NODE17_REPAIR_STATION"
+    },
     "damage": {
       "amount": "-15"
     },
@@ -75973,7 +76237,9 @@
   },
   {
     "name": "ENCOUNTER_LOSTSUN_REGULAR",
-    "text": "",
+    "text": {
+      "load": "TEXT_ENCOUNTER_LOSTSUN"
+    },
     "ship": {
       "load": "SHIP_LOSTSUN_FIGHT",
       "hostile": "true"
@@ -76022,7 +76288,9 @@
   },
   {
     "name": "ENCOUNTER_ROCK_LOSTSUN_REGULAR",
-    "text": "",
+    "text": {
+      "load": "TEXT_ENCOUNTER_ROCK_LOSTSUN"
+    },
     "ship": {
       "load": "SHIP_ROCK_FIGHT",
       "hostile": "true"
@@ -76057,7 +76325,9 @@
   {
     "name": "ENCOUNTER_COALITION_LOSTSUN_1",
     "unique": "true",
-    "text": "",
+    "text": {
+      "load": "TEXT_ENCOUNTER_COALITION_LOSTSUN"
+    },
     "ship": {
       "load": "SHIP_COALITION_FIGHT",
       "hostile": "true"
@@ -76073,7 +76343,9 @@
   {
     "name": "ENCOUNTER_COALITION_LOSTSUN_2",
     "unique": "true",
-    "text": "",
+    "text": {
+      "load": "TEXT_ENCOUNTER_COALITION_LOSTSUN"
+    },
     "ship": {
       "load": "SHIP_COALITION_FIGHT",
       "hostile": "true"
@@ -76088,7 +76360,9 @@
   },
   {
     "name": "LOSTSUN_ROCK_CHOICE",
-    "text": "",
+    "text": {
+      "load": "TEXT_LOSTSUN_ROCK_CHOICE"
+    },
     "choice": [
       {
         "hidden": "true",
@@ -76399,7 +76673,9 @@
   {
     "name": "MILITIA_FREE_AMMO",
     "unique": "true",
-    "text": "",
+    "text": {
+      "load": "MILITIA_FREE_AMMO"
+    },
     "autoReward": {
       "level": "MED",
       "text": "missiles_only"
@@ -76844,7 +77120,9 @@
   },
   {
     "name": "MILITIA_CHOICE",
-    "text": "",
+    "text": {
+      "load": "TEXT_MILITIA_CHOICE"
+    },
     "ship": {
       "load": "SHIP_MILITIA_ALL",
       "hostile": "false"
@@ -77721,7 +77999,9 @@
   {
     "name": "ENCOUNTER_MILITIA_MISTAKE",
     "unique": "true",
-    "text": "",
+    "text": {
+      "load": "TEXT_ENCOUNTER_MILITIA_MISTAKE"
+    },
     "ship": {
       "load": "SHIP_MILITIA_FIGHT",
       "hostile": "true"
@@ -77804,7 +78084,9 @@
   },
   {
     "name": "ENCOUNTER_PIRATE_MILITIA",
-    "text": "",
+    "text": {
+      "load": "TEXT_ENCOUNTER_PIRATE_MILITIA"
+    },
     "ship": {
       "load": "SHIP_PIRATE_ALL",
       "hostile": "true"
@@ -77819,7 +78101,9 @@
   },
   {
     "name": "ENCOUNTER_PIRATE_MILITIA_ONLY",
-    "text": "",
+    "text": {
+      "load": "TEXT_ENCOUNTER_PIRATE_MILITIA_ONLY"
+    },
     "ship": {
       "load": "SHIP_PIRATE_MILITIA",
       "hostile": "true"
@@ -77834,7 +78118,9 @@
   },
   {
     "name": "ENCOUNTER_REBEL_MILITIA",
-    "text": "",
+    "text": {
+      "load": "TEXT_ENCOUNTER_REBEL_MILITIA"
+    },
     "ship": {
       "load": "SHIP_REBEL_ALL",
       "hostile": "true"
@@ -78400,7 +78686,9 @@
       "op": "set",
       "val": "1"
     },
-    "text": "",
+    "text": {
+      "load": "TEXT_SHERLOCK_TALK"
+    },
     "choice": {
       "hidden": "true",
       "text": "Continue...",
@@ -81406,7 +81694,9 @@
   },
   {
     "name": "ENCOUNTER_ZOLTAN_REGULAR",
-    "text": "",
+    "text": {
+      "load": "TEXT_ENCOUNTER_ZOLTAN"
+    },
     "ship": {
       "load": "SHIP_ZOLTAN_FIGHT",
       "hostile": "true"
@@ -81461,7 +81751,9 @@
   {
     "name": "ENCOUNTER_ZOLTAN_PULSAR",
     "unique": "true",
-    "text": "",
+    "text": {
+      "load": "TEXT_ENCOUNTER_ZOLTAN_PULSAR"
+    },
     "environment": {
       "type": "pulsar"
     },
@@ -81504,7 +81796,9 @@
   },
   {
     "name": "ENCOUNTER_ZOLTAN_AUTO_REGULAR",
-    "text": "",
+    "text": {
+      "load": "TEXT_ENCOUNTER_ZOLTAN_AUTO"
+    },
     "ship": {
       "load": "SHIP_ZOLTAN_AUTO",
       "hostile": "true"
@@ -81538,7 +81832,9 @@
   },
   {
     "name": "ENCOUNTER_PIRATE_ZOLTAN",
-    "text": "",
+    "text": {
+      "load": "TEXT_ENCOUNTER_PIRATE_ZOLTAN"
+    },
     "ship": {
       "load": "SHIP_PIRATE_ZOLTAN",
       "hostile": "true"
@@ -84036,7 +84332,9 @@
   },
   {
     "name": "NEBULA_ENCOUNTER_ZOLTAN_MONK",
-    "text": "",
+    "text": {
+      "load": "TEXT_ENCOUNTER_MONK_ZOLTAN"
+    },
     "ship": {
       "load": "SHIP_ZOLTAN_FIGHT",
       "hostile": "true"
@@ -84054,7 +84352,9 @@
   },
   {
     "name": "NEBULA_ENCOUNTER_ZOLTAN_AUTO_MONK",
-    "text": "",
+    "text": {
+      "load": "TEXT_ENCOUNTER_ZOLTAN_AUTO_MONK"
+    },
     "ship": {
       "load": "SHIP_ZOLTAN_AUTO",
       "hostile": "true"
@@ -84072,7 +84372,9 @@
   },
   {
     "name": "NEBULA_ENCOUNTER_PIRATE_MONK",
-    "text": "",
+    "text": {
+      "load": "TEXT_ENCOUNTER_MONK_PIRATE"
+    },
     "ship": {
       "load": "SHIP_PIRATE_ALL",
       "hostile": "true"
@@ -87340,7 +87642,9 @@
   },
   {
     "name": "NEBULA_ENCOUNTER_MORPH",
-    "text": "",
+    "text": {
+      "load": "TEXT_ENCOUNTER_MORPH"
+    },
     "ship": {
       "load": "SHIP_MORPH_FIGHT",
       "hostile": "true"
@@ -87358,7 +87662,9 @@
   },
   {
     "name": "NEBULA_ENCOUNTER_REBEL_MORPH",
-    "text": "",
+    "text": {
+      "load": "TEXT_ENCOUNTER_REBEL_MORPH"
+    },
     "ship": {
       "load": "SHIP_REBEL_FIGHT",
       "hostile": "true"
@@ -87376,7 +87682,9 @@
   },
   {
     "name": "NEBULA_ENCOUNTER_AUTO_MORPH",
-    "text": "",
+    "text": {
+      "load": "TEXT_ENCOUNTER_AUTO_MORPH"
+    },
     "ship": {
       "load": "SHIP_AUTO_FIGHT",
       "hostile": "true"
@@ -96504,7 +96812,9 @@
       "back": "BACKGROUND",
       "planet": "PLANET_ANCIENT"
     },
-    "text": "",
+    "text": {
+      "load": "TEXT_ANCIENT_CHOICE"
+    },
     "ship": {
       "load": "SHIP_ANCIENT_ALL",
       "hostile": "false"
@@ -97489,7 +97799,9 @@
       "back": "BACKGROUND",
       "planet": "PLANET_ANCIENT"
     },
-    "text": "",
+    "text": {
+      "load": "TEXT_ENCOUNTER_ANCIENT"
+    },
     "ship": {
       "load": "SHIP_ANCIENT_ALL",
       "hostile": "true"
@@ -97504,7 +97816,9 @@
   },
   {
     "name": "ENCOUNTER_ANCIENT_AUTO",
-    "text": "",
+    "text": {
+      "load": "TEXT_ENCOUNTER_ANCIENT_AUTO"
+    },
     "ship": {
       "load": "SHIP_ANCIENT_AUTO",
       "hostile": "true"
@@ -97524,7 +97838,9 @@
       "back": "BACKGROUND",
       "planet": "PLANET_ANCIENT"
     },
-    "text": "",
+    "text": {
+      "load": "TEXT_ENCOUNTER_ANCIENT"
+    },
     "ship": {
       "load": "SHIP_ANCIENT_ALL_SURRENDER",
       "hostile": "true"
@@ -97605,7 +97921,9 @@
   },
   {
     "name": "ENCOUNTER_ROYAL",
-    "text": "",
+    "text": {
+      "load": "TEXT_ENCOUNTER_ROYAL"
+    },
     "ship": {
       "load": "SHIP_ROYAL_ALL",
       "hostile": "true"
@@ -97620,7 +97938,9 @@
   },
   {
     "name": "ENCOUNTER_ROYAL_MFK",
-    "text": "",
+    "text": {
+      "load": "TEXT_ENCOUNTER_ROYAL_MFK"
+    },
     "ship": {
       "load": "SHIP_REBEL_SELITEA_FIGHT",
       "hostile": "true"
@@ -98446,7 +98766,9 @@
               "req": "LIST_CREW_JERRY",
               "text": "(Jerry) \"Hello!\"",
               "event": {
-                "text": "",
+                "text": {
+                  "load": "TEXT_ENCOUNTER_REBEL_JERRY_HELLO"
+                },
                 "ship": {
                   "hostile": "false"
                 }
@@ -99259,7 +99581,9 @@
   {
     "name": "ORIGINS_ATTACKERS",
     "distressBeacon": {},
-    "text": "",
+    "text": {
+      "load": "TEXT_ORIGINS_ATTACKERS"
+    },
     "choice": [
       {
         "hidden": "true",
@@ -99320,7 +99644,9 @@
   },
   {
     "name": "ENCOUNTER_CULTIST_REGULAR",
-    "text": "",
+    "text": {
+      "load": "TEXT_ENCOUNTER_CULTIST"
+    },
     "ship": {
       "load": "SHIP_CULTIST_FIGHT",
       "hostile": "true"
@@ -99403,7 +99729,9 @@
   },
   {
     "name": "ENCOUNTER_ORIGINS_CRYSTAL_REGULAR",
-    "text": "",
+    "text": {
+      "load": "TEXT_ENCOUNTER_ORIGINS_CRYSTAL"
+    },
     "ship": {
       "load": "SHIP_CRYSTAL_FIGHT",
       "hostile": "true"
@@ -101946,7 +102274,9 @@
   },
   {
     "name": "ENCOUNTER_OUTCAST_REGULAR",
-    "text": "",
+    "text": {
+      "load": "TEXT_ENCOUNTER_OUTCAST"
+    },
     "ship": {
       "load": "SHIP_OUTCAST_FIGHT",
       "hostile": "true"
@@ -101980,7 +102310,9 @@
   },
   {
     "name": "ENCOUNTER_SSLG",
-    "text": "",
+    "text": {
+      "load": "TEXT_ENCOUNTER_SSLG"
+    },
     "ship": {
       "load": "SHIP_SSLG_FIGHT",
       "hostile": "true"
@@ -103526,7 +103858,9 @@
   {
     "name": "PIRATE_CIVILIAN_MV",
     "unique": "false",
-    "text": "",
+    "text": {
+      "load": "PIRATE_CIVILIAN"
+    },
     "img": {
       "back": "BACKGROUND",
       "planet": "PLANET_POPULATED"
@@ -103572,7 +103906,9 @@
   {
     "name": "PIRATE_BRIBER_MV",
     "unique": "true",
-    "text": "",
+    "text": {
+      "load": "PIRATE_BRIBER"
+    },
     "ship": {
       "load": "SHIP_PIRATE_BRIBER",
       "hostile": "false"
@@ -106749,7 +107085,9 @@
             {
               "text": "Sure, we'll have a drink.",
               "event": {
-                "text": "",
+                "text": {
+                  "load": "TUCO_DRINK"
+                },
                 "item_modify": {
                   "item": {
                     "type": "scrap",
@@ -106761,7 +107099,9 @@
                   {
                     "text": "Have another drink.",
                     "event": {
-                      "text": "",
+                      "text": {
+                        "load": "TUCO_DRINK"
+                      },
                       "item_modify": {
                         "item": {
                           "type": "scrap",
@@ -108073,7 +108413,9 @@
   },
   {
     "name": "REMOTE_COLONY_CARPENTER_BENIGN",
-    "text": "",
+    "text": {
+      "load": "TEXT_CARPENTER_BENIGN"
+    },
     "choice": {
       "text": "Continue...",
       "event": {
@@ -109311,7 +109653,9 @@
     "name": "DISTRESS_REBEL_FLEEING_FROM_RENEGADE",
     "unique": "true",
     "distressBeacon": {},
-    "text": "",
+    "text": {
+      "load": "DISTRESS_REBEL_HOSTILE"
+    },
     "ship": {
       "load": "SHIP_REBEL_FIGHT",
       "hostile": "true"
@@ -110240,7 +110584,9 @@
   },
   {
     "name": "ENCOUNTER_REBEL_REGULAR",
-    "text": "",
+    "text": {
+      "load": "TEXT_ENCOUNTER_REBEL"
+    },
     "ship": {
       "load": "SHIP_REBEL_FIGHT",
       "hostile": "true"
@@ -110260,7 +110606,9 @@
       "back": "BG_DARK",
       "planet": "NONE"
     },
-    "text": "",
+    "text": {
+      "load": "TEXT_ENCOUNTER_REBEL_PULSAR"
+    },
     "ship": {
       "load": "SHIP_REBEL_FIGHT",
       "hostile": "true"
@@ -110314,7 +110662,9 @@
   {
     "name": "BOARDERS_REBEL_SHIP",
     "unique": "true",
-    "text": "",
+    "text": {
+      "load": "BOARDERS_REBEL_SHIP"
+    },
     "boarders": {
       "min": "2",
       "max": "3",
@@ -111332,7 +111682,9 @@
   {
     "name": "LEECH_SPACE_TRASH",
     "unique": "true",
-    "text": "",
+    "text": {
+      "load": "TEXT_LEECH_SPACE_TRASH"
+    },
     "img": {
       "planet": "NONE"
     },
@@ -112335,7 +112687,9 @@
             "op": "set",
             "val": "2"
           },
-          "text": "",
+          "text": {
+            "load": "TEXT_FAKE_SOLD_OUT"
+          },
           "choice": {
             "text": "Ask for something else.",
             "event": {
@@ -112356,7 +112710,9 @@
             "op": "set",
             "val": "2"
           },
-          "text": "",
+          "text": {
+            "load": "TEXT_FAKE_SOLD_OUT"
+          },
           "choice": {
             "text": "Ask for something else.",
             "event": {
@@ -112377,7 +112733,9 @@
             "op": "set",
             "val": "2"
           },
-          "text": "",
+          "text": {
+            "load": "TEXT_FAKE_SOLD_OUT"
+          },
           "choice": {
             "text": "Ask for something else.",
             "event": {
@@ -112398,7 +112756,9 @@
             "op": "set",
             "val": "2"
           },
-          "text": "",
+          "text": {
+            "load": "TEXT_FAKE_SOLD_OUT"
+          },
           "choice": {
             "text": "Ask for something else.",
             "event": {
@@ -112419,7 +112779,9 @@
             "op": "set",
             "val": "2"
           },
-          "text": "",
+          "text": {
+            "load": "TEXT_FAKE_SOLD_OUT"
+          },
           "choice": {
             "text": "Ask for something else.",
             "event": {
@@ -112440,7 +112802,9 @@
             "op": "set",
             "val": "2"
           },
-          "text": "",
+          "text": {
+            "load": "TEXT_FAKE_SOLD_OUT"
+          },
           "choice": {
             "text": "Ask for something else.",
             "event": {
@@ -112461,7 +112825,9 @@
             "op": "set",
             "val": "2"
           },
-          "text": "",
+          "text": {
+            "load": "TEXT_FAKE_SOLD_OUT"
+          },
           "choice": {
             "text": "Ask for something else.",
             "event": {
@@ -112482,7 +112848,9 @@
             "op": "set",
             "val": "2"
           },
-          "text": "",
+          "text": {
+            "load": "TEXT_FAKE_SOLD_OUT"
+          },
           "choice": {
             "text": "Ask for something else.",
             "event": {
@@ -112503,7 +112871,9 @@
             "op": "set",
             "val": "2"
           },
-          "text": "",
+          "text": {
+            "load": "TEXT_FAKE_SOLD_OUT"
+          },
           "choice": {
             "text": "Ask for something else.",
             "event": {
@@ -112524,7 +112894,9 @@
             "op": "set",
             "val": "2"
           },
-          "text": "",
+          "text": {
+            "load": "TEXT_FAKE_SOLD_OUT"
+          },
           "choice": {
             "text": "Ask for something else.",
             "event": {
@@ -112545,7 +112917,9 @@
             "op": "set",
             "val": "2"
           },
-          "text": "",
+          "text": {
+            "load": "TEXT_FAKE_SOLD_OUT"
+          },
           "choice": {
             "text": "Ask for something else.",
             "event": {
@@ -112579,7 +112953,9 @@
             "op": "set",
             "val": "1"
           },
-          "text": "",
+          "text": {
+            "load": "TEXT_FAKE_SOLD_OUT"
+          },
           "choice": {
             "text": "Ask for something else.",
             "event": {
@@ -112600,7 +112976,9 @@
             "op": "set",
             "val": "1"
           },
-          "text": "",
+          "text": {
+            "load": "TEXT_FAKE_SOLD_OUT"
+          },
           "choice": {
             "text": "Ask for something else.",
             "event": {
@@ -112621,7 +112999,9 @@
             "op": "set",
             "val": "1"
           },
-          "text": "",
+          "text": {
+            "load": "TEXT_FAKE_SOLD_OUT"
+          },
           "choice": {
             "text": "Ask for something else.",
             "event": {
@@ -112642,7 +113022,9 @@
             "op": "set",
             "val": "1"
           },
-          "text": "",
+          "text": {
+            "load": "TEXT_FAKE_SOLD_OUT"
+          },
           "choice": {
             "text": "Ask for something else.",
             "event": {
@@ -112663,7 +113045,9 @@
             "op": "set",
             "val": "1"
           },
-          "text": "",
+          "text": {
+            "load": "TEXT_FAKE_SOLD_OUT"
+          },
           "choice": {
             "text": "Ask for something else.",
             "event": {
@@ -112684,7 +113068,9 @@
             "op": "set",
             "val": "1"
           },
-          "text": "",
+          "text": {
+            "load": "TEXT_FAKE_SOLD_OUT"
+          },
           "choice": {
             "text": "Ask for something else.",
             "event": {
@@ -112705,7 +113091,9 @@
             "op": "set",
             "val": "1"
           },
-          "text": "",
+          "text": {
+            "load": "TEXT_FAKE_SOLD_OUT"
+          },
           "choice": {
             "text": "Ask for something else.",
             "event": {
@@ -112726,7 +113114,9 @@
             "op": "set",
             "val": "1"
           },
-          "text": "",
+          "text": {
+            "load": "TEXT_FAKE_SOLD_OUT"
+          },
           "choice": {
             "text": "Ask for something else.",
             "event": {
@@ -112747,7 +113137,9 @@
             "op": "set",
             "val": "1"
           },
-          "text": "",
+          "text": {
+            "load": "TEXT_FAKE_SOLD_OUT"
+          },
           "choice": {
             "text": "Ask for something else.",
             "event": {
@@ -112768,7 +113160,9 @@
             "op": "set",
             "val": "1"
           },
-          "text": "",
+          "text": {
+            "load": "TEXT_FAKE_SOLD_OUT"
+          },
           "choice": {
             "text": "Ask for something else.",
             "event": {
@@ -112789,7 +113183,9 @@
             "op": "set",
             "val": "1"
           },
-          "text": "",
+          "text": {
+            "load": "TEXT_FAKE_SOLD_OUT"
+          },
           "choice": {
             "text": "Ask for something else.",
             "event": {
@@ -113501,7 +113897,9 @@
   },
   {
     "name": "NEBULA_LIGHT_ENCOUNTER_LEECH",
-    "text": "",
+    "text": {
+      "load": "TEXT_ENCOUNTER_LEECH"
+    },
     "ship": {
       "load": "SHIP_LEECH_FIGHT",
       "hostile": "true"
@@ -113525,7 +113923,9 @@
   },
   {
     "name": "ENCOUNTER_LEECH_ASTEROID",
-    "text": "",
+    "text": {
+      "load": "TEXT_ENCOUNTER_LEECH"
+    },
     "ship": {
       "load": "SHIP_LEECH_FIGHT",
       "hostile": "true"
@@ -113562,7 +113962,9 @@
   },
   {
     "name": "NEBULA_LIGHT_ENCOUNTER_REVOLUTIONARY",
-    "text": "",
+    "text": {
+      "load": "TEXT_ENCOUNTER_REVOLUTIONARY"
+    },
     "ship": {
       "load": "SHIP_ALKRAM_FIGHT",
       "hostile": "true"
@@ -113586,7 +113988,9 @@
   },
   {
     "name": "ENCOUNTER_REVOLUTIONARY_ASTEROID",
-    "text": "",
+    "text": {
+      "load": "TEXT_ENCOUNTER_REVOLUTIONARY"
+    },
     "ship": {
       "load": "SHIP_ALKRAM_FIGHT",
       "hostile": "true"
@@ -113604,7 +114008,9 @@
   },
   {
     "name": "ENCOUNTER_LEECH_ROCK_ASTEROID",
-    "text": "",
+    "text": {
+      "load": "TEXT_ENCOUNTER_LEECH_ROCK"
+    },
     "ship": {
       "load": "SHIP_ROCK_FIGHT",
       "hostile": "true"
@@ -113622,7 +114028,9 @@
   },
   {
     "name": "NEBULA_LIGHT_ENCOUNTER_LEECH_COALITION",
-    "text": "",
+    "text": {
+      "load": "TEXT_ENCOUNTER_LEECH_COALITION"
+    },
     "img": {
       "back": "BACK_EVENT_STARS_SPARSE"
     },
@@ -113646,7 +114054,9 @@
   },
   {
     "name": "ENCOUNTER_LEECH_COALITION_ASTEROID",
-    "text": "",
+    "text": {
+      "load": "TEXT_ENCOUNTER_LEECH_COALITION"
+    },
     "ship": {
       "load": "SHIP_COALITION_FIGHT",
       "hostile": "true"
@@ -114488,7 +114898,9 @@
       "load": "GOTAWAY_LEECH"
     },
     "destroyed": {
-      "text": "",
+      "text": {
+        "load": "TEXT_DESTROYED_LEECH"
+      },
       "autoReward": {
         "level": "MED",
         "text": "standard_no_item"
@@ -114512,7 +114924,9 @@
       }
     },
     "deadCrew": {
-      "text": "",
+      "text": {
+        "load": "TEXT_DEAD_CREW_LEECH"
+      },
       "autoReward": {
         "level": "HIGH",
         "text": "standard_no_item"
@@ -115710,7 +116124,9 @@
       "back": "VICTORY_TRUE",
       "planet": "NONE"
     },
-    "text": "",
+    "text": {
+      "load": "TEXT_VISION_ENCOUNTER"
+    },
     "ship": {
       "load": "SHIP_VISION",
       "hostile": "true"
@@ -117558,7 +117974,9 @@
     "name": "DISTRESS_SEPARATIST_TRAP_BEACON",
     "unique": "true",
     "distressBeacon": {},
-    "text": "",
+    "text": {
+      "load": "TEXT_DISTRESS_SEPARATIST_TRAP_BEACON"
+    },
     "ship": {
       "load": "SHIP_SEPARATIST_FIGHT",
       "hostile": "true"
@@ -117653,7 +118071,9 @@
   },
   {
     "name": "ENCOUNTER_SEPARATIST",
-    "text": "",
+    "text": {
+      "load": "TEXT_ENCOUNTER_SEPARATIST"
+    },
     "ship": {
       "load": "SHIP_SEPARATIST_FIGHT",
       "hostile": "true"
@@ -117684,7 +118104,9 @@
   },
   {
     "name": "ENCOUNTER_MANTIS_SEPARATIST",
-    "text": "",
+    "text": {
+      "load": "TEXT_ENCOUNTER_MANTIS_SEPARATIST"
+    },
     "ship": {
       "load": "SHIP_MANTIS_FIGHT",
       "hostile": "true"
@@ -121576,7 +121998,9 @@
   },
   {
     "name": "ENCOUNTER_INFESTED",
-    "text": "",
+    "text": {
+      "load": "TEXT_ENCOUNTER_INFESTED"
+    },
     "ship": {
       "load": "SHIP_INFESTED",
       "hostile": "true"
@@ -121607,7 +122031,9 @@
   },
   {
     "name": "ENCOUNTER_BROOD",
-    "text": "",
+    "text": {
+      "load": "TEXT_ENCOUNTER_BROOD"
+    },
     "ship": {
       "load": "SHIP_BROOD",
       "hostile": "true"
@@ -121622,7 +122048,9 @@
   },
   {
     "name": "ENCOUNTER_CLANSMEN_INFESTATION",
-    "text": "",
+    "text": {
+      "load": "TEXT_ENCOUNTER_CLANSMEN_INFESTATION"
+    },
     "ship": {
       "load": "SHIP_CLAN_FIGHT",
       "hostile": "true"
@@ -124818,7 +125246,9 @@
         }
       },
       {
-        "text": "",
+        "text": {
+          "load": "GENERIC_SURRENDER_CHOICE_NOMERCY"
+        },
         "event": {}
       }
     ]
@@ -124995,7 +125425,9 @@
   {
     "name": "NEBULA_LIGHT_ENCOUNTER_FEDERATION_STARGROVE",
     "unique": "true",
-    "text": "",
+    "text": {
+      "load": "TEXT_ENCOUNTER_FEDERATION_STARGROVE"
+    },
     "ship": {
       "load": "SHIP_FED_ELITE_STARGROVE",
       "hostile": "true"
@@ -125044,7 +125476,9 @@
   {
     "name": "NEBULA_LIGHT_ENCOUNTER_PIRATE_ELITE_STARGROVE",
     "unique": "true",
-    "text": "",
+    "text": {
+      "load": "TEXT_ENCOUNTER_PIRATE_STARGROVE"
+    },
     "ship": {
       "load": "SHIP_PIRATE_ELITE_STARGROVE",
       "hostile": "true"
@@ -125085,7 +125519,9 @@
   {
     "name": "NEBULA_LIGHT_ENCOUNTER_PIRATE_ELITE_STARGROVE_PULSAR",
     "unique": "true",
-    "text": "",
+    "text": {
+      "load": "TEXT_ENCOUNTER_PIRATE_STARGROVE"
+    },
     "ship": {
       "load": "SHIP_PIRATE_ELITE_STARGROVE",
       "hostile": "true"
@@ -125129,7 +125565,9 @@
     "revisitEvent": {
       "text": "NEBULA_LIGHT_STARGROVE_BLUEGIANT_REVISIT"
     },
-    "text": "",
+    "text": {
+      "load": "TEXT_ENCOUNTER_PIRATE_STARGROVE"
+    },
     "ship": {
       "load": "SHIP_PIRATE_ELITE_STARGROVE",
       "hostile": "true"
@@ -125386,7 +125824,9 @@
   },
   {
     "name": "NEBULA_LIGHT_ENCOUNTER_VAGABOND_STARGROVE",
-    "text": "",
+    "text": {
+      "load": "TEXT_ENCOUNTER_GHOST_ABANDONED"
+    },
     "ship": {
       "load": "SHIP_GHOST_ALL",
       "hostile": "true"
@@ -125420,7 +125860,9 @@
     "revisitEvent": {
       "text": "NEBULA_LIGHT_STARGROVE_BLUEGIANT_REVISIT"
     },
-    "text": "",
+    "text": {
+      "load": "TEXT_ENCOUNTER_GHOST_ABANDONED"
+    },
     "ship": {
       "load": "SHIP_GHOST_ALL",
       "hostile": "true"
@@ -125465,7 +125907,9 @@
   },
   {
     "name": "NEBULA_LIGHT_ENCOUNTER_AUTO_STARGROVE",
-    "text": "",
+    "text": {
+      "load": "TEXT_ENCOUNTER_AUTO"
+    },
     "ship": {
       "load": "SHIP_AUTO_FIGHT",
       "hostile": "true"
@@ -125499,7 +125943,9 @@
     "revisitEvent": {
       "text": "NEBULA_LIGHT_STARGROVE_BLUEGIANT_REVISIT"
     },
-    "text": "",
+    "text": {
+      "load": "TEXT_ENCOUNTER_AUTO"
+    },
     "ship": {
       "load": "SHIP_AUTO_FIGHT",
       "hostile": "true"
@@ -126729,13 +127175,17 @@
           }
         },
         {
-          "text": "",
+          "text": {
+            "load": "GENERIC_SURRENDER_CHOICE_NOMERCY"
+          },
           "event": {}
         }
       ]
     },
     "destroyed": {
-      "text": "",
+      "text": {
+        "load": "TEXT_DESTROYED_ROCK"
+      },
       "autoReward": {
         "level": "MED",
         "text": "standard"
@@ -126765,7 +127215,9 @@
       ]
     },
     "deadCrew": {
-      "text": "",
+      "text": {
+        "load": "TEXT_DEAD_CREW_ROCK"
+      },
       "autoReward": {
         "level": "HIGH",
         "text": "standard"
@@ -127068,7 +127520,9 @@
     "name": "SHIP_INFERNUM_GRAVASTAR",
     "auto_blueprint": "LIST_SHIPS_INFERNUM_FIGHT",
     "destroyed": {
-      "text": "",
+      "text": {
+        "load": "TEXT_DESTROYED_INFERNUM"
+      },
       "autoReward": {
         "level": "HIGH",
         "text": "standard"
@@ -127082,7 +127536,9 @@
       }
     },
     "deadCrew": {
-      "text": "",
+      "text": {
+        "load": "TEXT_DEAD_CREW_INFERNUM"
+      },
       "autoReward": {
         "level": "HIGH",
         "text": "standard"
@@ -128860,7 +129316,9 @@
         "hidden": "true",
         "text": "Tell them their god sent them here to join your crew.",
         "event": {
-          "text": "",
+          "text": {
+            "load": "ROCK_ATHEIST_BAD"
+          },
           "ship": {
             "hostile": "true"
           },
@@ -130442,7 +130900,9 @@
   },
   {
     "name": "ENCOUNTER_ROCK_REGULAR",
-    "text": "",
+    "text": {
+      "load": "TEXT_ENCOUNTER_ROCK"
+    },
     "ship": {
       "load": "SHIP_ROCK_FIGHT",
       "hostile": "true"
@@ -130458,7 +130918,9 @@
   {
     "name": "ROCK_FIGHT_ASTEROID",
     "unique": "true",
-    "text": "",
+    "text": {
+      "load": "ROCK_FIGHT_ASTEROID"
+    },
     "ship": {
       "load": "SHIP_ROCK_FIGHT",
       "hostile": "true"
@@ -130477,7 +130939,9 @@
   {
     "name": "BOARDERS_ROCK_ASTEROID",
     "unique": "true",
-    "text": "",
+    "text": {
+      "load": "BOARDERS_ROCK_ASTEROID"
+    },
     "boarders": {
       "min": "1",
       "max": "2",
@@ -130501,7 +130965,9 @@
   {
     "name": "BOARDERS_ROCK_SUN",
     "unique": "true",
-    "text": "",
+    "text": {
+      "load": "BOARDERS_ROCK_SUN"
+    },
     "environment": {
       "type": "sun"
     },
@@ -130528,7 +130994,9 @@
   },
   {
     "name": "ENCOUNTER_ROCK_HOMEWORLDS_REGULAR",
-    "text": "",
+    "text": {
+      "load": "TEXT_ENCOUNTER_ROCKHOME"
+    },
     "ship": {
       "load": "SHIP_ROCK_FIGHT",
       "hostile": "true"
@@ -133863,7 +134331,9 @@
   },
   {
     "name": "NEBULA_ENCOUNTER_REBEL_REGULAR",
-    "text": "",
+    "text": {
+      "load": "TEXT_ENCOUNTER_REBEL_NEBULA"
+    },
     "ship": {
       "load": "SHIP_REBEL_FIGHT",
       "hostile": "true"
@@ -133941,7 +134411,9 @@
   },
   {
     "name": "NEBULA_ENCOUNTER_AUTO_REGULAR",
-    "text": "",
+    "text": {
+      "load": "TEXT_ENCOUNTER_AUTO_NEBULA"
+    },
     "ship": {
       "load": "SHIP_AUTO_FIGHT",
       "hostile": "true"
@@ -134016,7 +134488,9 @@
   },
   {
     "name": "NEBULA_ENCOUNTER_PIRATE",
-    "text": "",
+    "text": {
+      "load": "NEBULA_PIRATE"
+    },
     "ship": {
       "load": "SHIP_PIRATE_ALL",
       "hostile": "true"
@@ -134106,7 +134580,9 @@
   {
     "name": "UNION_TRAFFIC",
     "unique": "true",
-    "text": "",
+    "text": {
+      "load": "TEXT_UNION_TRAFFIC"
+    },
     "img": {
       "planet": "PLANET_UNPOPULATED_TERRA"
     },
@@ -136189,7 +136665,9 @@
   },
   {
     "name": "UNION_CLINIC_PROTECTED",
-    "text": "",
+    "text": {
+      "load": "UNION_CLINIC_SAVED"
+    },
     "crewMember": {
       "amount": "1",
       "class": "human_medic"
@@ -138534,7 +139012,9 @@
   {
     "name": "NEBULA_GHOST_DEADSHIP",
     "unique": "true",
-    "text": "",
+    "text": {
+      "load": "TEXT_GHOST_DEADSHIP"
+    },
     "environment": {
       "type": "nebula"
     },
@@ -139661,7 +140141,9 @@
   },
   {
     "name": "NEBULA_ENCOUNTER_VAGABOND",
-    "text": "",
+    "text": {
+      "load": "NEBULA_GHOST_FIGHT"
+    },
     "ship": {
       "load": "SHIP_GHOST_ALL",
       "hostile": "true"
@@ -140305,7 +140787,9 @@
           }
         },
         {
-          "text": "",
+          "text": {
+            "load": "GENERIC_SURRENDER_CHOICE_NOMERCY"
+          },
           "event": {}
         }
       ]
@@ -140809,7 +141293,9 @@
       ]
     },
     "destroyed": {
-      "text": "",
+      "text": {
+        "load": "TEXT_DESTROYED_COALITION"
+      },
       "autoReward": {
         "level": "MED",
         "text": "standard"
@@ -140843,7 +141329,9 @@
       ]
     },
     "deadCrew": {
-      "text": "",
+      "text": {
+        "load": "TEXT_DEAD_CREW_COALITION"
+      },
       "autoReward": {
         "level": "HIGH",
         "text": "standard"
@@ -140901,13 +141389,17 @@
           }
         },
         {
-          "text": "",
+          "text": {
+            "load": "GENERIC_SURRENDER_CHOICE_NOMERCY"
+          },
           "event": {}
         }
       ]
     },
     "destroyed": {
-      "text": "",
+      "text": {
+        "load": "TEXT_DESTROYED_COALITION"
+      },
       "autoReward": {
         "level": "MED",
         "text": "standard"
@@ -140920,7 +141412,9 @@
       }
     },
     "deadCrew": {
-      "text": "",
+      "text": {
+        "load": "TEXT_DEAD_CREW_COALITION"
+      },
       "autoReward": {
         "level": "HIGH",
         "text": "standard"
@@ -140990,7 +141484,9 @@
       ]
     },
     "deadCrew": {
-      "text": "",
+      "text": {
+        "load": "TEXT_DEAD_CREW_COALITION"
+      },
       "autoReward": {
         "level": "HIGH",
         "text": "standard"
@@ -141024,7 +141520,9 @@
     "name": "SHIP_COALITION_DISTRESS_CRYSTAL",
     "auto_blueprint": "LIST_SHIPS_COALITION_FIGHT",
     "destroyed": {
-      "text": "",
+      "text": {
+        "load": "TEXT_DESTROYED_COALITION"
+      },
       "autoReward": {
         "level": "MED",
         "text": "standard"
@@ -141037,7 +141535,9 @@
       }
     },
     "deadCrew": {
-      "text": "",
+      "text": {
+        "load": "TEXT_DEAD_CREW_COALITION"
+      },
       "autoReward": {
         "level": "HIGH",
         "text": "standard"
@@ -141482,7 +141982,9 @@
     "name": "SHIP_REBEL_MILITIA",
     "auto_blueprint": "LIST_SHIPS_REBEL_FIGHT",
     "destroyed": {
-      "text": "",
+      "text": {
+        "load": "TEXT_DESTROYED_REBEL"
+      },
       "autoReward": {
         "level": "MED",
         "text": "standard"
@@ -141500,7 +142002,9 @@
       }
     },
     "deadCrew": {
-      "text": "",
+      "text": {
+        "load": "TEXT_DEAD_CREW_REBEL"
+      },
       "autoReward": {
         "level": "HIGH",
         "text": "standard"
@@ -142207,7 +142711,9 @@
     "name": "SHIP_REBEL_CRYSTAL_GATHERING",
     "auto_blueprint": "LIST_SHIPS_REBEL_ALL",
     "destroyed": {
-      "text": "",
+      "text": {
+        "load": "TEXT_DESTROYED_REBEL"
+      },
       "autoReward": {
         "level": "MED",
         "text": "standard"
@@ -142221,7 +142727,9 @@
       }
     },
     "deadCrew": {
-      "text": "",
+      "text": {
+        "load": "TEXT_DEAD_CREW_REBEL"
+      },
       "autoReward": {
         "level": "HIGH",
         "text": "standard"
@@ -142282,7 +142790,9 @@
       "chance": "0.4",
       "min": "2",
       "max": "3",
-      "text": "",
+      "text": {
+        "load": "TEXT_SURRENDER_REBEL_STATION_GENERIC"
+      },
       "choice": [
         {
           "text": "Accept their surrender.",
@@ -142305,7 +142815,9 @@
           }
         },
         {
-          "text": "",
+          "text": {
+            "load": "GENERIC_SURRENDER_CHOICE_NOMERCY"
+          },
           "event": {}
         }
       ]
@@ -142361,7 +142873,9 @@
           }
         },
         {
-          "text": "",
+          "text": {
+            "load": "GENERIC_SURRENDER_CHOICE_NOMERCY"
+          },
           "event": {}
         }
       ]
@@ -142386,7 +142900,9 @@
     "name": "SHIP_REBEL_NODE17_SATELLITE_SAVED",
     "auto_blueprint": "LIST_SHIPS_REBEL_ELITE_FIGHT",
     "destroyed": {
-      "text": "",
+      "text": {
+        "load": "TEXT_DESTROYED_REBEL"
+      },
       "autoReward": {
         "level": "MED",
         "text": "standard"
@@ -142400,7 +142916,9 @@
       }
     },
     "deadCrew": {
-      "text": "",
+      "text": {
+        "load": "TEXT_DEAD_CREW_REBEL"
+      },
       "autoReward": {
         "level": "HIGH",
         "text": "standard"
@@ -142430,7 +142948,9 @@
     "name": "SHIP_REBEL_NODE17_SATELLITE_UNSAVED",
     "auto_blueprint": "LIST_SHIPS_REBEL_ELITE_FIGHT",
     "destroyed": {
-      "text": "",
+      "text": {
+        "load": "TEXT_DESTROYED_REBEL"
+      },
       "autoReward": {
         "level": "MED",
         "text": "standard"
@@ -142443,7 +142963,9 @@
       }
     },
     "deadCrew": {
-      "text": "",
+      "text": {
+        "load": "TEXT_DEAD_CREW_REBEL"
+      },
       "autoReward": {
         "level": "HIGH",
         "text": "standard"
@@ -142478,7 +143000,9 @@
       "load": "SURRENDER_REBEL"
     },
     "destroyed": {
-      "text": "",
+      "text": {
+        "load": "TEXT_DESTROYED_REBEL"
+      },
       "autoReward": {
         "level": "MED",
         "text": "standard"
@@ -142492,7 +143016,9 @@
       }
     },
     "deadCrew": {
-      "text": "",
+      "text": {
+        "load": "TEXT_DEAD_CREW_REBEL"
+      },
       "autoReward": {
         "level": "HIGH",
         "text": "standard"
@@ -142887,7 +143413,9 @@
       "load": "DESTROYED_DEFAULT"
     },
     "deadCrew": {
-      "text": "",
+      "text": {
+        "load": "TEXT_DEAD_CREW_COALITION"
+      },
       "autoReward": {
         "level": "HIGH",
         "text": "standard_no_item"
@@ -143100,7 +143628,9 @@
     "name": "SHIP_FED_SALVAGE",
     "auto_blueprint": "LIST_SHIPS_FED_FIGHT",
     "destroyed": {
-      "text": "",
+      "text": {
+        "load": "TEXT_DESTROYED_FEDERATION"
+      },
       "autoReward": {
         "level": "MED",
         "text": "standard"
@@ -143118,7 +143648,9 @@
       }
     },
     "deadCrew": {
-      "text": "",
+      "text": {
+        "load": "TEXT_DEAD_CREW_FEDERATION"
+      },
       "autoReward": {
         "level": "HIGH",
         "text": "standard"
@@ -143162,7 +143694,9 @@
           }
         },
         {
-          "text": "",
+          "text": {
+            "load": "GENERIC_SURRENDER_CHOICE_NOMERCY"
+          },
           "event": {}
         }
       ]
@@ -143205,7 +143739,9 @@
           }
         },
         {
-          "text": "",
+          "text": {
+            "load": "GENERIC_SURRENDER_CHOICE_NOMERCY"
+          },
           "event": {}
         }
       ]
@@ -143253,7 +143789,9 @@
           }
         },
         {
-          "text": "",
+          "text": {
+            "load": "GENERIC_SURRENDER_CHOICE_NOMERCY"
+          },
           "event": {}
         }
       ]
@@ -143296,7 +143834,9 @@
           }
         },
         {
-          "text": "",
+          "text": {
+            "load": "GENERIC_SURRENDER_CHOICE_NOMERCY"
+          },
           "event": {}
         }
       ]
@@ -143357,13 +143897,17 @@
           }
         },
         {
-          "text": "",
+          "text": {
+            "load": "GENERIC_SURRENDER_CHOICE_NOMERCY"
+          },
           "event": {}
         }
       ]
     },
     "destroyed": {
-      "text": "",
+      "text": {
+        "load": "TEXT_DESTROYED_FEDERATION"
+      },
       "autoReward": {
         "level": "MED",
         "text": "standard"
@@ -143377,7 +143921,9 @@
       }
     },
     "deadCrew": {
-      "text": "",
+      "text": {
+        "load": "TEXT_DEAD_CREW_FEDERATION"
+      },
       "autoReward": {
         "level": "HIGH",
         "text": "standard"
@@ -144177,7 +144723,9 @@
           }
         },
         {
-          "text": "",
+          "text": {
+            "load": "GENERIC_SURRENDER_CHOICE_NOMERCY"
+          },
           "event": {}
         }
       ]
@@ -144385,7 +144933,9 @@
     "name": "SHIP_AUTO_CHASING_MILITIA",
     "auto_blueprint": "LIST_SHIPS_AUTO_FIGHT",
     "destroyed": {
-      "text": "",
+      "text": {
+        "load": "TEXT_DESTROYED_AUTO"
+      },
       "autoReward": {
         "level": "MED",
         "text": "standard"
@@ -144473,7 +145023,9 @@
           }
         },
         {
-          "text": "",
+          "text": {
+            "load": "GENERIC_SURRENDER_CHOICE_NOMERCY"
+          },
           "event": {}
         }
       ]
@@ -144495,7 +145047,9 @@
       }
     },
     "destroyed": {
-      "text": "",
+      "text": {
+        "load": "TEXT_DESTROYED_REBEL"
+      },
       "autoReward": {
         "level": "MED",
         "text": "standard"
@@ -144512,7 +145066,9 @@
       }
     },
     "deadCrew": {
-      "text": "",
+      "text": {
+        "load": "TEXT_DEAD_CREW_REBEL"
+      },
       "autoReward": {
         "level": "HIGH",
         "text": "standard"
@@ -144723,7 +145279,9 @@
     "name": "SHIP_ESTATE_AUTO_CHOICE",
     "auto_blueprint": "LIST_SHIPS_ESTATE_AUTO",
     "destroyed": {
-      "text": "",
+      "text": {
+        "load": "TEXT_DESTROYED_ESTATE"
+      },
       "autoReward": {
         "level": "HIGH",
         "text": "standard"
@@ -145953,7 +146511,9 @@
     "name": "SHIP_ENGI_IMPLANT",
     "auto_blueprint": "LIST_SHIPS_ENGI_GENERIC",
     "destroyed": {
-      "text": "",
+      "text": {
+        "load": "TEXT_DESTROYED_ENGI"
+      },
       "autoReward": {
         "level": "MED",
         "text": "standard"
@@ -145967,7 +146527,9 @@
       }
     },
     "deadCrew": {
-      "text": "",
+      "text": {
+        "load": "TEXT_DEAD_CREW_ENGI"
+      },
       "autoReward": {
         "level": "HIGH",
         "text": "standard"
@@ -145985,7 +146547,9 @@
     "name": "SHIP_ENGI_CLINIC",
     "auto_blueprint": "LIST_SHIPS_ENGI_GENERIC",
     "destroyed": {
-      "text": "",
+      "text": {
+        "load": "TEXT_DESTROYED_ENGI"
+      },
       "autoReward": {
         "level": "MED",
         "text": "standard"
@@ -145999,7 +146563,9 @@
       }
     },
     "deadCrew": {
-      "text": "",
+      "text": {
+        "load": "TEXT_DEAD_CREW_ENGI"
+      },
       "autoReward": {
         "level": "HIGH",
         "text": "standard"
@@ -146047,7 +146613,9 @@
     "name": "SHIP_ENGI_JUNKYARD",
     "auto_blueprint": "LIST_SHIPS_ENGI_FIGHT",
     "destroyed": {
-      "text": "",
+      "text": {
+        "load": "TEXT_DESTROYED_ENGI"
+      },
       "autoReward": {
         "level": "MED",
         "text": "standard"
@@ -146066,7 +146634,9 @@
       }
     },
     "deadCrew": {
-      "text": "",
+      "text": {
+        "load": "TEXT_DEAD_CREW_ENGI"
+      },
       "autoReward": {
         "level": "HIGH",
         "text": "standard"
@@ -146089,7 +146659,9 @@
     "name": "SHIP_ENGI_SWARM_PROTECTOR",
     "auto_blueprint": "LIST_SHIPS_ENGI_ELITE_FIGHT",
     "destroyed": {
-      "text": "",
+      "text": {
+        "load": "TEXT_DESTROYED_ENGI"
+      },
       "autoReward": {
         "level": "MED",
         "text": "standard"
@@ -146108,7 +146680,9 @@
       ]
     },
     "deadCrew": {
-      "text": "",
+      "text": {
+        "load": "TEXT_DEAD_CREW_ENGI"
+      },
       "autoReward": {
         "level": "HIGH",
         "text": "standard"
@@ -146400,7 +146974,9 @@
           }
         },
         {
-          "text": "",
+          "text": {
+            "load": "GENERIC_SURRENDER_CHOICE_NOMERCY"
+          },
           "event": {}
         }
       ]
@@ -146530,13 +147106,17 @@
           }
         },
         {
-          "text": "",
+          "text": {
+            "load": "GENERIC_SURRENDER_CHOICE_NOMERCY"
+          },
           "event": {}
         }
       ]
     },
     "destroyed": {
-      "text": "",
+      "text": {
+        "load": "TEXT_DESTROYED_SEPARATIST"
+      },
       "autoReward": {
         "level": "MED",
         "text": "standard"
@@ -146551,7 +147131,9 @@
     },
     "deadCrew": {
       "load": "DEAD_CREW_SEPARATIST",
-      "text": "",
+      "text": {
+        "load": "TEXT_DEAD_CREW_SEPARATIST"
+      },
       "autoReward": {
         "level": "MED",
         "text": "standard"
@@ -148050,7 +148632,9 @@
           }
         },
         {
-          "text": "",
+          "text": {
+            "load": "GENERIC_SURRENDER_CHOICE_NOMERCY"
+          },
           "event": {
             "load": "MORALITY_UPDATE_ZOLTAN"
           }
@@ -148105,7 +148689,9 @@
           }
         },
         {
-          "text": "",
+          "text": {
+            "load": "GENERIC_SURRENDER_CHOICE_NOMERCY"
+          },
           "event": {
             "load": "MORALITY_UPDATE_ZOLTAN"
           }
@@ -149244,7 +149830,9 @@
     "name": "SHIP_MANTIS_ADVISORY",
     "auto_blueprint": "LIST_SHIPS_MANTIS_FIGHT",
     "destroyed": {
-      "text": "",
+      "text": {
+        "load": "TEXT_DESTROYED_MANTIS"
+      },
       "autoReward": {
         "level": "MED",
         "text": "standard"
@@ -149258,7 +149846,9 @@
       }
     },
     "deadCrew": {
-      "text": "",
+      "text": {
+        "load": "TEXT_DEAD_CREW_MANTIS"
+      },
       "autoReward": {
         "level": "HIGH",
         "text": "standard"
@@ -150171,7 +150761,9 @@
     "name": "SHIP_ZOLTAN_FIGHT_FREEMANRESCUE",
     "auto_blueprint": "LIST_SHIPS_ZOLTAN_FIGHT",
     "destroyed": {
-      "text": "",
+      "text": {
+        "load": "TEXT_DESTROYED_ZOLTAN"
+      },
       "autoReward": {
         "level": "MED",
         "text": "standard"
@@ -150189,7 +150781,9 @@
       }
     },
     "deadCrew": {
-      "text": "",
+      "text": {
+        "load": "TEXT_DEAD_CREW_ZOLTAN"
+      },
       "autoReward": {
         "level": "HIGH",
         "text": "standard"
@@ -151181,7 +151775,9 @@
     "name": "SHIP_ROCK_DETAINING_ZOLTAN",
     "auto_blueprint": "MU_ROCK_ENFORCER",
     "destroyed": {
-      "text": "",
+      "text": {
+        "load": "TEXT_DESTROYED_ROCK"
+      },
       "autoReward": {
         "level": "MED",
         "text": "standard"
@@ -151194,7 +151790,9 @@
       }
     },
     "deadCrew": {
-      "text": "",
+      "text": {
+        "load": "TEXT_DEAD_CREW_ROCK"
+      },
       "autoReward": {
         "level": "HIGH",
         "text": "standard"
@@ -151738,7 +152336,9 @@
           }
         },
         {
-          "text": "",
+          "text": {
+            "load": "GENERIC_SURRENDER_CHOICE_NOMERCY"
+          },
           "event": {}
         }
       ]
@@ -158160,7 +158760,9 @@
     "name": "SHIP_LEECH_LITTERING",
     "auto_blueprint": "LIST_SHIPS_LEECH_FIGHT",
     "destroyed": {
-      "text": "",
+      "text": {
+        "load": "TEXT_DESTROYED_LEECH"
+      },
       "autoReward": {
         "level": "MED",
         "text": "standard"
@@ -158174,7 +158776,9 @@
       }
     },
     "deadCrew": {
-      "text": "",
+      "text": {
+        "load": "TEXT_DEAD_CREW_LEECH"
+      },
       "autoReward": {
         "level": "HIGH",
         "text": "standard"
@@ -159879,7 +160483,9 @@
           }
         },
         {
-          "text": "",
+          "text": {
+            "load": "GENERIC_SURRENDER_CHOICE_NOMERCY"
+          },
           "event": {
             "load": "MORALITY_UPDATE_VAMPWEED"
           }
@@ -160813,7 +161419,9 @@
     "name": "SHIP_LANIUS_UNION_STATION",
     "auto_blueprint": "LIST_SHIPS_LANIUS_GENERIC",
     "destroyed": {
-      "text": "",
+      "text": {
+        "load": "TEXT_DESTROYED_LANIUS"
+      },
       "autoReward": {
         "level": "MED",
         "text": "standard"
@@ -160827,7 +161435,9 @@
       }
     },
     "deadCrew": {
-      "text": "",
+      "text": {
+        "load": "TEXT_DEAD_CREW_LANIUS"
+      },
       "autoReward": {
         "level": "HIGH",
         "text": "standard"
@@ -161540,13 +162150,17 @@
           }
         },
         {
-          "text": "",
+          "text": {
+            "load": "GENERIC_SURRENDER_CHOICE_NOMERCY"
+          },
           "event": {}
         }
       ]
     },
     "destroyed": {
-      "text": "",
+      "text": {
+        "load": "TEXT_DESTROYED_CRYSTAL"
+      },
       "autoReward": {
         "level": "MED",
         "text": "standard"
@@ -161560,7 +162174,9 @@
       }
     },
     "deadCrew": {
-      "text": "",
+      "text": {
+        "load": "TEXT_DEAD_CREW_CRYSTAL"
+      },
       "autoReward": {
         "level": "HIGH",
         "text": "standard"
@@ -161608,7 +162224,9 @@
           }
         },
         {
-          "text": "",
+          "text": {
+            "load": "GENERIC_SURRENDER_CHOICE_NOMERCY"
+          },
           "event": {}
         }
       ]
@@ -161628,7 +162246,9 @@
       }
     },
     "deadCrew": {
-      "text": "",
+      "text": {
+        "load": "TEXT_DEAD_CREW_GHOST"
+      },
       "autoReward": {
         "level": "MED",
         "text": "standard"
@@ -161656,7 +162276,9 @@
     "name": "SHIP_CRYSTAL_COMET_DWELLERS",
     "auto_blueprint": "LIST_SHIPS_CRYSTAL_FIGHT",
     "destroyed": {
-      "text": "",
+      "text": {
+        "load": "TEXT_DESTROYED_CRYSTAL"
+      },
       "autoReward": {
         "level": "MED",
         "text": "standard"
@@ -161669,7 +162291,9 @@
       }
     },
     "deadCrew": {
-      "text": "",
+      "text": {
+        "load": "TEXT_DEAD_CREW_CRYSTAL"
+      },
       "autoReward": {
         "level": "HIGH",
         "text": "standard"
@@ -162163,7 +162787,9 @@
     "name": "SHIP_DYNASTY_HOSTAGE",
     "auto_blueprint": "LIST_SHIPS_DYNASTY_FIGHT",
     "destroyed": {
-      "text": "",
+      "text": {
+        "load": "TEXT_DESTROYED_DYNASTY"
+      },
       "autoReward": {
         "level": "MED",
         "text": "standard"
@@ -162177,7 +162803,9 @@
       }
     },
     "deadCrew": {
-      "text": "",
+      "text": {
+        "load": "TEXT_DEAD_CREW_DYNASTY"
+      },
       "autoReward": {
         "level": "MED",
         "text": "standard"
@@ -163063,7 +163691,9 @@
     "name": "SHIP_GHOST_TRASHKING_BORING",
     "auto_blueprint": "LIST_SHIPS_GHOST",
     "destroyed": {
-      "text": "",
+      "text": {
+        "load": "TEXT_DESTROYED_GHOST"
+      },
       "autoReward": {
         "level": "MED",
         "text": "stuff"
@@ -163081,7 +163711,9 @@
       }
     },
     "deadCrew": {
-      "text": "",
+      "text": {
+        "load": "TEXT_DEAD_CREW_GHOST"
+      },
       "autoReward": {
         "level": "MED",
         "text": "stuff"
@@ -165460,7 +166092,9 @@
           }
         },
         {
-          "text": "",
+          "text": {
+            "load": "GENERIC_SURRENDER_CHOICE_NOMERCY"
+          },
           "event": {}
         }
       ]
@@ -165796,7 +166430,9 @@
           }
         },
         {
-          "text": "",
+          "text": {
+            "load": "GENERIC_SURRENDER_CHOICE_NOMERCY"
+          },
           "event": {}
         }
       ]
@@ -166084,7 +166720,9 @@
     "name": "SHIP_HACKER_HOSPITAL",
     "auto_blueprint": "LIST_SHIPS_HACKER",
     "destroyed": {
-      "text": "",
+      "text": {
+        "load": "TEXT_DESTROYED_HACKER"
+      },
       "autoReward": {
         "level": "MED",
         "text": "standard"
@@ -166097,7 +166735,9 @@
       }
     },
     "deadCrew": {
-      "text": "",
+      "text": {
+        "load": "TEXT_DEAD_CREW_HACKER"
+      },
       "autoReward": {
         "level": "HIGH",
         "text": "standard"
@@ -166138,7 +166778,9 @@
           }
         },
         {
-          "text": "",
+          "text": {
+            "load": "GENERIC_SURRENDER_CHOICE_NOMERCY"
+          },
           "event": {}
         }
       ]
@@ -166211,7 +166853,9 @@
           }
         },
         {
-          "text": "",
+          "text": {
+            "load": "GENERIC_SURRENDER_CHOICE_NOMERCY"
+          },
           "event": {}
         }
       ]
@@ -166261,7 +166905,9 @@
     "name": "SHIP_HACKER_AND_BATTERY",
     "auto_blueprint": "LIST_SHIPS_HACKER",
     "destroyed": {
-      "text": "",
+      "text": {
+        "load": "TEXT_DESTROYED_HACKER"
+      },
       "autoReward": {
         "level": "MED",
         "text": "standard"
@@ -166275,7 +166921,9 @@
       }
     },
     "deadCrew": {
-      "text": "",
+      "text": {
+        "load": "TEXT_DEAD_CREW_HACKER"
+      },
       "autoReward": {
         "level": "HIGH",
         "text": "standard"
@@ -169267,7 +169915,9 @@
   },
   {
     "name": "GNOME_HATER",
-    "text": "",
+    "text": {
+      "load": "TEXT_EMPTY_START"
+    },
     "choice": [
       {
         "text": "Do something onboard the ship.",
@@ -175981,7 +176631,9 @@
   },
   {
     "name": "DESTROYED_UNION",
-    "text": "",
+    "text": {
+      "load": "TEXT_DESTROYED_UNION"
+    },
     "autoReward": {
       "level": "MED",
       "text": "standard"
@@ -175989,7 +176641,9 @@
   },
   {
     "name": "DEAD_CREW_UNION",
-    "text": "",
+    "text": {
+      "load": "TEXT_DEAD_CREW_UNION"
+    },
     "autoReward": {
       "level": "HIGH",
       "text": "standard"
@@ -175997,7 +176651,9 @@
   },
   {
     "name": "SURRENDER_UNION",
-    "text": "",
+    "text": {
+      "load": "TEXT_SURRENDER_UNION"
+    },
     "choice": [
       {
         "text": "Accept their surrender.",
@@ -176006,14 +176662,18 @@
         }
       },
       {
-        "text": "",
+        "text": {
+          "load": "GENERIC_SURRENDER_CHOICE_NOMERCY"
+        },
         "event": {}
       }
     ]
   },
   {
     "name": "DESTROYED_MILITIA",
-    "text": "",
+    "text": {
+      "load": "TEXT_DESTROYED_MILITIA"
+    },
     "autoReward": {
       "level": "MED",
       "text": "standard"
@@ -176021,7 +176681,9 @@
   },
   {
     "name": "DEAD_CREW_MILITIA",
-    "text": "",
+    "text": {
+      "load": "TEXT_DEAD_CREW_MILITIA"
+    },
     "autoReward": {
       "level": "HIGH",
       "text": "standard"
@@ -176029,7 +176691,9 @@
   },
   {
     "name": "SURRENDER_MILITIA",
-    "text": "",
+    "text": {
+      "load": "TEXT_SURRENDER_MILITIA"
+    },
     "choice": [
       {
         "text": "Accept their surrender.",
@@ -176038,14 +176702,18 @@
         }
       },
       {
-        "text": "",
+        "text": {
+          "load": "GENERIC_SURRENDER_CHOICE_NOMERCY"
+        },
         "event": {}
       }
     ]
   },
   {
     "name": "DESTROYED_FEDERATION",
-    "text": "",
+    "text": {
+      "load": "TEXT_DESTROYED_FEDERATION"
+    },
     "autoReward": {
       "level": "MED",
       "text": "standard"
@@ -176053,7 +176721,9 @@
   },
   {
     "name": "DEAD_CREW_FEDERATION",
-    "text": "",
+    "text": {
+      "load": "TEXT_DEAD_CREW_FEDERATION"
+    },
     "autoReward": {
       "level": "HIGH",
       "text": "standard"
@@ -176061,7 +176731,9 @@
   },
   {
     "name": "SURRENDER_FEDERATION",
-    "text": "",
+    "text": {
+      "load": "TEXT_SURRENDER_FEDERATION"
+    },
     "choice": [
       {
         "text": "Accept their surrender.",
@@ -176083,14 +176755,18 @@
         }
       },
       {
-        "text": "",
+        "text": {
+          "load": "GENERIC_SURRENDER_CHOICE_NOMERCY"
+        },
         "event": {}
       }
     ]
   },
   {
     "name": "DESTROYED_FEDERATION_STATION",
-    "text": "",
+    "text": {
+      "load": "TEXT_DESTROYED_FEDERATION_STATION"
+    },
     "autoReward": {
       "level": "MED",
       "text": "standard"
@@ -176098,7 +176774,9 @@
   },
   {
     "name": "DESTROYED_FEDERATION_AUTO",
-    "text": "",
+    "text": {
+      "load": "TEXT_DESTROYED_FEDERATION_AUTO"
+    },
     "autoReward": {
       "level": "MED",
       "text": "standard"
@@ -176106,7 +176784,9 @@
   },
   {
     "name": "DESTROYED_REBEL_GENERIC",
-    "text": "",
+    "text": {
+      "load": "TEXT_DESTROYED_REBEL"
+    },
     "autoReward": {
       "level": "MED",
       "text": "standard"
@@ -176179,7 +176859,9 @@
   },
   {
     "name": "DEAD_CREW_REBEL",
-    "text": "",
+    "text": {
+      "load": "TEXT_DEAD_CREW_REBEL"
+    },
     "autoReward": {
       "level": "HIGH",
       "text": "standard"
@@ -176187,11 +176869,15 @@
   },
   {
     "name": "ESCAPE_REBEL",
-    "text": ""
+    "text": {
+      "load": "TEXT_ESCAPE_REBEL"
+    }
   },
   {
     "name": "GOTAWAY_REBEL_GENERIC",
-    "text": ""
+    "text": {
+      "load": "TEXT_GOTAWAY_REBEL"
+    }
   },
   {
     "name": "GOTAWAY_REBEL_REMAINS",
@@ -176203,7 +176889,9 @@
   },
   {
     "name": "SURRENDER_REBEL_GENERIC",
-    "text": "",
+    "text": {
+      "load": "TEXT_SURRENDER_REBEL_GENERIC"
+    },
     "choice": [
       {
         "text": "Accept their surrender.",
@@ -176212,14 +176900,18 @@
         }
       },
       {
-        "text": "",
+        "text": {
+          "load": "GENERIC_SURRENDER_CHOICE_NOMERCY"
+        },
         "event": {}
       }
     ]
   },
   {
     "name": "SURRENDER_REBEL_DEMAND",
-    "text": "",
+    "text": {
+      "load": "TEXT_SURRENDER_REBEL_DEMAND"
+    },
     "choice": [
       {
         "text": "Accept their surrender.",
@@ -176228,14 +176920,18 @@
         }
       },
       {
-        "text": "",
+        "text": {
+          "load": "GENERIC_SURRENDER_CHOICE_NOMERCY"
+        },
         "event": {}
       }
     ]
   },
   {
     "name": "SURRENDER_REBEL_FLEET",
-    "text": "",
+    "text": {
+      "load": "TEXT_SURRENDER_REBEL_FLEET"
+    },
     "choice": [
       {
         "text": "Accept their surrender. [Delays the fleet 2 jumps]",
@@ -176251,14 +176947,18 @@
         }
       },
       {
-        "text": "",
+        "text": {
+          "load": "GENERIC_SURRENDER_CHOICE_NOMERCY"
+        },
         "event": {}
       }
     ]
   },
   {
     "name": "SURRENDER_REBEL_STATION_GENERIC",
-    "text": "",
+    "text": {
+      "load": "TEXT_SURRENDER_REBEL_STATION_GENERIC"
+    },
     "choice": [
       {
         "text": "Accept their surrender.",
@@ -176267,14 +176967,18 @@
         }
       },
       {
-        "text": "",
+        "text": {
+          "load": "GENERIC_SURRENDER_CHOICE_NOMERCY"
+        },
         "event": {}
       }
     ]
   },
   {
     "name": "SURRENDER_REBEL_DEMAND_STATION",
-    "text": "",
+    "text": {
+      "load": "TEXT_SURRENDER_REBEL_DEMAND_STATION"
+    },
     "choice": [
       {
         "text": "Accept their surrender.",
@@ -176283,14 +176987,18 @@
         }
       },
       {
-        "text": "",
+        "text": {
+          "load": "GENERIC_SURRENDER_CHOICE_NOMERCY"
+        },
         "event": {}
       }
     ]
   },
   {
     "name": "DESTROYED_AUTO_GENERIC",
-    "text": "",
+    "text": {
+      "load": "TEXT_DESTROYED_AUTO"
+    },
     "autoReward": {
       "level": "MED",
       "text": "standard"
@@ -176298,7 +177006,9 @@
   },
   {
     "name": "DESTROYED_AUTO_FUEL",
-    "text": "",
+    "text": {
+      "load": "TEXT_DESTROYED_AUTO_FUEL"
+    },
     "autoReward": {
       "level": "MED",
       "text": "standard"
@@ -176317,7 +177027,9 @@
   },
   {
     "name": "DESTROYED_AUTO_MISSILES",
-    "text": "",
+    "text": {
+      "load": "TEXT_DESTROYED_AUTO_MISSILES"
+    },
     "autoReward": {
       "level": "MED",
       "text": "standard"
@@ -176336,7 +177048,9 @@
   },
   {
     "name": "DESTROYED_AUTO_DRONES",
-    "text": "",
+    "text": {
+      "load": "TEXT_DESTROYED_AUTO_DRONES"
+    },
     "autoReward": {
       "level": "MED",
       "text": "standard"
@@ -176355,11 +177069,15 @@
   },
   {
     "name": "ESCAPE_AUTO",
-    "text": ""
+    "text": {
+      "load": "TEXT_ESCAPE_AUTO"
+    }
   },
   {
     "name": "GOTAWAY_AUTO_GENERIC",
-    "text": ""
+    "text": {
+      "load": "TEXT_GOTAWAY_AUTO"
+    }
   },
   {
     "name": "GOTAWAY_AUTO_REMAINS",
@@ -176410,7 +177128,9 @@
   },
   {
     "name": "DESTROYED_ESTATE_GENERIC",
-    "text": "",
+    "text": {
+      "load": "TEXT_DESTROYED_ESTATE"
+    },
     "autoReward": {
       "level": "HIGH",
       "text": "standard"
@@ -176418,7 +177138,9 @@
   },
   {
     "name": "DESTROYED_ESTATE_FUEL",
-    "text": "",
+    "text": {
+      "load": "TEXT_DESTROYED_ESTATE_FUEL"
+    },
     "autoReward": {
       "level": "HIGH",
       "text": "standard"
@@ -176437,7 +177159,9 @@
   },
   {
     "name": "DESTROYED_ESTATE_MISSILES",
-    "text": "",
+    "text": {
+      "load": "TEXT_DESTROYED_ESTATE_MISSILES"
+    },
     "autoReward": {
       "level": "HIGH",
       "text": "standard"
@@ -176456,7 +177180,9 @@
   },
   {
     "name": "DESTROYED_ESTATE_DRONES",
-    "text": "",
+    "text": {
+      "load": "TEXT_DESTROYED_ESTATE_DRONES"
+    },
     "autoReward": {
       "level": "HIGH",
       "text": "standard"
@@ -176475,7 +177201,9 @@
   },
   {
     "name": "DESTROYED_ENGI_GENERIC",
-    "text": "",
+    "text": {
+      "load": "TEXT_DESTROYED_ENGI"
+    },
     "autoReward": {
       "level": "MED",
       "text": "standard"
@@ -176494,7 +177222,9 @@
   },
   {
     "name": "DEAD_CREW_ENGI_GENERIC",
-    "text": "",
+    "text": {
+      "load": "TEXT_DEAD_CREW_ENGI"
+    },
     "autoReward": {
       "level": "HIGH",
       "text": "standard"
@@ -176513,11 +177243,15 @@
   },
   {
     "name": "ESCAPE_ENGI",
-    "text": ""
+    "text": {
+      "load": "TEXT_ESCAPE_ENGI"
+    }
   },
   {
     "name": "GOTAWAY_ENGI_GENERIC",
-    "text": ""
+    "text": {
+      "load": "TEXT_GOTAWAY_ENGI"
+    }
   },
   {
     "name": "GOTAWAY_ENGI_REMAINS",
@@ -176529,7 +177263,9 @@
   },
   {
     "name": "SURRENDER_ENGI",
-    "text": "",
+    "text": {
+      "load": "TEXT_SURRENDER_ENGI"
+    },
     "choice": [
       {
         "text": "Accept their surrender.",
@@ -176566,14 +177302,18 @@
         }
       },
       {
-        "text": "",
+        "text": {
+          "load": "GENERIC_SURRENDER_CHOICE_NOMERCY"
+        },
         "event": {}
       }
     ]
   },
   {
     "name": "DESTROYED_SEPARATIST",
-    "text": "",
+    "text": {
+      "load": "TEXT_DESTROYED_SEPARATIST"
+    },
     "autoReward": {
       "level": "MED",
       "text": "standard"
@@ -176581,7 +177321,9 @@
   },
   {
     "name": "DEAD_CREW_SEPARATIST_GENERIC",
-    "text": "",
+    "text": {
+      "load": "TEXT_DEAD_CREW_SEPARATIST"
+    },
     "autoReward": {
       "level": "MED",
       "text": "standard"
@@ -176600,7 +177342,9 @@
   },
   {
     "name": "SURRENDER_SEPARATIST",
-    "text": "",
+    "text": {
+      "load": "TEXT_SURRENDER_SEPARATIST"
+    },
     "choice": [
       {
         "text": "Accept their surrender.",
@@ -176609,14 +177353,18 @@
         }
       },
       {
-        "text": "",
+        "text": {
+          "load": "GENERIC_SURRENDER_CHOICE_NOMERCY"
+        },
         "event": {}
       }
     ]
   },
   {
     "name": "DESTROYED_ZOLTAN",
-    "text": "",
+    "text": {
+      "load": "TEXT_DESTROYED_ZOLTAN"
+    },
     "autoReward": {
       "level": "MED",
       "text": "standard"
@@ -176624,7 +177372,9 @@
   },
   {
     "name": "DEAD_CREW_ZOLTAN",
-    "text": "",
+    "text": {
+      "load": "TEXT_DEAD_CREW_ZOLTAN"
+    },
     "autoReward": {
       "level": "HIGH",
       "text": "standard"
@@ -176632,7 +177382,9 @@
   },
   {
     "name": "SURRENDER_ZOLTAN_GENERIC",
-    "text": "",
+    "text": {
+      "load": "TEXT_SURRENDER_ZOLTAN_GENERIC"
+    },
     "choice": [
       {
         "text": "Accept their surrender.",
@@ -176641,14 +177393,18 @@
         }
       },
       {
-        "text": "",
+        "text": {
+          "load": "GENERIC_SURRENDER_CHOICE_NOMERCY"
+        },
         "event": {}
       }
     ]
   },
   {
     "name": "SURRENDER_ZOLTAN_FAIR",
-    "text": "",
+    "text": {
+      "load": "TEXT_SURRENDER_ZOLTAN_FAIR"
+    },
     "choice": [
       {
         "text": "Accept their \"trade\".",
@@ -176684,14 +177440,18 @@
         }
       },
       {
-        "text": "",
+        "text": {
+          "load": "GENERIC_SURRENDER_CHOICE_NOMERCY"
+        },
         "event": {}
       }
     ]
   },
   {
     "name": "DESTROYED_ZOLTAN_AUTO",
-    "text": "",
+    "text": {
+      "load": "TEXT_DESTROYED_ZOLTAN_AUTO"
+    },
     "autoReward": {
       "level": "MED",
       "text": "standard"
@@ -176715,7 +177475,9 @@
   },
   {
     "name": "SURRENDER_MONK",
-    "text": "",
+    "text": {
+      "load": "TEXT_SURRENDER_MONK"
+    },
     "choice": [
       {
         "text": "Let them live.",
@@ -176724,14 +177486,18 @@
         }
       },
       {
-        "text": "",
+        "text": {
+          "load": "GENERIC_SURRENDER_CHOICE_NOMERCY"
+        },
         "event": {}
       }
     ]
   },
   {
     "name": "DESTROYED_DUSKBRINGER",
-    "text": "",
+    "text": {
+      "load": "TEXT_DESTROYED_DUSKBRINGER"
+    },
     "autoReward": {
       "level": "MED",
       "text": "standard"
@@ -176739,7 +177505,9 @@
   },
   {
     "name": "DEAD_CREW_DUSKBRINGER",
-    "text": "",
+    "text": {
+      "load": "TEXT_DEAD_CREW_DUSKBRINGER"
+    },
     "autoReward": {
       "level": "HIGH",
       "text": "standard"
@@ -176747,11 +177515,15 @@
   },
   {
     "name": "ESCAPE_DUSKBRINGER",
-    "text": ""
+    "text": {
+      "load": "TEXT_ESCAPE_DUSKBRINGER"
+    }
   },
   {
     "name": "GOTAWAY_DUSKBRINGER_GENERIC",
-    "text": ""
+    "text": {
+      "load": "TEXT_GOTAWAY_DUSKBRINGER"
+    }
   },
   {
     "name": "GOTAWAY_DUSKBRINGER_REMAINS",
@@ -176763,7 +177535,9 @@
   },
   {
     "name": "DESTROYED_DUSKBRINGER_STATION",
-    "text": "",
+    "text": {
+      "load": "TEXT_DESTROYED_DUSKBRINGER_STATION"
+    },
     "autoReward": {
       "level": "MED",
       "text": "standard"
@@ -176771,7 +177545,9 @@
   },
   {
     "name": "DEAD_CREW_DUSKBRINGER_STATION",
-    "text": "",
+    "text": {
+      "load": "TEXT_DEAD_CREW_DUSKBRINGER_STATION"
+    },
     "autoReward": {
       "level": "HIGH",
       "text": "standard"
@@ -176779,7 +177555,9 @@
   },
   {
     "name": "DESTROYED_ORCHID",
-    "text": "",
+    "text": {
+      "load": "TEXT_DESTROYED_ORCHID"
+    },
     "autoReward": {
       "level": "MED",
       "text": "standard"
@@ -176787,7 +177565,9 @@
   },
   {
     "name": "DEAD_CREW_ORCHID",
-    "text": "",
+    "text": {
+      "load": "TEXT_DEAD_CREW_ORCHID"
+    },
     "autoReward": {
       "level": "HIGH",
       "text": "standard"
@@ -176795,7 +177575,9 @@
   },
   {
     "name": "SURRENDER_ORCHID",
-    "text": "",
+    "text": {
+      "load": "TEXT_SURRENDER_ORCHID"
+    },
     "choice": [
       {
         "text": "Accept their surrender.",
@@ -176804,18 +177586,24 @@
         }
       },
       {
-        "text": "",
+        "text": {
+          "load": "GENERIC_SURRENDER_CHOICE_NOMERCY"
+        },
         "event": {}
       }
     ]
   },
   {
     "name": "ESCAPE_ORCHID",
-    "text": ""
+    "text": {
+      "load": "TEXT_ESCAPE_ORCHID"
+    }
   },
   {
     "name": "GOTAWAY_ORCHID_GENERIC",
-    "text": ""
+    "text": {
+      "load": "TEXT_GOTAWAY_ORCHID"
+    }
   },
   {
     "name": "GOTAWAY_ORCHID_REMAINS",
@@ -176827,7 +177615,9 @@
   },
   {
     "name": "DESTROYED_VAMPWEED",
-    "text": "",
+    "text": {
+      "load": "TEXT_DESTROYED_VAMPWEED"
+    },
     "autoReward": {
       "level": "MED",
       "text": "standard"
@@ -176835,7 +177625,9 @@
   },
   {
     "name": "DEAD_CREW_VAMPWEED",
-    "text": "",
+    "text": {
+      "load": "TEXT_DEAD_CREW_VAMPWEED"
+    },
     "autoReward": {
       "level": "HIGH",
       "text": "standard"
@@ -176843,7 +177635,9 @@
   },
   {
     "name": "SURRENDER_VAMPWEED",
-    "text": "",
+    "text": {
+      "load": "TEXT_SURRENDER_VAMPWEED"
+    },
     "choice": [
       {
         "text": "Accept their surrender.",
@@ -176852,14 +177646,18 @@
         }
       },
       {
-        "text": "",
+        "text": {
+          "load": "GENERIC_SURRENDER_CHOICE_NOMERCY"
+        },
         "event": {}
       }
     ]
   },
   {
     "name": "DESTROYED_CRYSTAL",
-    "text": "",
+    "text": {
+      "load": "TEXT_DESTROYED_CRYSTAL"
+    },
     "autoReward": {
       "level": "MED",
       "text": "standard"
@@ -176867,7 +177665,9 @@
   },
   {
     "name": "DEAD_CREW_CRYSTAL_GENERIC",
-    "text": "",
+    "text": {
+      "load": "TEXT_DEAD_CREW_CRYSTAL"
+    },
     "autoReward": {
       "level": "HIGH",
       "text": "standard"
@@ -176886,7 +177686,9 @@
   },
   {
     "name": "SURRENDER_CRYSTAL_GENERIC",
-    "text": "",
+    "text": {
+      "load": "TEXT_SURRENDER_CRYSTAL"
+    },
     "choice": [
       {
         "text": "Accept their surrender.",
@@ -176909,14 +177711,18 @@
         }
       },
       {
-        "text": "",
+        "text": {
+          "load": "GENERIC_SURRENDER_CHOICE_NOMERCY"
+        },
         "event": {}
       }
     ]
   },
   {
     "name": "SURRENDER_CRYSTAL_NOREWARD",
-    "text": "",
+    "text": {
+      "load": "TEXT_SURRENDER_CRYSTAL_NOREWARD"
+    },
     "choice": [
       {
         "text": "Let them go.",
@@ -176941,14 +177747,18 @@
         }
       },
       {
-        "text": "",
+        "text": {
+          "load": "GENERIC_SURRENDER_CHOICE_NOMERCY"
+        },
         "event": {}
       }
     ]
   },
   {
     "name": "DESTROYED_CULTIST",
-    "text": "",
+    "text": {
+      "load": "TEXT_DESTROYED_CULTIST"
+    },
     "autoReward": {
       "level": "MED",
       "text": "standard"
@@ -176956,7 +177766,9 @@
   },
   {
     "name": "DEAD_CREW_CULTIST",
-    "text": "",
+    "text": {
+      "load": "TEXT_DEAD_CREW_CULTIST"
+    },
     "autoReward": {
       "level": "HIGH",
       "text": "standard"
@@ -176964,7 +177776,9 @@
   },
   {
     "name": "DESTROYED_PIRATE_GENERIC",
-    "text": "",
+    "text": {
+      "load": "TEXT_DESTROYED_PIRATE"
+    },
     "autoReward": {
       "level": "MED",
       "text": "standard"
@@ -176972,7 +177786,9 @@
   },
   {
     "name": "DESTROYED_PIRATE_ELITE_GENERIC",
-    "text": "",
+    "text": {
+      "load": "TEXT_DESTROYED_PIRATE"
+    },
     "autoReward": {
       "level": "HIGH",
       "text": "standard"
@@ -176980,7 +177796,9 @@
   },
   {
     "name": "DESTROYED_PIRATE_GENERIC_STATION",
-    "text": "",
+    "text": {
+      "load": "TEXT_DESTROYED_PIRATE"
+    },
     "autoReward": {
       "level": "MED",
       "text": "standard"
@@ -176988,7 +177806,9 @@
   },
   {
     "name": "DESTROYED_PIRATE_FUEL",
-    "text": "",
+    "text": {
+      "load": "TEXT_DESTROYED_PIRATE_FUEL"
+    },
     "autoReward": {
       "level": "MED",
       "text": "standard"
@@ -177007,7 +177827,9 @@
   },
   {
     "name": "DESTROYED_PIRATE_MISSILES",
-    "text": "",
+    "text": {
+      "load": "TEXT_DESTROYED_PIRATE_MISSILES"
+    },
     "autoReward": {
       "level": "MED",
       "text": "standard"
@@ -177026,7 +177848,9 @@
   },
   {
     "name": "DEAD_CREW_PIRATE_GENERIC",
-    "text": "",
+    "text": {
+      "load": "TEXT_DEAD_CREW_PIRATE"
+    },
     "autoReward": {
       "level": "HIGH",
       "text": "standard"
@@ -177034,7 +177858,9 @@
   },
   {
     "name": "DEAD_CREW_PIRATE_ELITE_GENERIC",
-    "text": "",
+    "text": {
+      "load": "TEXT_DEAD_CREW_PIRATE"
+    },
     "autoReward": {
       "level": "HIGH",
       "text": "item"
@@ -177042,7 +177868,9 @@
   },
   {
     "name": "DEAD_CREW_PIRATE_STATION",
-    "text": "",
+    "text": {
+      "load": "TEXT_DEAD_CREW_PIRATE_STATION"
+    },
     "autoReward": {
       "level": "HIGH",
       "text": "standard"
@@ -177050,7 +177878,9 @@
   },
   {
     "name": "DEAD_CREW_PIRATE_FUEL",
-    "text": "",
+    "text": {
+      "load": "TEXT_DEAD_CREW_PIRATE_FUEL"
+    },
     "autoReward": {
       "level": "HIGH",
       "text": "standard"
@@ -177069,7 +177899,9 @@
   },
   {
     "name": "DEAD_CREW_PIRATE_MISSILES",
-    "text": "",
+    "text": {
+      "load": "TEXT_DEAD_CREW_PIRATE_MISSILES"
+    },
     "autoReward": {
       "level": "HIGH",
       "text": "standard"
@@ -177092,7 +177924,9 @@
   },
   {
     "name": "GOTAWAY_PIRATE_GENERIC",
-    "text": ""
+    "text": {
+      "load": "TEXT_GOTAWAY_PIRATE"
+    }
   },
   {
     "name": "GOTAWAY_PIRATE_REMAINS",
@@ -177104,7 +177938,9 @@
   },
   {
     "name": "SURRENDER_PIRATE",
-    "text": "",
+    "text": {
+      "load": "TEXT_SURRENDER_PIRATE"
+    },
     "choice": [
       {
         "text": "Accept their surrender.",
@@ -177113,7 +177949,9 @@
         }
       },
       {
-        "text": "",
+        "text": {
+          "load": "GENERIC_SURRENDER_CHOICE_NOMERCY"
+        },
         "event": {}
       }
     ]
@@ -177300,7 +178138,9 @@
   },
   {
     "name": "DESTROYED_BROOD_GENERIC",
-    "text": "",
+    "text": {
+      "load": "TEXT_DESTROYED_BROOD"
+    },
     "autoReward": {
       "level": "MED",
       "text": "standard"
@@ -177308,7 +178148,9 @@
   },
   {
     "name": "DESTROYED_BROOD_FUEL",
-    "text": "",
+    "text": {
+      "load": "TEXT_DESTROYED_BROOD_FUEL"
+    },
     "autoReward": {
       "level": "MED",
       "text": "standard"
@@ -177327,7 +178169,9 @@
   },
   {
     "name": "DESTROYED_BROOD_MISSILES",
-    "text": "",
+    "text": {
+      "load": "TEXT_DESTROYED_BROOD_MISSILES"
+    },
     "autoReward": {
       "level": "MED",
       "text": "standard"
@@ -177346,7 +178190,9 @@
   },
   {
     "name": "DEAD_CREW_BROOD_GENERIC",
-    "text": "",
+    "text": {
+      "load": "TEXT_DEAD_CREW_BROOD"
+    },
     "autoReward": {
       "level": "HIGH",
       "text": "standard"
@@ -177354,7 +178200,9 @@
   },
   {
     "name": "DEAD_CREW_BROOD_FUEL",
-    "text": "",
+    "text": {
+      "load": "TEXT_DEAD_CREW_BROOD_FUEL"
+    },
     "autoReward": {
       "level": "HIGH",
       "text": "standard"
@@ -177373,7 +178221,9 @@
   },
   {
     "name": "DEAD_CREW_BROOD_MISSILES",
-    "text": "",
+    "text": {
+      "load": "TEXT_DEAD_CREW_BROOD_MISSILES"
+    },
     "autoReward": {
       "level": "HIGH",
       "text": "standard"
@@ -177392,7 +178242,9 @@
   },
   {
     "name": "DESTROYED_HACKER",
-    "text": "",
+    "text": {
+      "load": "TEXT_DESTROYED_HACKER"
+    },
     "autoReward": {
       "level": "MED",
       "text": "standard"
@@ -177420,7 +178272,9 @@
   },
   {
     "name": "DEAD_CREW_HACKER_GENERIC",
-    "text": "",
+    "text": {
+      "load": "TEXT_DEAD_CREW_HACKER"
+    },
     "autoReward": {
       "level": "HIGH",
       "text": "standard"
@@ -177449,7 +178303,9 @@
   {
     "name": "DEAD_CREW_HACKER_FLEET",
     "unique": "true",
-    "text": "",
+    "text": {
+      "load": "TEXT_DEAD_CREW_HACKER"
+    },
     "autoReward": {
       "level": "RANDOM",
       "text": "standard"
@@ -177487,7 +178343,9 @@
   },
   {
     "name": "SURRENDER_HACKER_GENERIC",
-    "text": "",
+    "text": {
+      "load": "TEXT_SURRENDER_HACKER"
+    },
     "choice": [
       {
         "text": "Accept their surrender.",
@@ -177509,14 +178367,18 @@
         }
       },
       {
-        "text": "",
+        "text": {
+          "load": "GENERIC_SURRENDER_CHOICE_NOMERCY"
+        },
         "event": {}
       }
     ]
   },
   {
     "name": "SURRENDER_HACKER_TRAP",
-    "text": "",
+    "text": {
+      "load": "TEXT_SURRENDER_HACKER"
+    },
     "choice": [
       {
         "text": "Accept their surrender.",
@@ -177543,14 +178405,18 @@
         }
       },
       {
-        "text": "",
+        "text": {
+          "load": "GENERIC_SURRENDER_CHOICE_NOMERCY"
+        },
         "event": {}
       }
     ]
   },
   {
     "name": "DESTROYED_MANTIS",
-    "text": "",
+    "text": {
+      "load": "TEXT_DESTROYED_MANTIS"
+    },
     "autoReward": {
       "level": "MED",
       "text": "standard"
@@ -177558,7 +178424,9 @@
   },
   {
     "name": "DEAD_CREW_MANTIS_GENERIC",
-    "text": "",
+    "text": {
+      "load": "TEXT_DEAD_CREW_MANTIS"
+    },
     "autoReward": {
       "level": "HIGH",
       "text": "standard"
@@ -177589,7 +178457,9 @@
   },
   {
     "name": "DESTROYED_FREEMANTIS",
-    "text": "",
+    "text": {
+      "load": "TEXT_DESTROYED_FREEMANTIS"
+    },
     "autoReward": {
       "level": "MED",
       "text": "standard"
@@ -177597,7 +178467,9 @@
   },
   {
     "name": "DEAD_CREW_FREEMANTIS",
-    "text": "",
+    "text": {
+      "load": "TEXT_DEAD_CREW_FREEMANTIS"
+    },
     "autoReward": {
       "level": "HIGH",
       "text": "standard"
@@ -177605,7 +178477,9 @@
   },
   {
     "name": "SURRENDER_FREEMANTIS",
-    "text": "",
+    "text": {
+      "load": "TEXT_SURRENDER_FREEMANTIS"
+    },
     "choice": [
       {
         "text": "Accept their surrender.",
@@ -177614,14 +178488,18 @@
         }
       },
       {
-        "text": "",
+        "text": {
+          "load": "GENERIC_SURRENDER_CHOICE_NOMERCY"
+        },
         "event": {}
       }
     ]
   },
   {
     "name": "DESTROYED_ROCK",
-    "text": "",
+    "text": {
+      "load": "TEXT_DESTROYED_ROCK"
+    },
     "autoReward": {
       "level": "MED",
       "text": "standard"
@@ -177629,7 +178507,9 @@
   },
   {
     "name": "DEAD_CREW_ROCK",
-    "text": "",
+    "text": {
+      "load": "TEXT_DEAD_CREW_ROCK"
+    },
     "autoReward": {
       "level": "HIGH",
       "text": "standard"
@@ -177637,7 +178517,9 @@
   },
   {
     "name": "SURRENDER_ROCK_GENERIC",
-    "text": "",
+    "text": {
+      "load": "TEXT_SURRENDER_ROCK_GENERIC"
+    },
     "choice": [
       {
         "text": "Accept their surrender.",
@@ -177646,14 +178528,18 @@
         }
       },
       {
-        "text": "",
+        "text": {
+          "load": "GENERIC_SURRENDER_CHOICE_NOMERCY"
+        },
         "event": {}
       }
     ]
   },
   {
     "name": "SURRENDER_ROCK_MISSILES",
-    "text": "",
+    "text": {
+      "load": "TEXT_SURRENDER_ROCK_GENERIC"
+    },
     "choice": [
       {
         "text": "Accept their surrender.",
@@ -177662,14 +178548,18 @@
         }
       },
       {
-        "text": "",
+        "text": {
+          "load": "GENERIC_SURRENDER_CHOICE_NOMERCY"
+        },
         "event": {}
       }
     ]
   },
   {
     "name": "DESTROYED_ROCK_STATION",
-    "text": "",
+    "text": {
+      "load": "TEXT_DESTROYED_ROCK_STATION"
+    },
     "autoReward": {
       "level": "MED",
       "text": "standard"
@@ -177677,7 +178567,9 @@
   },
   {
     "name": "DEAD_CREW_ROCK_STATION",
-    "text": "",
+    "text": {
+      "load": "TEXT_DEAD_CREW_ROCK_STATION"
+    },
     "autoReward": {
       "level": "HIGH",
       "text": "standard"
@@ -177685,7 +178577,9 @@
   },
   {
     "name": "SURRENDER_ROCK_STATION_GENERIC",
-    "text": "",
+    "text": {
+      "load": "TEXT_SURRENDER_ROCK_STATION"
+    },
     "choice": [
       {
         "text": "Accept their surrender.",
@@ -177694,14 +178588,18 @@
         }
       },
       {
-        "text": "",
+        "text": {
+          "load": "GENERIC_SURRENDER_CHOICE_NOMERCY"
+        },
         "event": {}
       }
     ]
   },
   {
     "name": "DESTROYED_OUTCAST",
-    "text": "",
+    "text": {
+      "load": "TEXT_DESTROYED_OUTCAST"
+    },
     "autoReward": {
       "level": "MED",
       "text": "standard"
@@ -177709,7 +178607,9 @@
   },
   {
     "name": "DEAD_CREW_OUTCAST",
-    "text": "",
+    "text": {
+      "load": "TEXT_DEAD_CREW_OUTCAST"
+    },
     "autoReward": {
       "level": "HIGH",
       "text": "standard"
@@ -177717,7 +178617,9 @@
   },
   {
     "name": "SURRENDER_OUTCAST_GENERIC",
-    "text": "",
+    "text": {
+      "load": "TEXT_SURRENDER_OUTCAST_GENERIC"
+    },
     "choice": [
       {
         "text": "Accept their surrender.",
@@ -177726,14 +178628,18 @@
         }
       },
       {
-        "text": "",
+        "text": {
+          "load": "GENERIC_SURRENDER_CHOICE_NOMERCY"
+        },
         "event": {}
       }
     ]
   },
   {
     "name": "SURRENDER_OUTCAST_MISSILES",
-    "text": "",
+    "text": {
+      "load": "TEXT_SURRENDER_OUTCAST_GENERIC"
+    },
     "choice": [
       {
         "text": "Accept their surrender.",
@@ -177742,7 +178648,9 @@
         }
       },
       {
-        "text": "",
+        "text": {
+          "load": "GENERIC_SURRENDER_CHOICE_NOMERCY"
+        },
         "event": {}
       }
     ]
@@ -177765,7 +178673,9 @@
         }
       },
       {
-        "text": "",
+        "text": {
+          "load": "GENERIC_SURRENDER_CHOICE_NOMERCY"
+        },
         "event": {}
       }
     ]
@@ -177788,7 +178698,9 @@
   },
   {
     "name": "DESTROYED_SLUG",
-    "text": "",
+    "text": {
+      "load": "TEXT_DESTROYED_SLUG"
+    },
     "autoReward": {
       "level": "MED",
       "text": "standard"
@@ -177796,7 +178708,9 @@
   },
   {
     "name": "DEAD_CREW_SLUG",
-    "text": "",
+    "text": {
+      "load": "TEXT_DEAD_CREW_SLUG"
+    },
     "autoReward": {
       "level": "HIGH",
       "text": "standard"
@@ -177804,7 +178718,9 @@
   },
   {
     "name": "SURRENDER_SLUG_GENERIC",
-    "text": "",
+    "text": {
+      "load": "TEXT_SURRENDER_SLUG_GENERIC"
+    },
     "choice": [
       {
         "text": "Accept their surrender.",
@@ -177813,17 +178729,23 @@
         }
       },
       {
-        "text": "",
+        "text": {
+          "load": "GENERIC_SURRENDER_CHOICE_NOMERCY"
+        },
         "event": {}
       }
     ]
   },
   {
     "name": "SURRENDER_SLUG_SWAP",
-    "text": "",
+    "text": {
+      "load": "TEXT_SURRENDER_SLUG_GENERIC"
+    },
     "choice": [
       {
-        "text": "",
+        "text": {
+          "load": "GENERIC_SURRENDER_CHOICE_NOMERCY"
+        },
         "event": {}
       },
       {
@@ -177836,7 +178758,9 @@
   },
   {
     "name": "SURRENDER_SLUG_BETRAY",
-    "text": "",
+    "text": {
+      "load": "TEXT_SURRENDER_SLUG_GENERIC"
+    },
     "choice": [
       {
         "text": "Accept their surrender.",
@@ -177855,14 +178779,18 @@
         }
       },
       {
-        "text": "",
+        "text": {
+          "load": "GENERIC_SURRENDER_CHOICE_NOMERCY"
+        },
         "event": {}
       }
     ]
   },
   {
     "name": "DESTROYED_CLAN",
-    "text": "",
+    "text": {
+      "load": "TEXT_DESTROYED_CLAN"
+    },
     "autoReward": {
       "level": "MED",
       "text": "standard"
@@ -177870,7 +178798,9 @@
   },
   {
     "name": "DEAD_CREW_CLAN_GENERIC",
-    "text": "",
+    "text": {
+      "load": "TEXT_DEAD_CREW_CLAN"
+    },
     "autoReward": {
       "level": "HIGH",
       "text": "standard"
@@ -177878,7 +178808,9 @@
   },
   {
     "name": "DEAD_CREW_CLAN_TROPHY",
-    "text": "",
+    "text": {
+      "load": "TEXT_DEAD_CREW_CLAN"
+    },
     "autoReward": {
       "level": "HIGH",
       "text": "standard"
@@ -177896,7 +178828,9 @@
   },
   {
     "name": "SURRENDER_CLAN_GENERIC",
-    "text": "",
+    "text": {
+      "load": "TEXT_SURRENDER_CLAN_GENERIC"
+    },
     "choice": [
       {
         "text": "Accept their surrender.",
@@ -177905,14 +178839,18 @@
         }
       },
       {
-        "text": "",
+        "text": {
+          "load": "GENERIC_SURRENDER_CHOICE_NOMERCY"
+        },
         "event": {}
       }
     ]
   },
   {
     "name": "SURRENDER_CLAN_BETRAY",
-    "text": "",
+    "text": {
+      "load": "TEXT_SURRENDER_CLAN_GENERIC"
+    },
     "choice": [
       {
         "text": "Accept their surrender.",
@@ -177931,14 +178869,18 @@
         }
       },
       {
-        "text": "",
+        "text": {
+          "load": "GENERIC_SURRENDER_CHOICE_NOMERCY"
+        },
         "event": {}
       }
     ]
   },
   {
     "name": "DESTROYED_HEKTAR",
-    "text": "",
+    "text": {
+      "load": "TEXT_DESTROYED_HEKTAR"
+    },
     "autoReward": {
       "level": "MED",
       "text": "standard"
@@ -177946,7 +178888,9 @@
   },
   {
     "name": "DEAD_CREW_HEKTAR_GENERIC",
-    "text": "",
+    "text": {
+      "load": "TEXT_DEAD_CREW_HEKTAR"
+    },
     "autoReward": {
       "level": "HIGH",
       "text": "standard"
@@ -177954,7 +178898,9 @@
   },
   {
     "name": "DEAD_CREW_HEKTAR_MODULE",
-    "text": "",
+    "text": {
+      "load": "TEXT_DEAD_CREW_HEKTAR"
+    },
     "autoReward": {
       "level": "HIGH",
       "text": "standard"
@@ -177972,7 +178918,9 @@
   },
   {
     "name": "SURRENDER_HEKTAR_WEAPON",
-    "text": "",
+    "text": {
+      "load": "TEXT_DEAD_CREW_HEKTAR"
+    },
     "autoReward": {
       "level": "HIGH",
       "text": "standard"
@@ -177990,7 +178938,9 @@
   },
   {
     "name": "SURRENDER_HEKTAR_GENERIC",
-    "text": "",
+    "text": {
+      "load": "TEXT_SURRENDER_HEKTAR_GENERIC"
+    },
     "choice": [
       {
         "text": "Accept their surrender.",
@@ -177999,17 +178949,23 @@
         }
       },
       {
-        "text": "",
+        "text": {
+          "load": "GENERIC_SURRENDER_CHOICE_NOMERCY"
+        },
         "event": {}
       }
     ]
   },
   {
     "name": "SURRENDER_HEKTAR_SWAP",
-    "text": "",
+    "text": {
+      "load": "TEXT_SURRENDER_HEKTAR_GENERIC"
+    },
     "choice": [
       {
-        "text": "",
+        "text": {
+          "load": "GENERIC_SURRENDER_CHOICE_NOMERCY"
+        },
         "event": {}
       },
       {
@@ -178022,7 +178978,9 @@
   },
   {
     "name": "DESTROYED_LEECH",
-    "text": "",
+    "text": {
+      "load": "TEXT_DESTROYED_LEECH"
+    },
     "autoReward": {
       "level": "MED",
       "text": "standard"
@@ -178030,7 +178988,9 @@
   },
   {
     "name": "DEAD_CREW_LEECH",
-    "text": "",
+    "text": {
+      "load": "TEXT_DEAD_CREW_LEECH"
+    },
     "autoReward": {
       "level": "HIGH",
       "text": "standard"
@@ -178038,7 +178998,9 @@
   },
   {
     "name": "SURRENDER_LEECH_GENERIC",
-    "text": "",
+    "text": {
+      "load": "TEXT_SURRENDER_LEECH_GENERIC"
+    },
     "choice": [
       {
         "text": "Accept their surrender.",
@@ -178047,7 +179009,9 @@
         }
       },
       {
-        "text": "",
+        "text": {
+          "load": "GENERIC_SURRENDER_CHOICE_NOMERCY"
+        },
         "event": {}
       }
     ]
@@ -178100,7 +179064,9 @@
   },
   {
     "name": "DESTROYED_SHELL",
-    "text": "",
+    "text": {
+      "load": "TEXT_DESTROYED_SHELL"
+    },
     "autoReward": {
       "level": "MED",
       "text": "standard"
@@ -178108,7 +179074,9 @@
   },
   {
     "name": "DEAD_CREW_SHELL",
-    "text": "",
+    "text": {
+      "load": "TEXT_DEAD_CREW_SHELL"
+    },
     "autoReward": {
       "level": "HIGH",
       "text": "standard"
@@ -178116,7 +179084,9 @@
   },
   {
     "name": "SURRENDER_SHELL",
-    "text": "",
+    "text": {
+      "load": "TEXT_SURRENDER_SHELL"
+    },
     "choice": [
       {
         "text": "Accept their surrender.",
@@ -178125,7 +179095,9 @@
         }
       },
       {
-        "text": "",
+        "text": {
+          "load": "GENERIC_SURRENDER_CHOICE_NOMERCY"
+        },
         "event": {}
       }
     ]
@@ -178148,7 +179120,9 @@
   },
   {
     "name": "DESTROYED_MORPH_GENERIC",
-    "text": "",
+    "text": {
+      "load": "TEXT_DESTROYED_MORPH"
+    },
     "autoReward": {
       "level": "MED",
       "text": "standard"
@@ -178178,7 +179152,9 @@
   },
   {
     "name": "DEAD_CREW_MORPH",
-    "text": "",
+    "text": {
+      "load": "TEXT_DEAD_CREW_MORPH"
+    },
     "autoReward": {
       "level": "HIGH",
       "text": "standard"
@@ -178186,7 +179162,9 @@
   },
   {
     "name": "SURRENDER_MORPH",
-    "text": "",
+    "text": {
+      "load": "TEXT_SURRENDER_MORPH"
+    },
     "choice": [
       {
         "hidden": "true",
@@ -178196,14 +179174,18 @@
         }
       },
       {
-        "text": "",
+        "text": {
+          "load": "GENERIC_SURRENDER_CHOICE_NOMERCY"
+        },
         "event": {}
       }
     ]
   },
   {
     "name": "DESTROYED_COALITION",
-    "text": "",
+    "text": {
+      "load": "TEXT_DESTROYED_COALITION"
+    },
     "autoReward": {
       "level": "MED",
       "text": "standard"
@@ -178211,7 +179193,9 @@
   },
   {
     "name": "DEAD_CREW_COALITION",
-    "text": "",
+    "text": {
+      "load": "TEXT_DEAD_CREW_COALITION"
+    },
     "autoReward": {
       "level": "HIGH",
       "text": "standard"
@@ -178219,7 +179203,9 @@
   },
   {
     "name": "SURRENDER_COALITION",
-    "text": "",
+    "text": {
+      "load": "TEXT_SURRENDER_COALITION"
+    },
     "choice": [
       {
         "text": "Accept their surrender.",
@@ -178228,14 +179214,18 @@
         }
       },
       {
-        "text": "",
+        "text": {
+          "load": "GENERIC_SURRENDER_CHOICE_NOMERCY"
+        },
         "event": {}
       }
     ]
   },
   {
     "name": "DESTROYED_GHOST",
-    "text": "",
+    "text": {
+      "load": "TEXT_DESTROYED_GHOST"
+    },
     "autoReward": {
       "level": "MED",
       "text": "stuff"
@@ -178243,7 +179233,9 @@
   },
   {
     "name": "DEAD_CREW_GHOST",
-    "text": "",
+    "text": {
+      "load": "TEXT_DEAD_CREW_GHOST"
+    },
     "autoReward": {
       "level": "MED",
       "text": "stuff"
@@ -178251,7 +179243,9 @@
   },
   {
     "name": "DESTROYED_DYNASTY",
-    "text": "",
+    "text": {
+      "load": "TEXT_DESTROYED_DYNASTY"
+    },
     "autoReward": {
       "level": "MED",
       "text": "standard"
@@ -178259,7 +179253,9 @@
   },
   {
     "name": "DEAD_CREW_DYNASTY",
-    "text": "",
+    "text": {
+      "load": "TEXT_DEAD_CREW_DYNASTY"
+    },
     "autoReward": {
       "level": "HIGH",
       "text": "standard"
@@ -178267,7 +179263,9 @@
   },
   {
     "name": "DESTROYED_LANIUS_GENERIC",
-    "text": "",
+    "text": {
+      "load": "TEXT_DESTROYED_LANIUS"
+    },
     "autoReward": {
       "level": "MED",
       "text": "standard"
@@ -178275,7 +179273,9 @@
   },
   {
     "name": "DESTROYED_LANIUS_BOARDER",
-    "text": "",
+    "text": {
+      "load": "TEXT_DESTROYED_LANIUS"
+    },
     "autoReward": {
       "level": "MED",
       "text": "standard"
@@ -178295,7 +179295,9 @@
   },
   {
     "name": "DEAD_CREW_LANIUS",
-    "text": "",
+    "text": {
+      "load": "TEXT_DEAD_CREW_LANIUS"
+    },
     "autoReward": {
       "level": "HIGH",
       "text": "standard"
@@ -178303,7 +179305,9 @@
   },
   {
     "name": "SURRENDER_LANIUS",
-    "text": "",
+    "text": {
+      "load": "TEXT_SURRENDER_LANIUS"
+    },
     "choice": [
       {
         "text": "Accept their surrender.",
@@ -178312,7 +179316,9 @@
         }
       },
       {
-        "text": "",
+        "text": {
+          "load": "GENERIC_SURRENDER_CHOICE_NOMERCY"
+        },
         "event": {}
       }
     ]
@@ -178345,7 +179351,9 @@
   },
   {
     "name": "DESTROYED_AUGMENTED_GENERIC",
-    "text": "",
+    "text": {
+      "load": "TEXT_DESTROYED_AUGMENTED"
+    },
     "autoReward": {
       "level": "MED",
       "text": "standard"
@@ -178353,7 +179361,9 @@
   },
   {
     "name": "DESTROYED_AUGMENTED_BOARDER",
-    "text": "",
+    "text": {
+      "load": "TEXT_DESTROYED_AUGMENTED"
+    },
     "autoReward": {
       "level": "MED",
       "text": "standard"
@@ -178373,7 +179383,9 @@
   },
   {
     "name": "DEAD_CREW_AUGMENTED",
-    "text": "",
+    "text": {
+      "load": "TEXT_DEAD_CREW_AUGMENTED"
+    },
     "autoReward": {
       "level": "HIGH",
       "text": "item"
@@ -178381,7 +179393,9 @@
   },
   {
     "name": "DESTROYED_ANCIENT",
-    "text": "",
+    "text": {
+      "load": "TEXT_DESTROYED_ANCIENT"
+    },
     "autoReward": {
       "level": "HIGH",
       "text": "standard"
@@ -178389,7 +179403,9 @@
   },
   {
     "name": "DEAD_CREW_ANCIENT",
-    "text": "",
+    "text": {
+      "load": "TEXT_DEAD_CREW_ANCIENT"
+    },
     "autoReward": {
       "level": "HIGH",
       "text": "standard"
@@ -180545,7 +181561,9 @@
   },
   {
     "name": "FILLER_FREE",
-    "text": "",
+    "text": {
+      "load": "TEXT_FILLER_FREE"
+    },
     "autoReward": {
       "level": "MED",
       "text": "standard"
@@ -180567,7 +181585,9 @@
   },
   {
     "name": "FILLER_DRONE",
-    "text": "",
+    "text": {
+      "load": "TEXT_FILLER_DRONE"
+    },
     "drone": {
       "name": "RANDOM"
     },
@@ -180588,7 +181608,9 @@
   },
   {
     "name": "FILLER_WEAPON",
-    "text": "",
+    "text": {
+      "load": "TEXT_FILLER_WEAPON"
+    },
     "weapon": {
       "name": "GIFTLIST_FREE"
     },
@@ -181016,7 +182038,9 @@
   {
     "name": "FILLER_UPGRADES",
     "unique": "true",
-    "text": "",
+    "text": {
+      "load": "TEXT_FILLER_UPGRADES"
+    },
     "choice": [
       {
         "text": "Agree to the trade.",
@@ -181361,7 +182385,9 @@
       "load": "SHIP_UNION_GENERIC",
       "hostile": "false"
     },
-    "text": "",
+    "text": {
+      "load": "TRADER_CIV"
+    },
     "choice": [
       {
         "text": "Trade.",
@@ -181645,7 +182671,9 @@
   {
     "name": "FILLER_TAVERN_HIRE",
     "unique": "true",
-    "text": "",
+    "text": {
+      "load": "TAVERN_HIRE_TEXT"
+    },
     "choice": [
       {
         "text": "Hire a crewmember.",
@@ -181792,7 +182820,9 @@
   {
     "name": "FILLER_WRECKAGE_EVENT",
     "unique": "false",
-    "text": "",
+    "text": {
+      "load": "FILLER_WRECKAGE_TEXT"
+    },
     "choice": [
       {
         "req": "sensors",
@@ -181855,7 +182885,9 @@
   {
     "name": "FILLER_TERRAFORMING_SCAN",
     "unique": "true",
-    "text": "",
+    "text": {
+      "load": "FILLER_TERRAFORMING_SCAN_TEXT"
+    },
     "choice": [
       {
         "text": "You offer your assistance.",
@@ -182588,7 +183620,9 @@
     "img": {
       "planet": "NONE"
     },
-    "text": "",
+    "text": {
+      "load": "TEXT_FILLER_GHOSTSHIP"
+    },
     "ship": {
       "load": "SHIP_GHOST_ALL",
       "hostile": "false"
@@ -182938,7 +183972,9 @@
   {
     "name": "FILLER_EMPTY_STATION",
     "unique": "true",
-    "text": "",
+    "text": {
+      "load": "FILLER_EMPTY_STATION_TEXT"
+    },
     "choice": [
       {
         "hidden": "true",
@@ -182969,7 +184005,9 @@
   },
   {
     "name": "FILLER_REBEL_CHECKPOINT",
-    "text": "",
+    "text": {
+      "load": "FILLER_REBEL_CHECKPOINT_TEXT"
+    },
     "ship": {
       "load": "SHIP_REBEL_FIGHT",
       "hostile": "false"
@@ -182994,7 +184032,9 @@
       {
         "text": "Bribe the Rebels to release the civilian ships.",
         "event": {
-          "text": "",
+          "text": {
+            "load": "FILLER_REBEL_BRIBE_TEXT"
+          },
           "item_modify": {
             "item": {
               "type": "scrap",
@@ -183089,11 +184129,15 @@
   },
   {
     "name": "FILLER_REBEL_HELPER_NO_SUPPLIES",
-    "text": ""
+    "text": {
+      "load": "FILLER_REBEL_HELPER_NO_SUPPLIES_TEXT"
+    }
   },
   {
     "name": "FILLER_REBEL_HELPERS",
-    "text": "",
+    "text": {
+      "load": "FILLER_REBEL_HELPERS_TEXT"
+    },
     "ship": {
       "load": "SHIP_REBEL_HELPERS",
       "hostile": "false"
@@ -183175,7 +184219,9 @@
   {
     "name": "FILLER_ROGUE_REBEL",
     "unique": "true",
-    "text": "",
+    "text": {
+      "load": "FILLER_ROGUE_REBEL_TEXT"
+    },
     "choice": [
       {
         "text": "Go looking for the Rebel ship.",
@@ -183977,7 +185023,9 @@
   {
     "name": "FILLER_DISTRESS_COMBAT",
     "unique": "true",
-    "text": "",
+    "text": {
+      "load": "TEXT_FILLER_DISTRESS_COMBAT"
+    },
     "img": {
       "back": "BACKGROUND",
       "planet": "PLANET_POPULATED"
@@ -184258,7 +185306,9 @@
   {
     "name": "FILLER_DISTRESS_TRAP",
     "unique": "true",
-    "text": "",
+    "text": {
+      "load": "TRAP_BEACON_TEXT"
+    },
     "distressBeacon": {},
     "ship": {
       "load": "SHIP_PIRATE_ALL",
@@ -184274,7 +185324,9 @@
   },
   {
     "name": "FILLER_DISTRESS_FRIENDLY",
-    "text": "",
+    "text": {
+      "load": "TEXT_DISTRESS_FRIENDLY"
+    },
     "distressBeacon": {},
     "ship": {
       "load": "SHIP_UNION_ALL",
@@ -184952,7 +186004,9 @@
   {
     "name": "FILLER_QUEST_ESCORT",
     "unique": "false",
-    "text": "",
+    "text": {
+      "load": "QUEST_ESCORT_TEXT"
+    },
     "ship": {
       "load": "SHIP_UNION_ALL",
       "hostile": "false"
@@ -186002,7 +187056,9 @@
         "req": "LIST_CREW_JERRY",
         "text": "(Jerry) \"Hello!\"",
         "event": {
-          "text": "",
+          "text": {
+            "load": "TEXT_ENCOUNTER_REBEL_JERRY_HELLO"
+          },
           "ship": {
             "hostile": "false"
           }
@@ -186061,7 +187117,9 @@
         "req": "LIST_CREW_JERRY",
         "text": "(Jerry) \"Hello!\"",
         "event": {
-          "text": "",
+          "text": {
+            "load": "TEXT_ENCOUNTER_REBEL_JERRY_HELLO"
+          },
           "ship": {
             "hostile": "false"
           }
@@ -186120,7 +187178,9 @@
         "req": "LIST_CREW_JERRY",
         "text": "(Jerry) \"Hello!\"",
         "event": {
-          "text": "",
+          "text": {
+            "load": "TEXT_ENCOUNTER_REBEL_JERRY_HELLO"
+          },
           "ship": {
             "hostile": "false"
           }
@@ -186179,7 +187239,9 @@
         "req": "LIST_CREW_JERRY",
         "text": "(Jerry) \"Hello!\"",
         "event": {
-          "text": "",
+          "text": {
+            "load": "TEXT_ENCOUNTER_REBEL_JERRY_HELLO"
+          },
           "ship": {
             "hostile": "false"
           }
@@ -186238,7 +187300,9 @@
         "req": "LIST_CREW_JERRY",
         "text": "(Jerry) \"Hello!\"",
         "event": {
-          "text": "",
+          "text": {
+            "load": "TEXT_ENCOUNTER_REBEL_JERRY_HELLO"
+          },
           "ship": {
             "hostile": "false"
           }
@@ -186492,7 +187556,9 @@
         "req": "LIST_CREW_JERRY",
         "text": "(Jerry) \"Hello!\"",
         "event": {
-          "text": "",
+          "text": {
+            "load": "TEXT_ENCOUNTER_REBEL_JERRY_HELLO"
+          },
           "ship": {
             "hostile": "false"
           }
@@ -186560,7 +187626,9 @@
         "req": "LIST_CREW_JERRY",
         "text": "(Jerry) \"Hello!\"",
         "event": {
-          "text": "",
+          "text": {
+            "load": "TEXT_ENCOUNTER_REBEL_JERRY_HELLO"
+          },
           "ship": {
             "hostile": "false"
           }
@@ -187032,7 +188100,9 @@
         "req": "LIST_CREW_JERRY",
         "text": "(Jerry) \"Hello!\"",
         "event": {
-          "text": "",
+          "text": {
+            "load": "TEXT_ENCOUNTER_REBEL_JERRY_HELLO"
+          },
           "ship": {
             "hostile": "false"
           }
@@ -187099,7 +188169,9 @@
         "req": "LIST_CREW_JERRY",
         "text": "(Jerry) \"Hello!\"",
         "event": {
-          "text": "",
+          "text": {
+            "load": "TEXT_ENCOUNTER_REBEL_JERRY_HELLO"
+          },
           "ship": {
             "hostile": "false"
           }
@@ -187166,7 +188238,9 @@
         "req": "LIST_CREW_JERRY",
         "text": "(Jerry) \"Hello!\"",
         "event": {
-          "text": "",
+          "text": {
+            "load": "TEXT_ENCOUNTER_REBEL_JERRY_HELLO"
+          },
           "ship": {
             "hostile": "false"
           }
@@ -187233,7 +188307,9 @@
         "req": "LIST_CREW_JERRY",
         "text": "(Jerry) \"Hello!\"",
         "event": {
-          "text": "",
+          "text": {
+            "load": "TEXT_ENCOUNTER_REBEL_JERRY_HELLO"
+          },
           "ship": {
             "hostile": "false"
           }
@@ -188146,7 +189222,9 @@
   },
   {
     "name": "FUEL_FLEET_DELAY",
-    "text": "",
+    "text": {
+      "load": "FUEL_FLEET_DELAY_LIST"
+    },
     "modifyPursuit": {
       "amount": "-1"
     },
@@ -188160,7 +189238,9 @@
   },
   {
     "name": "FUEL_NOTHING",
-    "text": "",
+    "text": {
+      "load": "FUEL_NOTHING_LIST"
+    },
     "choice": [
       {
         "text": "Do something onboard the ship.",
@@ -188184,7 +189264,9 @@
   },
   {
     "name": "FUEL_TRADER_MV",
-    "text": "",
+    "text": {
+      "load": "FUEL_TRADER_TEXT_LIST"
+    },
     "ship": {
       "load": "SHIP_UNION_ALL",
       "hostile": "false"
@@ -188481,7 +189563,9 @@
   },
   {
     "name": "FUEL_FLEET_DISTRESS",
-    "text": "",
+    "text": {
+      "load": "FUEL_FLEET_DISTRESS_LIST"
+    },
     "modifyPursuit": {
       "amount": "1"
     },
@@ -188495,7 +189579,9 @@
   },
   {
     "name": "FUEL_NOTHING_DISTRESS",
-    "text": "",
+    "text": {
+      "load": "FUEL_NOTHING_DISTRESS_LIST"
+    },
     "choice": [
       {
         "text": "Do something onboard the ship.",
@@ -188590,7 +189676,9 @@
   },
   {
     "name": "FUEL_TRADER_DISTRESS_MV",
-    "text": "",
+    "text": {
+      "load": "FUEL_TRADER_DISTRESS_MV_TEXT_LIST"
+    },
     "ship": {
       "load": "SHIP_UNION_ALL",
       "hostile": "false"
@@ -188707,7 +189795,9 @@
   },
   {
     "name": "FUEL_ON_REBEL_ATTACK",
-    "text": "",
+    "text": {
+      "load": "FUEL_ON_REBEL_ATTACK"
+    },
     "ship": {
       "load": "SHIP_REBEL_FUEL",
       "hostile": "true"
@@ -188795,7 +189885,9 @@
   },
   {
     "name": "FUEL_ON_MANTIS_ATTACK",
-    "text": "",
+    "text": {
+      "load": "FUEL_ON_MANTIS_ATTACK"
+    },
     "ship": {
       "load": "SHIP_MANTIS_FUEL",
       "hostile": "true"
@@ -189289,7 +190381,9 @@
         "text": "Explored location. Nothing left of interest."
       }
     },
-    "text": "",
+    "text": {
+      "load": "TEXT_PROTON_DYNASTY"
+    },
     "ship": {
       "load": "SHIP_DYNASTY_FIGHT",
       "hostile": "true"
@@ -189323,7 +190417,9 @@
         "text": "Explored location. Nothing left of interest."
       }
     },
-    "text": "",
+    "text": {
+      "load": "TEXT_PROTON_VAGABOND"
+    },
     "ship": {
       "load": "SHIP_GHOST_ALL",
       "hostile": "true"
@@ -189850,7 +190946,9 @@
   },
   {
     "name": "GUARD_SIGNAL",
-    "text": "",
+    "text": {
+      "load": "TEXT_GUARD_SIGNAL"
+    },
     "choice": [
       {
         "hidden": "true",
@@ -189891,7 +190989,9 @@
         "a": "1"
       }
     },
-    "text": "",
+    "text": {
+      "load": "TEXT_START_UNION"
+    },
     "ship": {
       "load": "SHIP_GUARD_UNION",
       "hostile": "false"
@@ -189999,7 +191099,9 @@
   },
   {
     "name": "GUARD_UNION_INTERACT",
-    "text": "",
+    "text": {
+      "load": "TEXT_GUARD_UNION_CONTACT"
+    },
     "choice": [
       {
         "hidden": "true",
@@ -190276,7 +191378,9 @@
         "a": "1"
       }
     },
-    "text": "",
+    "text": {
+      "load": "TEXT_START_FED"
+    },
     "ship": {
       "load": "SHIP_GUARD_FED",
       "hostile": "false"
@@ -190343,7 +191447,9 @@
         "a": "1"
       }
     },
-    "text": "",
+    "text": {
+      "load": "TEXT_START_FED_UNIQUE"
+    },
     "ship": {
       "load": "SHIP_GUARD_FED_UNIQUE",
       "hostile": "false"
@@ -191238,7 +192344,9 @@
   },
   {
     "name": "GUARD_MILITIA_INTERACT",
-    "text": "",
+    "text": {
+      "load": "TEXT_GUARD_MILITIA_CONTACT"
+    },
     "choice": [
       {
         "hidden": "true",
@@ -191457,7 +192565,9 @@
       "autoDarkening": "true",
       "text": "CUSTOM_FLEET_ENGI"
     },
-    "text": "",
+    "text": {
+      "load": "TEXT_START_ENGI"
+    },
     "changeBackground": {
       "text": "BACK_SECTOR_ENGI"
     },
@@ -191565,7 +192675,9 @@
   },
   {
     "name": "GUARD_ENGI_INTERACT",
-    "text": "",
+    "text": {
+      "load": "TEXT_GUARD_ENGI_CONTACT"
+    },
     "choice": [
       {
         "hidden": "true",
@@ -191769,7 +192881,9 @@
         "a": "1"
       }
     },
-    "text": "",
+    "text": {
+      "load": "TEXT_START_SEPERATIST"
+    },
     "changeBackground": {
       "text": "BACK_SECTOR_SEPARATIST"
     },
@@ -191814,7 +192928,9 @@
         "a": "1"
       }
     },
-    "text": "",
+    "text": {
+      "load": "TEXT_START_ZOLTAN"
+    },
     "changeBackground": {
       "text": "BACK_SECTOR_ZOLTAN"
     },
@@ -191928,7 +193044,9 @@
   },
   {
     "name": "GUARD_ZOLTAN_INTERACT",
-    "text": "",
+    "text": {
+      "load": "TEXT_GUARD_ZOLTAN_CONTACT"
+    },
     "choice": [
       {
         "hidden": "true",
@@ -192218,7 +193336,9 @@
         "a": "1"
       }
     },
-    "text": "",
+    "text": {
+      "load": "TEXT_START_FREEMANTIS"
+    },
     "changeBackground": {
       "text": "BACK_SECTOR_FREEMANTIS"
     },
@@ -192332,7 +193452,9 @@
   },
   {
     "name": "GUARD_FREEMANTIS_INTERACT",
-    "text": "",
+    "text": {
+      "load": "TEXT_GUARD_FREEMANTIS_CONTACT"
+    },
     "choice": [
       {
         "hidden": "true",
@@ -192525,7 +193647,9 @@
         "a": "1"
       }
     },
-    "text": "",
+    "text": {
+      "load": "TEXT_START_CRYSTAL"
+    },
     "changeBackground": {
       "text": "BACK_SECTOR_CRYSTAL"
     },
@@ -192639,7 +193763,9 @@
   },
   {
     "name": "GUARD_CRYSTAL_INTERACT",
-    "text": "",
+    "text": {
+      "load": "TEXT_GUARD_CRYSTAL_CONTACT"
+    },
     "choice": [
       {
         "hidden": "true",
@@ -192885,7 +194011,9 @@
         "a": "1"
       }
     },
-    "text": "",
+    "text": {
+      "load": "TEXT_START_ORCHID"
+    },
     "changeBackground": {
       "text": "BACK_SECTOR_ORCHID"
     },
@@ -192999,7 +194127,9 @@
   },
   {
     "name": "GUARD_ORCHID_INTERACT",
-    "text": "",
+    "text": {
+      "load": "TEXT_GUARD_ORCHID_CONTACT"
+    },
     "choice": [
       {
         "hidden": "true",
@@ -193224,7 +194354,9 @@
         "a": "1"
       }
     },
-    "text": "",
+    "text": {
+      "load": "TEXT_START_OUTCAST"
+    },
     "changeBackground": {
       "text": "BACK_SECTOR_ROCK"
     },
@@ -193332,7 +194464,9 @@
   },
   {
     "name": "GUARD_OUTCAST_INTERACT",
-    "text": "",
+    "text": {
+      "load": "TEXT_GUARD_OUTCAST_CONTACT"
+    },
     "choice": [
       {
         "hidden": "true",
@@ -193534,7 +194668,9 @@
         "a": "1"
       }
     },
-    "text": "",
+    "text": {
+      "load": "TEXT_START_SHELL"
+    },
     "changeBackground": {
       "text": "BACK_SECTOR_SHELL"
     },
@@ -193648,7 +194784,9 @@
   },
   {
     "name": "GUARD_SHELL_INTERACT",
-    "text": "",
+    "text": {
+      "load": "TEXT_GUARD_SHELL_CONTACT"
+    },
     "choice": [
       {
         "hidden": "true",
@@ -193950,7 +195088,9 @@
         "a": "1"
       }
     },
-    "text": "",
+    "text": {
+      "load": "TEXT_START_REBEL"
+    },
     "changeBackground": {
       "text": "BACK_SECTOR_REBEL"
     },
@@ -194051,7 +195191,9 @@
         "req": "LIST_CREW_JERRY",
         "text": "(Jerry) \"Hello!\"",
         "event": {
-          "text": "",
+          "text": {
+            "load": "TEXT_ENCOUNTER_REBEL_JERRY_HELLO"
+          },
           "modifyPursuit": {
             "amount": "-1"
           }
@@ -194224,7 +195366,9 @@
         "a": "1"
       }
     },
-    "text": "",
+    "text": {
+      "load": "TEXT_START_AUTO"
+    },
     "ship": {
       "load": "SHIP_GUARD_AUTO",
       "hostile": "false"
@@ -194245,7 +195389,9 @@
   },
   {
     "name": "GUARD_AUTO",
-    "text": "",
+    "text": {
+      "load": "TEXT_AUTO_GUARD_MESSAGE"
+    },
     "choice": [
       {
         "hidden": "true",
@@ -194409,7 +195555,9 @@
         "a": "1"
       }
     },
-    "text": "",
+    "text": {
+      "load": "TEXT_START_COALITION"
+    },
     "changeBackground": {
       "text": "BACK_SECTOR_COALITION"
     },
@@ -194704,7 +195852,9 @@
         "a": "1"
       }
     },
-    "text": "",
+    "text": {
+      "load": "TEXT_START_ROCK"
+    },
     "changeBackground": {
       "text": "BACK_SECTOR_ROCK"
     },
@@ -195052,7 +196202,9 @@
         "a": "1"
       }
     },
-    "text": "",
+    "text": {
+      "load": "TEXT_START_DUSKBRINGER"
+    },
     "changeBackground": {
       "text": "BACK_SECTOR_DUSKBRINGER"
     },
@@ -195407,7 +196559,9 @@
         "a": "1"
       }
     },
-    "text": "",
+    "text": {
+      "load": "TEXT_START_MANTIS"
+    },
     "changeBackground": {
       "text": "BACK_SECTOR_MANTIS"
     },
@@ -195656,7 +196810,9 @@
         "a": "1"
       }
     },
-    "text": "",
+    "text": {
+      "load": "TEXT_START_GHOST"
+    },
     "changeBackground": {
       "text": "BACK_SECTOR_GHOST"
     },
@@ -195700,7 +196856,9 @@
         "a": "1"
       }
     },
-    "text": "",
+    "text": {
+      "load": "TEXT_START_GHOST"
+    },
     "ship": {
       "load": "SHIP_GUARD_GHOST",
       "hostile": "false"
@@ -196118,7 +197276,9 @@
         "a": "1"
       }
     },
-    "text": "",
+    "text": {
+      "load": "TEXT_START_PIRATE"
+    },
     "changeBackground": {
       "text": "BACK_SECTOR_PIRATE"
     },
@@ -196481,7 +197641,9 @@
         "a": "1"
       }
     },
-    "text": "",
+    "text": {
+      "load": "TEXT_START_VAMPWEED"
+    },
     "changeBackground": {
       "text": "BACK_SECTOR_VAMPWEED"
     },
@@ -197046,7 +198208,9 @@
         "a": "1"
       }
     },
-    "text": "",
+    "text": {
+      "load": "TEXT_START_SLUG"
+    },
     "changeBackground": {
       "text": "BACK_SECTOR_SLUG"
     },
@@ -197368,7 +198532,9 @@
         "a": "1"
       }
     },
-    "text": "",
+    "text": {
+      "load": "TEXT_START_LEECH"
+    },
     "changeBackground": {
       "text": "BACK_SECTOR_LEECH"
     },
@@ -197411,7 +198577,9 @@
         "a": "1"
       }
     },
-    "text": "",
+    "text": {
+      "load": "TEXT_START_LEECH"
+    },
     "changeBackground": {
       "text": "BACK_SECTOR_LEECH"
     },
@@ -198033,7 +199201,9 @@
         "a": "1"
       }
     },
-    "text": "",
+    "text": {
+      "load": "TEXT_START_DYNASTY"
+    },
     "changeBackground": {
       "text": "BACK_SECTOR_DYNASTY"
     },
@@ -198498,7 +199668,9 @@
         "a": "1"
       }
     },
-    "text": "",
+    "text": {
+      "load": "TEXT_START_ASTEROID"
+    },
     "changeBackground": {
       "text": "BACK_SECTOR_ASTEROID"
     },
@@ -198540,7 +199712,9 @@
         "a": "1"
       }
     },
-    "text": "",
+    "text": {
+      "load": "TEXT_START_ASTEROID"
+    },
     "ship": {
       "load": "SHIP_GUARD_UNION",
       "hostile": "false"
@@ -198633,7 +199807,9 @@
         "a": "1"
       }
     },
-    "text": "",
+    "text": {
+      "load": "TEXT_START_ASTEROID"
+    },
     "ship": {
       "load": "SHIP_GUARD_ZOLTAN",
       "hostile": "false"
@@ -198726,7 +199902,9 @@
         "a": "1"
       }
     },
-    "text": "",
+    "text": {
+      "load": "TEXT_START_ASTEROID"
+    },
     "ship": {
       "load": "SHIP_GUARD_LEECH",
       "hostile": "false"
@@ -198804,7 +199982,9 @@
         "a": "1"
       }
     },
-    "text": "",
+    "text": {
+      "load": "TEXT_START_ASTEROID"
+    },
     "ship": {
       "load": "SHIP_GUARD_ROCK",
       "hostile": "false"
@@ -199032,7 +200212,9 @@
         "a": "1"
       }
     },
-    "text": "",
+    "text": {
+      "load": "TEXT_START_ASTEROID"
+    },
     "ship": {
       "load": "SHIP_GUARD_VAMPWEED",
       "hostile": "false"
@@ -199205,7 +200387,9 @@
         "a": "1"
       }
     },
-    "text": "",
+    "text": {
+      "load": "TEXT_START_ABANDONED"
+    },
     "changeBackground": {
       "text": "BACK_SECTOR_ABANDONED"
     },
@@ -199244,7 +200428,9 @@
         "a": "1"
       }
     },
-    "text": "",
+    "text": {
+      "load": "TEXT_START_ABANDONED"
+    },
     "ship": {
       "load": "SHIP_GUARD_MILITIA_ABANDONED",
       "hostile": "false"
@@ -199415,7 +200601,9 @@
         "a": "1"
       }
     },
-    "text": "",
+    "text": {
+      "load": "TEXT_START_NEBULA"
+    },
     "changeBackground": {
       "text": "BACKGROUND"
     },
@@ -202802,7 +203990,9 @@
   },
   {
     "name": "GUARD_SHIPYARD",
-    "text": "",
+    "text": {
+      "load": "TEXT_AUTO_GUARD_MESSAGE"
+    },
     "choice": [
       {
         "hidden": "true",
@@ -212654,7 +213844,9 @@
   },
   {
     "name": "ENTER_ASTEROID",
-    "text": "",
+    "text": {
+      "load": "TEXT_LIGHTSPEED"
+    },
     "img": {
       "back": "BACKGROUND_LIGHTSPEED",
       "planet": "NONE"
@@ -212691,7 +213883,9 @@
   },
   {
     "name": "ENTER_UNION",
-    "text": "",
+    "text": {
+      "load": "TEXT_LIGHTSPEED"
+    },
     "img": {
       "back": "BACKGROUND_LIGHTSPEED",
       "planet": "NONE"
@@ -212728,7 +213922,9 @@
   },
   {
     "name": "ENTER_UNION_UNIQUE",
-    "text": "",
+    "text": {
+      "load": "TEXT_LIGHTSPEED"
+    },
     "img": {
       "back": "BACKGROUND_LIGHTSPEED",
       "planet": "NONE"
@@ -212765,7 +213961,9 @@
   },
   {
     "name": "ENTER_UNION_HACKED",
-    "text": "",
+    "text": {
+      "load": "TEXT_LIGHTSPEED"
+    },
     "img": {
       "back": "BACKGROUND_LIGHTSPEED",
       "planet": "NONE"
@@ -212802,7 +214000,9 @@
   },
   {
     "name": "ENTER_MILITIA",
-    "text": "",
+    "text": {
+      "load": "TEXT_LIGHTSPEED"
+    },
     "img": {
       "back": "BACKGROUND_LIGHTSPEED",
       "planet": "NONE"
@@ -212839,7 +214039,9 @@
   },
   {
     "name": "ENTER_ENGI",
-    "text": "",
+    "text": {
+      "load": "TEXT_LIGHTSPEED"
+    },
     "img": {
       "back": "BACKGROUND_LIGHTSPEED",
       "planet": "NONE"
@@ -212876,7 +214078,9 @@
   },
   {
     "name": "ENTER_ENGI_UNIQUE",
-    "text": "",
+    "text": {
+      "load": "TEXT_LIGHTSPEED"
+    },
     "img": {
       "back": "BACKGROUND_LIGHTSPEED",
       "planet": "NONE"
@@ -212913,7 +214117,9 @@
   },
   {
     "name": "ENTER_ZOLTAN",
-    "text": "",
+    "text": {
+      "load": "TEXT_LIGHTSPEED"
+    },
     "img": {
       "back": "BACKGROUND_LIGHTSPEED",
       "planet": "NONE"
@@ -212950,7 +214156,9 @@
   },
   {
     "name": "ENTER_ZOLTAN_UNIQUE",
-    "text": "",
+    "text": {
+      "load": "TEXT_LIGHTSPEED"
+    },
     "img": {
       "back": "BACKGROUND_LIGHTSPEED",
       "planet": "NONE"
@@ -212987,7 +214195,9 @@
   },
   {
     "name": "ENTER_ORCHID",
-    "text": "",
+    "text": {
+      "load": "TEXT_LIGHTSPEED"
+    },
     "img": {
       "back": "BACKGROUND_LIGHTSPEED",
       "planet": "NONE"
@@ -213024,7 +214234,9 @@
   },
   {
     "name": "ENTER_ORCHID_UNIQUE",
-    "text": "",
+    "text": {
+      "load": "TEXT_LIGHTSPEED"
+    },
     "img": {
       "back": "BACKGROUND_LIGHTSPEED",
       "planet": "NONE"
@@ -213061,7 +214273,9 @@
   },
   {
     "name": "ENTER_VAMPWEED",
-    "text": "",
+    "text": {
+      "load": "TEXT_LIGHTSPEED"
+    },
     "img": {
       "back": "BACKGROUND_LIGHTSPEED",
       "planet": "NONE"
@@ -213098,7 +214312,9 @@
   },
   {
     "name": "ENTER_VAMPWEED_UNIQUE",
-    "text": "",
+    "text": {
+      "load": "TEXT_LIGHTSPEED"
+    },
     "img": {
       "back": "BACKGROUND_LIGHTSPEED",
       "planet": "NONE"
@@ -213135,7 +214351,9 @@
   },
   {
     "name": "ENTER_FREEMANTIS",
-    "text": "",
+    "text": {
+      "load": "TEXT_LIGHTSPEED"
+    },
     "img": {
       "back": "BACKGROUND_LIGHTSPEED",
       "planet": "NONE"
@@ -213172,7 +214390,9 @@
   },
   {
     "name": "ENTER_FREEMANTIS_UNIQUE",
-    "text": "",
+    "text": {
+      "load": "TEXT_LIGHTSPEED"
+    },
     "img": {
       "back": "BACKGROUND_LIGHTSPEED",
       "planet": "NONE"
@@ -213209,7 +214429,9 @@
   },
   {
     "name": "ENTER_SEPARATIST",
-    "text": "",
+    "text": {
+      "load": "TEXT_LIGHTSPEED"
+    },
     "img": {
       "back": "BACKGROUND_LIGHTSPEED",
       "planet": "NONE"
@@ -213246,7 +214468,9 @@
   },
   {
     "name": "ENTER_CRYSTAL",
-    "text": "",
+    "text": {
+      "load": "TEXT_LIGHTSPEED"
+    },
     "img": {
       "back": "BACKGROUND_LIGHTSPEED",
       "planet": "NONE"
@@ -213283,7 +214507,9 @@
   },
   {
     "name": "ENTER_CRYSTAL_UNIQUE",
-    "text": "",
+    "text": {
+      "load": "TEXT_LIGHTSPEED"
+    },
     "img": {
       "back": "BACKGROUND_LIGHTSPEED",
       "planet": "NONE"
@@ -213320,7 +214546,9 @@
   },
   {
     "name": "ENTER_OUTCAST",
-    "text": "",
+    "text": {
+      "load": "TEXT_LIGHTSPEED"
+    },
     "img": {
       "back": "BACKGROUND_LIGHTSPEED",
       "planet": "NONE"
@@ -213357,7 +214585,9 @@
   },
   {
     "name": "ENTER_OUTCAST_UNIQUE",
-    "text": "",
+    "text": {
+      "load": "TEXT_LIGHTSPEED"
+    },
     "img": {
       "back": "BACKGROUND_LIGHTSPEED",
       "planet": "NONE"
@@ -213394,7 +214624,9 @@
   },
   {
     "name": "ENTER_FEDERATION",
-    "text": "",
+    "text": {
+      "load": "TEXT_LIGHTSPEED"
+    },
     "img": {
       "back": "BACKGROUND_LIGHTSPEED",
       "planet": "NONE"
@@ -213431,7 +214663,9 @@
   },
   {
     "name": "ENTER_FEDERATION_UNIQUE",
-    "text": "",
+    "text": {
+      "load": "TEXT_LIGHTSPEED"
+    },
     "img": {
       "back": "BACKGROUND_LIGHTSPEED",
       "planet": "NONE"
@@ -213468,7 +214702,9 @@
   },
   {
     "name": "ENTER_REBEL",
-    "text": "",
+    "text": {
+      "load": "TEXT_LIGHTSPEED"
+    },
     "img": {
       "back": "BACKGROUND_LIGHTSPEED",
       "planet": "NONE"
@@ -213505,7 +214741,9 @@
   },
   {
     "name": "ENTER_REBEL_UNIQUE",
-    "text": "",
+    "text": {
+      "load": "TEXT_LIGHTSPEED"
+    },
     "img": {
       "back": "BACKGROUND_LIGHTSPEED",
       "planet": "NONE"
@@ -213542,7 +214780,9 @@
   },
   {
     "name": "ENTER_PIRATE",
-    "text": "",
+    "text": {
+      "load": "TEXT_LIGHTSPEED"
+    },
     "img": {
       "back": "BACKGROUND_LIGHTSPEED",
       "planet": "NONE"
@@ -213579,7 +214819,9 @@
   },
   {
     "name": "ENTER_PIRATE_UNIQUE",
-    "text": "",
+    "text": {
+      "load": "TEXT_LIGHTSPEED"
+    },
     "img": {
       "back": "BACKGROUND_LIGHTSPEED",
       "planet": "NONE"
@@ -213616,7 +214858,9 @@
   },
   {
     "name": "ENTER_MANTIS",
-    "text": "",
+    "text": {
+      "load": "TEXT_LIGHTSPEED"
+    },
     "img": {
       "back": "BACKGROUND_LIGHTSPEED",
       "planet": "NONE"
@@ -213653,7 +214897,9 @@
   },
   {
     "name": "ENTER_MANTIS_UNIQUE",
-    "text": "",
+    "text": {
+      "load": "TEXT_LIGHTSPEED"
+    },
     "img": {
       "back": "BACKGROUND_LIGHTSPEED",
       "planet": "NONE"
@@ -213690,7 +214936,9 @@
   },
   {
     "name": "ENTER_ROCK",
-    "text": "",
+    "text": {
+      "load": "TEXT_LIGHTSPEED"
+    },
     "img": {
       "back": "BACKGROUND_LIGHTSPEED",
       "planet": "NONE"
@@ -213727,7 +214975,9 @@
   },
   {
     "name": "ENTER_ROCK_UNIQUE",
-    "text": "",
+    "text": {
+      "load": "TEXT_LIGHTSPEED"
+    },
     "img": {
       "back": "BACKGROUND_LIGHTSPEED",
       "planet": "NONE"
@@ -213764,7 +215014,9 @@
   },
   {
     "name": "ENTER_LOSTSUN",
-    "text": "",
+    "text": {
+      "load": "TEXT_LIGHTSPEED"
+    },
     "img": {
       "back": "BACKGROUND_LIGHTSPEED",
       "planet": "NONE"
@@ -213801,7 +215053,9 @@
   },
   {
     "name": "ENTER_DUSKBRINGER",
-    "text": "",
+    "text": {
+      "load": "TEXT_LIGHTSPEED"
+    },
     "img": {
       "back": "BACKGROUND_LIGHTSPEED",
       "planet": "NONE"
@@ -213838,7 +215092,9 @@
   },
   {
     "name": "ENTER_DUSKBRINGER_UNIQUE",
-    "text": "",
+    "text": {
+      "load": "TEXT_LIGHTSPEED"
+    },
     "img": {
       "back": "BACKGROUND_LIGHTSPEED",
       "planet": "NONE"
@@ -213875,7 +215131,9 @@
   },
   {
     "name": "ENTER_COALITION",
-    "text": "",
+    "text": {
+      "load": "TEXT_LIGHTSPEED"
+    },
     "img": {
       "back": "BACKGROUND_LIGHTSPEED",
       "planet": "NONE"
@@ -213912,7 +215170,9 @@
   },
   {
     "name": "ENTER_COALITION_UNIQUE",
-    "text": "",
+    "text": {
+      "load": "TEXT_LIGHTSPEED"
+    },
     "img": {
       "back": "BACKGROUND_LIGHTSPEED",
       "planet": "NONE"
@@ -213949,7 +215209,9 @@
   },
   {
     "name": "ENTER_AUTO",
-    "text": "",
+    "text": {
+      "load": "TEXT_LIGHTSPEED"
+    },
     "img": {
       "back": "BACKGROUND_LIGHTSPEED",
       "planet": "NONE"
@@ -213986,7 +215248,9 @@
   },
   {
     "name": "ENTER_AUTO_UNIQUE",
-    "text": "",
+    "text": {
+      "load": "TEXT_LIGHTSPEED"
+    },
     "img": {
       "back": "BACKGROUND_LIGHTSPEED",
       "planet": "NONE"
@@ -214023,7 +215287,9 @@
   },
   {
     "name": "ENTER_ABANDONED",
-    "text": "",
+    "text": {
+      "load": "TEXT_LIGHTSPEED"
+    },
     "img": {
       "back": "BACKGROUND_LIGHTSPEED",
       "planet": "NONE"
@@ -214060,7 +215326,9 @@
   },
   {
     "name": "ENTER_LANIUS",
-    "text": "",
+    "text": {
+      "load": "TEXT_LIGHTSPEED"
+    },
     "img": {
       "back": "BACKGROUND_LIGHTSPEED",
       "planet": "NONE"
@@ -214097,7 +215365,9 @@
   },
   {
     "name": "ENTER_NEBULA",
-    "text": "",
+    "text": {
+      "load": "TEXT_LIGHTSPEED"
+    },
     "img": {
       "back": "BACKGROUND_LIGHTSPEED",
       "planet": "NONE"
@@ -214134,7 +215404,9 @@
   },
   {
     "name": "ENTER_STARGROVE",
-    "text": "",
+    "text": {
+      "load": "TEXT_LIGHTSPEED"
+    },
     "img": {
       "back": "BACKGROUND_LIGHTSPEED",
       "planet": "NONE"
@@ -214171,7 +215443,9 @@
   },
   {
     "name": "ENTER_SLUG",
-    "text": "",
+    "text": {
+      "load": "TEXT_LIGHTSPEED"
+    },
     "img": {
       "back": "BACKGROUND_LIGHTSPEED",
       "planet": "NONE"
@@ -214208,7 +215482,9 @@
   },
   {
     "name": "ENTER_SLUG_UNIQUE",
-    "text": "",
+    "text": {
+      "load": "TEXT_LIGHTSPEED"
+    },
     "img": {
       "back": "BACKGROUND_LIGHTSPEED",
       "planet": "NONE"
@@ -214245,7 +215521,9 @@
   },
   {
     "name": "ENTER_CLAN",
-    "text": "",
+    "text": {
+      "load": "TEXT_LIGHTSPEED"
+    },
     "img": {
       "back": "BACKGROUND_LIGHTSPEED",
       "planet": "NONE"
@@ -214282,7 +215560,9 @@
   },
   {
     "name": "ENTER_SHELL",
-    "text": "",
+    "text": {
+      "load": "TEXT_LIGHTSPEED"
+    },
     "img": {
       "back": "BACKGROUND_LIGHTSPEED",
       "planet": "NONE"
@@ -214319,7 +215599,9 @@
   },
   {
     "name": "ENTER_SHELL_UNIQUE",
-    "text": "",
+    "text": {
+      "load": "TEXT_LIGHTSPEED"
+    },
     "img": {
       "back": "BACKGROUND_LIGHTSPEED",
       "planet": "NONE"
@@ -214356,7 +215638,9 @@
   },
   {
     "name": "ENTER_MORPH",
-    "text": "",
+    "text": {
+      "load": "TEXT_LIGHTSPEED"
+    },
     "img": {
       "back": "BACKGROUND_LIGHTSPEED",
       "planet": "NONE"
@@ -214393,7 +215677,9 @@
   },
   {
     "name": "ENTER_LEECH",
-    "text": "",
+    "text": {
+      "load": "TEXT_LIGHTSPEED"
+    },
     "img": {
       "back": "BACKGROUND_LIGHTSPEED",
       "planet": "NONE"
@@ -214430,7 +215716,9 @@
   },
   {
     "name": "ENTER_LEECH_UNIQUE",
-    "text": "",
+    "text": {
+      "load": "TEXT_LIGHTSPEED"
+    },
     "img": {
       "back": "BACKGROUND_LIGHTSPEED",
       "planet": "NONE"
@@ -214467,7 +215755,9 @@
   },
   {
     "name": "ENTER_GHOST",
-    "text": "",
+    "text": {
+      "load": "TEXT_LIGHTSPEED"
+    },
     "img": {
       "back": "BACKGROUND_LIGHTSPEED",
       "planet": "NONE"
@@ -214504,7 +215794,9 @@
   },
   {
     "name": "ENTER_GHOST_UNIQUE",
-    "text": "",
+    "text": {
+      "load": "TEXT_LIGHTSPEED"
+    },
     "img": {
       "back": "BACKGROUND_LIGHTSPEED",
       "planet": "NONE"
@@ -214541,7 +215833,9 @@
   },
   {
     "name": "ENTER_DYNASTY",
-    "text": "",
+    "text": {
+      "load": "TEXT_LIGHTSPEED"
+    },
     "img": {
       "back": "BACKGROUND_LIGHTSPEED",
       "planet": "NONE"
@@ -214578,7 +215872,9 @@
   },
   {
     "name": "ENTER_DYNASTY_UNIQUE",
-    "text": "",
+    "text": {
+      "load": "TEXT_LIGHTSPEED"
+    },
     "img": {
       "back": "BACKGROUND_LIGHTSPEED",
       "planet": "NONE"
@@ -214615,7 +215911,9 @@
   },
   {
     "name": "ENTER_MONK",
-    "text": "",
+    "text": {
+      "load": "TEXT_LIGHTSPEED"
+    },
     "img": {
       "back": "BACKGROUND_LIGHTSPEED",
       "planet": "NONE"
@@ -214652,7 +215950,9 @@
   },
   {
     "name": "ENTER_SALE_SLUG",
-    "text": "",
+    "text": {
+      "load": "TEXT_LIGHTSPEED"
+    },
     "img": {
       "back": "BACKGROUND_LIGHTSPEED",
       "planet": "NONE"
@@ -214724,7 +216024,9 @@
   },
   {
     "name": "ENTER_SALE_PIRATE",
-    "text": "",
+    "text": {
+      "load": "TEXT_LIGHTSPEED"
+    },
     "img": {
       "back": "BACKGROUND_LIGHTSPEED",
       "planet": "NONE"
@@ -214796,7 +216098,9 @@
   },
   {
     "name": "ENTER_SALE_ABANDONED",
-    "text": "",
+    "text": {
+      "load": "TEXT_LIGHTSPEED"
+    },
     "img": {
       "back": "BACKGROUND_LIGHTSPEED",
       "planet": "NONE"
@@ -214868,7 +216172,9 @@
   },
   {
     "name": "ENTER_SALE_LEECH",
-    "text": "",
+    "text": {
+      "load": "TEXT_LIGHTSPEED"
+    },
     "img": {
       "back": "BACKGROUND_LIGHTSPEED",
       "planet": "NONE"
@@ -214940,7 +216246,9 @@
   },
   {
     "name": "ENTER_AUGMENTED",
-    "text": "",
+    "text": {
+      "load": "TEXT_LIGHTSPEED"
+    },
     "img": {
       "back": "BACKGROUND_LIGHTSPEED",
       "planet": "NONE"
@@ -214986,7 +216294,9 @@
   },
   {
     "name": "ENTER_ANCIENT",
-    "text": "",
+    "text": {
+      "load": "TEXT_LIGHTSPEED"
+    },
     "img": {
       "back": "BACKGROUND_LIGHTSPEED",
       "planet": "NONE"
@@ -215032,7 +216342,9 @@
   },
   {
     "name": "ENTER_ROYAL",
-    "text": "",
+    "text": {
+      "load": "TEXT_LIGHTSPEED"
+    },
     "img": {
       "back": "BACKGROUND_LIGHTSPEED",
       "planet": "NONE"
@@ -215078,7 +216390,9 @@
   },
   {
     "name": "ENTER_ORIGINS",
-    "text": "",
+    "text": {
+      "load": "TEXT_LIGHTSPEED"
+    },
     "img": {
       "back": "BACKGROUND_LIGHTSPEED",
       "planet": "NONE"
@@ -215124,7 +216438,9 @@
   },
   {
     "name": "ENTER_ORIGINS_RUWEN",
-    "text": "",
+    "text": {
+      "load": "TEXT_LIGHTSPEED"
+    },
     "img": {
       "back": "BACKGROUND_LIGHTSPEED",
       "planet": "NONE"
@@ -215170,7 +216486,9 @@
   },
   {
     "name": "ENTER_NEXUS",
-    "text": "",
+    "text": {
+      "load": "TEXT_LIGHTSPEED"
+    },
     "img": {
       "back": "BACKGROUND_LIGHTSPEED",
       "planet": "NONE"
@@ -225467,7 +226785,9 @@
   },
   {
     "name": "THE_JUDGES_ZOLTAN_ADVICE_REAL",
-    "text": "",
+    "text": {
+      "load": "TEXT_JUDGE_ZOLTAN_ADVICE"
+    },
     "metaVariable": {
       "name": "prof_judges_zoltan",
       "op": "set",
@@ -226156,7 +227476,9 @@
   },
   {
     "name": "THE_JUDGES_ENGI_ADVICE_REAL",
-    "text": "",
+    "text": {
+      "load": "TEXT_JUDGE_ENGI_ADVICE"
+    },
     "metaVariable": {
       "name": "prof_judges_engi",
       "op": "set",
@@ -226736,7 +228058,9 @@
   },
   {
     "name": "THE_JUDGES_ROCK_ADVICE_REAL",
-    "text": "",
+    "text": {
+      "load": "TEXT_JUDGE_ROCK_ADVICE"
+    },
     "metaVariable": {
       "name": "prof_judges_rockman",
       "op": "set",
@@ -227164,7 +228488,9 @@
   },
   {
     "name": "DEFEAT_NEMESIS",
-    "text": "",
+    "text": {
+      "load": "DEFEAT_NEMESIS"
+    },
     "autoReward": {
       "level": "MED",
       "text": "standard"
@@ -227184,7 +228510,9 @@
   {
     "name": "NEMESIS",
     "unique": "true",
-    "text": "",
+    "text": {
+      "load": "NEMESIS"
+    },
     "ship": {
       "load": "SHIP_NEMESIS",
       "hostile": "true"
@@ -229252,7 +230580,9 @@
   },
   {
     "name": "SYLVAN_STANDARD",
-    "text": "",
+    "text": {
+      "load": "TEXT_SYLVAN_GENERIC"
+    },
     "ship": {
       "load": "SHIP_TRAVELING_MERCHANT_CHALLENGE",
       "hostile": "false"
@@ -232912,7 +234242,9 @@
               "hidden": "true",
               "text": "1",
               "event": {
-                "text": "",
+                "text": {
+                  "load": "TEXT_CALLIE_ERROR"
+                },
                 "choice": [
                   {
                     "hidden": "true",
@@ -233010,7 +234342,9 @@
   },
   {
     "name": "CALLIE_MAD",
-    "text": "",
+    "text": {
+      "load": "CALLIE_WRONG"
+    },
     "ship": {
       "hostile": "true"
     },
@@ -233038,7 +234372,9 @@
   },
   {
     "name": "CALLIE_WRONG",
-    "text": "",
+    "text": {
+      "load": "CALLIE_WRONG"
+    },
     "damage": {
       "amount": "3"
     }
@@ -233049,7 +234385,9 @@
   },
   {
     "name": "CALLIE_DEAD",
-    "text": "",
+    "text": {
+      "load": "CALLIE_DEAD"
+    },
     "autoReward": {
       "level": "MED",
       "text": "standard"
@@ -233720,7 +235058,9 @@
   },
   {
     "name": "ENCOUNTER_MV_REBEL",
-    "text": "",
+    "text": {
+      "load": "TEXT_ENCOUNTER_MV_REBEL"
+    },
     "ship": {
       "load": "SHIP_REBEL_MULTIVERSE",
       "hostile": "true"
@@ -233735,7 +235075,9 @@
   },
   {
     "name": "DESTROYED_REBEL_MULTIVERSE_GENERIC",
-    "text": "",
+    "text": {
+      "load": "TEXT_DESTROYED_REBEL_MULTIVERSE"
+    },
     "autoReward": {
       "level": "MED",
       "text": "standard"
@@ -233743,7 +235085,9 @@
   },
   {
     "name": "DEAD_CREW_REBEL_MULTIVERSE_GENERIC",
-    "text": "",
+    "text": {
+      "load": "TEXT_DEAD_CREW_REBEL_MULTIVERSE"
+    },
     "autoReward": {
       "level": "HIGH",
       "text": "standard"
@@ -233911,7 +235255,9 @@
   },
   {
     "name": "DEFEAT_MULTIVERSE_TRAVELER",
-    "text": "",
+    "text": {
+      "load": "TEXT_DEFEAT_MULTIVERSE_TRAVELER"
+    },
     "autoReward": {
       "level": "HIGH",
       "text": "standard"
@@ -233926,7 +235272,9 @@
   },
   {
     "name": "SURRENDER_MULTIVERSE_TRAVELER_GENERIC",
-    "text": "",
+    "text": {
+      "load": "TEXT_SURRENDER_MULTIVERSE_TRAVELER"
+    },
     "choice": [
       {
         "text": "Accept their surrender.",
@@ -233941,14 +235289,18 @@
         }
       },
       {
-        "text": "",
+        "text": {
+          "load": "GENERIC_SURRENDER_CHOICE_NOMERCY"
+        },
         "event": {}
       }
     ]
   },
   {
     "name": "SURRENDER_MULTIVERSE_TRAVELER_SCRAP",
-    "text": "",
+    "text": {
+      "load": "TEXT_SURRENDER_MULTIVERSE_TRAVELER"
+    },
     "choice": [
       {
         "text": "Accept their surrender.",
@@ -233963,14 +235315,18 @@
         }
       },
       {
-        "text": "",
+        "text": {
+          "load": "GENERIC_SURRENDER_CHOICE_NOMERCY"
+        },
         "event": {}
       }
     ]
   },
   {
     "name": "SURRENDER_MULTIVERSE_TRAVELER_FUEL",
-    "text": "",
+    "text": {
+      "load": "TEXT_SURRENDER_MULTIVERSE_TRAVELER"
+    },
     "choice": [
       {
         "text": "Accept their surrender.",
@@ -233985,14 +235341,18 @@
         }
       },
       {
-        "text": "",
+        "text": {
+          "load": "GENERIC_SURRENDER_CHOICE_NOMERCY"
+        },
         "event": {}
       }
     ]
   },
   {
     "name": "SURRENDER_MULTIVERSE_TRAVELER_MISSILES",
-    "text": "",
+    "text": {
+      "load": "TEXT_SURRENDER_MULTIVERSE_TRAVELER"
+    },
     "choice": [
       {
         "text": "Accept their surrender.",
@@ -234007,14 +235367,18 @@
         }
       },
       {
-        "text": "",
+        "text": {
+          "load": "GENERIC_SURRENDER_CHOICE_NOMERCY"
+        },
         "event": {}
       }
     ]
   },
   {
     "name": "SURRENDER_MULTIVERSE_TRAVELER_DRONES",
-    "text": "",
+    "text": {
+      "load": "TEXT_SURRENDER_MULTIVERSE_TRAVELER"
+    },
     "choice": [
       {
         "text": "Accept their surrender.",
@@ -234029,7 +235393,9 @@
         }
       },
       {
-        "text": "",
+        "text": {
+          "load": "GENERIC_SURRENDER_CHOICE_NOMERCY"
+        },
         "event": {}
       }
     ]
@@ -234044,7 +235410,9 @@
   },
   {
     "name": "MV_TRAVELER_FIGHT",
-    "text": "",
+    "text": {
+      "load": "TEXT_FIGHT_MULTIVERSE_TRAVELER"
+    },
     "ship": {
       "load": "SHIP_MULTIVERSE_TRAVELER",
       "hostile": "true"
@@ -234069,7 +235437,9 @@
   },
   {
     "name": "MV_TRAVELER_DEMAND_CHOICE",
-    "text": "",
+    "text": {
+      "load": "TEXT_DEMANDS_MULTIVERSE_TRAVELER"
+    },
     "ship": {
       "load": "SHIP_MULTIVERSE_TRAVELER",
       "hostile": "false"
@@ -234128,7 +235498,9 @@
   },
   {
     "name": "MV_TRAVELER_DEMAND_SCRAP",
-    "text": "",
+    "text": {
+      "load": "TEXT_DEMANDS_MULTIVERSE_TRAVELER"
+    },
     "ship": {
       "load": "SHIP_MULTIVERSE_TRAVELER",
       "hostile": "false"
@@ -234175,7 +235547,9 @@
   },
   {
     "name": "MV_TRAVELER_DEMAND_FUEL",
-    "text": "",
+    "text": {
+      "load": "TEXT_DEMANDS_MULTIVERSE_TRAVELER"
+    },
     "ship": {
       "load": "SHIP_MULTIVERSE_TRAVELER",
       "hostile": "false"
@@ -234222,7 +235596,9 @@
   },
   {
     "name": "MV_TRAVELER_DEMAND_MISSILES",
-    "text": "",
+    "text": {
+      "load": "TEXT_DEMANDS_MULTIVERSE_TRAVELER"
+    },
     "ship": {
       "load": "SHIP_MULTIVERSE_TRAVELER",
       "hostile": "false"
@@ -234269,7 +235645,9 @@
   },
   {
     "name": "MV_TRAVELER_DEMAND_DRONES",
-    "text": "",
+    "text": {
+      "load": "TEXT_DEMANDS_MULTIVERSE_TRAVELER"
+    },
     "ship": {
       "load": "SHIP_MULTIVERSE_TRAVELER",
       "hostile": "false"
@@ -234316,7 +235694,9 @@
   },
   {
     "name": "MV_TRAVELER_DEMAND_CREW",
-    "text": "",
+    "text": {
+      "load": "TEXT_DEMANDS_MULTIVERSE_TRAVELER"
+    },
     "ship": {
       "load": "SHIP_MULTIVERSE_TRAVELER",
       "hostile": "false"
@@ -247785,7 +249165,9 @@
   {
     "name": "OUTPOST_FEDERATION",
     "unique": "true",
-    "text": "",
+    "text": {
+      "load": "TEXT_OUTPOST_FEDERATION"
+    },
     "choice": [
       {
         "req": "challenge_level",
@@ -247935,7 +249317,9 @@
   {
     "name": "OUTPOST_UNION",
     "unique": "true",
-    "text": "",
+    "text": {
+      "load": "TEXT_OUTPOST_UNION"
+    },
     "choice": [
       {
         "req": "challenge_level",
@@ -248094,7 +249478,9 @@
   {
     "name": "OUTPOST_ENGI",
     "unique": "true",
-    "text": "",
+    "text": {
+      "load": "TEXT_OUTPOST_ENGI"
+    },
     "choice": [
       {
         "req": "challenge_level",
@@ -248253,7 +249639,9 @@
   {
     "name": "OUTPOST_ZOLTAN",
     "unique": "true",
-    "text": "",
+    "text": {
+      "load": "TEXT_OUTPOST_ZOLTAN"
+    },
     "choice": [
       {
         "req": "challenge_level",
@@ -248413,7 +249801,9 @@
   {
     "name": "OUTPOST_ORCHID",
     "unique": "true",
-    "text": "",
+    "text": {
+      "load": "TEXT_OUTPOST_ORCHID"
+    },
     "choice": [
       {
         "req": "challenge_level",
@@ -248572,7 +249962,9 @@
   {
     "name": "OUTPOST_FREEMANTIS",
     "unique": "true",
-    "text": "",
+    "text": {
+      "load": "TEXT_OUTPOST_FREEMANTIS"
+    },
     "choice": [
       {
         "req": "challenge_level",
@@ -248732,7 +250124,9 @@
   {
     "name": "OUTPOST_CRYSTAL",
     "unique": "true",
-    "text": "",
+    "text": {
+      "load": "TEXT_OUTPOST_CRYSTAL"
+    },
     "choice": [
       {
         "req": "challenge_level",
@@ -248893,7 +250287,9 @@
   {
     "name": "OUTPOST_OUTCAST",
     "unique": "true",
-    "text": "",
+    "text": {
+      "load": "TEXT_OUTPOST_OUTCAST"
+    },
     "choice": [
       {
         "req": "challenge_level",
@@ -249190,7 +250586,9 @@
   },
   {
     "name": "ENCOUNTER_PIRATE_REGULAR",
-    "text": "",
+    "text": {
+      "load": "TEXT_ENCOUNTER_PIRATE"
+    },
     "ship": {
       "load": "SHIP_PIRATE_ALL",
       "hostile": "true"
@@ -249335,7 +250733,9 @@
   },
   {
     "name": "ENCOUNTER_MERCENARY",
-    "text": "",
+    "text": {
+      "load": "TEXT_ENCOUNTER_MERCENARY"
+    },
     "ship": {
       "load": "SHIP_MERCENARY_ALL",
       "hostile": "true"
@@ -249350,7 +250750,9 @@
   },
   {
     "name": "ENCOUNTER_SMUGGLER",
-    "text": "",
+    "text": {
+      "load": "TEXT_ENCOUNTER_SMUGGLER"
+    },
     "ship": {
       "load": "SHIP_SMUGGLER_ALL",
       "hostile": "true"
@@ -249478,7 +250880,9 @@
   },
   {
     "name": "SLAVER_FRIENDLY",
-    "text": "",
+    "text": {
+      "load": "TEXT_SLAVER_FRIENDLY"
+    },
     "ship": {
       "load": "SHIP_SLAVER_ALL",
       "hostile": "false"
@@ -249546,7 +250950,9 @@
   },
   {
     "name": "SLAVER_CHOICE",
-    "text": "",
+    "text": {
+      "load": "TEXT_SLAVER_CHOICE"
+    },
     "ship": {
       "load": "SHIP_SLAVER_ALL",
       "hostile": "false"
@@ -249818,7 +251224,9 @@
   },
   {
     "name": "MERCENARY_FRIENDLY",
-    "text": "",
+    "text": {
+      "load": "TEXT_MERCENARY_FRIENDLY"
+    },
     "ship": {
       "load": "SHIP_MERCENARY_ALL",
       "hostile": "false"
@@ -249877,7 +251285,9 @@
   },
   {
     "name": "MERCENARY_CHOICE",
-    "text": "",
+    "text": {
+      "load": "TEXT_MERCENARY_CHOICE"
+    },
     "ship": {
       "load": "SHIP_MERCENARY_ALL",
       "hostile": "false"
@@ -250068,7 +251478,9 @@
   },
   {
     "name": "SMUGGLER_FRIENDLY",
-    "text": "",
+    "text": {
+      "load": "TEXT_SMUGGLER_FRIENDLY"
+    },
     "ship": {
       "load": "SHIP_SMUGGLER_ALL",
       "hostile": "false"
@@ -250127,7 +251539,9 @@
   },
   {
     "name": "SMUGGLER_CHOICE",
-    "text": "",
+    "text": {
+      "load": "TEXT_SMUGGLER_CHOICE"
+    },
     "ship": {
       "load": "SHIP_SMUGGLER_ALL",
       "hostile": "false"
@@ -250184,7 +251598,9 @@
   },
   {
     "name": "RUINS_TRANSLATE",
-    "text": "",
+    "text": {
+      "load": "TEXT_RUINS_TRANSLATE"
+    },
     "achievement": {
       "silent": "false",
       "text": "ACH_OBEL_RUINS"
@@ -250227,7 +251643,9 @@
   },
   {
     "name": "RUINS_TRANSLATE_FULL",
-    "text": "",
+    "text": {
+      "load": "TEXT_RUINS_TRANSLATE_FULL"
+    },
     "achievement": {
       "silent": "false",
       "text": "ACH_OBEL_RUINS"
@@ -250351,7 +251769,9 @@
         "text": "Explored location. Nothing left of interest."
       }
     },
-    "text": "",
+    "text": {
+      "load": "TEXT_RUINS"
+    },
     "customFleet": {
       "right": "false",
       "firing": "false",
@@ -250445,7 +251865,9 @@
         "text": "Explored location. Nothing left of interest."
       }
     },
-    "text": "",
+    "text": {
+      "load": "TEXT_RUINS"
+    },
     "customFleet": {
       "right": "false",
       "firing": "false",
@@ -250524,7 +251946,9 @@
         "text": "Explored location. Nothing left of interest."
       }
     },
-    "text": "",
+    "text": {
+      "load": "TEXT_RUINS"
+    },
     "customFleet": {
       "right": "false",
       "firing": "false",
@@ -250603,7 +252027,9 @@
         "text": "Explored location. Nothing left of interest."
       }
     },
-    "text": "",
+    "text": {
+      "load": "TEXT_RUINS"
+    },
     "customFleet": {
       "right": "false",
       "firing": "false",
@@ -251126,7 +252552,9 @@
         "text": "Explored location. Nothing left of interest."
       }
     },
-    "text": "",
+    "text": {
+      "load": "TEXT_RUINS"
+    },
     "customFleet": {
       "right": "false",
       "firing": "false",
@@ -251205,7 +252633,9 @@
         "text": "Explored location. Nothing left of interest."
       }
     },
-    "text": "",
+    "text": {
+      "load": "TEXT_RUINS"
+    },
     "customFleet": {
       "right": "false",
       "firing": "false",
@@ -251398,7 +252828,9 @@
         "text": "This beacon contains ancient ruins."
       }
     },
-    "text": "",
+    "text": {
+      "load": "TEXT_RUINS"
+    },
     "customFleet": {
       "right": "false",
       "firing": "false",
@@ -251476,7 +252908,9 @@
         "text": "This beacon contains ancient ruins."
       }
     },
-    "text": "",
+    "text": {
+      "load": "TEXT_RUINS"
+    },
     "customFleet": {
       "right": "false",
       "firing": "false",
@@ -253165,17 +254599,25 @@
         "text": "Thanks.",
         "event": {
           "name": "SOCIALIZE_ANURAK_GENERIC_2_LOOP",
-          "text": "",
+          "text": {
+            "load": "TEXT_SOCIALIZE_ANURAK_GENERIC_2_REPEAT"
+          },
           "choice": [
             {
               "hidden": "true",
-              "text": "",
+              "text": {
+                "load": "TEXT_SOCIALIZE_ANURAK_GENERIC_2_CHOICE"
+              },
               "event": {
-                "text": "",
+                "text": {
+                  "load": "TEXT_SOCIALIZE_ANURAK_GENERIC_2_REPEAT"
+                },
                 "choice": [
                   {
                     "hidden": "true",
-                    "text": "",
+                    "text": {
+                      "load": "TEXT_SOCIALIZE_ANURAK_GENERIC_2_CHOICE"
+                    },
                     "event": {
                       "loadEvent": {
                         "text": "SOCIALIZE_ANURAK_GENERIC_2_LOOP"
@@ -259809,7 +261251,9 @@
         "a": "1"
       }
     },
-    "text": "",
+    "text": {
+      "load": "TEXT_STORE_REBEL_HOSTILE"
+    },
     "ship": {
       "load": "SHIP_REBEL_STORE",
       "hostile": "false"
@@ -259866,7 +261310,9 @@
         "a": "1"
       }
     },
-    "text": "",
+    "text": {
+      "load": "TEXT_STORE_AUTO_HOSTILE"
+    },
     "ship": {
       "load": "SHIP_AUTO_STORE",
       "hostile": "false"
@@ -259923,7 +261369,9 @@
         "a": "1"
       }
     },
-    "text": "",
+    "text": {
+      "load": "TEXT_STORE_PIRATE_HOSTILE"
+    },
     "ship": {
       "load": "SHIP_PIRATE_STORE",
       "hostile": "false"
@@ -259980,7 +261428,9 @@
         "a": "1"
       }
     },
-    "text": "",
+    "text": {
+      "load": "TEXT_STORE_MANTIS_HOSTILE"
+    },
     "ship": {
       "load": "SHIP_MANTIS_STORE",
       "hostile": "false"
@@ -260061,7 +261511,9 @@
         "a": "1"
       }
     },
-    "text": "",
+    "text": {
+      "load": "TEXT_STORE_MORPH_HOSTILE"
+    },
     "ship": {
       "load": "SHIP_MORPH_STORE",
       "hostile": "false"
@@ -270504,7 +271956,9 @@
         "a": "1"
       }
     },
-    "text": "",
+    "text": {
+      "load": "TEXT_TONYS"
+    },
     "ship": {
       "load": "SHIP_TONYS",
       "hostile": "false"
@@ -271401,7 +272855,9 @@
   {
     "name": "TONY_NOTHING",
     "unique": "true",
-    "text": "",
+    "text": {
+      "load": "TEXT_TONY_NOTHING"
+    },
     "choice": [
       {
         "text": "Do something onboard the ship.",
@@ -272198,7 +273654,9 @@
         "a": "1"
       }
     },
-    "text": "",
+    "text": {
+      "load": "TEXT_HEKTAR_STORE"
+    },
     "ship": {
       "load": "SHIP_HEKTAR_SHOP",
       "hostile": "false"
@@ -272344,7 +273802,9 @@
         "a": "1"
       }
     },
-    "text": "",
+    "text": {
+      "load": "TEXT_HEKTAR_STORE"
+    },
     "ship": {
       "load": "SHIP_HEKTAR_SHOP",
       "hostile": "false"
@@ -272585,7 +274045,9 @@
         "a": "1"
       }
     },
-    "text": "",
+    "text": {
+      "load": "TEXT_HEKTAR_STORE"
+    },
     "ship": {
       "load": "SHIP_HEKTAR_SHOP",
       "hostile": "false"
@@ -272645,7 +274107,9 @@
         "a": "1"
       }
     },
-    "text": "",
+    "text": {
+      "load": "TEXT_HEKTAR_STORE"
+    },
     "ship": {
       "load": "SHIP_HEKTAR_SHOP",
       "hostile": "false"
@@ -273405,7 +274869,9 @@
         "a": "1"
       }
     },
-    "text": "",
+    "text": {
+      "load": "STORES_HACKED"
+    },
     "choice": {
       "text": "Continue...",
       "event": {
@@ -273447,7 +274913,9 @@
   },
   {
     "name": "EMPTY_STANDARD",
-    "text": "",
+    "text": {
+      "load": "EMPTY"
+    },
     "choice": [
       {
         "text": "Do something onboard the ship.",
@@ -273463,7 +274931,9 @@
   },
   {
     "name": "EMPTY_START",
-    "text": "",
+    "text": {
+      "load": "TEXT_EMPTY_START"
+    },
     "choice": [
       {
         "text": "Do something onboard the ship.",
@@ -273479,7 +274949,9 @@
   },
   {
     "name": "NEBULA_NOTHING",
-    "text": "",
+    "text": {
+      "load": "NEBULA_NOTHING_LIST"
+    },
     "environment": {
       "type": "nebula"
     },
@@ -273498,7 +274970,9 @@
   },
   {
     "name": "EMPTY_COREWORLDS",
-    "text": "",
+    "text": {
+      "load": "EMPTY_COREWORLDS"
+    },
     "choice": [
       {
         "text": "Do something onboard the ship.",
@@ -273514,7 +274988,9 @@
   },
   {
     "name": "EMPTY_MILITIA",
-    "text": "",
+    "text": {
+      "load": "EMPTY_MILITIA"
+    },
     "choice": [
       {
         "text": "Do something onboard the ship.",
@@ -273530,7 +275006,9 @@
   },
   {
     "name": "EMPTY_FED_NORMAL",
-    "text": "",
+    "text": {
+      "load": "EMPTY_FED_NORMAL"
+    },
     "choice": [
       {
         "text": "Do something onboard the ship.",
@@ -273566,7 +275044,9 @@
   },
   {
     "name": "EMPTY_ENGI",
-    "text": "",
+    "text": {
+      "load": "EMPTY_ENGI"
+    },
     "choice": [
       {
         "text": "Do something onboard the ship.",
@@ -273582,7 +275062,9 @@
   },
   {
     "name": "EMPTY_HARMONY",
-    "text": "",
+    "text": {
+      "load": "EMPTY_HARMONY"
+    },
     "choice": [
       {
         "text": "Do something onboard the ship.",
@@ -273598,7 +275080,9 @@
   },
   {
     "name": "EMPTY_SEPARATIST",
-    "text": "",
+    "text": {
+      "load": "EMPTY_SEPARATIST"
+    },
     "choice": [
       {
         "text": "Do something onboard the ship.",
@@ -273614,7 +275098,9 @@
   },
   {
     "name": "EMPTY_ZOLTAN",
-    "text": "",
+    "text": {
+      "load": "EMPTY_ZOLTAN"
+    },
     "choice": [
       {
         "text": "Do something onboard the ship.",
@@ -273630,7 +275116,9 @@
   },
   {
     "name": "EMPTY_CAPITAL",
-    "text": "",
+    "text": {
+      "load": "EMPTY_CAPITAL"
+    },
     "choice": [
       {
         "text": "Do something onboard the ship.",
@@ -273646,7 +275134,9 @@
   },
   {
     "name": "NEBULA_EMPTY_MONK",
-    "text": "",
+    "text": {
+      "load": "EMPTY_MONK"
+    },
     "environment": {
       "type": "nebula"
     },
@@ -273665,7 +275155,9 @@
   },
   {
     "name": "EMPTY_DUSKBRINGER",
-    "text": "",
+    "text": {
+      "load": "EMPTY_DUSKBRINGER"
+    },
     "choice": [
       {
         "text": "Do something onboard the ship.",
@@ -273682,7 +275174,9 @@
   {
     "name": "EMPTY_ORCHID",
     "unique": "false",
-    "text": "",
+    "text": {
+      "load": "EMPTY_ORCHID"
+    },
     "choice": [
       {
         "text": "Do something onboard the ship.",
@@ -273698,7 +275192,9 @@
   },
   {
     "name": "EMPTY_CRYSTAL",
-    "text": "",
+    "text": {
+      "load": "EMPTY_CRYSTAL"
+    },
     "choice": [
       {
         "text": "Do something onboard the ship.",
@@ -273714,7 +275210,9 @@
   },
   {
     "name": "EMPTY_PIRATE",
-    "text": "",
+    "text": {
+      "load": "EMPTY_PIRATE"
+    },
     "choice": [
       {
         "text": "Do something onboard the ship.",
@@ -273730,7 +275228,9 @@
   },
   {
     "name": "EMPTY_BLACKMARKET",
-    "text": "",
+    "text": {
+      "load": "EMPTY_BLACKMARKET"
+    },
     "choice": [
       {
         "text": "Do something onboard the ship.",
@@ -273746,7 +275246,9 @@
   },
   {
     "name": "EMPTY_HACKED",
-    "text": "",
+    "text": {
+      "load": "EMPTY_HACKED"
+    },
     "choice": [
       {
         "text": "Do something onboard the ship.",
@@ -273762,7 +275264,9 @@
   },
   {
     "name": "EMPTY_REBEL",
-    "text": "",
+    "text": {
+      "load": "EMPTY_REBEL"
+    },
     "choice": [
       {
         "text": "Do something onboard the ship.",
@@ -273778,7 +275282,9 @@
   },
   {
     "name": "EMPTY_JERRY",
-    "text": "",
+    "text": {
+      "load": "EMPTY_JERRY"
+    },
     "choice": [
       {
         "text": "Do something onboard the ship.",
@@ -273794,7 +275300,9 @@
   },
   {
     "name": "EMPTY_REBELHOLD",
-    "text": "",
+    "text": {
+      "load": "EMPTY_REBELHOLD"
+    },
     "choice": [
       {
         "text": "Do something onboard the ship.",
@@ -273810,7 +275318,9 @@
   },
   {
     "name": "EMPTY_AUTO",
-    "text": "",
+    "text": {
+      "load": "EMPTY_AUTO"
+    },
     "choice": [
       {
         "text": "Do something onboard the ship.",
@@ -273826,7 +275336,9 @@
   },
   {
     "name": "EMPTY_MANTIS",
-    "text": "",
+    "text": {
+      "load": "EMPTY_MANTIS"
+    },
     "choice": [
       {
         "text": "Do something onboard the ship.",
@@ -273842,7 +275354,9 @@
   },
   {
     "name": "EMPTY_FREEMANTIS",
-    "text": "",
+    "text": {
+      "load": "EMPTY_FREEMANTIS"
+    },
     "choice": [
       {
         "text": "Do something onboard the ship.",
@@ -273858,7 +275372,9 @@
   },
   {
     "name": "EMPTY_ROCK",
-    "text": "",
+    "text": {
+      "load": "EMPTY_ROCK"
+    },
     "choice": [
       {
         "text": "Do something onboard the ship.",
@@ -273874,7 +275390,9 @@
   },
   {
     "name": "EMPTY_ROCKHOME",
-    "text": "",
+    "text": {
+      "load": "EMPTY_ROCKHOME"
+    },
     "choice": [
       {
         "text": "Do something onboard the ship.",
@@ -273890,7 +275408,9 @@
   },
   {
     "name": "EMPTY_LOSTSUN",
-    "text": "",
+    "text": {
+      "load": "EMPTY_LOSTSUN"
+    },
     "choice": [
       {
         "text": "Do something onboard the ship.",
@@ -273906,7 +275426,9 @@
   },
   {
     "name": "EMPTY_SLUG",
-    "text": "",
+    "text": {
+      "load": "EMPTY_SLUG"
+    },
     "choice": [
       {
         "text": "Do something onboard the ship.",
@@ -273922,7 +275444,9 @@
   },
   {
     "name": "NEBULA_EMPTY_SLUG",
-    "text": "",
+    "text": {
+      "load": "NEBULA_EMPTY_SLUG"
+    },
     "environment": {
       "type": "nebula"
     },
@@ -273941,7 +275465,9 @@
   },
   {
     "name": "EMPTY_SHELL",
-    "text": "",
+    "text": {
+      "load": "EMPTY_SHELL"
+    },
     "choice": [
       {
         "text": "Do something onboard the ship.",
@@ -273957,7 +275483,9 @@
   },
   {
     "name": "NEBULA_EMPTY_SHELL",
-    "text": "",
+    "text": {
+      "load": "NEBULA_EMPTY_SHELL"
+    },
     "environment": {
       "type": "nebula"
     },
@@ -273976,7 +275504,9 @@
   },
   {
     "name": "EMPTY_COALITION",
-    "text": "",
+    "text": {
+      "load": "EMPTY_COALITION"
+    },
     "choice": [
       {
         "text": "Do something onboard the ship.",
@@ -273992,7 +275522,9 @@
   },
   {
     "name": "NEBULA_EMPTY_COALITION",
-    "text": "",
+    "text": {
+      "load": "TEXT_NEBULA_EMPTY_COALITION"
+    },
     "environment": {
       "type": "nebula"
     },
@@ -274011,7 +275543,9 @@
   },
   {
     "name": "EMPTY_SPIDER",
-    "text": "",
+    "text": {
+      "load": "EMPTY_SPIDER"
+    },
     "choice": [
       {
         "text": "Do something onboard the ship.",
@@ -274027,7 +275561,9 @@
   },
   {
     "name": "NEBULA_EMPTY_GHOST",
-    "text": "",
+    "text": {
+      "load": "NEBULA_EMPTY_GHOST_LIST"
+    },
     "environment": {
       "type": "nebula"
     },
@@ -274063,7 +275599,9 @@
   },
   {
     "name": "EMPTY_LANIUS",
-    "text": "",
+    "text": {
+      "load": "EMPTY_LANIUS"
+    },
     "choice": [
       {
         "text": "Do something onboard the ship.",
@@ -274079,7 +275617,9 @@
   },
   {
     "name": "EMPTY_AUG",
-    "text": "",
+    "text": {
+      "load": "EMPTY_AUG"
+    },
     "choice": [
       {
         "text": "Do something onboard the ship.",
@@ -274095,7 +275635,9 @@
   },
   {
     "name": "EMPTY_ABANDONED",
-    "text": "",
+    "text": {
+      "load": "EMPTY_ABANDONED"
+    },
     "choice": [
       {
         "text": "Do something onboard the ship.",
@@ -274111,7 +275653,9 @@
   },
   {
     "name": "EMPTY_ORIGINS",
-    "text": "",
+    "text": {
+      "load": "EMPTY_ORIGINS"
+    },
     "choice": [
       {
         "text": "Do something onboard the ship.",
@@ -274127,7 +275671,9 @@
   },
   {
     "name": "EMPTY_ANCIENT",
-    "text": "",
+    "text": {
+      "load": "EMPTY_ANCIENT"
+    },
     "choice": [
       {
         "text": "Do something onboard the ship.",
@@ -344557,7 +346103,9 @@
   },
   {
     "name": "STORAGE_CHECK_CREW_VORTIGON_TALK",
-    "text": "",
+    "text": {
+      "load": "TEXT_CREW_TALK_VORTIGON"
+    },
     "achievement": {
       "text": "ACH_ACC_SOCIALIZE"
     },
@@ -344570,7 +346118,9 @@
   },
   {
     "name": "STORAGE_CHECK_CREW_RUWEN_TALK",
-    "text": "",
+    "text": {
+      "load": "TEXT_CREW_TALK_RUWEN"
+    },
     "achievement": {
       "text": "ACH_ACC_SOCIALIZE"
     },
@@ -344583,7 +346133,9 @@
   },
   {
     "name": "STORAGE_CHECK_CREW_DIANESH_TALK",
-    "text": "",
+    "text": {
+      "load": "TEXT_CREW_TALK_DIANESH"
+    },
     "achievement": {
       "text": "ACH_ACC_SOCIALIZE"
     },
@@ -344596,7 +346148,9 @@
   },
   {
     "name": "STORAGE_CHECK_CREW_SALT_TALK",
-    "text": "",
+    "text": {
+      "load": "TEXT_CREW_TALK_SALT"
+    },
     "achievement": {
       "text": "ACH_ACC_SOCIALIZE"
     },
@@ -344609,7 +346163,9 @@
   },
   {
     "name": "STORAGE_CHECK_CREW_SYLVAN_TALK",
-    "text": "",
+    "text": {
+      "load": "TEXT_CREW_TALK_SYLVAN"
+    },
     "achievement": {
       "text": "ACH_ACC_SOCIALIZE"
     },
@@ -344622,7 +346178,9 @@
   },
   {
     "name": "STORAGE_CHECK_CREW_REAPER_TALK",
-    "text": "",
+    "text": {
+      "load": "TEXT_CREW_TALK_REAPER"
+    },
     "achievement": {
       "text": "ACH_ACC_SOCIALIZE"
     },
@@ -344635,7 +346193,9 @@
   },
   {
     "name": "STORAGE_CHECK_CREW_ANOINTED_TALK",
-    "text": "",
+    "text": {
+      "load": "TEXT_CREW_TALK_ANOINTED"
+    },
     "achievement": {
       "text": "ACH_ACC_SOCIALIZE"
     },
@@ -344648,7 +346208,9 @@
   },
   {
     "name": "STORAGE_CHECK_CREW_EATER_TALK",
-    "text": "",
+    "text": {
+      "load": "TEXT_CREW_TALK_EATER"
+    },
     "achievement": {
       "text": "ACH_ACC_SOCIALIZE"
     },
@@ -344661,7 +346223,9 @@
   },
   {
     "name": "STORAGE_CHECK_CREW_WITHER_TALK",
-    "text": "",
+    "text": {
+      "load": "TEXT_CREW_TALK_WITHER"
+    },
     "achievement": {
       "text": "ACH_ACC_SOCIALIZE"
     },
@@ -344674,7 +346238,9 @@
   },
   {
     "name": "STORAGE_CHECK_CREW_QUEEN_TALK",
-    "text": "",
+    "text": {
+      "load": "TEXT_CREW_TALK_QUEEN"
+    },
     "achievement": {
       "text": "ACH_ACC_SOCIALIZE"
     },
@@ -350433,7 +351999,9 @@
         "a": "1"
       }
     },
-    "text": "",
+    "text": {
+      "load": "TEXT_START_FED"
+    },
     "ship": {
       "load": "SHIP_GUARD_FED",
       "hostile": "false"

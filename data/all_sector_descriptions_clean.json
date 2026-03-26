@@ -359,6 +359,28 @@
     ],
     "coordinates": [],
     "secret_warps": [],
+    "stores": [
+      "STORE_ENGI",
+      "STORE_ENGI_MOREDRONES",
+      "STORE_MERCHANTS_IONS",
+      "STORE_MERCHANTS_LASERS",
+      "STORE_MERCHANTS_MISSILES",
+      "STORE_NOCREW",
+      "STORE_NOSYS",
+      "STORE_ORCHID",
+      "STORE_STANDARD",
+      "STORE_SYLVAN_ATTRIBUTE",
+      "STORE_SYLVAN_BEAM",
+      "STORE_SYLVAN_DRONES",
+      "STORE_SYLVAN_ION",
+      "STORE_SYLVAN_LASERS",
+      "STORE_SYLVAN_MISSILES",
+      "STORE_SYLVAN_RACE",
+      "STORE_SYLVAN_STATUS",
+      "STORE_SYLVAN_TRASH",
+      "STORE_SYLVAN_UTILITY",
+      "STORE_ZOLTAN"
+    ],
     "sectorRange": {
       "minSector": 0,
       "maxSector": 0
@@ -658,6 +680,20 @@
     ],
     "coordinates": [],
     "secret_warps": [],
+    "stores": [
+      "STORE_FED_DISCOUNT",
+      "STORE_STANDARD",
+      "STORE_SYLVAN_ATTRIBUTE",
+      "STORE_SYLVAN_BEAM",
+      "STORE_SYLVAN_DRONES",
+      "STORE_SYLVAN_ION",
+      "STORE_SYLVAN_LASERS",
+      "STORE_SYLVAN_MISSILES",
+      "STORE_SYLVAN_RACE",
+      "STORE_SYLVAN_STATUS",
+      "STORE_SYLVAN_TRASH",
+      "STORE_SYLVAN_UTILITY"
+    ],
     "sectorRange": {
       "minSector": 7,
       "maxSector": 7
@@ -965,6 +1001,28 @@
     ],
     "coordinates": [],
     "secret_warps": [],
+    "stores": [
+      "STORE_ENGI",
+      "STORE_ENGI_MOREDRONES",
+      "STORE_FREEMANTIS",
+      "STORE_NOCREW",
+      "STORE_NOSYS",
+      "STORE_ORCHID",
+      "STORE_REBEL",
+      "STORE_STANDARD",
+      "STORE_SYLVAN_ATTRIBUTE",
+      "STORE_SYLVAN_BEAM",
+      "STORE_SYLVAN_DRONES",
+      "STORE_SYLVAN_ION",
+      "STORE_SYLVAN_LASERS",
+      "STORE_SYLVAN_MISSILES",
+      "STORE_SYLVAN_RACE",
+      "STORE_SYLVAN_STATUS",
+      "STORE_SYLVAN_TRASH",
+      "STORE_SYLVAN_UTILITY",
+      "STORE_TONY",
+      "STORE_ZOLTAN"
+    ],
     "sectorRange": {
       "minSector": 1,
       "maxSector": 4
@@ -1279,6 +1337,28 @@
     ],
     "coordinates": [],
     "secret_warps": [],
+    "stores": [
+      "STORE_ENGI",
+      "STORE_ENGI_MOREDRONES",
+      "STORE_FREEMANTIS",
+      "STORE_NOCREW",
+      "STORE_NOSYS",
+      "STORE_ORCHID",
+      "STORE_REBEL",
+      "STORE_STANDARD",
+      "STORE_SYLVAN_ATTRIBUTE",
+      "STORE_SYLVAN_BEAM",
+      "STORE_SYLVAN_DRONES",
+      "STORE_SYLVAN_ION",
+      "STORE_SYLVAN_LASERS",
+      "STORE_SYLVAN_MISSILES",
+      "STORE_SYLVAN_RACE",
+      "STORE_SYLVAN_STATUS",
+      "STORE_SYLVAN_TRASH",
+      "STORE_SYLVAN_UTILITY",
+      "STORE_TONY",
+      "STORE_ZOLTAN"
+    ],
     "sectorRange": {
       "minSector": 3,
       "maxSector": 6
@@ -1604,6 +1684,37 @@
       "coords_spider"
     ],
     "secret_warps": [],
+    "stores": [
+      "STORE_CRYSTAL",
+      "STORE_ENGI",
+      "STORE_ENGI_MOREDRONES",
+      "STORE_FREEMANTIS",
+      "STORE_MANTIS",
+      "STORE_MERCHANTS_FOCUS",
+      "STORE_MERCHANTS_IONS",
+      "STORE_MERCHANTS_LASERS",
+      "STORE_MERCHANTS_MISSILES",
+      "STORE_NOCREW",
+      "STORE_NOSYS",
+      "STORE_ORCHID",
+      "STORE_PIRATE",
+      "STORE_REBEL",
+      "STORE_ROCK",
+      "STORE_STANDARD",
+      "STORE_SYLVAN_ATTRIBUTE",
+      "STORE_SYLVAN_BEAM",
+      "STORE_SYLVAN_DRONES",
+      "STORE_SYLVAN_ION",
+      "STORE_SYLVAN_LASERS",
+      "STORE_SYLVAN_MISSILES",
+      "STORE_SYLVAN_RACE",
+      "STORE_SYLVAN_STATUS",
+      "STORE_SYLVAN_TRASH",
+      "STORE_SYLVAN_UTILITY",
+      "STORE_TONY",
+      "STORE_VAMPWEED",
+      "STORE_ZOLTAN"
+    ],
     "sectorRange": {
       "minSector": 1,
       "maxSector": 4
@@ -1963,6 +2074,37 @@
       "coords_spider"
     ],
     "secret_warps": [],
+    "stores": [
+      "STORE_CRYSTAL",
+      "STORE_ENGI",
+      "STORE_ENGI_MOREDRONES",
+      "STORE_FREEMANTIS",
+      "STORE_MANTIS",
+      "STORE_MERCHANTS_FOCUS",
+      "STORE_MERCHANTS_IONS",
+      "STORE_MERCHANTS_LASERS",
+      "STORE_MERCHANTS_MISSILES",
+      "STORE_NOCREW",
+      "STORE_NOSYS",
+      "STORE_ORCHID",
+      "STORE_PIRATE",
+      "STORE_REBEL",
+      "STORE_ROCK",
+      "STORE_STANDARD",
+      "STORE_SYLVAN_ATTRIBUTE",
+      "STORE_SYLVAN_BEAM",
+      "STORE_SYLVAN_DRONES",
+      "STORE_SYLVAN_ION",
+      "STORE_SYLVAN_LASERS",
+      "STORE_SYLVAN_MISSILES",
+      "STORE_SYLVAN_RACE",
+      "STORE_SYLVAN_STATUS",
+      "STORE_SYLVAN_TRASH",
+      "STORE_SYLVAN_UTILITY",
+      "STORE_TONY",
+      "STORE_VAMPWEED",
+      "STORE_ZOLTAN"
+    ],
     "sectorRange": {
       "minSector": 3,
       "maxSector": 6
@@ -2286,6 +2428,32 @@
       "coords_spider"
     ],
     "secret_warps": [],
+    "stores": [
+      "STORE_CRYSTAL",
+      "STORE_CRYSTAL_MORECRYSTAL",
+      "STORE_ENGI",
+      "STORE_MERCHANTS_FOCUS",
+      "STORE_MERCHANTS_IONS",
+      "STORE_MERCHANTS_LASERS",
+      "STORE_MERCHANTS_MISSILES",
+      "STORE_NOCREW",
+      "STORE_NOSYS",
+      "STORE_ORCHID",
+      "STORE_ROCK_MINELAUNCHER",
+      "STORE_STANDARD",
+      "STORE_SYLVAN_ATTRIBUTE",
+      "STORE_SYLVAN_BEAM",
+      "STORE_SYLVAN_DRONES",
+      "STORE_SYLVAN_ION",
+      "STORE_SYLVAN_LASERS",
+      "STORE_SYLVAN_MISSILES",
+      "STORE_SYLVAN_RACE",
+      "STORE_SYLVAN_STATUS",
+      "STORE_SYLVAN_TRASH",
+      "STORE_SYLVAN_UTILITY",
+      "STORE_TONY",
+      "STORE_ZOLTAN"
+    ],
     "sectorRange": {
       "minSector": 3,
       "maxSector": 6
@@ -2598,6 +2766,28 @@
     "coordinates": [],
     "secret_warps": [
       "SECRET_AUGMENTED"
+    ],
+    "stores": [
+      "STORE_CRYSTAL",
+      "STORE_ENGI",
+      "STORE_ENGI_MOREDRONES",
+      "STORE_MANTIS",
+      "STORE_NOCREW",
+      "STORE_NOSYS",
+      "STORE_ORCHID",
+      "STORE_SEPARATIST",
+      "STORE_STANDARD",
+      "STORE_SYLVAN_ATTRIBUTE",
+      "STORE_SYLVAN_BEAM",
+      "STORE_SYLVAN_DRONES",
+      "STORE_SYLVAN_ION",
+      "STORE_SYLVAN_LASERS",
+      "STORE_SYLVAN_MISSILES",
+      "STORE_SYLVAN_RACE",
+      "STORE_SYLVAN_STATUS",
+      "STORE_SYLVAN_TRASH",
+      "STORE_SYLVAN_UTILITY",
+      "STORE_ZOLTAN"
     ],
     "sectorRange": {
       "minSector": 1,
@@ -2926,6 +3116,28 @@
     "secret_warps": [
       "SECRET_AUGMENTED"
     ],
+    "stores": [
+      "STORE_CRYSTAL",
+      "STORE_ENGI",
+      "STORE_ENGI_MOREDRONES",
+      "STORE_MANTIS",
+      "STORE_NOCREW",
+      "STORE_NOSYS",
+      "STORE_ORCHID",
+      "STORE_SEPARATIST",
+      "STORE_STANDARD",
+      "STORE_SYLVAN_ATTRIBUTE",
+      "STORE_SYLVAN_BEAM",
+      "STORE_SYLVAN_DRONES",
+      "STORE_SYLVAN_ION",
+      "STORE_SYLVAN_LASERS",
+      "STORE_SYLVAN_MISSILES",
+      "STORE_SYLVAN_RACE",
+      "STORE_SYLVAN_STATUS",
+      "STORE_SYLVAN_TRASH",
+      "STORE_SYLVAN_UTILITY",
+      "STORE_ZOLTAN"
+    ],
     "sectorRange": {
       "minSector": 3,
       "maxSector": 6
@@ -3223,6 +3435,28 @@
     ],
     "coordinates": [],
     "secret_warps": [],
+    "stores": [
+      "STORE_DUSK",
+      "STORE_ENGI",
+      "STORE_ENGI_MOREDRONES",
+      "STORE_FREEMANTIS",
+      "STORE_LANIUS",
+      "STORE_MANTIS",
+      "STORE_ORCHID",
+      "STORE_STANDARD",
+      "STORE_SYLVAN_ATTRIBUTE",
+      "STORE_SYLVAN_BEAM",
+      "STORE_SYLVAN_DRONES",
+      "STORE_SYLVAN_ION",
+      "STORE_SYLVAN_LASERS",
+      "STORE_SYLVAN_MISSILES",
+      "STORE_SYLVAN_RACE",
+      "STORE_SYLVAN_STATUS",
+      "STORE_SYLVAN_TRASH",
+      "STORE_SYLVAN_UTILITY",
+      "STORE_TONY",
+      "STORE_ZOLTAN"
+    ],
     "sectorRange": {
       "minSector": 2,
       "maxSector": 4
@@ -3522,6 +3756,29 @@
     ],
     "coordinates": [],
     "secret_warps": [],
+    "stores": [
+      "STORE_DUSK",
+      "STORE_ENGI",
+      "STORE_ENGI_MOREDRONES",
+      "STORE_FREEMANTIS",
+      "STORE_LANIUS",
+      "STORE_MANTIS",
+      "STORE_ORCHID",
+      "STORE_PIRATE",
+      "STORE_STANDARD",
+      "STORE_SYLVAN_ATTRIBUTE",
+      "STORE_SYLVAN_BEAM",
+      "STORE_SYLVAN_DRONES",
+      "STORE_SYLVAN_ION",
+      "STORE_SYLVAN_LASERS",
+      "STORE_SYLVAN_MISSILES",
+      "STORE_SYLVAN_RACE",
+      "STORE_SYLVAN_STATUS",
+      "STORE_SYLVAN_TRASH",
+      "STORE_SYLVAN_UTILITY",
+      "STORE_TONY",
+      "STORE_ZOLTAN"
+    ],
     "sectorRange": {
       "minSector": 5,
       "maxSector": 6
@@ -3814,6 +4071,28 @@
     ],
     "coordinates": [],
     "secret_warps": [],
+    "stores": [
+      "STORE_AUTO",
+      "STORE_DUSK",
+      "STORE_ENGI",
+      "STORE_MANTIS",
+      "STORE_MERCHANTS_IONS",
+      "STORE_MERCHANTS_LASERS",
+      "STORE_MERCHANTS_MISSILES",
+      "STORE_ORCHID",
+      "STORE_STANDARD",
+      "STORE_SYLVAN_ATTRIBUTE",
+      "STORE_SYLVAN_BEAM",
+      "STORE_SYLVAN_DRONES",
+      "STORE_SYLVAN_ION",
+      "STORE_SYLVAN_LASERS",
+      "STORE_SYLVAN_MISSILES",
+      "STORE_SYLVAN_RACE",
+      "STORE_SYLVAN_STATUS",
+      "STORE_SYLVAN_TRASH",
+      "STORE_SYLVAN_UTILITY",
+      "STORE_ZOLTAN"
+    ],
     "sectorRange": {
       "minSector": 3,
       "maxSector": 6
@@ -4144,6 +4423,27 @@
     ],
     "coordinates": [],
     "secret_warps": [],
+    "stores": [
+      "STORE_ENGI",
+      "STORE_LOSTSUN",
+      "STORE_MANTIS",
+      "STORE_ORCHID",
+      "STORE_ROCK",
+      "STORE_STANDARD",
+      "STORE_SYLVAN_ATTRIBUTE",
+      "STORE_SYLVAN_BEAM",
+      "STORE_SYLVAN_DRONES",
+      "STORE_SYLVAN_ION",
+      "STORE_SYLVAN_LASERS",
+      "STORE_SYLVAN_MISSILES",
+      "STORE_SYLVAN_RACE",
+      "STORE_SYLVAN_STATUS",
+      "STORE_SYLVAN_TRASH",
+      "STORE_SYLVAN_UTILITY",
+      "STORE_TONY",
+      "STORE_VAMPWEED",
+      "STORE_ZOLTAN"
+    ],
     "sectorRange": {
       "minSector": 1,
       "maxSector": 4
@@ -4489,6 +4789,27 @@
     ],
     "coordinates": [],
     "secret_warps": [],
+    "stores": [
+      "STORE_ENGI",
+      "STORE_LOSTSUN",
+      "STORE_MANTIS",
+      "STORE_ORCHID",
+      "STORE_ROCK",
+      "STORE_STANDARD",
+      "STORE_SYLVAN_ATTRIBUTE",
+      "STORE_SYLVAN_BEAM",
+      "STORE_SYLVAN_DRONES",
+      "STORE_SYLVAN_ION",
+      "STORE_SYLVAN_LASERS",
+      "STORE_SYLVAN_MISSILES",
+      "STORE_SYLVAN_RACE",
+      "STORE_SYLVAN_STATUS",
+      "STORE_SYLVAN_TRASH",
+      "STORE_SYLVAN_UTILITY",
+      "STORE_TONY",
+      "STORE_VAMPWEED",
+      "STORE_ZOLTAN"
+    ],
     "sectorRange": {
       "minSector": 3,
       "maxSector": 6
@@ -4785,6 +5106,25 @@
     ],
     "coordinates": [],
     "secret_warps": [],
+    "stores": [
+      "STORE_ENGI",
+      "STORE_FREEMANTIS",
+      "STORE_MANTIS",
+      "STORE_NOCREW",
+      "STORE_SEPARATIST",
+      "STORE_STANDARD",
+      "STORE_SYLVAN_ATTRIBUTE",
+      "STORE_SYLVAN_BEAM",
+      "STORE_SYLVAN_DRONES",
+      "STORE_SYLVAN_ION",
+      "STORE_SYLVAN_LASERS",
+      "STORE_SYLVAN_MISSILES",
+      "STORE_SYLVAN_RACE",
+      "STORE_SYLVAN_STATUS",
+      "STORE_SYLVAN_TRASH",
+      "STORE_SYLVAN_UTILITY",
+      "STORE_ZOLTAN"
+    ],
     "sectorRange": {
       "minSector": 1,
       "maxSector": 4
@@ -5095,6 +5435,25 @@
     ],
     "coordinates": [],
     "secret_warps": [],
+    "stores": [
+      "STORE_ENGI",
+      "STORE_FREEMANTIS",
+      "STORE_MANTIS",
+      "STORE_NOCREW",
+      "STORE_SEPARATIST",
+      "STORE_STANDARD",
+      "STORE_SYLVAN_ATTRIBUTE",
+      "STORE_SYLVAN_BEAM",
+      "STORE_SYLVAN_DRONES",
+      "STORE_SYLVAN_ION",
+      "STORE_SYLVAN_LASERS",
+      "STORE_SYLVAN_MISSILES",
+      "STORE_SYLVAN_RACE",
+      "STORE_SYLVAN_STATUS",
+      "STORE_SYLVAN_TRASH",
+      "STORE_SYLVAN_UTILITY",
+      "STORE_ZOLTAN"
+    ],
     "sectorRange": {
       "minSector": 3,
       "maxSector": 6
@@ -5456,6 +5815,26 @@
     ],
     "coordinates": [],
     "secret_warps": [],
+    "stores": [
+      "STORE_COALITION",
+      "STORE_CRYSTAL",
+      "STORE_CRYSTAL_MORECRYSTAL",
+      "STORE_LOSTSUN",
+      "STORE_NOCREW",
+      "STORE_ROCK",
+      "STORE_STANDARD",
+      "STORE_SYLVAN_ATTRIBUTE",
+      "STORE_SYLVAN_BEAM",
+      "STORE_SYLVAN_DRONES",
+      "STORE_SYLVAN_ION",
+      "STORE_SYLVAN_LASERS",
+      "STORE_SYLVAN_MISSILES",
+      "STORE_SYLVAN_RACE",
+      "STORE_SYLVAN_STATUS",
+      "STORE_SYLVAN_TRASH",
+      "STORE_SYLVAN_UTILITY",
+      "STORE_TONY"
+    ],
     "sectorRange": {
       "minSector": 2,
       "maxSector": 4
@@ -5830,6 +6209,26 @@
       "coords_rhyme"
     ],
     "secret_warps": [],
+    "stores": [
+      "STORE_COALITION",
+      "STORE_CRYSTAL",
+      "STORE_CRYSTAL_MORECRYSTAL",
+      "STORE_LOSTSUN",
+      "STORE_NOCREW",
+      "STORE_ROCK",
+      "STORE_STANDARD",
+      "STORE_SYLVAN_ATTRIBUTE",
+      "STORE_SYLVAN_BEAM",
+      "STORE_SYLVAN_DRONES",
+      "STORE_SYLVAN_ION",
+      "STORE_SYLVAN_LASERS",
+      "STORE_SYLVAN_MISSILES",
+      "STORE_SYLVAN_RACE",
+      "STORE_SYLVAN_STATUS",
+      "STORE_SYLVAN_TRASH",
+      "STORE_SYLVAN_UTILITY",
+      "STORE_TONY"
+    ],
     "sectorRange": {
       "minSector": 5,
       "maxSector": 6
@@ -6162,6 +6561,36 @@
     ],
     "coordinates": [],
     "secret_warps": [],
+    "stores": [
+      "STORE_AUTO",
+      "STORE_COALITION",
+      "STORE_CRYSTAL",
+      "STORE_CRYSTAL_MORECRYSTAL",
+      "STORE_LOSTSUN",
+      "STORE_MANTIS",
+      "STORE_MERCHANTS_IONS",
+      "STORE_MERCHANTS_LASERS",
+      "STORE_MERCHANTS_MISSILES",
+      "STORE_NOCREW",
+      "STORE_ORCHID",
+      "STORE_PIRATE",
+      "STORE_ROCK",
+      "STORE_ROCK_MINELAUNCHER",
+      "STORE_SEPARATIST",
+      "STORE_STANDARD",
+      "STORE_SYLVAN_ATTRIBUTE",
+      "STORE_SYLVAN_BEAM",
+      "STORE_SYLVAN_DRONES",
+      "STORE_SYLVAN_ION",
+      "STORE_SYLVAN_LASERS",
+      "STORE_SYLVAN_MISSILES",
+      "STORE_SYLVAN_RACE",
+      "STORE_SYLVAN_STATUS",
+      "STORE_SYLVAN_TRASH",
+      "STORE_SYLVAN_UTILITY",
+      "STORE_TONY",
+      "STORE_ZOLTAN"
+    ],
     "sectorRange": {
       "minSector": 1,
       "maxSector": 4
@@ -6508,6 +6937,37 @@
     "secret_warps": [
       "SECRET_ORIGINS_RUWEN"
     ],
+    "stores": [
+      "STORE_AUTO",
+      "STORE_COALITION",
+      "STORE_CRYSTAL",
+      "STORE_CRYSTAL_MORECRYSTAL",
+      "STORE_LOSTSUN",
+      "STORE_MANTIS",
+      "STORE_MERCHANTS_IONS",
+      "STORE_MERCHANTS_LASERS",
+      "STORE_MERCHANTS_MISSILES",
+      "STORE_NOCREW",
+      "STORE_ORCHID",
+      "STORE_PIRATE",
+      "STORE_ROCK",
+      "STORE_ROCK_MINELAUNCHER",
+      "STORE_SEPARATIST",
+      "STORE_STANDARD",
+      "STORE_SYLVAN_ATTRIBUTE",
+      "STORE_SYLVAN_BEAM",
+      "STORE_SYLVAN_DRONES",
+      "STORE_SYLVAN_ION",
+      "STORE_SYLVAN_LASERS",
+      "STORE_SYLVAN_MISSILES",
+      "STORE_SYLVAN_RACE",
+      "STORE_SYLVAN_STATUS",
+      "STORE_SYLVAN_TRASH",
+      "STORE_SYLVAN_UTILITY",
+      "STORE_TONY",
+      "STORE_TURBAN",
+      "STORE_ZOLTAN"
+    ],
     "sectorRange": {
       "minSector": 3,
       "maxSector": 6
@@ -6844,6 +7304,41 @@
     ],
     "coordinates": [],
     "secret_warps": [],
+    "stores": [
+      "STORE_AUTO",
+      "STORE_COALITION",
+      "STORE_CRYSTAL",
+      "STORE_CRYSTAL_MORECRYSTAL",
+      "STORE_DUSK",
+      "STORE_DYNASTY",
+      "STORE_ENGI",
+      "STORE_LEECH",
+      "STORE_LOSTSUN",
+      "STORE_MANTIS",
+      "STORE_MERCHANTS_IONS",
+      "STORE_MERCHANTS_LASERS",
+      "STORE_MERCHANTS_MISSILES",
+      "STORE_NOCREW",
+      "STORE_PIRATE",
+      "STORE_REBEL",
+      "STORE_ROCK",
+      "STORE_SEPARATIST",
+      "STORE_SHELL",
+      "STORE_SLUG",
+      "STORE_STANDARD",
+      "STORE_SYLVAN_ATTRIBUTE",
+      "STORE_SYLVAN_BEAM",
+      "STORE_SYLVAN_DRONES",
+      "STORE_SYLVAN_ION",
+      "STORE_SYLVAN_LASERS",
+      "STORE_SYLVAN_MISSILES",
+      "STORE_SYLVAN_RACE",
+      "STORE_SYLVAN_STATUS",
+      "STORE_SYLVAN_TRASH",
+      "STORE_SYLVAN_UTILITY",
+      "STORE_TONY",
+      "STORE_ZOLTAN"
+    ],
     "sectorRange": {
       "minSector": 2,
       "maxSector": 4
@@ -7186,6 +7681,41 @@
     ],
     "coordinates": [],
     "secret_warps": [],
+    "stores": [
+      "STORE_AUTO",
+      "STORE_COALITION",
+      "STORE_CRYSTAL",
+      "STORE_DYNASTY",
+      "STORE_ENGI",
+      "STORE_LANIUS",
+      "STORE_LEECH",
+      "STORE_LOSTSUN",
+      "STORE_MANTIS",
+      "STORE_MERCHANTS_FOCUS",
+      "STORE_MERCHANTS_IONS",
+      "STORE_MERCHANTS_LASERS",
+      "STORE_MERCHANTS_MISSILES",
+      "STORE_PIRATE",
+      "STORE_REBEL",
+      "STORE_ROCK",
+      "STORE_ROCK_MINELAUNCHER",
+      "STORE_SEPARATIST",
+      "STORE_SLUG",
+      "STORE_STANDARD",
+      "STORE_SYLVAN_ATTRIBUTE",
+      "STORE_SYLVAN_BEAM",
+      "STORE_SYLVAN_DRONES",
+      "STORE_SYLVAN_ION",
+      "STORE_SYLVAN_LASERS",
+      "STORE_SYLVAN_MISSILES",
+      "STORE_SYLVAN_RACE",
+      "STORE_SYLVAN_STATUS",
+      "STORE_SYLVAN_TRASH",
+      "STORE_SYLVAN_UTILITY",
+      "STORE_TONY",
+      "STORE_VAMPWEED",
+      "STORE_ZOLTAN"
+    ],
     "sectorRange": {
       "minSector": 2,
       "maxSector": 4
@@ -7458,6 +7988,11 @@
     ],
     "coordinates": [],
     "secret_warps": [],
+    "stores": [
+      "STORE_CRYSTAL",
+      "STORE_PIRATE",
+      "STORE_SEPARATIST"
+    ],
     "sectorRange": {
       "minSector": 5,
       "maxSector": 6
@@ -7799,6 +8334,41 @@
     ],
     "coordinates": [],
     "secret_warps": [],
+    "stores": [
+      "STORE_AUTO",
+      "STORE_COALITION",
+      "STORE_CRYSTAL",
+      "STORE_CRYSTAL_MORECRYSTAL",
+      "STORE_DUSK",
+      "STORE_DYNASTY",
+      "STORE_ENGI",
+      "STORE_LANIUS",
+      "STORE_LEECH",
+      "STORE_MANTIS",
+      "STORE_MERCHANTS_IONS",
+      "STORE_MERCHANTS_LASERS",
+      "STORE_MERCHANTS_MISSILES",
+      "STORE_ORCHID",
+      "STORE_PIRATE",
+      "STORE_REBEL",
+      "STORE_ROCK",
+      "STORE_SEPARATIST",
+      "STORE_SLUG",
+      "STORE_STANDARD",
+      "STORE_SYLVAN_ATTRIBUTE",
+      "STORE_SYLVAN_BEAM",
+      "STORE_SYLVAN_DRONES",
+      "STORE_SYLVAN_ION",
+      "STORE_SYLVAN_LASERS",
+      "STORE_SYLVAN_MISSILES",
+      "STORE_SYLVAN_RACE",
+      "STORE_SYLVAN_STATUS",
+      "STORE_SYLVAN_TRASH",
+      "STORE_SYLVAN_UTILITY",
+      "STORE_TONY",
+      "STORE_VAMPWEED",
+      "STORE_ZOLTAN"
+    ],
     "sectorRange": {
       "minSector": 2,
       "maxSector": 4
@@ -8118,6 +8688,20 @@
       "coords_hektar"
     ],
     "secret_warps": [],
+    "stores": [
+      "STORE_HEKTAR_DEFAULT",
+      "STORE_STANDARD",
+      "STORE_SYLVAN_ATTRIBUTE",
+      "STORE_SYLVAN_BEAM",
+      "STORE_SYLVAN_DRONES",
+      "STORE_SYLVAN_ION",
+      "STORE_SYLVAN_LASERS",
+      "STORE_SYLVAN_MISSILES",
+      "STORE_SYLVAN_RACE",
+      "STORE_SYLVAN_STATUS",
+      "STORE_SYLVAN_TRASH",
+      "STORE_SYLVAN_UTILITY"
+    ],
     "sectorRange": {
       "minSector": 2,
       "maxSector": 4
@@ -8453,6 +9037,32 @@
     "secret_warps": [
       "SECRET_AUGMENTED"
     ],
+    "stores": [
+      "STORE_ENGI",
+      "STORE_ENGI_MOREDRONES",
+      "STORE_FREEMANTIS",
+      "STORE_LOSTSUN",
+      "STORE_MANTIS",
+      "STORE_MERCHANTS_IONS",
+      "STORE_MERCHANTS_LASERS",
+      "STORE_MERCHANTS_MISSILES",
+      "STORE_NOCREW",
+      "STORE_ORCHID",
+      "STORE_PIRATE",
+      "STORE_SEPARATIST",
+      "STORE_STANDARD",
+      "STORE_SYLVAN_ATTRIBUTE",
+      "STORE_SYLVAN_BEAM",
+      "STORE_SYLVAN_DRONES",
+      "STORE_SYLVAN_ION",
+      "STORE_SYLVAN_LASERS",
+      "STORE_SYLVAN_MISSILES",
+      "STORE_SYLVAN_RACE",
+      "STORE_SYLVAN_STATUS",
+      "STORE_SYLVAN_TRASH",
+      "STORE_SYLVAN_UTILITY",
+      "STORE_ZOLTAN"
+    ],
     "sectorRange": {
       "minSector": 1,
       "maxSector": 4
@@ -8780,6 +9390,32 @@
     "coordinates": [],
     "secret_warps": [
       "SECRET_AUGMENTED"
+    ],
+    "stores": [
+      "STORE_ENGI",
+      "STORE_ENGI_MOREDRONES",
+      "STORE_FREEMANTIS",
+      "STORE_LOSTSUN",
+      "STORE_MANTIS",
+      "STORE_MERCHANTS_IONS",
+      "STORE_MERCHANTS_LASERS",
+      "STORE_MERCHANTS_MISSILES",
+      "STORE_NOCREW",
+      "STORE_ORCHID",
+      "STORE_PIRATE",
+      "STORE_SEPARATIST",
+      "STORE_STANDARD",
+      "STORE_SYLVAN_ATTRIBUTE",
+      "STORE_SYLVAN_BEAM",
+      "STORE_SYLVAN_DRONES",
+      "STORE_SYLVAN_ION",
+      "STORE_SYLVAN_LASERS",
+      "STORE_SYLVAN_MISSILES",
+      "STORE_SYLVAN_RACE",
+      "STORE_SYLVAN_STATUS",
+      "STORE_SYLVAN_TRASH",
+      "STORE_SYLVAN_UTILITY",
+      "STORE_ZOLTAN"
     ],
     "sectorRange": {
       "minSector": 3,
@@ -9142,6 +9778,34 @@
     ],
     "coordinates": [],
     "secret_warps": [],
+    "stores": [
+      "STORE_COALITION",
+      "STORE_LEECH",
+      "STORE_MANTIS",
+      "STORE_MERCHANTS_IONS",
+      "STORE_MERCHANTS_LASERS",
+      "STORE_MERCHANTS_MISSILES",
+      "STORE_NOSYS",
+      "STORE_ORCHID",
+      "STORE_PIRATE",
+      "STORE_ROCK",
+      "STORE_SHELL",
+      "STORE_SLUG",
+      "STORE_STANDARD",
+      "STORE_SYLVAN_ATTRIBUTE",
+      "STORE_SYLVAN_BEAM",
+      "STORE_SYLVAN_DRONES",
+      "STORE_SYLVAN_ION",
+      "STORE_SYLVAN_LASERS",
+      "STORE_SYLVAN_MISSILES",
+      "STORE_SYLVAN_RACE",
+      "STORE_SYLVAN_STATUS",
+      "STORE_SYLVAN_TRASH",
+      "STORE_SYLVAN_UTILITY",
+      "STORE_TONY",
+      "STORE_VAMPWEED",
+      "STORE_ZOLTAN"
+    ],
     "sectorRange": {
       "minSector": 2,
       "maxSector": 4
@@ -9519,6 +10183,34 @@
     ],
     "coordinates": [],
     "secret_warps": [],
+    "stores": [
+      "STORE_COALITION",
+      "STORE_LEECH",
+      "STORE_MANTIS",
+      "STORE_MERCHANTS_IONS",
+      "STORE_MERCHANTS_LASERS",
+      "STORE_MERCHANTS_MISSILES",
+      "STORE_NOSYS",
+      "STORE_ORCHID",
+      "STORE_PIRATE",
+      "STORE_ROCK",
+      "STORE_SHELL",
+      "STORE_SLUG",
+      "STORE_STANDARD",
+      "STORE_SYLVAN_ATTRIBUTE",
+      "STORE_SYLVAN_BEAM",
+      "STORE_SYLVAN_DRONES",
+      "STORE_SYLVAN_ION",
+      "STORE_SYLVAN_LASERS",
+      "STORE_SYLVAN_MISSILES",
+      "STORE_SYLVAN_RACE",
+      "STORE_SYLVAN_STATUS",
+      "STORE_SYLVAN_TRASH",
+      "STORE_SYLVAN_UTILITY",
+      "STORE_TONY",
+      "STORE_VAMPWEED",
+      "STORE_ZOLTAN"
+    ],
     "sectorRange": {
       "minSector": 3,
       "maxSector": 6
@@ -9819,6 +10511,27 @@
     ],
     "coordinates": [],
     "secret_warps": [],
+    "stores": [
+      "STORE_AUTO",
+      "STORE_COALITION",
+      "STORE_NOSYS",
+      "STORE_PIRATE",
+      "STORE_SHELL",
+      "STORE_SLUG",
+      "STORE_STANDARD",
+      "STORE_SYLVAN_ATTRIBUTE",
+      "STORE_SYLVAN_BEAM",
+      "STORE_SYLVAN_DRONES",
+      "STORE_SYLVAN_ION",
+      "STORE_SYLVAN_LASERS",
+      "STORE_SYLVAN_MISSILES",
+      "STORE_SYLVAN_RACE",
+      "STORE_SYLVAN_STATUS",
+      "STORE_SYLVAN_TRASH",
+      "STORE_SYLVAN_UTILITY",
+      "STORE_VAMPWEED",
+      "STORE_ZOLTAN"
+    ],
     "sectorRange": {
       "minSector": 2,
       "maxSector": 4
@@ -10121,6 +10834,27 @@
     ],
     "coordinates": [],
     "secret_warps": [],
+    "stores": [
+      "STORE_AUTO",
+      "STORE_COALITION",
+      "STORE_NOSYS",
+      "STORE_PIRATE",
+      "STORE_SHELL",
+      "STORE_SLUG",
+      "STORE_STANDARD",
+      "STORE_SYLVAN_ATTRIBUTE",
+      "STORE_SYLVAN_BEAM",
+      "STORE_SYLVAN_DRONES",
+      "STORE_SYLVAN_ION",
+      "STORE_SYLVAN_LASERS",
+      "STORE_SYLVAN_MISSILES",
+      "STORE_SYLVAN_RACE",
+      "STORE_SYLVAN_STATUS",
+      "STORE_SYLVAN_TRASH",
+      "STORE_SYLVAN_UTILITY",
+      "STORE_VAMPWEED",
+      "STORE_ZOLTAN"
+    ],
     "sectorRange": {
       "minSector": 5,
       "maxSector": 6
@@ -10452,6 +11186,29 @@
     ],
     "coordinates": [],
     "secret_warps": [],
+    "stores": [
+      "STORE_COALITION",
+      "STORE_LEECH",
+      "STORE_LOSTSUN",
+      "STORE_MANTIS",
+      "STORE_PIRATE",
+      "STORE_ROCK",
+      "STORE_ROCK_MINELAUNCHER",
+      "STORE_SLUG",
+      "STORE_STANDARD",
+      "STORE_SYLVAN_ATTRIBUTE",
+      "STORE_SYLVAN_BEAM",
+      "STORE_SYLVAN_DRONES",
+      "STORE_SYLVAN_ION",
+      "STORE_SYLVAN_LASERS",
+      "STORE_SYLVAN_MISSILES",
+      "STORE_SYLVAN_RACE",
+      "STORE_SYLVAN_STATUS",
+      "STORE_SYLVAN_TRASH",
+      "STORE_SYLVAN_UTILITY",
+      "STORE_TONY",
+      "STORE_VAMPWEED"
+    ],
     "sectorRange": {
       "minSector": 2,
       "maxSector": 4
@@ -10822,6 +11579,29 @@
     ],
     "coordinates": [],
     "secret_warps": [],
+    "stores": [
+      "STORE_COALITION",
+      "STORE_LEECH",
+      "STORE_LOSTSUN",
+      "STORE_MANTIS",
+      "STORE_PIRATE",
+      "STORE_ROCK",
+      "STORE_ROCK_MINELAUNCHER",
+      "STORE_SLUG",
+      "STORE_STANDARD",
+      "STORE_SYLVAN_ATTRIBUTE",
+      "STORE_SYLVAN_BEAM",
+      "STORE_SYLVAN_DRONES",
+      "STORE_SYLVAN_ION",
+      "STORE_SYLVAN_LASERS",
+      "STORE_SYLVAN_MISSILES",
+      "STORE_SYLVAN_RACE",
+      "STORE_SYLVAN_STATUS",
+      "STORE_SYLVAN_TRASH",
+      "STORE_SYLVAN_UTILITY",
+      "STORE_TONY",
+      "STORE_VAMPWEED"
+    ],
     "sectorRange": {
       "minSector": 5,
       "maxSector": 6
@@ -11118,6 +11898,21 @@
       "coords_hektar"
     ],
     "secret_warps": [],
+    "stores": [
+      "STORE_HEKTAR_DEFAULT",
+      "STORE_LEECH",
+      "STORE_STANDARD",
+      "STORE_SYLVAN_ATTRIBUTE",
+      "STORE_SYLVAN_BEAM",
+      "STORE_SYLVAN_DRONES",
+      "STORE_SYLVAN_ION",
+      "STORE_SYLVAN_LASERS",
+      "STORE_SYLVAN_MISSILES",
+      "STORE_SYLVAN_RACE",
+      "STORE_SYLVAN_STATUS",
+      "STORE_SYLVAN_TRASH",
+      "STORE_SYLVAN_UTILITY"
+    ],
     "sectorRange": {
       "minSector": 2,
       "maxSector": 4
@@ -11450,6 +12245,30 @@
     ],
     "coordinates": [],
     "secret_warps": [],
+    "stores": [
+      "STORE_CRYSTAL",
+      "STORE_ENGI",
+      "STORE_LEECH",
+      "STORE_LOSTSUN",
+      "STORE_MANTIS",
+      "STORE_ORCHID",
+      "STORE_PIRATE",
+      "STORE_SEPARATIST",
+      "STORE_STANDARD",
+      "STORE_SYLVAN_ATTRIBUTE",
+      "STORE_SYLVAN_BEAM",
+      "STORE_SYLVAN_DRONES",
+      "STORE_SYLVAN_ION",
+      "STORE_SYLVAN_LASERS",
+      "STORE_SYLVAN_MISSILES",
+      "STORE_SYLVAN_RACE",
+      "STORE_SYLVAN_STATUS",
+      "STORE_SYLVAN_TRASH",
+      "STORE_SYLVAN_UTILITY",
+      "STORE_TONY",
+      "STORE_VAMPWEED",
+      "STORE_ZOLTAN"
+    ],
     "sectorRange": {
       "minSector": 2,
       "maxSector": 4
@@ -11898,6 +12717,30 @@
       "coords_rhyme"
     ],
     "secret_warps": [],
+    "stores": [
+      "STORE_CRYSTAL",
+      "STORE_ENGI",
+      "STORE_LEECH",
+      "STORE_LOSTSUN",
+      "STORE_MANTIS",
+      "STORE_ORCHID",
+      "STORE_PIRATE",
+      "STORE_SEPARATIST",
+      "STORE_STANDARD",
+      "STORE_SYLVAN_ATTRIBUTE",
+      "STORE_SYLVAN_BEAM",
+      "STORE_SYLVAN_DRONES",
+      "STORE_SYLVAN_ION",
+      "STORE_SYLVAN_LASERS",
+      "STORE_SYLVAN_MISSILES",
+      "STORE_SYLVAN_RACE",
+      "STORE_SYLVAN_STATUS",
+      "STORE_SYLVAN_TRASH",
+      "STORE_SYLVAN_UTILITY",
+      "STORE_TONY",
+      "STORE_VAMPWEED",
+      "STORE_ZOLTAN"
+    ],
     "sectorRange": {
       "minSector": 5,
       "maxSector": 6
@@ -12208,6 +13051,20 @@
       "coords_hektar"
     ],
     "secret_warps": [],
+    "stores": [
+      "STORE_HEKTAR_DEFAULT",
+      "STORE_STANDARD",
+      "STORE_SYLVAN_ATTRIBUTE",
+      "STORE_SYLVAN_BEAM",
+      "STORE_SYLVAN_DRONES",
+      "STORE_SYLVAN_ION",
+      "STORE_SYLVAN_LASERS",
+      "STORE_SYLVAN_MISSILES",
+      "STORE_SYLVAN_RACE",
+      "STORE_SYLVAN_STATUS",
+      "STORE_SYLVAN_TRASH",
+      "STORE_SYLVAN_UTILITY"
+    ],
     "sectorRange": {
       "minSector": 2,
       "maxSector": 4
@@ -12506,6 +13363,25 @@
     ],
     "coordinates": [],
     "secret_warps": [],
+    "stores": [
+      "STORE_AUTO",
+      "STORE_CRYSTAL",
+      "STORE_DYNASTY",
+      "STORE_LEECH",
+      "STORE_NOCREW",
+      "STORE_SLUG",
+      "STORE_STANDARD",
+      "STORE_SYLVAN_ATTRIBUTE",
+      "STORE_SYLVAN_BEAM",
+      "STORE_SYLVAN_DRONES",
+      "STORE_SYLVAN_ION",
+      "STORE_SYLVAN_LASERS",
+      "STORE_SYLVAN_MISSILES",
+      "STORE_SYLVAN_RACE",
+      "STORE_SYLVAN_STATUS",
+      "STORE_SYLVAN_TRASH",
+      "STORE_SYLVAN_UTILITY"
+    ],
     "sectorRange": {
       "minSector": 2,
       "maxSector": 4
@@ -12825,6 +13701,25 @@
       "coords_rhyme"
     ],
     "secret_warps": [],
+    "stores": [
+      "STORE_AUTO",
+      "STORE_CRYSTAL",
+      "STORE_DYNASTY",
+      "STORE_LEECH",
+      "STORE_NOCREW",
+      "STORE_SLUG",
+      "STORE_STANDARD",
+      "STORE_SYLVAN_ATTRIBUTE",
+      "STORE_SYLVAN_BEAM",
+      "STORE_SYLVAN_DRONES",
+      "STORE_SYLVAN_ION",
+      "STORE_SYLVAN_LASERS",
+      "STORE_SYLVAN_MISSILES",
+      "STORE_SYLVAN_RACE",
+      "STORE_SYLVAN_STATUS",
+      "STORE_SYLVAN_TRASH",
+      "STORE_SYLVAN_UTILITY"
+    ],
     "sectorRange": {
       "minSector": 5,
       "maxSector": 6
@@ -13133,6 +14028,19 @@
     ],
     "coordinates": [],
     "secret_warps": [],
+    "stores": [
+      "STORE_COALITION",
+      "STORE_CRYSTAL",
+      "STORE_CRYSTAL_MORECRYSTAL",
+      "STORE_DUSK",
+      "STORE_LOSTSUN",
+      "STORE_MANTIS",
+      "STORE_PIRATE",
+      "STORE_REBEL",
+      "STORE_ROCK",
+      "STORE_ROCK_MINELAUNCHER",
+      "STORE_STANDARD"
+    ],
     "sectorRange": {
       "minSector": 5,
       "maxSector": 6
@@ -13461,6 +14369,27 @@
     ],
     "coordinates": [],
     "secret_warps": [],
+    "stores": [
+      "STORE_COALITION",
+      "STORE_DYNASTY",
+      "STORE_LEECH",
+      "STORE_PIRATE",
+      "STORE_SHELL",
+      "STORE_SLUG",
+      "STORE_STANDARD",
+      "STORE_SYLVAN_ATTRIBUTE",
+      "STORE_SYLVAN_BEAM",
+      "STORE_SYLVAN_DRONES",
+      "STORE_SYLVAN_ION",
+      "STORE_SYLVAN_LASERS",
+      "STORE_SYLVAN_MISSILES",
+      "STORE_SYLVAN_RACE",
+      "STORE_SYLVAN_STATUS",
+      "STORE_SYLVAN_TRASH",
+      "STORE_SYLVAN_UTILITY",
+      "STORE_TONY",
+      "STORE_VAMPWEED"
+    ],
     "sectorRange": {
       "minSector": 3,
       "maxSector": 6
@@ -13769,6 +14698,18 @@
       "coords_rhyme"
     ],
     "secret_warps": [],
+    "stores": [
+      "STORE_AUTO",
+      "STORE_CRYSTAL",
+      "STORE_CRYSTAL_MORECRYSTAL",
+      "STORE_DYNASTY",
+      "STORE_ENGI",
+      "STORE_LANIUS",
+      "STORE_PIRATE",
+      "STORE_ROCK",
+      "STORE_SLUG",
+      "STORE_STANDARD"
+    ],
     "sectorRange": {
       "minSector": 5,
       "maxSector": 6
@@ -14068,6 +15009,13 @@
       "coords_jerry"
     ],
     "secret_warps": [],
+    "stores": [
+      "STORE_AUTO",
+      "STORE_DUSK",
+      "STORE_NOCREW",
+      "STORE_REBEL",
+      "STORE_STANDARD"
+    ],
     "sectorRange": {
       "minSector": 2,
       "maxSector": 4
@@ -14388,6 +15336,13 @@
       "coords_jerry"
     ],
     "secret_warps": [],
+    "stores": [
+      "STORE_AUTO",
+      "STORE_DUSK",
+      "STORE_NOCREW",
+      "STORE_REBEL",
+      "STORE_STANDARD"
+    ],
     "sectorRange": {
       "minSector": 5,
       "maxSector": 6
@@ -14694,6 +15649,16 @@
     "ship_unlocks": [],
     "coordinates": [],
     "secret_warps": [],
+    "stores": [
+      "STORE_AUTO",
+      "STORE_ENGI",
+      "STORE_MANTIS",
+      "STORE_NOCREW",
+      "STORE_PIRATE",
+      "STORE_REBEL",
+      "STORE_SEPARATIST",
+      "STORE_STANDARD"
+    ],
     "sectorRange": {
       "minSector": 2,
       "maxSector": 4
@@ -15031,6 +15996,16 @@
       "coords_rhyme"
     ],
     "secret_warps": [],
+    "stores": [
+      "STORE_AUTO",
+      "STORE_ENGI",
+      "STORE_MANTIS",
+      "STORE_NOCREW",
+      "STORE_PIRATE",
+      "STORE_REBEL",
+      "STORE_SEPARATIST",
+      "STORE_STANDARD"
+    ],
     "sectorRange": {
       "minSector": 5,
       "maxSector": 6
@@ -15323,6 +16298,14 @@
     "ship_unlocks": [],
     "coordinates": [],
     "secret_warps": [],
+    "stores": [
+      "STORE_COALITION",
+      "STORE_ENGI",
+      "STORE_FREEMANTIS",
+      "STORE_MANTIS",
+      "STORE_PIRATE",
+      "STORE_STANDARD"
+    ],
     "sectorRange": {
       "minSector": 2,
       "maxSector": 4
@@ -15615,6 +16598,14 @@
     ],
     "coordinates": [],
     "secret_warps": [],
+    "stores": [
+      "STORE_COALITION",
+      "STORE_ENGI",
+      "STORE_FREEMANTIS",
+      "STORE_MANTIS",
+      "STORE_PIRATE",
+      "STORE_STANDARD"
+    ],
     "sectorRange": {
       "minSector": 5,
       "maxSector": 6
@@ -15902,6 +16893,17 @@
     "ship_unlocks": [],
     "coordinates": [],
     "secret_warps": [],
+    "stores": [
+      "STORE_COALITION",
+      "STORE_CRYSTAL",
+      "STORE_ORCHID",
+      "STORE_ROCK",
+      "STORE_ROCK_MINELAUNCHER",
+      "STORE_STANDARD",
+      "STORE_TONY",
+      "STORE_VAMPWEED",
+      "STORE_ZOLTAN"
+    ],
     "sectorRange": {
       "minSector": 2,
       "maxSector": 4
@@ -16231,6 +17233,17 @@
     "secret_warps": [
       "SECRET_ORIGINS"
     ],
+    "stores": [
+      "STORE_COALITION",
+      "STORE_CRYSTAL",
+      "STORE_ORCHID",
+      "STORE_ROCK",
+      "STORE_ROCK_MINELAUNCHER",
+      "STORE_STANDARD",
+      "STORE_TONY",
+      "STORE_VAMPWEED",
+      "STORE_ZOLTAN"
+    ],
     "sectorRange": {
       "minSector": 5,
       "maxSector": 6
@@ -16559,6 +17572,26 @@
       "coords_nights"
     ],
     "secret_warps": [],
+    "stores": [
+      "STORE_COALITION",
+      "STORE_MANTIS",
+      "STORE_PIRATE",
+      "STORE_SHELL",
+      "STORE_SLUG",
+      "STORE_STANDARD",
+      "STORE_SYLVAN_ATTRIBUTE",
+      "STORE_SYLVAN_BEAM",
+      "STORE_SYLVAN_DRONES",
+      "STORE_SYLVAN_ION",
+      "STORE_SYLVAN_LASERS",
+      "STORE_SYLVAN_MISSILES",
+      "STORE_SYLVAN_RACE",
+      "STORE_SYLVAN_STATUS",
+      "STORE_SYLVAN_TRASH",
+      "STORE_SYLVAN_UTILITY",
+      "STORE_TONY",
+      "STORE_VAMPWEED"
+    ],
     "sectorRange": {
       "minSector": 2,
       "maxSector": 4
@@ -16899,6 +17932,26 @@
       "coords_nights"
     ],
     "secret_warps": [],
+    "stores": [
+      "STORE_COALITION",
+      "STORE_MANTIS",
+      "STORE_PIRATE",
+      "STORE_SHELL",
+      "STORE_SLUG",
+      "STORE_STANDARD",
+      "STORE_SYLVAN_ATTRIBUTE",
+      "STORE_SYLVAN_BEAM",
+      "STORE_SYLVAN_DRONES",
+      "STORE_SYLVAN_ION",
+      "STORE_SYLVAN_LASERS",
+      "STORE_SYLVAN_MISSILES",
+      "STORE_SYLVAN_RACE",
+      "STORE_SYLVAN_STATUS",
+      "STORE_SYLVAN_TRASH",
+      "STORE_SYLVAN_UTILITY",
+      "STORE_TONY",
+      "STORE_VAMPWEED"
+    ],
     "sectorRange": {
       "minSector": 5,
       "maxSector": 6
@@ -17202,6 +18255,21 @@
       "coords_nights"
     ],
     "secret_warps": [],
+    "stores": [
+      "STORE_HEKTAR_DEFAULT",
+      "STORE_SLUG",
+      "STORE_STANDARD",
+      "STORE_SYLVAN_ATTRIBUTE",
+      "STORE_SYLVAN_BEAM",
+      "STORE_SYLVAN_DRONES",
+      "STORE_SYLVAN_ION",
+      "STORE_SYLVAN_LASERS",
+      "STORE_SYLVAN_MISSILES",
+      "STORE_SYLVAN_RACE",
+      "STORE_SYLVAN_STATUS",
+      "STORE_SYLVAN_TRASH",
+      "STORE_SYLVAN_UTILITY"
+    ],
     "sectorRange": {
       "minSector": 2,
       "maxSector": 4
@@ -17485,6 +18553,16 @@
     "ship_unlocks": [],
     "coordinates": [],
     "secret_warps": [],
+    "stores": [
+      "STORE_DUSK",
+      "STORE_ENGI",
+      "STORE_NOCREW",
+      "STORE_ORCHID",
+      "STORE_PIRATE",
+      "STORE_REBEL",
+      "STORE_STANDARD",
+      "STORE_ZOLTAN"
+    ],
     "sectorRange": {
       "minSector": 2,
       "maxSector": 4
@@ -17794,6 +18872,16 @@
     ],
     "coordinates": [],
     "secret_warps": [],
+    "stores": [
+      "STORE_DUSK",
+      "STORE_ENGI",
+      "STORE_NOCREW",
+      "STORE_ORCHID",
+      "STORE_PIRATE",
+      "STORE_REBEL",
+      "STORE_STANDARD",
+      "STORE_ZOLTAN"
+    ],
     "sectorRange": {
       "minSector": 5,
       "maxSector": 6
@@ -18105,6 +19193,24 @@
     ],
     "coordinates": [],
     "secret_warps": [],
+    "stores": [
+      "STORE_AUTO",
+      "STORE_CRYSTAL",
+      "STORE_DYNASTY",
+      "STORE_NOCREW",
+      "STORE_SLUG",
+      "STORE_STANDARD",
+      "STORE_SYLVAN_ATTRIBUTE",
+      "STORE_SYLVAN_BEAM",
+      "STORE_SYLVAN_DRONES",
+      "STORE_SYLVAN_ION",
+      "STORE_SYLVAN_LASERS",
+      "STORE_SYLVAN_MISSILES",
+      "STORE_SYLVAN_RACE",
+      "STORE_SYLVAN_STATUS",
+      "STORE_SYLVAN_TRASH",
+      "STORE_SYLVAN_UTILITY"
+    ],
     "sectorRange": {
       "minSector": 2,
       "maxSector": 4
@@ -18436,6 +19542,24 @@
       "coords_rhyme"
     ],
     "secret_warps": [],
+    "stores": [
+      "STORE_AUTO",
+      "STORE_CRYSTAL",
+      "STORE_DYNASTY",
+      "STORE_NOCREW",
+      "STORE_SLUG",
+      "STORE_STANDARD",
+      "STORE_SYLVAN_ATTRIBUTE",
+      "STORE_SYLVAN_BEAM",
+      "STORE_SYLVAN_DRONES",
+      "STORE_SYLVAN_ION",
+      "STORE_SYLVAN_LASERS",
+      "STORE_SYLVAN_MISSILES",
+      "STORE_SYLVAN_RACE",
+      "STORE_SYLVAN_STATUS",
+      "STORE_SYLVAN_TRASH",
+      "STORE_SYLVAN_UTILITY"
+    ],
     "sectorRange": {
       "minSector": 5,
       "maxSector": 6
@@ -18725,6 +19849,16 @@
     "ship_unlocks": [],
     "coordinates": [],
     "secret_warps": [],
+    "stores": [
+      "STORE_HEKTAR_DEFAULT",
+      "STORE_LEECH",
+      "STORE_MANTIS",
+      "STORE_ROCK",
+      "STORE_ROCK_MINELAUNCHER",
+      "STORE_SLUG",
+      "STORE_STANDARD",
+      "STORE_VAMPWEED"
+    ],
     "sectorRange": {
       "minSector": 2,
       "maxSector": 4
@@ -19034,6 +20168,27 @@
       "coords_hive"
     ],
     "secret_warps": [],
+    "stores": [
+      "STORE_COALITION",
+      "STORE_LEECH",
+      "STORE_MANTIS",
+      "STORE_ROCK",
+      "STORE_ROCK_MINELAUNCHER",
+      "STORE_SLUG",
+      "STORE_STANDARD",
+      "STORE_SYLVAN_ATTRIBUTE",
+      "STORE_SYLVAN_BEAM",
+      "STORE_SYLVAN_DRONES",
+      "STORE_SYLVAN_ION",
+      "STORE_SYLVAN_LASERS",
+      "STORE_SYLVAN_MISSILES",
+      "STORE_SYLVAN_RACE",
+      "STORE_SYLVAN_STATUS",
+      "STORE_SYLVAN_TRASH",
+      "STORE_SYLVAN_UTILITY",
+      "STORE_TONY",
+      "STORE_VAMPWEED"
+    ],
     "sectorRange": {
       "minSector": 5,
       "maxSector": 6
@@ -19333,6 +20488,24 @@
     ],
     "coordinates": [],
     "secret_warps": [],
+    "stores": [
+      "STORE_AUTO",
+      "STORE_DYNASTY",
+      "STORE_SHELL",
+      "STORE_SLUG",
+      "STORE_STANDARD",
+      "STORE_SYLVAN_ATTRIBUTE",
+      "STORE_SYLVAN_BEAM",
+      "STORE_SYLVAN_DRONES",
+      "STORE_SYLVAN_ION",
+      "STORE_SYLVAN_LASERS",
+      "STORE_SYLVAN_MISSILES",
+      "STORE_SYLVAN_RACE",
+      "STORE_SYLVAN_STATUS",
+      "STORE_SYLVAN_TRASH",
+      "STORE_SYLVAN_UTILITY",
+      "STORE_VAMPWEED"
+    ],
     "sectorRange": {
       "minSector": 5,
       "maxSector": 6
@@ -19601,6 +20774,9 @@
       "coords_rhyme"
     ],
     "secret_warps": [],
+    "stores": [
+      "STORE_STANDARD"
+    ],
     "sectorRange": {
       "minSector": 5,
       "maxSector": 6
@@ -19874,7 +21050,10 @@
       "PLAYER_SHIP_SPIDER"
     ],
     "coordinates": [],
-    "secret_warps": []
+    "secret_warps": [],
+    "stores": [
+      "STORE_STANDARD"
+    ]
   },
   {
     "name": "SECRET_ORIGINS",
@@ -20124,7 +21303,10 @@
     ],
     "ship_unlocks": [],
     "coordinates": [],
-    "secret_warps": []
+    "secret_warps": [],
+    "stores": [
+      "STORE_CULTIST"
+    ]
   },
   {
     "name": "SECRET_ORIGINS_RUWEN",
@@ -20377,7 +21559,10 @@
       "PLAYER_SHIP_CULTIST"
     ],
     "coordinates": [],
-    "secret_warps": []
+    "secret_warps": [],
+    "stores": [
+      "STORE_CULTIST"
+    ]
   },
   {
     "name": "SECRET_JERRY",
@@ -20651,7 +21836,14 @@
     ],
     "ship_unlocks": [],
     "coordinates": [],
-    "secret_warps": []
+    "secret_warps": [],
+    "stores": [
+      "STORE_AUTO",
+      "STORE_DUSK",
+      "STORE_NOCREW",
+      "STORE_REBEL",
+      "STORE_STANDARD"
+    ]
   },
   {
     "name": "SECRET_HEKTAR",
@@ -20936,6 +22128,10 @@
     "coordinates": [],
     "secret_warps": [
       "SECRET_SYLVAN"
+    ],
+    "stores": [
+      "STORE_HEKTAR_DEFAULT",
+      "STORE_STANDARD"
     ]
   },
   {
@@ -21281,7 +22477,17 @@
       "PLAYER_SHIP_TECHNICIAN"
     ],
     "coordinates": [],
-    "secret_warps": []
+    "secret_warps": [],
+    "stores": [
+      "STORE_AUTO",
+      "STORE_ENGI",
+      "STORE_MANTIS",
+      "STORE_NOCREW",
+      "STORE_PIRATE",
+      "STORE_REBEL",
+      "STORE_SEPARATIST",
+      "STORE_STANDARD"
+    ]
   },
   {
     "name": "SECRET_NIGHTS",
@@ -21594,7 +22800,28 @@
       "PLAYER_SHIP_SYLVAN_3"
     ],
     "coordinates": [],
-    "secret_warps": []
+    "secret_warps": [],
+    "stores": [
+      "STORE_COALITION",
+      "STORE_HEKTAR_DEFAULT",
+      "STORE_MANTIS",
+      "STORE_PIRATE",
+      "STORE_SHELL",
+      "STORE_SLUG",
+      "STORE_STANDARD",
+      "STORE_SYLVAN_ATTRIBUTE",
+      "STORE_SYLVAN_BEAM",
+      "STORE_SYLVAN_DRONES",
+      "STORE_SYLVAN_ION",
+      "STORE_SYLVAN_LASERS",
+      "STORE_SYLVAN_MISSILES",
+      "STORE_SYLVAN_RACE",
+      "STORE_SYLVAN_STATUS",
+      "STORE_SYLVAN_TRASH",
+      "STORE_SYLVAN_UTILITY",
+      "STORE_TONY",
+      "STORE_VAMPWEED"
+    ]
   },
   {
     "name": "SECRET_RHYME",
@@ -21619,7 +22846,8 @@
       "PLAYER_SHIP_RHYME"
     ],
     "coordinates": [],
-    "secret_warps": []
+    "secret_warps": [],
+    "stores": []
   },
   {
     "name": "SECRET_RHYME_CHAOS",
@@ -21644,7 +22872,8 @@
     "drones": [],
     "ship_unlocks": [],
     "coordinates": [],
-    "secret_warps": []
+    "secret_warps": [],
+    "stores": []
   },
   {
     "name": "SECRET_HER",
@@ -21673,7 +22902,8 @@
     "drones": [],
     "ship_unlocks": [],
     "coordinates": [],
-    "secret_warps": []
+    "secret_warps": [],
+    "stores": []
   },
   {
     "name": "SECRET_SYLVAN",
@@ -22554,7 +23784,12 @@
     "drones": [],
     "ship_unlocks": [],
     "coordinates": [],
-    "secret_warps": []
+    "secret_warps": [],
+    "stores": [
+      "STORE_SYLVAN_NEXUS",
+      "STORE_SYLVAN_NEXUS_DYLAN",
+      "STORE_SYLVAN_NEXUS_HARD"
+    ]
   },
   {
     "name": "SECRET_DYLAN",
@@ -22589,7 +23824,8 @@
     "drones": [],
     "ship_unlocks": [],
     "coordinates": [],
-    "secret_warps": []
+    "secret_warps": [],
+    "stores": []
   },
   {
     "name": "SECRET_AUGMENTED",
@@ -22875,6 +24111,17 @@
     "coordinates": [],
     "secret_warps": [
       "SECRET_ANCIENT"
+    ],
+    "stores": [
+      "STORE_AUGMENTED",
+      "STORE_AUTO",
+      "STORE_COALITION",
+      "STORE_CRYSTAL",
+      "STORE_DYNASTY",
+      "STORE_LANIUS",
+      "STORE_PIRATE",
+      "STORE_SEPARATIST",
+      "STORE_STANDARD"
     ]
   },
   {
@@ -23878,6 +25125,9 @@
     "coordinates": [],
     "secret_warps": [
       "SECRET_ROYAL"
+    ],
+    "stores": [
+      "STORE_ANCIENT"
     ]
   },
   {
@@ -24899,6 +26149,10 @@
     "coordinates": [],
     "secret_warps": [
       "SHOWDOWN_BEGIN"
+    ],
+    "stores": [
+      "STORE_ANCIENT",
+      "STORE_AUGMENTED"
     ]
   },
   {
@@ -24922,7 +26176,8 @@
     "drones": [],
     "ship_unlocks": [],
     "coordinates": [],
-    "secret_warps": []
+    "secret_warps": [],
+    "stores": []
   },
   {
     "name": "SHOWDOWN",
@@ -24950,7 +26205,8 @@
     "coordinates": [],
     "secret_warps": [
       "SHOWDOWN_WIN"
-    ]
+    ],
+    "stores": []
   },
   {
     "name": "SHOWDOWN_WIN",
@@ -24975,6 +26231,7 @@
       "PLAYER_SHIP_FLAGSHIP"
     ],
     "coordinates": [],
-    "secret_warps": []
+    "secret_warps": [],
+    "stores": []
   }
 ]
