@@ -18,7 +18,8 @@
       "rarity": "0",
       "iconImage": "combat",
       "_id": "COMBAT_1"
-    }
+    },
+    "sources": []
   },
   {
     "droneBlueprint": {
@@ -40,7 +41,8 @@
       "rarity": "0",
       "iconImage": "combat2",
       "_id": "COMBAT_2"
-    }
+    },
+    "sources": []
   },
   {
     "droneBlueprint": {
@@ -61,7 +63,8 @@
       "rarity": "0",
       "iconImage": "beam",
       "_id": "COMBAT_BEAM"
-    }
+    },
+    "sources": []
   },
   {
     "droneBlueprint": {
@@ -78,7 +81,8 @@
       "rarity": "0",
       "iconImage": "battle",
       "_id": "BATTLE"
-    }
+    },
+    "sources": []
   },
   {
     "droneBlueprint": {
@@ -95,7 +99,8 @@
       "rarity": "0",
       "iconImage": "boarder",
       "_id": "BOARDER"
-    }
+    },
+    "sources": []
   },
   {
     "droneBlueprint": {
@@ -112,7 +117,8 @@
       "rarity": "0",
       "iconImage": "battle",
       "_id": "SPAWN_BATTLE"
-    }
+    },
+    "sources": []
   },
   {
     "droneBlueprint": {
@@ -130,7 +136,8 @@
       "rarity": "0",
       "iconImage": "battle",
       "_id": "SPAWN_BOARDER"
-    }
+    },
+    "sources": []
   },
   {
     "droneBlueprint": {
@@ -147,7 +154,13 @@
       "rarity": "0",
       "iconImage": "battle",
       "_id": "GANA_BATTLE"
-    }
+    },
+    "sources": [
+      {
+        "sector": "SECTOR_UNION_UNIQUE",
+        "event": "KESTREL_UNLOCK_OFFER"
+      }
+    ]
   },
   {
     "droneBlueprint": {
@@ -164,7 +177,8 @@
       "rarity": "0",
       "iconImage": "boarder",
       "_id": "GANA_BOARDER"
-    }
+    },
+    "sources": []
   },
   {
     "droneBlueprint": {
@@ -181,7 +195,13 @@
       "rarity": "0",
       "iconImage": "battle",
       "_id": "A55_BATTLE"
-    }
+    },
+    "sources": [
+      {
+        "sector": "SECTOR_AUTO_UNIQUE",
+        "event": "A55_DEFEAT"
+      }
+    ]
   },
   {
     "droneBlueprint": {
@@ -198,7 +218,8 @@
       "rarity": "0",
       "iconImage": "boarder",
       "_id": "A55_BOARDER"
-    }
+    },
+    "sources": []
   },
   {
     "droneBlueprint": {
@@ -220,7 +241,8 @@
       "iconImage": "defense",
       "rarity": "0",
       "_id": "DEFENSE_PRIME"
-    }
+    },
+    "sources": []
   },
   {
     "droneBlueprint": {
@@ -241,7 +263,8 @@
       "rarity": "0",
       "iconImage": "combat",
       "_id": "COMBAT_PRIME"
-    }
+    },
+    "sources": []
   },
   {
     "droneBlueprint": {
@@ -262,7 +285,8 @@
       "rarity": "0",
       "iconImage": "combat",
       "_id": "SALT_MINER"
-    }
+    },
+    "sources": []
   },
   {
     "droneBlueprint": {
@@ -283,7 +307,8 @@
       "rarity": "0",
       "iconImage": "combat",
       "_id": "SALT_MINER_CHAOS"
-    }
+    },
+    "sources": []
   },
   {
     "droneBlueprint": {
@@ -303,7 +328,8 @@
       "weaponBlueprint": "DRONE_ASTEROID_DRUG",
       "rarity": "0",
       "_id": "COMBAT_ASTEROID_DRUG"
-    }
+    },
+    "sources": []
   },
   {
     "droneBlueprint": {
@@ -326,7 +352,125 @@
       "iconImage": "defense",
       "rarity": "1",
       "_id": "DEFENSE_1"
-    }
+    },
+    "sources": [
+      {
+        "sector": "SECRET_ESTATE",
+        "event": "STOREEVENT_FED_AUTO"
+      },
+      {
+        "sector": "SECRET_JERRY",
+        "event": "STOREEVENT_FED_AUTO"
+      },
+      {
+        "sector": "SECTOR_AUTO",
+        "event": "STOREEVENT_FED_AUTO"
+      },
+      {
+        "sector": "SECTOR_AUTO_UNIQUE",
+        "event": "STOREEVENT_FED_AUTO"
+      },
+      {
+        "sector": "SECTOR_DUSKBRINGER",
+        "event": "STOREEVENT_FED_AUTO"
+      },
+      {
+        "sector": "SECTOR_DUSKBRINGER_UNIQUE",
+        "event": "STOREEVENT_FED_AUTO"
+      },
+      {
+        "sector": "SECTOR_DYNASTY",
+        "event": "STOREEVENT_FED_AUTO"
+      },
+      {
+        "sector": "SECTOR_DYNASTY_UNIQUE",
+        "event": "STOREEVENT_FED_AUTO"
+      },
+      {
+        "sector": "SECTOR_FEDERATION",
+        "event": "STOREEVENT_FED_AUTO"
+      },
+      {
+        "sector": "SECTOR_FEDERATION_UNIQUE",
+        "event": "STOREEVENT_FED_AUTO"
+      },
+      {
+        "sector": "SECTOR_FREEMANTIS",
+        "event": "STOREEVENT_FED_AUTO"
+      },
+      {
+        "sector": "SECTOR_FREEMANTIS_UNIQUE",
+        "event": "STOREEVENT_FED_AUTO"
+      },
+      {
+        "sector": "SECTOR_HARMONY",
+        "event": "STOREEVENT_FED_AUTO"
+      },
+      {
+        "sector": "SECTOR_HARMONY_UNIQUE",
+        "event": "STOREEVENT_FED_AUTO"
+      },
+      {
+        "sector": "SECTOR_IMPERIAL",
+        "event": "STOREEVENT_FED_AUTO"
+      },
+      {
+        "sector": "SECTOR_IMPERIAL_UNIQUE",
+        "event": "STOREEVENT_FED_AUTO"
+      },
+      {
+        "sector": "SECTOR_MILITIA_UNIQUE",
+        "event": "STOREEVENT_FED_AUTO"
+      },
+      {
+        "sector": "SECTOR_OUTCAST",
+        "event": "STOREEVENT_FED_AUTO"
+      },
+      {
+        "sector": "SECTOR_OUTCAST_UNIQUE",
+        "event": "STOREEVENT_FED_AUTO"
+      },
+      {
+        "sector": "SECTOR_REBEL",
+        "event": "STOREEVENT_FED_AUTO"
+      },
+      {
+        "sector": "SECTOR_REBEL_UNIQUE",
+        "event": "STOREEVENT_FED_AUTO"
+      },
+      {
+        "sector": "SECTOR_SEPARATIST",
+        "event": "STOREEVENT_FED_AUTO"
+      },
+      {
+        "sector": "SECTOR_SEPARATIST_UNIQUE",
+        "event": "STOREEVENT_FED_AUTO"
+      },
+      {
+        "sector": "SECTOR_UNEXPLORED_GENERIC",
+        "event": "STOREEVENT_FED_AUTO"
+      },
+      {
+        "sector": "SECTOR_UNION",
+        "event": "STOREEVENT_FED_AUTO"
+      },
+      {
+        "sector": "SECTOR_UNION_UNIQUE",
+        "event": "STOREEVENT_FED_AUTO"
+      },
+      {
+        "sector": "SECTOR_VAGABOND",
+        "event": "STOREEVENT_FED_AUTO"
+      },
+      {
+        "sector": "SECTOR_VAGABOND_UNIQUE",
+        "event": "STOREEVENT_FED_AUTO"
+      },
+      {
+        "sector": "STANDARD_SPACE",
+        "event": "STOREEVENT_FED_AUTO"
+      }
+    ]
   },
   {
     "droneBlueprint": {
@@ -349,7 +493,125 @@
       "iconImage": "defense",
       "rarity": "3",
       "_id": "DEFENSE_2"
-    }
+    },
+    "sources": [
+      {
+        "sector": "SECRET_ESTATE",
+        "event": "STOREEVENT_FED_AUTO"
+      },
+      {
+        "sector": "SECRET_JERRY",
+        "event": "STOREEVENT_FED_AUTO"
+      },
+      {
+        "sector": "SECTOR_AUTO",
+        "event": "STOREEVENT_FED_AUTO"
+      },
+      {
+        "sector": "SECTOR_AUTO_UNIQUE",
+        "event": "STOREEVENT_FED_AUTO"
+      },
+      {
+        "sector": "SECTOR_DUSKBRINGER",
+        "event": "STOREEVENT_FED_AUTO"
+      },
+      {
+        "sector": "SECTOR_DUSKBRINGER_UNIQUE",
+        "event": "STOREEVENT_FED_AUTO"
+      },
+      {
+        "sector": "SECTOR_DYNASTY",
+        "event": "STOREEVENT_FED_AUTO"
+      },
+      {
+        "sector": "SECTOR_DYNASTY_UNIQUE",
+        "event": "STOREEVENT_FED_AUTO"
+      },
+      {
+        "sector": "SECTOR_FEDERATION",
+        "event": "STOREEVENT_FED_AUTO"
+      },
+      {
+        "sector": "SECTOR_FEDERATION_UNIQUE",
+        "event": "STOREEVENT_FED_AUTO"
+      },
+      {
+        "sector": "SECTOR_FREEMANTIS",
+        "event": "STOREEVENT_FED_AUTO"
+      },
+      {
+        "sector": "SECTOR_FREEMANTIS_UNIQUE",
+        "event": "STOREEVENT_FED_AUTO"
+      },
+      {
+        "sector": "SECTOR_HARMONY",
+        "event": "STOREEVENT_FED_AUTO"
+      },
+      {
+        "sector": "SECTOR_HARMONY_UNIQUE",
+        "event": "STOREEVENT_FED_AUTO"
+      },
+      {
+        "sector": "SECTOR_IMPERIAL",
+        "event": "STOREEVENT_FED_AUTO"
+      },
+      {
+        "sector": "SECTOR_IMPERIAL_UNIQUE",
+        "event": "STOREEVENT_FED_AUTO"
+      },
+      {
+        "sector": "SECTOR_MILITIA_UNIQUE",
+        "event": "STOREEVENT_FED_AUTO"
+      },
+      {
+        "sector": "SECTOR_OUTCAST",
+        "event": "STOREEVENT_FED_AUTO"
+      },
+      {
+        "sector": "SECTOR_OUTCAST_UNIQUE",
+        "event": "STOREEVENT_FED_AUTO"
+      },
+      {
+        "sector": "SECTOR_REBEL",
+        "event": "STOREEVENT_FED_AUTO"
+      },
+      {
+        "sector": "SECTOR_REBEL_UNIQUE",
+        "event": "STOREEVENT_FED_AUTO"
+      },
+      {
+        "sector": "SECTOR_SEPARATIST",
+        "event": "STOREEVENT_FED_AUTO"
+      },
+      {
+        "sector": "SECTOR_SEPARATIST_UNIQUE",
+        "event": "STOREEVENT_FED_AUTO"
+      },
+      {
+        "sector": "SECTOR_UNEXPLORED_GENERIC",
+        "event": "STOREEVENT_FED_AUTO"
+      },
+      {
+        "sector": "SECTOR_UNION",
+        "event": "STOREEVENT_FED_AUTO"
+      },
+      {
+        "sector": "SECTOR_UNION_UNIQUE",
+        "event": "STOREEVENT_FED_AUTO"
+      },
+      {
+        "sector": "SECTOR_VAGABOND",
+        "event": "STOREEVENT_FED_AUTO"
+      },
+      {
+        "sector": "SECTOR_VAGABOND_UNIQUE",
+        "event": "STOREEVENT_FED_AUTO"
+      },
+      {
+        "sector": "STANDARD_SPACE",
+        "event": "STOREEVENT_FED_AUTO"
+      }
+    ]
   },
   {
     "droneBlueprint": {
@@ -372,7 +634,8 @@
       "iconImage": "defense",
       "rarity": "5",
       "_id": "DEFENSE_3"
-    }
+    },
+    "sources": []
   },
   {
     "droneBlueprint": {
@@ -395,7 +658,8 @@
       "iconImage": "defense",
       "rarity": "0",
       "_id": "DEFENSE_3_PLAYER_PLAYER"
-    }
+    },
+    "sources": []
   },
   {
     "droneBlueprint": {
@@ -418,7 +682,8 @@
       "iconImage": "defense",
       "rarity": "0",
       "_id": "DEFENSE_1_ENEMY"
-    }
+    },
+    "sources": []
   },
   {
     "droneBlueprint": {
@@ -441,7 +706,8 @@
       "iconImage": "defense",
       "rarity": "0",
       "_id": "DEFENSE_2_ENEMY"
-    }
+    },
+    "sources": []
   },
   {
     "droneBlueprint": {
@@ -464,7 +730,8 @@
       "iconImage": "defense",
       "rarity": "0",
       "_id": "DEFENSE_3_ENEMY"
-    }
+    },
+    "sources": []
   },
   {
     "droneBlueprint": {
@@ -486,7 +753,125 @@
       "iconImage": "defense",
       "rarity": "2",
       "_id": "GUARDIAN_1_MISSILE"
-    }
+    },
+    "sources": [
+      {
+        "sector": "SECRET_ESTATE",
+        "event": "STOREEVENT_FED_AUTO"
+      },
+      {
+        "sector": "SECRET_JERRY",
+        "event": "STOREEVENT_FED_AUTO"
+      },
+      {
+        "sector": "SECTOR_AUTO",
+        "event": "STOREEVENT_FED_AUTO"
+      },
+      {
+        "sector": "SECTOR_AUTO_UNIQUE",
+        "event": "STOREEVENT_FED_AUTO"
+      },
+      {
+        "sector": "SECTOR_DUSKBRINGER",
+        "event": "STOREEVENT_FED_AUTO"
+      },
+      {
+        "sector": "SECTOR_DUSKBRINGER_UNIQUE",
+        "event": "STOREEVENT_FED_AUTO"
+      },
+      {
+        "sector": "SECTOR_DYNASTY",
+        "event": "STOREEVENT_FED_AUTO"
+      },
+      {
+        "sector": "SECTOR_DYNASTY_UNIQUE",
+        "event": "STOREEVENT_FED_AUTO"
+      },
+      {
+        "sector": "SECTOR_FEDERATION",
+        "event": "STOREEVENT_FED_AUTO"
+      },
+      {
+        "sector": "SECTOR_FEDERATION_UNIQUE",
+        "event": "STOREEVENT_FED_AUTO"
+      },
+      {
+        "sector": "SECTOR_FREEMANTIS",
+        "event": "STOREEVENT_FED_AUTO"
+      },
+      {
+        "sector": "SECTOR_FREEMANTIS_UNIQUE",
+        "event": "STOREEVENT_FED_AUTO"
+      },
+      {
+        "sector": "SECTOR_HARMONY",
+        "event": "STOREEVENT_FED_AUTO"
+      },
+      {
+        "sector": "SECTOR_HARMONY_UNIQUE",
+        "event": "STOREEVENT_FED_AUTO"
+      },
+      {
+        "sector": "SECTOR_IMPERIAL",
+        "event": "STOREEVENT_FED_AUTO"
+      },
+      {
+        "sector": "SECTOR_IMPERIAL_UNIQUE",
+        "event": "STOREEVENT_FED_AUTO"
+      },
+      {
+        "sector": "SECTOR_MILITIA_UNIQUE",
+        "event": "STOREEVENT_FED_AUTO"
+      },
+      {
+        "sector": "SECTOR_OUTCAST",
+        "event": "STOREEVENT_FED_AUTO"
+      },
+      {
+        "sector": "SECTOR_OUTCAST_UNIQUE",
+        "event": "STOREEVENT_FED_AUTO"
+      },
+      {
+        "sector": "SECTOR_REBEL",
+        "event": "STOREEVENT_FED_AUTO"
+      },
+      {
+        "sector": "SECTOR_REBEL_UNIQUE",
+        "event": "STOREEVENT_FED_AUTO"
+      },
+      {
+        "sector": "SECTOR_SEPARATIST",
+        "event": "STOREEVENT_FED_AUTO"
+      },
+      {
+        "sector": "SECTOR_SEPARATIST_UNIQUE",
+        "event": "STOREEVENT_FED_AUTO"
+      },
+      {
+        "sector": "SECTOR_UNEXPLORED_GENERIC",
+        "event": "STOREEVENT_FED_AUTO"
+      },
+      {
+        "sector": "SECTOR_UNION",
+        "event": "STOREEVENT_FED_AUTO"
+      },
+      {
+        "sector": "SECTOR_UNION_UNIQUE",
+        "event": "STOREEVENT_FED_AUTO"
+      },
+      {
+        "sector": "SECTOR_VAGABOND",
+        "event": "STOREEVENT_FED_AUTO"
+      },
+      {
+        "sector": "SECTOR_VAGABOND_UNIQUE",
+        "event": "STOREEVENT_FED_AUTO"
+      },
+      {
+        "sector": "STANDARD_SPACE",
+        "event": "STOREEVENT_FED_AUTO"
+      }
+    ]
   },
   {
     "droneBlueprint": {
@@ -509,7 +894,8 @@
       "iconImage": "defense",
       "rarity": "0",
       "_id": "GUARDIAN_1_DRONE"
-    }
+    },
+    "sources": []
   },
   {
     "droneBlueprint": {
@@ -531,7 +917,8 @@
       "iconImage": "defense",
       "rarity": "3",
       "_id": "GUARDIAN_2_MISSILE"
-    }
+    },
+    "sources": []
   },
   {
     "droneBlueprint": {
@@ -554,7 +941,8 @@
       "iconImage": "defense",
       "rarity": "0",
       "_id": "GUARDIAN_2_DRONE"
-    }
+    },
+    "sources": []
   },
   {
     "droneBlueprint": {
@@ -575,7 +963,8 @@
       "rarity": "1",
       "iconImage": "combat",
       "_id": "COMBAT_1_LASER"
-    }
+    },
+    "sources": []
   },
   {
     "droneBlueprint": {
@@ -596,7 +985,8 @@
       "rarity": "0",
       "iconImage": "combat",
       "_id": "COMBAT_1_BEAM"
-    }
+    },
+    "sources": []
   },
   {
     "droneBlueprint": {
@@ -617,7 +1007,8 @@
       "rarity": "4",
       "iconImage": "combat",
       "_id": "COMBAT_2_LASER"
-    }
+    },
+    "sources": []
   },
   {
     "droneBlueprint": {
@@ -638,7 +1029,8 @@
       "rarity": "0",
       "iconImage": "combat",
       "_id": "COMBAT_2_BEAM"
-    }
+    },
+    "sources": []
   },
   {
     "droneBlueprint": {
@@ -659,7 +1051,8 @@
       "rarity": "3",
       "iconImage": "combat",
       "_id": "COMBAT_CONSERVATIVE_LASER"
-    }
+    },
+    "sources": []
   },
   {
     "droneBlueprint": {
@@ -680,7 +1073,8 @@
       "rarity": "0",
       "iconImage": "combat",
       "_id": "COMBAT_CONSERVATIVE_BEAM"
-    }
+    },
+    "sources": []
   },
   {
     "droneBlueprint": {
@@ -701,7 +1095,61 @@
       "rarity": "3",
       "iconImage": "combat",
       "_id": "ASSAULT_PARTICLE"
-    }
+    },
+    "sources": [
+      {
+        "sector": "SECRET_AUGMENTED",
+        "event": "STOREEVENT_SEPARATIST_UNLOADING"
+      },
+      {
+        "sector": "SECRET_ESTATE",
+        "event": "STOREEVENT_SEPARATIST_UNLOADING"
+      },
+      {
+        "sector": "SECTOR_ABANDONED_GENERIC",
+        "event": "STOREEVENT_SEPARATIST_UNLOADING"
+      },
+      {
+        "sector": "SECTOR_ASTEROID_GENERIC",
+        "event": "STOREEVENT_SEPARATIST_UNLOADING"
+      },
+      {
+        "sector": "SECTOR_AUTO",
+        "event": "STOREEVENT_SEPARATIST_UNLOADING"
+      },
+      {
+        "sector": "SECTOR_AUTO_UNIQUE",
+        "event": "STOREEVENT_SEPARATIST_UNLOADING"
+      },
+      {
+        "sector": "SECTOR_OUTCAST",
+        "event": "STOREEVENT_SEPARATIST_UNLOADING"
+      },
+      {
+        "sector": "SECTOR_OUTCAST_UNIQUE",
+        "event": "STOREEVENT_SEPARATIST_UNLOADING"
+      },
+      {
+        "sector": "SECTOR_PIRATE",
+        "event": "STOREEVENT_SEPARATIST_UNLOADING"
+      },
+      {
+        "sector": "SECTOR_PIRATE_UNIQUE",
+        "event": "STOREEVENT_SEPARATIST_UNLOADING"
+      },
+      {
+        "sector": "SECTOR_SEPARATIST",
+        "event": "STOREEVENT_SEPARATIST_UNLOADING"
+      },
+      {
+        "sector": "SECTOR_SEPARATIST_UNIQUE",
+        "event": "STOREEVENT_SEPARATIST_UNLOADING"
+      },
+      {
+        "sector": "SECTOR_UNEXPLORED_GENERIC",
+        "event": "STOREEVENT_SEPARATIST_UNLOADING"
+      }
+    ]
   },
   {
     "droneBlueprint": {
@@ -722,7 +1170,8 @@
       "rarity": "0",
       "iconImage": "combat",
       "_id": "ASSAULT_PIERCE"
-    }
+    },
+    "sources": []
   },
   {
     "droneBlueprint": {
@@ -743,7 +1192,8 @@
       "rarity": "4",
       "iconImage": "combat",
       "_id": "HELLRAISER_FIRE"
-    }
+    },
+    "sources": []
   },
   {
     "droneBlueprint": {
@@ -764,7 +1214,8 @@
       "rarity": "0",
       "iconImage": "combat",
       "_id": "HELLRAISER_HULL"
-    }
+    },
+    "sources": []
   },
   {
     "droneBlueprint": {
@@ -785,7 +1236,21 @@
       "rarity": "0",
       "iconImage": "combat",
       "_id": "HELLRAISER_FIRE_PLAYER"
-    }
+    },
+    "sources": [
+      {
+        "sector": "SECTOR_PIRATE",
+        "event": "SMUGGLER_PLAYER_WEPS"
+      },
+      {
+        "sector": "SECTOR_PIRATE_HEKTAR",
+        "event": "SMUGGLER_PLAYER_WEPS"
+      },
+      {
+        "sector": "SECTOR_PIRATE_UNIQUE",
+        "event": "SMUGGLER_PLAYER_WEPS"
+      }
+    ]
   },
   {
     "droneBlueprint": {
@@ -806,7 +1271,8 @@
       "rarity": "0",
       "iconImage": "combat",
       "_id": "HELLRAISER_HULL_PLAYER"
-    }
+    },
+    "sources": []
   },
   {
     "droneBlueprint": {
@@ -827,7 +1293,13 @@
       "rarity": "4",
       "iconImage": "combat",
       "_id": "PEST_RAD"
-    }
+    },
+    "sources": [
+      {
+        "sector": "SECRET_AUGMENTED",
+        "event": "STOREEVENT_SEPARATIST_UNLOADING"
+      }
+    ]
   },
   {
     "droneBlueprint": {
@@ -848,7 +1320,8 @@
       "rarity": "0",
       "iconImage": "combat",
       "_id": "PEST_DEBUFF"
-    }
+    },
+    "sources": []
   },
   {
     "droneBlueprint": {
@@ -869,7 +1342,8 @@
       "rarity": "0",
       "iconImage": "combat",
       "_id": "PEST_RAD_ENEMY"
-    }
+    },
+    "sources": []
   },
   {
     "droneBlueprint": {
@@ -890,7 +1364,8 @@
       "rarity": "0",
       "iconImage": "combat",
       "_id": "PEST_DEBUFF_ENEMY"
-    }
+    },
+    "sources": []
   },
   {
     "droneBlueprint": {
@@ -911,7 +1386,41 @@
       "rarity": "3",
       "iconImage": "combat",
       "_id": "ION_1_AMP2"
-    }
+    },
+    "sources": [
+      {
+        "sector": "SECRET_ESTATE",
+        "event": "STOREEVENT_REBEL_ENGINEER"
+      },
+      {
+        "sector": "SECRET_JERRY",
+        "event": "STOREEVENT_REBEL_ENGINEER"
+      },
+      {
+        "sector": "SECTOR_ABANDONED_GENERIC",
+        "event": "STOREEVENT_REBEL_ENGINEER"
+      },
+      {
+        "sector": "SECTOR_AUTO",
+        "event": "STOREEVENT_REBEL_ENGINEER"
+      },
+      {
+        "sector": "SECTOR_AUTO_UNIQUE",
+        "event": "STOREEVENT_REBEL_ENGINEER"
+      },
+      {
+        "sector": "SECTOR_LOSTSUN_UNIQUE",
+        "event": "STOREEVENT_REBEL_ENGINEER"
+      },
+      {
+        "sector": "SECTOR_REBEL",
+        "event": "STOREEVENT_REBEL_ENGINEER"
+      },
+      {
+        "sector": "SECTOR_REBEL_UNIQUE",
+        "event": "STOREEVENT_REBEL_ENGINEER"
+      }
+    ]
   },
   {
     "droneBlueprint": {
@@ -932,7 +1441,8 @@
       "rarity": "0",
       "iconImage": "combat",
       "_id": "ION_1_AMP2_ENEMY"
-    }
+    },
+    "sources": []
   },
   {
     "droneBlueprint": {
@@ -953,7 +1463,8 @@
       "rarity": "0",
       "iconImage": "combat",
       "_id": "ION_1_AMP3"
-    }
+    },
+    "sources": []
   },
   {
     "droneBlueprint": {
@@ -974,7 +1485,8 @@
       "rarity": "0",
       "iconImage": "combat",
       "_id": "ION_1_AMP3_ENEMY"
-    }
+    },
+    "sources": []
   },
   {
     "droneBlueprint": {
@@ -995,7 +1507,8 @@
       "rarity": "0",
       "iconImage": "combat",
       "_id": "ION_1_AMP4"
-    }
+    },
+    "sources": []
   },
   {
     "droneBlueprint": {
@@ -1016,7 +1529,41 @@
       "rarity": "4",
       "iconImage": "combat",
       "_id": "ENERGY_1_AMP2"
-    }
+    },
+    "sources": [
+      {
+        "sector": "SECRET_ESTATE",
+        "event": "STOREEVENT_REBEL_ENGINEER"
+      },
+      {
+        "sector": "SECRET_JERRY",
+        "event": "STOREEVENT_REBEL_ENGINEER"
+      },
+      {
+        "sector": "SECTOR_ABANDONED_GENERIC",
+        "event": "STOREEVENT_REBEL_ENGINEER"
+      },
+      {
+        "sector": "SECTOR_AUTO",
+        "event": "STOREEVENT_REBEL_ENGINEER"
+      },
+      {
+        "sector": "SECTOR_AUTO_UNIQUE",
+        "event": "STOREEVENT_REBEL_ENGINEER"
+      },
+      {
+        "sector": "SECTOR_LOSTSUN_UNIQUE",
+        "event": "STOREEVENT_REBEL_ENGINEER"
+      },
+      {
+        "sector": "SECTOR_REBEL",
+        "event": "STOREEVENT_REBEL_ENGINEER"
+      },
+      {
+        "sector": "SECTOR_REBEL_UNIQUE",
+        "event": "STOREEVENT_REBEL_ENGINEER"
+      }
+    ]
   },
   {
     "droneBlueprint": {
@@ -1037,7 +1584,8 @@
       "rarity": "0",
       "iconImage": "combat",
       "_id": "ENERGY_1_AMP2_ENEMY"
-    }
+    },
+    "sources": []
   },
   {
     "droneBlueprint": {
@@ -1058,7 +1606,8 @@
       "rarity": "0",
       "iconImage": "combat",
       "_id": "ENERGY_1_AMP3"
-    }
+    },
+    "sources": []
   },
   {
     "droneBlueprint": {
@@ -1079,7 +1628,8 @@
       "rarity": "0",
       "iconImage": "combat",
       "_id": "ENERGY_1_AMP3_ENEMY"
-    }
+    },
+    "sources": []
   },
   {
     "droneBlueprint": {
@@ -1100,7 +1650,8 @@
       "rarity": "0",
       "iconImage": "combat",
       "_id": "ENERGY_1_AMP4"
-    }
+    },
+    "sources": []
   },
   {
     "droneBlueprint": {
@@ -1121,7 +1672,41 @@
       "rarity": "3",
       "iconImage": "combat",
       "_id": "FOCUS_1_AMP2"
-    }
+    },
+    "sources": [
+      {
+        "sector": "SECRET_ESTATE",
+        "event": "STOREEVENT_REBEL_ENGINEER"
+      },
+      {
+        "sector": "SECRET_JERRY",
+        "event": "STOREEVENT_REBEL_ENGINEER"
+      },
+      {
+        "sector": "SECTOR_ABANDONED_GENERIC",
+        "event": "STOREEVENT_REBEL_ENGINEER"
+      },
+      {
+        "sector": "SECTOR_AUTO",
+        "event": "STOREEVENT_REBEL_ENGINEER"
+      },
+      {
+        "sector": "SECTOR_AUTO_UNIQUE",
+        "event": "STOREEVENT_REBEL_ENGINEER"
+      },
+      {
+        "sector": "SECTOR_LOSTSUN_UNIQUE",
+        "event": "STOREEVENT_REBEL_ENGINEER"
+      },
+      {
+        "sector": "SECTOR_REBEL",
+        "event": "STOREEVENT_REBEL_ENGINEER"
+      },
+      {
+        "sector": "SECTOR_REBEL_UNIQUE",
+        "event": "STOREEVENT_REBEL_ENGINEER"
+      }
+    ]
   },
   {
     "droneBlueprint": {
@@ -1142,7 +1727,8 @@
       "rarity": "0",
       "iconImage": "combat",
       "_id": "FOCUS_1_AMP3"
-    }
+    },
+    "sources": []
   },
   {
     "droneBlueprint": {
@@ -1163,7 +1749,8 @@
       "rarity": "0",
       "iconImage": "combat",
       "_id": "FOCUS_1_AMP4"
-    }
+    },
+    "sources": []
   },
   {
     "droneBlueprint": {
@@ -1184,7 +1771,8 @@
       "rarity": "3",
       "iconImage": "combat",
       "_id": "FLAK_1_AMP2"
-    }
+    },
+    "sources": []
   },
   {
     "droneBlueprint": {
@@ -1205,7 +1793,17 @@
       "rarity": "0",
       "iconImage": "combat",
       "_id": "FLAK_1_AMP3"
-    }
+    },
+    "sources": [
+      {
+        "sector": "SECTOR_UNION",
+        "event": "UNION_LANIUS_SOLVED_NO_TRANSLATOR"
+      },
+      {
+        "sector": "SECTOR_UNION_UNIQUE",
+        "event": "UNION_LANIUS_SOLVED_NO_TRANSLATOR"
+      }
+    ]
   },
   {
     "droneBlueprint": {
@@ -1226,7 +1824,8 @@
       "rarity": "0",
       "iconImage": "combat",
       "_id": "FLAK_1_AMP4"
-    }
+    },
+    "sources": []
   },
   {
     "droneBlueprint": {
@@ -1242,7 +1841,93 @@
       "rarity": "1",
       "iconImage": "repair",
       "_id": "REPAIR"
-    }
+    },
+    "sources": [
+      {
+        "sector": "SECRET_AUGMENTED",
+        "event": "STOREEVENT_SEPARATIST_UNLOADING"
+      },
+      {
+        "sector": "SECRET_ESTATE",
+        "event": "STOREEVENT_SEPARATIST_UNLOADING"
+      },
+      {
+        "sector": "SECRET_JERRY",
+        "event": "STOREEVENT_REBEL_ENGINEER"
+      },
+      {
+        "sector": "SECTOR_ABANDONED_GENERIC",
+        "event": "STOREEVENT_SEPARATIST_UNLOADING"
+      },
+      {
+        "sector": "SECTOR_ASTEROID_GENERIC",
+        "event": "STOREEVENT_SEPARATIST_UNLOADING"
+      },
+      {
+        "sector": "SECTOR_AUTO",
+        "event": "DISTRESS_AUTO_TRASH"
+      },
+      {
+        "sector": "SECTOR_AUTO_UNIQUE",
+        "event": "DISTRESS_AUTO_TRASH"
+      },
+      {
+        "sector": "SECTOR_FREEMANTIS",
+        "event": "STOREEVENT_SEPARATIST_UNLOADING"
+      },
+      {
+        "sector": "SECTOR_FREEMANTIS_UNIQUE",
+        "event": "STOREEVENT_SEPARATIST_UNLOADING"
+      },
+      {
+        "sector": "SECTOR_HARMONY",
+        "event": "STOREEVENT_SEPARATIST_UNLOADING"
+      },
+      {
+        "sector": "SECTOR_HARMONY_UNIQUE",
+        "event": "STOREEVENT_SEPARATIST_UNLOADING"
+      },
+      {
+        "sector": "SECTOR_LOSTSUN_UNIQUE",
+        "event": "STOREEVENT_REBEL_ENGINEER"
+      },
+      {
+        "sector": "SECTOR_OUTCAST",
+        "event": "STOREEVENT_SEPARATIST_UNLOADING"
+      },
+      {
+        "sector": "SECTOR_OUTCAST_UNIQUE",
+        "event": "STOREEVENT_SEPARATIST_UNLOADING"
+      },
+      {
+        "sector": "SECTOR_PIRATE",
+        "event": "STOREEVENT_SEPARATIST_UNLOADING"
+      },
+      {
+        "sector": "SECTOR_PIRATE_UNIQUE",
+        "event": "STOREEVENT_SEPARATIST_UNLOADING"
+      },
+      {
+        "sector": "SECTOR_REBEL",
+        "event": "STOREEVENT_REBEL_ENGINEER"
+      },
+      {
+        "sector": "SECTOR_REBEL_UNIQUE",
+        "event": "REMOTE_COLONY_MENU"
+      },
+      {
+        "sector": "SECTOR_SEPARATIST",
+        "event": "STOREEVENT_SEPARATIST_UNLOADING"
+      },
+      {
+        "sector": "SECTOR_SEPARATIST_UNIQUE",
+        "event": "STOREEVENT_SEPARATIST_UNLOADING"
+      },
+      {
+        "sector": "SECTOR_UNEXPLORED_GENERIC",
+        "event": "STOREEVENT_SEPARATIST_UNLOADING"
+      }
+    ]
   },
   {
     "droneBlueprint": {
@@ -1259,7 +1944,41 @@
       "rarity": "0",
       "iconImage": "battle",
       "_id": "RECON_DEFENSE"
-    }
+    },
+    "sources": [
+      {
+        "sector": "SECRET_ESTATE",
+        "event": "STOREEVENT_REBEL_ENGINEER"
+      },
+      {
+        "sector": "SECRET_JERRY",
+        "event": "STOREEVENT_REBEL_ENGINEER"
+      },
+      {
+        "sector": "SECTOR_ABANDONED_GENERIC",
+        "event": "STOREEVENT_REBEL_ENGINEER"
+      },
+      {
+        "sector": "SECTOR_AUTO",
+        "event": "STOREEVENT_REBEL_ENGINEER"
+      },
+      {
+        "sector": "SECTOR_AUTO_UNIQUE",
+        "event": "STOREEVENT_REBEL_ENGINEER"
+      },
+      {
+        "sector": "SECTOR_LOSTSUN_UNIQUE",
+        "event": "STOREEVENT_REBEL_ENGINEER"
+      },
+      {
+        "sector": "SECTOR_REBEL",
+        "event": "STOREEVENT_REBEL_ENGINEER"
+      },
+      {
+        "sector": "SECTOR_REBEL_UNIQUE",
+        "event": "STOREEVENT_REBEL_ENGINEER"
+      }
+    ]
   },
   {
     "droneBlueprint": {
@@ -1277,7 +1996,8 @@
       "rarity": "3",
       "iconImage": "battle",
       "_id": "RECON_BOARDER"
-    }
+    },
+    "sources": []
   },
   {
     "droneBlueprint": {
@@ -1294,7 +2014,93 @@
       "rarity": "2",
       "iconImage": "battle",
       "_id": "BATTLETOG_DEFEND"
-    }
+    },
+    "sources": [
+      {
+        "sector": "SECRET_AUGMENTED",
+        "event": "STOREEVENT_SEPARATIST_UNLOADING"
+      },
+      {
+        "sector": "SECRET_ESTATE",
+        "event": "STOREEVENT_SEPARATIST_UNLOADING"
+      },
+      {
+        "sector": "SECRET_JERRY",
+        "event": "STOREEVENT_REBEL_ENGINEER"
+      },
+      {
+        "sector": "SECTOR_ABANDONED_GENERIC",
+        "event": "STOREEVENT_SEPARATIST_UNLOADING"
+      },
+      {
+        "sector": "SECTOR_ASTEROID_GENERIC",
+        "event": "STOREEVENT_SEPARATIST_UNLOADING"
+      },
+      {
+        "sector": "SECTOR_AUTO",
+        "event": "STOREEVENT_SEPARATIST_UNLOADING"
+      },
+      {
+        "sector": "SECTOR_AUTO_UNIQUE",
+        "event": "STOREEVENT_SEPARATIST_UNLOADING"
+      },
+      {
+        "sector": "SECTOR_FREEMANTIS",
+        "event": "STOREEVENT_SEPARATIST_UNLOADING"
+      },
+      {
+        "sector": "SECTOR_FREEMANTIS_UNIQUE",
+        "event": "STOREEVENT_SEPARATIST_UNLOADING"
+      },
+      {
+        "sector": "SECTOR_HARMONY",
+        "event": "STOREEVENT_SEPARATIST_UNLOADING"
+      },
+      {
+        "sector": "SECTOR_HARMONY_UNIQUE",
+        "event": "STOREEVENT_SEPARATIST_UNLOADING"
+      },
+      {
+        "sector": "SECTOR_LOSTSUN_UNIQUE",
+        "event": "STOREEVENT_REBEL_ENGINEER"
+      },
+      {
+        "sector": "SECTOR_OUTCAST",
+        "event": "STOREEVENT_SEPARATIST_UNLOADING"
+      },
+      {
+        "sector": "SECTOR_OUTCAST_UNIQUE",
+        "event": "STOREEVENT_SEPARATIST_UNLOADING"
+      },
+      {
+        "sector": "SECTOR_PIRATE",
+        "event": "STOREEVENT_SEPARATIST_UNLOADING"
+      },
+      {
+        "sector": "SECTOR_PIRATE_UNIQUE",
+        "event": "STOREEVENT_SEPARATIST_UNLOADING"
+      },
+      {
+        "sector": "SECTOR_REBEL",
+        "event": "STOREEVENT_REBEL_ENGINEER"
+      },
+      {
+        "sector": "SECTOR_REBEL_UNIQUE",
+        "event": "STOREEVENT_REBEL_ENGINEER"
+      },
+      {
+        "sector": "SECTOR_SEPARATIST",
+        "event": "STOREEVENT_SEPARATIST_UNLOADING"
+      },
+      {
+        "sector": "SECTOR_SEPARATIST_UNIQUE",
+        "event": "STOREEVENT_SEPARATIST_UNLOADING"
+      },
+      {
+        "sector": "SECTOR_UNEXPLORED_GENERIC",
+        "event": "STOREEVENT_SEPARATIST_UNLOADING"
+      }
+    ]
   },
   {
     "droneBlueprint": {
@@ -1311,7 +2117,8 @@
       "rarity": "0",
       "iconImage": "boarder",
       "_id": "BATTLETOG_BOARDER"
-    }
+    },
+    "sources": []
   },
   {
     "droneBlueprint": {
@@ -1328,7 +2135,8 @@
       "rarity": "3",
       "iconImage": "battle",
       "_id": "BATTLETOG2_DEFEND"
-    }
+    },
+    "sources": []
   },
   {
     "droneBlueprint": {
@@ -1345,7 +2153,8 @@
       "rarity": "0",
       "iconImage": "boarder",
       "_id": "BATTLETOG2_BOARDER"
-    }
+    },
+    "sources": []
   },
   {
     "droneBlueprint": {
@@ -1362,7 +2171,8 @@
       "rarity": "0",
       "iconImage": "boarder",
       "_id": "BATTLETOG2_BOARDER_SYLVAN"
-    }
+    },
+    "sources": []
   },
   {
     "droneBlueprint": {
@@ -1379,7 +2189,45 @@
       "rarity": "3",
       "iconImage": "battle",
       "_id": "DOCTOR_DEFENSE"
-    }
+    },
+    "sources": [
+      {
+        "sector": "SECRET_ESTATE",
+        "event": "STOREEVENT_REBEL_ENGINEER"
+      },
+      {
+        "sector": "SECRET_JERRY",
+        "event": "JERRY_DEPOT_RAID"
+      },
+      {
+        "sector": "SECTOR_ABANDONED_GENERIC",
+        "event": "STOREEVENT_REBEL_ENGINEER"
+      },
+      {
+        "sector": "SECTOR_AUTO",
+        "event": "STOREEVENT_REBEL_ENGINEER"
+      },
+      {
+        "sector": "SECTOR_AUTO_UNIQUE",
+        "event": "STOREEVENT_REBEL_ENGINEER"
+      },
+      {
+        "sector": "SECTOR_LOSTSUN_UNIQUE",
+        "event": "STOREEVENT_REBEL_ENGINEER"
+      },
+      {
+        "sector": "SECTOR_MORPH_UNIQUE",
+        "event": "SHIP_AUTO_MORPH_AUTOSCIENCECHOICE.destroyed"
+      },
+      {
+        "sector": "SECTOR_REBEL",
+        "event": "STOREEVENT_REBEL_ENGINEER"
+      },
+      {
+        "sector": "SECTOR_REBEL_UNIQUE",
+        "event": "REMOTE_COLONY_MENU"
+      }
+    ]
   },
   {
     "droneBlueprint": {
@@ -1397,7 +2245,8 @@
       "rarity": "0",
       "iconImage": "battle",
       "_id": "DOCTOR_BOARDER"
-    }
+    },
+    "sources": []
   },
   {
     "droneBlueprint": {
@@ -1414,7 +2263,49 @@
       "rarity": "2",
       "iconImage": "battle",
       "_id": "MANNING"
-    }
+    },
+    "sources": [
+      {
+        "sector": "SECRET_ESTATE",
+        "event": "STOREEVENT_REBEL_ENGINEER"
+      },
+      {
+        "sector": "SECRET_JERRY",
+        "event": "STOREEVENT_REBEL_ENGINEER"
+      },
+      {
+        "sector": "SECTOR_ABANDONED_GENERIC",
+        "event": "STOREEVENT_REBEL_ENGINEER"
+      },
+      {
+        "sector": "SECTOR_AUTO",
+        "event": "STOREEVENT_REBEL_ENGINEER"
+      },
+      {
+        "sector": "SECTOR_AUTO_UNIQUE",
+        "event": "STOREEVENT_REBEL_ENGINEER"
+      },
+      {
+        "sector": "SECTOR_GATHERING",
+        "event": "STOREEVENT_ORCHID_FARM"
+      },
+      {
+        "sector": "SECTOR_GATHERING_UNIQUE",
+        "event": "STOREEVENT_ORCHID_FARM"
+      },
+      {
+        "sector": "SECTOR_LOSTSUN_UNIQUE",
+        "event": "STOREEVENT_REBEL_ENGINEER"
+      },
+      {
+        "sector": "SECTOR_REBEL",
+        "event": "STOREEVENT_REBEL_ENGINEER"
+      },
+      {
+        "sector": "SECTOR_REBEL_UNIQUE",
+        "event": "STOREEVENT_REBEL_ENGINEER"
+      }
+    ]
   },
   {
     "droneBlueprint": {
@@ -1431,7 +2322,8 @@
       "rarity": "0",
       "iconImage": "battle",
       "_id": "MANNING_ENEMY"
-    }
+    },
+    "sources": []
   },
   {
     "droneBlueprint": {
@@ -1452,7 +2344,13 @@
       "rarity": "0",
       "iconImage": "combat",
       "_id": "AMPHI_COMBAT"
-    }
+    },
+    "sources": [
+      {
+        "sector": "SECRET_AUGMENTED",
+        "event": "STOREEVENT_AUGMENTED_GRUDGE"
+      }
+    ]
   },
   {
     "droneBlueprint": {
@@ -1474,7 +2372,61 @@
       "iconImage": "defense",
       "rarity": "3",
       "_id": "AMPHI_DEFENSE"
-    }
+    },
+    "sources": [
+      {
+        "sector": "SECRET_AUGMENTED",
+        "event": "STOREEVENT_SEPARATIST_UNLOADING"
+      },
+      {
+        "sector": "SECRET_ESTATE",
+        "event": "STOREEVENT_SEPARATIST_UNLOADING"
+      },
+      {
+        "sector": "SECTOR_ABANDONED_GENERIC",
+        "event": "STOREEVENT_SEPARATIST_UNLOADING"
+      },
+      {
+        "sector": "SECTOR_ASTEROID_GENERIC",
+        "event": "STOREEVENT_SEPARATIST_UNLOADING"
+      },
+      {
+        "sector": "SECTOR_AUTO",
+        "event": "STOREEVENT_SEPARATIST_UNLOADING"
+      },
+      {
+        "sector": "SECTOR_AUTO_UNIQUE",
+        "event": "STOREEVENT_SEPARATIST_UNLOADING"
+      },
+      {
+        "sector": "SECTOR_OUTCAST",
+        "event": "STOREEVENT_SEPARATIST_UNLOADING"
+      },
+      {
+        "sector": "SECTOR_OUTCAST_UNIQUE",
+        "event": "STOREEVENT_SEPARATIST_UNLOADING"
+      },
+      {
+        "sector": "SECTOR_PIRATE",
+        "event": "STOREEVENT_SEPARATIST_UNLOADING"
+      },
+      {
+        "sector": "SECTOR_PIRATE_UNIQUE",
+        "event": "STOREEVENT_SEPARATIST_UNLOADING"
+      },
+      {
+        "sector": "SECTOR_SEPARATIST",
+        "event": "STOREEVENT_SEPARATIST_UNLOADING"
+      },
+      {
+        "sector": "SECTOR_SEPARATIST_UNIQUE",
+        "event": "STOREEVENT_SEPARATIST_UNLOADING"
+      },
+      {
+        "sector": "SECTOR_UNEXPLORED_GENERIC",
+        "event": "STOREEVENT_SEPARATIST_UNLOADING"
+      }
+    ]
   },
   {
     "droneBlueprint": {
@@ -1492,7 +2444,8 @@
       "rarity": "0",
       "iconImage": "battle",
       "_id": "REPAIR_BOARDER"
-    }
+    },
+    "sources": []
   },
   {
     "droneBlueprint": {
@@ -1513,7 +2466,8 @@
       "rarity": "4",
       "iconImage": "Srepair",
       "_id": "SHIP_REPAIR"
-    }
+    },
+    "sources": []
   },
   {
     "droneBlueprint": {
@@ -1534,7 +2488,8 @@
       "rarity": "0",
       "iconImage": "Srepair",
       "_id": "SHIP_REPAIR_ENEMY"
-    }
+    },
+    "sources": []
   },
   {
     "droneBlueprint": {
@@ -1555,7 +2510,8 @@
       "rarity": "4",
       "iconImage": "shield",
       "_id": "DRONE_SHIELD"
-    }
+    },
+    "sources": []
   },
   {
     "droneBlueprint": {
@@ -1576,7 +2532,25 @@
       "rarity": "0",
       "iconImage": "shield",
       "_id": "DRONE_SHIELD_POWERLESS"
-    }
+    },
+    "sources": [
+      {
+        "sector": "SECTOR_MINISTRY_UNIQUE",
+        "event": "OSMIA_RAID_WIN"
+      },
+      {
+        "sector": "SECTOR_PIRATE",
+        "event": "SMUGGLER_PLAYER_WEPS"
+      },
+      {
+        "sector": "SECTOR_PIRATE_HEKTAR",
+        "event": "SMUGGLER_PLAYER_WEPS"
+      },
+      {
+        "sector": "SECTOR_PIRATE_UNIQUE",
+        "event": "SMUGGLER_PLAYER_WEPS"
+      }
+    ]
   },
   {
     "droneBlueprint": {
@@ -1593,7 +2567,8 @@
       "rarity": "0",
       "iconImage": "battle",
       "_id": "CONSTRUCTOR"
-    }
+    },
+    "sources": []
   },
   {
     "droneBlueprint": {
@@ -1610,7 +2585,8 @@
       "rarity": "0",
       "iconImage": "battle",
       "_id": "PRODUCER"
-    }
+    },
+    "sources": []
   },
   {
     "droneBlueprint": {
@@ -1627,7 +2603,8 @@
       "rarity": "0",
       "iconImage": "battle",
       "_id": "GRAZIER_BATTLE"
-    }
+    },
+    "sources": []
   },
   {
     "droneBlueprint": {
@@ -1644,7 +2621,8 @@
       "rarity": "0",
       "iconImage": "boarder",
       "_id": "GRAZIER_BOARDER"
-    }
+    },
+    "sources": []
   },
   {
     "droneBlueprint": {
@@ -1666,7 +2644,8 @@
       "iconImage": "defense",
       "rarity": "0",
       "_id": "OMNI_DRONE"
-    }
+    },
+    "sources": []
   },
   {
     "droneBlueprint": {
@@ -1683,7 +2662,13 @@
       "rarity": "0",
       "iconImage": "battle",
       "_id": "BUTLER_DEFENSE"
-    }
+    },
+    "sources": [
+      {
+        "sector": "SECTOR_KLEPTOCRACY_UNIQUE",
+        "event": "SHIP_PLEASURE_BARGE"
+      }
+    ]
   },
   {
     "droneBlueprint": {
@@ -1701,7 +2686,8 @@
       "rarity": "0",
       "iconImage": "battle",
       "_id": "BUTLER_BOARDER"
-    }
+    },
+    "sources": []
   },
   {
     "droneBlueprint": {
@@ -1717,7 +2703,17 @@
       "rarity": "0",
       "iconImage": "repair",
       "_id": "DIVREPAIR"
-    }
+    },
+    "sources": [
+      {
+        "sector": "SECRET_ORIGINS",
+        "event": "CULTIST_FAKE_WIN"
+      },
+      {
+        "sector": "SECRET_ORIGINS_RUWEN",
+        "event": "CULTIST_FAKE_WIN"
+      }
+    ]
   },
   {
     "droneBlueprint": {
@@ -1737,7 +2733,13 @@
       "weaponBlueprint": "DRONE_BEAM_COMBAT_RANDOM",
       "rarity": "0",
       "_id": "COMBAT_RANDOM"
-    }
+    },
+    "sources": [
+      {
+        "sector": "SECTOR_PIRATE_UNIQUE",
+        "event": "SMUGGLER_WONDERDRONE"
+      }
+    ]
   },
   {
     "droneBlueprint": {
@@ -1758,7 +2760,13 @@
       "rarity": "0",
       "iconImage": "combat",
       "_id": "COMBAT_ENGINEER"
-    }
+    },
+    "sources": [
+      {
+        "sector": "SECTOR_AUTO_UNIQUE",
+        "event": "AUTO_POWERCORE_SAVE"
+      }
+    ]
   },
   {
     "droneBlueprint": {
@@ -1779,7 +2787,8 @@
       "rarity": "0",
       "iconImage": "beam",
       "_id": "COMBAT_BIO_BEAM"
-    }
+    },
+    "sources": []
   },
   {
     "droneBlueprint": {
@@ -1800,7 +2809,41 @@
       "rarity": "0",
       "iconImage": "combat",
       "_id": "ANCIENT_COMBAT_LASER"
-    }
+    },
+    "sources": [
+      {
+        "sector": "SECRET_AUGMENTED",
+        "event": "SHIP_GHOST_ANCIENT.destroyed"
+      },
+      {
+        "sector": "SECTOR_HARMONY",
+        "event": "RUINS_TRAP_CONTINUE"
+      },
+      {
+        "sector": "SECTOR_HARMONY_UNIQUE",
+        "event": "RUINS_TRAP_CONTINUE"
+      },
+      {
+        "sector": "SECTOR_IMPERIAL",
+        "event": "RUINS_TRAP_CONTINUE"
+      },
+      {
+        "sector": "SECTOR_IMPERIAL_UNIQUE",
+        "event": "RUINS_TRAP_CONTINUE"
+      },
+      {
+        "sector": "SECTOR_SEPARATIST",
+        "event": "RUINS_TRAP_CONTINUE"
+      },
+      {
+        "sector": "SECTOR_SEPARATIST_UNIQUE",
+        "event": "RUINS_TRAP_CONTINUE"
+      },
+      {
+        "sector": "SECTOR_STARGROVE_UNIQUE",
+        "event": "STARGROVE_RUINS_OPEN"
+      }
+    ]
   },
   {
     "droneBlueprint": {
@@ -1821,7 +2864,8 @@
       "rarity": "0",
       "iconImage": "combat",
       "_id": "ANCIENT_COMBAT_LASER_2"
-    }
+    },
+    "sources": []
   },
   {
     "droneBlueprint": {
@@ -1842,7 +2886,8 @@
       "rarity": "0",
       "iconImage": "combat",
       "_id": "ROYAL_COMBAT_LASER_2"
-    }
+    },
+    "sources": []
   },
   {
     "droneBlueprint": {
@@ -1865,7 +2910,8 @@
       "iconImage": "defense",
       "rarity": "0",
       "_id": "ANCIENT_DEFENSE_1"
-    }
+    },
+    "sources": []
   },
   {
     "droneBlueprint": {
@@ -1888,7 +2934,8 @@
       "iconImage": "defense",
       "rarity": "0",
       "_id": "ANCIENT_DEFENSE_1_ENEMY"
-    }
+    },
+    "sources": []
   },
   {
     "droneBlueprint": {
@@ -1911,7 +2958,8 @@
       "iconImage": "defense",
       "rarity": "0",
       "_id": "ROYAL_DEFENSE_1"
-    }
+    },
+    "sources": []
   },
   {
     "droneBlueprint": {
@@ -1932,7 +2980,8 @@
       "rarity": "0",
       "iconImage": "combat",
       "_id": "ANCIENT_COMBAT_ION"
-    }
+    },
+    "sources": []
   },
   {
     "droneBlueprint": {
@@ -1953,7 +3002,8 @@
       "rarity": "0",
       "iconImage": "combat",
       "_id": "ROYAL_COMBAT_ION"
-    }
+    },
+    "sources": []
   },
   {
     "droneBlueprint": {
@@ -1974,7 +3024,8 @@
       "rarity": "0",
       "iconImage": "combat",
       "_id": "ANCIENT_COMBAT_MISSILE"
-    }
+    },
+    "sources": []
   },
   {
     "droneBlueprint": {
@@ -1995,7 +3046,8 @@
       "rarity": "0",
       "iconImage": "combat",
       "_id": "ROYAL_COMBAT_MISSILE"
-    }
+    },
+    "sources": []
   },
   {
     "droneBlueprint": {
@@ -2012,7 +3064,37 @@
       "rarity": "0",
       "iconImage": "battle",
       "_id": "MENDER"
-    }
+    },
+    "sources": [
+      {
+        "sector": "SECRET_AUGMENTED",
+        "event": "DEFEAT_RUINS_AUGMENTED"
+      },
+      {
+        "sector": "SECTOR_HARMONY",
+        "event": "RUINS_SALVAGE"
+      },
+      {
+        "sector": "SECTOR_HARMONY_UNIQUE",
+        "event": "RUINS_SALVAGE"
+      },
+      {
+        "sector": "SECTOR_IMPERIAL",
+        "event": "RUINS_SALVAGE"
+      },
+      {
+        "sector": "SECTOR_IMPERIAL_UNIQUE",
+        "event": "RUINS_SALVAGE"
+      },
+      {
+        "sector": "SECTOR_SEPARATIST",
+        "event": "RUINS_SALVAGE"
+      },
+      {
+        "sector": "SECTOR_SEPARATIST_UNIQUE",
+        "event": "RUINS_SALVAGE"
+      }
+    ]
   },
   {
     "droneBlueprint": {
@@ -2029,7 +3111,8 @@
       "rarity": "0",
       "iconImage": "battle",
       "_id": "MENDERR"
-    }
+    },
+    "sources": []
   },
   {
     "droneBlueprint": {
@@ -2046,7 +3129,37 @@
       "rarity": "0",
       "iconImage": "battle",
       "_id": "DIRECTOR"
-    }
+    },
+    "sources": [
+      {
+        "sector": "SECRET_AUGMENTED",
+        "event": "DEFEAT_RUINS_AUGMENTED"
+      },
+      {
+        "sector": "SECTOR_HARMONY",
+        "event": "RUINS_STAR_PROCEED"
+      },
+      {
+        "sector": "SECTOR_HARMONY_UNIQUE",
+        "event": "RUINS_STAR_PROCEED"
+      },
+      {
+        "sector": "SECTOR_IMPERIAL",
+        "event": "RUINS_STAR_PROCEED"
+      },
+      {
+        "sector": "SECTOR_IMPERIAL_UNIQUE",
+        "event": "RUINS_STAR_PROCEED"
+      },
+      {
+        "sector": "SECTOR_SEPARATIST",
+        "event": "RUINS_STAR_PROCEED"
+      },
+      {
+        "sector": "SECTOR_SEPARATIST_UNIQUE",
+        "event": "RUINS_STAR_PROCEED"
+      }
+    ]
   },
   {
     "droneBlueprint": {
@@ -2063,7 +3176,13 @@
       "rarity": "0",
       "iconImage": "battle",
       "_id": "ATOM_DEFEND"
-    }
+    },
+    "sources": [
+      {
+        "sector": "SECRET_AUGMENTED",
+        "event": "SHIP_ANCIENT_AUTO_PULSAR.destroyed"
+      }
+    ]
   },
   {
     "droneBlueprint": {
@@ -2080,7 +3199,8 @@
       "rarity": "0",
       "iconImage": "boarder",
       "_id": "ATOM_BOARDER"
-    }
+    },
+    "sources": []
   },
   {
     "droneBlueprint": {
@@ -2097,7 +3217,8 @@
       "rarity": "0",
       "iconImage": "battle",
       "_id": "ATOMR_DEFEND"
-    }
+    },
+    "sources": []
   },
   {
     "droneBlueprint": {
@@ -2114,7 +3235,8 @@
       "rarity": "0",
       "iconImage": "boarder",
       "_id": "ATOMR_BOARDER"
-    }
+    },
+    "sources": []
   },
   {
     "droneBlueprint": {
@@ -2131,7 +3253,8 @@
       "rarity": "0",
       "iconImage": "battle",
       "_id": "ROOMBA_DEFEND"
-    }
+    },
+    "sources": []
   },
   {
     "droneBlueprint": {
@@ -2148,7 +3271,13 @@
       "rarity": "0",
       "iconImage": "boarder",
       "_id": "ROOMBA_BOARDER"
-    }
+    },
+    "sources": [
+      {
+        "sector": "SECRET_ROYAL",
+        "event": "ROYAL_ROOMBA_RAID"
+      }
+    ]
   },
   {
     "droneBlueprint": {
@@ -2169,7 +3298,8 @@
       "rarity": "0",
       "iconImage": "combat",
       "_id": "LOOT_AUTO_1_LASER"
-    }
+    },
+    "sources": []
   },
   {
     "droneBlueprint": {
@@ -2190,7 +3320,8 @@
       "rarity": "0",
       "iconImage": "combat",
       "_id": "LOOT_AUTO_1_BEAM"
-    }
+    },
+    "sources": []
   },
   {
     "droneBlueprint": {
@@ -2212,7 +3343,8 @@
       "iconImage": "defense",
       "rarity": "0",
       "_id": "LOOT_ENGI_1"
-    }
+    },
+    "sources": []
   },
   {
     "droneBlueprint": {
@@ -2233,7 +3365,8 @@
       "rarity": "0",
       "iconImage": "combat",
       "_id": "LOOT_ENGI_2"
-    }
+    },
+    "sources": []
   },
   {
     "droneBlueprint": {
@@ -2250,7 +3383,8 @@
       "rarity": "0",
       "iconImage": "battle",
       "_id": "LOOT_SEPARATIST_1_DEFEND"
-    }
+    },
+    "sources": []
   },
   {
     "droneBlueprint": {
@@ -2267,7 +3401,8 @@
       "rarity": "0",
       "iconImage": "boarder",
       "_id": "LOOT_SEPARATIST_1_BOARDER"
-    }
+    },
+    "sources": []
   },
   {
     "droneBlueprint": {
@@ -2288,7 +3423,8 @@
       "rarity": "0",
       "iconImage": "combat",
       "_id": "LOOT_ESTATE_1_COMBAT"
-    }
+    },
+    "sources": []
   },
   {
     "droneBlueprint": {
@@ -2310,7 +3446,8 @@
       "iconImage": "defense",
       "rarity": "0",
       "_id": "LOOT_ESTATE_1_DEFENSE"
-    }
+    },
+    "sources": []
   },
   {
     "droneBlueprint": {
@@ -2331,7 +3468,8 @@
       "rarity": "0",
       "iconImage": "combat",
       "_id": "LOOT_AUG_1_AMP2"
-    }
+    },
+    "sources": []
   },
   {
     "droneBlueprint": {
@@ -2352,7 +3490,8 @@
       "rarity": "0",
       "iconImage": "combat",
       "_id": "LOOT_AUG_1_AMP3"
-    }
+    },
+    "sources": []
   },
   {
     "droneBlueprint": {
@@ -2373,7 +3512,8 @@
       "rarity": "0",
       "iconImage": "combat",
       "_id": "LOOT_AUG_1_AMP4"
-    }
+    },
+    "sources": []
   },
   {
     "droneBlueprint": {
@@ -2395,7 +3535,8 @@
       "iconImage": "defense",
       "rarity": "0",
       "_id": "DEFENSE_TRINITY_MISSILE"
-    }
+    },
+    "sources": []
   },
   {
     "droneBlueprint": {
@@ -2418,7 +3559,8 @@
       "iconImage": "defense",
       "rarity": "0",
       "_id": "DEFENSE_TRINITY_DRONE"
-    }
+    },
+    "sources": []
   },
   {
     "droneBlueprint": {
@@ -2441,7 +3583,8 @@
       "iconImage": "defense",
       "rarity": "0",
       "_id": "DEFENSE_TRINITY_PROJECTILE"
-    }
+    },
+    "sources": []
   },
   {
     "droneBlueprint": {
@@ -2463,7 +3606,8 @@
       "iconImage": "defense",
       "rarity": "0",
       "_id": "DEFENSE_TRINITY_CHAOS"
-    }
+    },
+    "sources": []
   },
   {
     "droneBlueprint": {
@@ -2480,7 +3624,8 @@
       "rarity": "0",
       "iconImage": "battle",
       "_id": "YINYANG_BATTLE"
-    }
+    },
+    "sources": []
   },
   {
     "droneBlueprint": {
@@ -2497,7 +3642,8 @@
       "rarity": "0",
       "iconImage": "boarder",
       "_id": "YINYANG_BOARDER"
-    }
+    },
+    "sources": []
   },
   {
     "droneBlueprint": {
@@ -2514,7 +3660,8 @@
       "rarity": "0",
       "iconImage": "battle",
       "_id": "YINYANG_BATTLE_CHAOS"
-    }
+    },
+    "sources": []
   },
   {
     "droneBlueprint": {
@@ -2531,7 +3678,8 @@
       "rarity": "0",
       "iconImage": "boarder",
       "_id": "YINYANG_BOARDER_CHAOS"
-    }
+    },
+    "sources": []
   },
   {
     "droneBlueprint": {
@@ -2548,7 +3696,8 @@
       "rarity": "0",
       "iconImage": "battle",
       "_id": "SURGEON_BATTLE"
-    }
+    },
+    "sources": []
   },
   {
     "droneBlueprint": {
@@ -2565,7 +3714,8 @@
       "rarity": "0",
       "iconImage": "boarder",
       "_id": "SURGEON_BOARDER"
-    }
+    },
+    "sources": []
   },
   {
     "droneBlueprint": {
@@ -2582,7 +3732,8 @@
       "rarity": "0",
       "iconImage": "battle",
       "_id": "SURGEON_BATTLE_CHAOS"
-    }
+    },
+    "sources": []
   },
   {
     "droneBlueprint": {
@@ -2599,7 +3750,8 @@
       "rarity": "0",
       "iconImage": "boarder",
       "_id": "SURGEON_BOARDER_CHAOS"
-    }
+    },
+    "sources": []
   },
   {
     "droneBlueprint": {
@@ -2616,7 +3768,8 @@
       "rarity": "0",
       "iconImage": "battle",
       "_id": "FOREMAN_BATTLE"
-    }
+    },
+    "sources": []
   },
   {
     "droneBlueprint": {
@@ -2633,7 +3786,8 @@
       "rarity": "0",
       "iconImage": "boarder",
       "_id": "FOREMAN_BOARDER"
-    }
+    },
+    "sources": []
   },
   {
     "droneBlueprint": {
@@ -2650,7 +3804,8 @@
       "rarity": "0",
       "iconImage": "battle",
       "_id": "FOREMAN_BATTLE_CHAOS"
-    }
+    },
+    "sources": []
   },
   {
     "droneBlueprint": {
@@ -2667,7 +3822,8 @@
       "rarity": "0",
       "iconImage": "boarder",
       "_id": "FOREMAN_BOARDER_CHAOS"
-    }
+    },
+    "sources": []
   },
   {
     "droneBlueprint": {
@@ -2684,7 +3840,8 @@
       "rarity": "0",
       "iconImage": "battle",
       "_id": "HOLODRONE_BATTLE"
-    }
+    },
+    "sources": []
   },
   {
     "droneBlueprint": {
@@ -2701,7 +3858,8 @@
       "rarity": "0",
       "iconImage": "boarder",
       "_id": "HOLODRONE_BOARDER"
-    }
+    },
+    "sources": []
   },
   {
     "droneBlueprint": {
@@ -2718,7 +3876,8 @@
       "rarity": "0",
       "iconImage": "battle",
       "_id": "HOLODRONE_BATTLE_CHAOS"
-    }
+    },
+    "sources": []
   },
   {
     "droneBlueprint": {
@@ -2735,7 +3894,8 @@
       "rarity": "0",
       "iconImage": "boarder",
       "_id": "HOLODRONE_BOARDER_CHAOS"
-    }
+    },
+    "sources": []
   },
   {
     "droneBlueprint": {
@@ -2758,7 +3918,8 @@
       "iconImage": "defense",
       "rarity": "0",
       "_id": "SYMBIONT_DEFENSE"
-    }
+    },
+    "sources": []
   },
   {
     "droneBlueprint": {
@@ -2780,7 +3941,8 @@
       "iconImage": "defense",
       "rarity": "0",
       "_id": "SYMBIONT_DEFENSE_MISSILE"
-    }
+    },
+    "sources": []
   },
   {
     "droneBlueprint": {
@@ -2803,7 +3965,8 @@
       "iconImage": "defense",
       "rarity": "0",
       "_id": "SYMBIONT_DEFENSE_DRONE"
-    }
+    },
+    "sources": []
   },
   {
     "droneBlueprint": {
@@ -2824,7 +3987,8 @@
       "rarity": "0",
       "iconImage": "combat",
       "_id": "SYMBIONT_LASER"
-    }
+    },
+    "sources": []
   },
   {
     "droneBlueprint": {
@@ -2845,7 +4009,8 @@
       "rarity": "0",
       "iconImage": "combat",
       "_id": "SYMBIONT_BEAM"
-    }
+    },
+    "sources": []
   },
   {
     "droneBlueprint": {
@@ -2866,7 +4031,8 @@
       "rarity": "0",
       "iconImage": "combat",
       "_id": "SYMBIONT_FIRE"
-    }
+    },
+    "sources": []
   },
   {
     "droneBlueprint": {
@@ -2887,7 +4053,8 @@
       "rarity": "0",
       "iconImage": "combat",
       "_id": "SYMBIONT_HULL"
-    }
+    },
+    "sources": []
   },
   {
     "droneBlueprint": {
@@ -2908,7 +4075,8 @@
       "rarity": "0",
       "iconImage": "combat",
       "_id": "SYMBIONT_ION"
-    }
+    },
+    "sources": []
   },
   {
     "droneBlueprint": {
@@ -2929,7 +4097,8 @@
       "rarity": "0",
       "iconImage": "combat",
       "_id": "SYMBIONT_ENERGY"
-    }
+    },
+    "sources": []
   },
   {
     "droneBlueprint": {
@@ -2950,7 +4119,8 @@
       "rarity": "0",
       "iconImage": "combat",
       "_id": "SYMBIONT_FOCUS"
-    }
+    },
+    "sources": []
   },
   {
     "droneBlueprint": {
@@ -2971,7 +4141,8 @@
       "rarity": "0",
       "iconImage": "combat",
       "_id": "SYMBIONT_FLAK"
-    }
+    },
+    "sources": []
   },
   {
     "droneBlueprint": {
@@ -2993,7 +4164,8 @@
       "iconImage": "defense",
       "rarity": "0",
       "_id": "SYMBIONT_OMNI"
-    }
+    },
+    "sources": []
   },
   {
     "droneBlueprint": {
@@ -3014,7 +4186,8 @@
       "rarity": "0",
       "iconImage": "combat",
       "_id": "SYMBIONT_ANCIENT_LASER"
-    }
+    },
+    "sources": []
   },
   {
     "droneBlueprint": {
@@ -3037,7 +4210,8 @@
       "iconImage": "defense",
       "rarity": "0",
       "_id": "SYMBIONT_ANCIENT_DEFENSE"
-    }
+    },
+    "sources": []
   },
   {
     "droneBlueprint": {
@@ -3058,7 +4232,8 @@
       "rarity": "0",
       "iconImage": "combat",
       "_id": "SYMBIONT_ANCIENT_ION"
-    }
+    },
+    "sources": []
   },
   {
     "droneBlueprint": {
@@ -3079,7 +4254,8 @@
       "rarity": "0",
       "iconImage": "combat",
       "_id": "SYMBIONT_ANCIENT_MISSILE"
-    }
+    },
+    "sources": []
   },
   {
     "droneBlueprint": {
@@ -3102,7 +4278,8 @@
       "iconImage": "defense",
       "rarity": "0",
       "_id": "SYMBIONT_CHAOS_DEFENSE"
-    }
+    },
+    "sources": []
   },
   {
     "droneBlueprint": {
@@ -3124,7 +4301,8 @@
       "iconImage": "defense",
       "rarity": "0",
       "_id": "SYMBIONT_CHAOS_DEFENSE_MISSILE"
-    }
+    },
+    "sources": []
   },
   {
     "droneBlueprint": {
@@ -3147,7 +4325,8 @@
       "iconImage": "defense",
       "rarity": "0",
       "_id": "SYMBIONT_CHAOS_DEFENSE_DRONE"
-    }
+    },
+    "sources": []
   },
   {
     "droneBlueprint": {
@@ -3168,7 +4347,8 @@
       "rarity": "0",
       "iconImage": "combat",
       "_id": "SYMBIONT_CHAOS_LASER"
-    }
+    },
+    "sources": []
   },
   {
     "droneBlueprint": {
@@ -3189,7 +4369,8 @@
       "rarity": "0",
       "iconImage": "combat",
       "_id": "SYMBIONT_CHAOS_BEAM"
-    }
+    },
+    "sources": []
   },
   {
     "droneBlueprint": {
@@ -3210,7 +4391,8 @@
       "rarity": "0",
       "iconImage": "combat",
       "_id": "SYMBIONT_CHAOS_FIRE"
-    }
+    },
+    "sources": []
   },
   {
     "droneBlueprint": {
@@ -3231,7 +4413,8 @@
       "rarity": "0",
       "iconImage": "combat",
       "_id": "SYMBIONT_CHAOS_HULL"
-    }
+    },
+    "sources": []
   },
   {
     "droneBlueprint": {
@@ -3252,7 +4435,8 @@
       "rarity": "0",
       "iconImage": "combat",
       "_id": "SYMBIONT_CHAOS_ION"
-    }
+    },
+    "sources": []
   },
   {
     "droneBlueprint": {
@@ -3273,7 +4457,8 @@
       "rarity": "0",
       "iconImage": "combat",
       "_id": "SYMBIONT_CHAOS_ENERGY"
-    }
+    },
+    "sources": []
   },
   {
     "droneBlueprint": {
@@ -3294,7 +4479,8 @@
       "rarity": "0",
       "iconImage": "combat",
       "_id": "SYMBIONT_CHAOS_FOCUS"
-    }
+    },
+    "sources": []
   },
   {
     "droneBlueprint": {
@@ -3315,7 +4501,8 @@
       "rarity": "0",
       "iconImage": "combat",
       "_id": "SYMBIONT_CHAOS_FLAK"
-    }
+    },
+    "sources": []
   },
   {
     "droneBlueprint": {
@@ -3337,7 +4524,8 @@
       "iconImage": "defense",
       "rarity": "0",
       "_id": "SYMBIONT_CHAOS_OMNI"
-    }
+    },
+    "sources": []
   },
   {
     "droneBlueprint": {
@@ -3358,7 +4546,8 @@
       "rarity": "0",
       "iconImage": "combat",
       "_id": "SYMBIONT_CHAOS_ANCIENT_LASER"
-    }
+    },
+    "sources": []
   },
   {
     "droneBlueprint": {
@@ -3381,7 +4570,8 @@
       "iconImage": "defense",
       "rarity": "0",
       "_id": "SYMBIONT_CHAOS_ANCIENT_DEFENSE"
-    }
+    },
+    "sources": []
   },
   {
     "droneBlueprint": {
@@ -3402,7 +4592,8 @@
       "rarity": "0",
       "iconImage": "combat",
       "_id": "SYMBIONT_CHAOS_ANCIENT_ION"
-    }
+    },
+    "sources": []
   },
   {
     "droneBlueprint": {
@@ -3423,7 +4614,8 @@
       "rarity": "0",
       "iconImage": "combat",
       "_id": "SYMBIONT_CHAOS_ANCIENT_MISSILE"
-    }
+    },
+    "sources": []
   },
   {
     "droneBlueprint": {
@@ -3440,6 +4632,7 @@
       "rarity": "4",
       "iconImage": "ionD",
       "_id": "BOARDER_ION"
-    }
+    },
+    "sources": []
   }
 ]

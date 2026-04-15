@@ -238,7 +238,10 @@
       {
         "name": "SYLVAN_FIRST",
         "min": "1",
-        "max": "1"
+        "max": "1",
+        "uniqueItems": [
+          "GATLING_SYLVAN"
+        ]
       },
       {
         "name": "DROPPOINT_SUPPLY_DEPOT",
@@ -560,12 +563,18 @@
     "sectorTypes": [],
     "sourceEvents": [
       {
-        "name": "LAST_STAND_START_2"
+        "name": "LAST_STAND_START_2",
+        "uniqueItems": [
+          "unique_tully"
+        ]
       },
       {
         "name": "SYLVAN",
         "min": "1",
-        "max": "1"
+        "max": "1",
+        "uniqueItems": [
+          "GATLING_SYLVAN"
+        ]
       },
       {
         "name": "THE_JUDGES_LOAD",
@@ -855,7 +864,10 @@
       {
         "name": "SYLVAN_CHANCE",
         "min": "0",
-        "max": "1"
+        "max": "1",
+        "uniqueItems": [
+          "GATLING_SYLVAN"
+        ]
       },
       {
         "name": "OUTPOST_FEDERATION_SPAWNER",
@@ -1172,7 +1184,10 @@
       {
         "name": "SYLVAN_CHANCE",
         "min": "0",
-        "max": "1"
+        "max": "1",
+        "uniqueItems": [
+          "GATLING_SYLVAN"
+        ]
       },
       {
         "name": "FED_MEMORIAL",
@@ -1520,7 +1535,10 @@
       {
         "name": "SYLVAN_CHANCE",
         "min": "0",
-        "max": "1"
+        "max": "1",
+        "uniqueItems": [
+          "GATLING_SYLVAN"
+        ]
       },
       {
         "name": "SPIDER_QUEST_START",
@@ -1860,7 +1878,10 @@
       {
         "name": "SYLVAN_CHANCE",
         "min": "0",
-        "max": "1"
+        "max": "1",
+        "uniqueItems": [
+          "GATLING_SYLVAN"
+        ]
       },
       {
         "name": "SPIDER_QUEST_START",
@@ -1870,7 +1891,11 @@
       {
         "name": "COREWORLDS_EARTH",
         "min": "1",
-        "max": "1"
+        "max": "1",
+        "uniqueItems": [
+          "PART_GATLING_BARREL",
+          "PART_GATLING_BASE"
+        ]
       },
       {
         "name": "KESTREL_UNLOCK",
@@ -1960,7 +1985,10 @@
         "priority": "1",
         "req": "loc_ellie",
         "lvl": "0",
-        "max_lvl": "0"
+        "max_lvl": "0",
+        "uniqueItems": [
+          "unique_ellie"
+        ]
       },
       {
         "name": "STOREEVENT_NNNN",
@@ -2254,12 +2282,18 @@
       {
         "name": "SYLVAN_CHANCE",
         "min": "0",
-        "max": "1"
+        "max": "1",
+        "uniqueItems": [
+          "GATLING_SYLVAN"
+        ]
       },
       {
         "name": "MILITIA_DETECTIVE",
         "min": "1",
-        "max": "1"
+        "max": "1",
+        "uniqueItems": [
+          "unique_haynes"
+        ]
       },
       {
         "name": "SPIDER_QUEST_START",
@@ -2441,16 +2475,6 @@
       "STORE_ORCHID",
       "STORE_ROCK_MINELAUNCHER",
       "STORE_STANDARD",
-      "STORE_SYLVAN_ATTRIBUTE",
-      "STORE_SYLVAN_BEAM",
-      "STORE_SYLVAN_DRONES",
-      "STORE_SYLVAN_ION",
-      "STORE_SYLVAN_LASERS",
-      "STORE_SYLVAN_MISSILES",
-      "STORE_SYLVAN_RACE",
-      "STORE_SYLVAN_STATUS",
-      "STORE_SYLVAN_TRASH",
-      "STORE_SYLVAN_UTILITY",
       "STORE_TONY",
       "STORE_ZOLTAN"
     ],
@@ -2613,7 +2637,10 @@
       {
         "name": "SYLVAN_CHANCE",
         "min": "0",
-        "max": "1"
+        "max": "1",
+        "uniqueItems": [
+          "GATLING_SYLVAN"
+        ]
       },
       {
         "name": "HARMONY_LINK_DEFAULT",
@@ -2934,7 +2961,10 @@
       {
         "name": "SYLVAN_CHANCE",
         "min": "0",
-        "max": "1"
+        "max": "1",
+        "uniqueItems": [
+          "GATLING_SYLVAN"
+        ]
       },
       {
         "name": "HARMONY_LINK_UNIQUE",
@@ -2944,7 +2974,10 @@
       {
         "name": "TURZIL_PIRATE_TRANSPORT",
         "min": "1",
-        "max": "1"
+        "max": "1",
+        "uniqueItems": [
+          "unique_turzil"
+        ]
       },
       {
         "name": "TRANSPORT_ENGI_LOOT",
@@ -3301,7 +3334,10 @@
       {
         "name": "SYLVAN_CHANCE",
         "min": "0",
-        "max": "1"
+        "max": "1",
+        "uniqueItems": [
+          "GATLING_SYLVAN"
+        ]
       },
       {
         "name": "OUTPOST_ZOLTAN_SPAWNER",
@@ -3602,7 +3638,11 @@
       {
         "name": "SYLVAN",
         "min": "1",
-        "max": "1"
+        "max": "1",
+        "uniqueItems": [
+          "GATLING_SYLVAN",
+          "unique_guntput"
+        ]
       },
       {
         "name": "CAPITAL_OSMIA_RAID",
@@ -3923,7 +3963,10 @@
       {
         "name": "NEBULA_SYLVAN_CHANCE",
         "min": "0",
-        "max": "1"
+        "max": "1",
+        "uniqueItems": [
+          "GATLING_SYLVAN"
+        ]
       },
       {
         "name": "NEBULA_STORELIST_MONK",
@@ -4285,7 +4328,10 @@
       {
         "name": "SYLVAN_CHANCE",
         "min": "0",
-        "max": "1"
+        "max": "1",
+        "uniqueItems": [
+          "GATLING_SYLVAN"
+        ]
       },
       {
         "name": "OUTPOST_ORCHID_SPAWNER",
@@ -4617,17 +4663,26 @@
       {
         "name": "SYLVAN_CHANCE",
         "min": "0",
-        "max": "1"
+        "max": "1",
+        "uniqueItems": [
+          "GATLING_SYLVAN"
+        ]
       },
       {
         "name": "CARETAKER_PRAETOR_ARGUMENT",
         "min": "1",
-        "max": "1"
+        "max": "1",
+        "uniqueItems": [
+          "unique_mayeb"
+        ]
       },
       {
         "name": "GATHERING_LOW_TRAFFIC",
         "min": "1",
-        "max": "1"
+        "max": "1",
+        "uniqueItems": [
+          "unique_tyerel"
+        ]
       },
       {
         "name": "TRANSPORT_ORCHID_LOOT",
@@ -4970,7 +5025,10 @@
       {
         "name": "SYLVAN_CHANCE",
         "min": "0",
-        "max": "1"
+        "max": "1",
+        "uniqueItems": [
+          "GATLING_SYLVAN"
+        ]
       },
       {
         "name": "OUTPOST_FREEMANTIS_SPAWNER",
@@ -5270,12 +5328,18 @@
       {
         "name": "SYLVAN_CHANCE",
         "min": "0",
-        "max": "1"
+        "max": "1",
+        "uniqueItems": [
+          "GATLING_SYLVAN"
+        ]
       },
       {
         "name": "FREEMANTIS_FLEET_MONITION",
         "min": "1",
-        "max": "1"
+        "max": "1",
+        "uniqueItems": [
+          "unique_freddy"
+        ]
       },
       {
         "name": "FREEMANTIS_ZOLTAN_KILLER",
@@ -5650,7 +5714,10 @@
       {
         "name": "SYLVAN_CHANCE",
         "min": "0",
-        "max": "1"
+        "max": "1",
+        "uniqueItems": [
+          "GATLING_SYLVAN"
+        ]
       },
       {
         "name": "RUINS_IMPERIAL",
@@ -6012,12 +6079,18 @@
       {
         "name": "SYLVAN_CHANCE",
         "min": "0",
-        "max": "1"
+        "max": "1",
+        "uniqueItems": [
+          "GATLING_SYLVAN"
+        ]
       },
       {
         "name": "CRYSTAL_SANCTUARY",
         "min": "1",
-        "max": "1"
+        "max": "1",
+        "uniqueItems": [
+          "unique_dianesh"
+        ]
       },
       {
         "name": "RUINS_IMPERIAL",
@@ -6383,7 +6456,10 @@
       {
         "name": "SYLVAN_CHANCE",
         "min": "0",
-        "max": "1"
+        "max": "1",
+        "uniqueItems": [
+          "GATLING_SYLVAN"
+        ]
       },
       {
         "name": "OUTPOST_OUTCAST_SPAWNER",
@@ -6736,7 +6812,10 @@
       {
         "name": "SYLVAN_CHANCE",
         "min": "0",
-        "max": "1"
+        "max": "1",
+        "uniqueItems": [
+          "GATLING_SYLVAN"
+        ]
       },
       {
         "name": "TURBAN",
@@ -6746,7 +6825,10 @@
       {
         "name": "RUWEN_ENCOUNTER",
         "min": "1",
-        "max": "1"
+        "max": "1",
+        "uniqueItems": [
+          "unique_ruwen"
+        ]
       },
       {
         "name": "OUTPOST_OUTCAST_SPAWNER",
@@ -7122,7 +7204,10 @@
       {
         "name": "NEBULA_SYLVAN_CHANCE",
         "min": "0",
-        "max": "1"
+        "max": "1",
+        "uniqueItems": [
+          "GATLING_SYLVAN"
+        ]
       },
       {
         "name": "NEBULA_STORELIST_UNEXPLORED",
@@ -7511,7 +7596,10 @@
       {
         "name": "SYLVAN_CHANCE",
         "min": "0",
-        "max": "1"
+        "max": "1",
+        "uniqueItems": [
+          "GATLING_SYLVAN"
+        ]
       },
       {
         "name": "STORELIST_ASTEROID",
@@ -7921,7 +8009,10 @@
         "name": "NEBULA_LIGHT_STARGROVE_LISTENING_POST_QUEST",
         "min": "1",
         "max": "1",
-        "priority": "0"
+        "priority": "0",
+        "uniqueItems": [
+          "unique_mafan"
+        ]
       },
       {
         "name": "NEBULA_LIGHT_TRANSPORT_STARGROVE_LOOT",
@@ -8163,7 +8254,10 @@
       {
         "name": "SYLVAN_CHANCE",
         "min": "0",
-        "max": "1"
+        "max": "1",
+        "uniqueItems": [
+          "GATLING_SYLVAN"
+        ]
       },
       {
         "name": "STORELIST_ABANDONED",
@@ -8543,7 +8637,10 @@
       {
         "name": "SYLVAN_CHANCE",
         "min": "0",
-        "max": "1"
+        "max": "1",
+        "uniqueItems": [
+          "GATLING_SYLVAN"
+        ]
       },
       {
         "name": "ITEMS_ABANDONED",
@@ -8858,7 +8955,10 @@
       {
         "name": "SYLVAN_CHANCE",
         "min": "0",
-        "max": "1"
+        "max": "1",
+        "uniqueItems": [
+          "GATLING_SYLVAN"
+        ]
       },
       {
         "name": "HARMONY_LINK_SEP",
@@ -9208,7 +9308,10 @@
       {
         "name": "SYLVAN_CHANCE",
         "min": "0",
-        "max": "1"
+        "max": "1",
+        "uniqueItems": [
+          "GATLING_SYLVAN"
+        ]
       },
       {
         "name": "HARMONY_LINK_UNIQUE_SEP",
@@ -9609,7 +9712,10 @@
       {
         "name": "SYLVAN_CHANCE",
         "min": "0",
-        "max": "1"
+        "max": "1",
+        "uniqueItems": [
+          "GATLING_SYLVAN"
+        ]
       },
       {
         "name": "STORELIST_VAMPWEED",
@@ -9987,12 +10093,19 @@
       {
         "name": "SYLVAN_CHANCE",
         "min": "0",
-        "max": "1"
+        "max": "1",
+        "uniqueItems": [
+          "GATLING_SYLVAN"
+        ]
       },
       {
         "name": "VAMPWEED_STORE_RESTAURANT",
         "min": "1",
-        "max": "1"
+        "max": "1",
+        "uniqueItems": [
+          "unique_ivar",
+          "unique_tyerel"
+        ]
       },
       {
         "name": "TRANSPORT_VAMPWEED_LOOT",
@@ -10368,7 +10481,10 @@
       {
         "name": "NEBULA_SYLVAN_CHANCE",
         "min": "0",
-        "max": "1"
+        "max": "1",
+        "uniqueItems": [
+          "GATLING_SYLVAN"
+        ]
       },
       {
         "name": "NEBULA_STORELIST_SHELL",
@@ -10672,7 +10788,10 @@
       {
         "name": "NEBULA_SYLVAN_CHANCE",
         "min": "0",
-        "max": "1"
+        "max": "1",
+        "uniqueItems": [
+          "GATLING_SYLVAN"
+        ]
       },
       {
         "name": "NEBULA_STORELIST_SHELL",
@@ -11012,7 +11131,10 @@
       {
         "name": "NEBULA_SYLVAN_CHANCE",
         "min": "0",
-        "max": "1"
+        "max": "1",
+        "uniqueItems": [
+          "GATLING_SYLVAN"
+        ]
       },
       {
         "name": "NEBULA_STORELIST_LEECH",
@@ -11349,7 +11471,10 @@
       {
         "name": "NEBULA_SYLVAN_CHANCE",
         "min": "0",
-        "max": "1"
+        "max": "1",
+        "uniqueItems": [
+          "GATLING_SYLVAN"
+        ]
       },
       {
         "name": "NEBULA_STORELIST_LEECH",
@@ -11446,13 +11571,21 @@
         "name": "ALKRAM_MEET",
         "min": "1",
         "max": "1",
-        "priority": "1"
+        "priority": "1",
+        "uniqueItems": [
+          "unique_alkram",
+          "unique_tyrdeo",
+          "unique_tyrdeo_bird"
+        ]
       },
       {
         "name": "TONY_HQ",
         "min": "1",
         "max": "1",
-        "priority": "1"
+        "priority": "1",
+        "uniqueItems": [
+          "unique_tonysr"
+        ]
       },
       {
         "name": "LEECH_INQUISITIONER",
@@ -11763,7 +11896,10 @@
       {
         "name": "NEBULA_SYLVAN_CHANCE",
         "min": "0",
-        "max": "1"
+        "max": "1",
+        "uniqueItems": [
+          "GATLING_SYLVAN"
+        ]
       },
       {
         "name": "NEBULA_ITEMS_LEECH",
@@ -12071,7 +12207,10 @@
       {
         "name": "SYLVAN",
         "min": "1",
-        "max": "1"
+        "max": "1",
+        "uniqueItems": [
+          "GATLING_SYLVAN"
+        ]
       },
       {
         "name": "STORELIST_PIRATE",
@@ -12506,12 +12645,18 @@
       {
         "name": "SYLVAN",
         "min": "1",
-        "max": "1"
+        "max": "1",
+        "uniqueItems": [
+          "GATLING_SYLVAN"
+        ]
       },
       {
         "name": "QUEST_TUCO_START",
         "min": "1",
-        "max": "1"
+        "max": "1",
+        "uniqueItems": [
+          "unique_tuco"
+        ]
       },
       {
         "name": "STORELIST_PIRATE",
@@ -12903,7 +13048,10 @@
       {
         "name": "SYLVAN",
         "min": "1",
-        "max": "1"
+        "max": "1",
+        "uniqueItems": [
+          "GATLING_SYLVAN"
+        ]
       },
       {
         "name": "STORE_HOSTILE_PIRATE",
@@ -13216,7 +13364,10 @@
       {
         "name": "NEBULA_SYLVAN_CHANCE",
         "min": "0",
-        "max": "1"
+        "max": "1",
+        "uniqueItems": [
+          "GATLING_SYLVAN"
+        ]
       },
       {
         "name": "NEBULA_DYNASTY_OUTPOST",
@@ -13526,7 +13677,10 @@
       {
         "name": "NEBULA_SYLVAN_CHANCE",
         "min": "0",
-        "max": "1"
+        "max": "1",
+        "uniqueItems": [
+          "GATLING_SYLVAN"
+        ]
       },
       {
         "name": "NEBULA_DYNASTY_OUTPOST",
@@ -13865,7 +14019,10 @@
       {
         "name": "LOSTSUN_FLEET_UNLOCK1",
         "min": "1",
-        "max": "1"
+        "max": "1",
+        "uniqueItems": [
+          "unique_ariadne"
+        ]
       },
       {
         "name": "TRANSPORT_LOSTSUN_LOOT",
@@ -14179,7 +14336,11 @@
     ],
     "sourceEvents": [
       {
-        "name": "START_CLAN"
+        "name": "START_CLAN",
+        "uniqueItems": [
+          "unique_obyn",
+          "unique_obyn_temp"
+        ]
       },
       {
         "name": "NEBULA_STORELIST_CLAN",
@@ -14535,7 +14696,10 @@
       {
         "name": "BEACON_EATER_START",
         "min": "1",
-        "max": "1"
+        "max": "1",
+        "uniqueItems": [
+          "unique_eater"
+        ]
       },
       {
         "name": "TRANSPORT_LANIUS_LOOT",
@@ -15804,7 +15968,10 @@
       {
         "name": "AUTO_ENGINEER_MISTAKE",
         "min": "1",
-        "max": "1"
+        "max": "1",
+        "uniqueItems": [
+          "A55_BATTLE"
+        ]
       },
       {
         "name": "AUTO_POWERCORE",
@@ -17069,7 +17236,10 @@
       {
         "name": "ROCK_ZOLTAN_PARASITE",
         "min": "1",
-        "max": "1"
+        "max": "1",
+        "uniqueItems": [
+          "unique_symbiote"
+        ]
       },
       {
         "name": "ROCK_CRYSTAL_WAYSTONE",
@@ -17401,7 +17571,10 @@
       {
         "name": "NEBULA_SYLVAN_CHANCE",
         "min": "0",
-        "max": "1"
+        "max": "1",
+        "uniqueItems": [
+          "GATLING_SYLVAN"
+        ]
       },
       {
         "name": "NEBULA_STORELIST_SLUG",
@@ -17804,7 +17977,11 @@
         "name": "NEBULA_SYLVAN",
         "min": "1",
         "max": "1",
-        "priority": "1"
+        "priority": "1",
+        "uniqueItems": [
+          "GATLING_SYLVAN",
+          "WEAPON_PREIGNITE"
+        ]
       },
       {
         "name": "NEBULA_LIGHT_DISTRESS_SLOCKNOG_START",
@@ -18113,7 +18290,10 @@
       {
         "name": "NEBULA_SYLVAN_CHANCE",
         "min": "0",
-        "max": "1"
+        "max": "1",
+        "uniqueItems": [
+          "GATLING_SYLVAN"
+        ]
       },
       {
         "name": "NEBULA_ITEMS_SLUG_MV",
@@ -18708,7 +18888,11 @@
       {
         "name": "NEBULA_ANURAK",
         "min": "1",
-        "max": "1"
+        "max": "1",
+        "uniqueItems": [
+          "unique_anurak",
+          "unique_devorak"
+        ]
       },
       {
         "name": "DUSK_CLONECANNON",
@@ -19042,7 +19226,10 @@
       {
         "name": "NEBULA_SYLVAN_CHANCE",
         "min": "0",
-        "max": "1"
+        "max": "1",
+        "uniqueItems": [
+          "GATLING_SYLVAN"
+        ]
       },
       {
         "name": "NEBULA_DYNASTY_OUTPOST",
@@ -19355,7 +19542,10 @@
       {
         "name": "NEBULA_SYLVAN_CHANCE",
         "min": "0",
-        "max": "1"
+        "max": "1",
+        "uniqueItems": [
+          "GATLING_SYLVAN"
+        ]
       },
       {
         "name": "NEBULA_DYNASTY_OUTPOST",
@@ -19438,7 +19628,10 @@
         "name": "NEBULA_DYNASTY_DREADNAUGHT",
         "min": "1",
         "max": "1",
-        "priority": "1"
+        "priority": "1",
+        "uniqueItems": [
+          "unique_dessius"
+        ]
       },
       {
         "name": "NEBULA_TRANSPORT_DYNASTY_LOOT",
@@ -19999,7 +20192,10 @@
       {
         "name": "NEBULA_SYLVAN_CHANCE",
         "min": "0",
-        "max": "1"
+        "max": "1",
+        "uniqueItems": [
+          "GATLING_SYLVAN"
+        ]
       },
       {
         "name": "NEBULA_STORELIST_COALITION",
@@ -20077,7 +20273,10 @@
         "name": "NEBULA_KAZ_START",
         "min": "1",
         "max": "1",
-        "priority": "1"
+        "priority": "1",
+        "uniqueItems": [
+          "unique_kaz"
+        ]
       },
       {
         "name": "NEBULA_TRANSPORT_COALITION_LOOT",
@@ -20401,7 +20600,10 @@
         "name": "NEBULA_SYLVAN",
         "min": "1",
         "max": "1",
-        "priority": "1"
+        "priority": "1",
+        "uniqueItems": [
+          "GATLING_SYLVAN"
+        ]
       },
       {
         "name": "MORPH_SITE_DELTA",
@@ -20413,13 +20615,19 @@
         "name": "NEBULA_MORPH_SITE_ALPHA",
         "min": "1",
         "max": "1",
-        "priority": "1"
+        "priority": "1",
+        "uniqueItems": [
+          "unique_ooj"
+        ]
       },
       {
         "name": "NEBULA_MORPH_SITE_OMEGA",
         "min": "1",
         "max": "1",
-        "priority": "1"
+        "priority": "1",
+        "uniqueItems": [
+          "unique_alkali"
+        ]
       },
       {
         "name": "STORELIST_MORPH",
@@ -20995,13 +21203,19 @@
         "name": "INFESTATION_IRWIN",
         "min": "1",
         "max": "1",
-        "priority": "1"
+        "priority": "1",
+        "uniqueItems": [
+          "unique_irwin"
+        ]
       },
       {
         "name": "INFESTATION_NEST",
         "min": "1",
         "max": "1",
-        "priority": "1"
+        "priority": "1",
+        "uniqueItems": [
+          "unique_queen"
+        ]
       }
     ],
     "augments": [
@@ -21475,7 +21689,10 @@
     ],
     "sourceEvents": [
       {
-        "name": "ORIGINS_RUWEN_WARP"
+        "name": "ORIGINS_RUWEN_WARP",
+        "uniqueItems": [
+          "unique_vortigon"
+        ]
       },
       {
         "name": "TRANSPORT_CULTIST_LOOT",
@@ -21768,7 +21985,10 @@
         "name": "JERRY_HOME",
         "min": "1",
         "max": "1",
-        "priority": "1"
+        "priority": "1",
+        "uniqueItems": [
+          "unique_jerry"
+        ]
       },
       {
         "name": "TRANSPORT_JERRY_LOOT",
@@ -22044,13 +22264,19 @@
         "name": "HEKTAR_HEADQUARTERS",
         "min": "1",
         "max": "1",
-        "priority": "1"
+        "priority": "1",
+        "uniqueItems": [
+          "unique_billy"
+        ]
       },
       {
         "name": "HEKTAR_SHIPYARDS",
         "min": "1",
         "max": "1",
-        "priority": "1"
+        "priority": "1",
+        "uniqueItems": [
+          "unique_metyunt"
+        ]
       },
       {
         "name": "NEBULA_SYLVANHOME",
@@ -22626,7 +22852,10 @@
       {
         "name": "NEBULA_SYLVAN_CHANCE",
         "min": "0",
-        "max": "1"
+        "max": "1",
+        "uniqueItems": [
+          "GATLING_SYLVAN"
+        ]
       },
       {
         "name": "NEBULA_STORELIST_SLUG",
@@ -22699,7 +22928,11 @@
         "name": "KNIGHT_PALACE",
         "min": "1",
         "max": "1",
-        "priority": "1"
+        "priority": "1",
+        "uniqueItems": [
+          "unique_nights",
+          "unique_slocknog"
+        ]
       },
       {
         "name": "NEBULA_TRANSPORT_KNIGHT_LOOT",
@@ -23604,7 +23837,10 @@
       {
         "name": "NEXUS_LOSERS",
         "min": "1",
-        "max": "1"
+        "max": "1",
+        "uniqueItems": [
+          "unique_nights"
+        ]
       },
       {
         "name": "NEXUS_CEL",
@@ -23614,7 +23850,10 @@
       {
         "name": "NEXUS_RANDOM",
         "min": "10",
-        "max": "10"
+        "max": "10",
+        "uniqueItems": [
+          "unique_sylvan"
+        ]
       },
       {
         "name": "SYLVAN_NEXUS",
@@ -24000,10 +24239,16 @@
         "name": "ENTER_AUGMENTED"
       },
       {
-        "name": "AUGMENTED_ANOINTED"
+        "name": "AUGMENTED_ANOINTED",
+        "uniqueItems": [
+          "unique_anointed"
+        ]
       },
       {
-        "name": "AUGMENTED_ANOINTED"
+        "name": "AUGMENTED_ANOINTED",
+        "uniqueItems": [
+          "unique_anointed"
+        ]
       },
       {
         "name": "FLEET_THREAT_LOW"
@@ -26061,7 +26306,10 @@
       {
         "name": "SYLVAN_ROYAL",
         "min": "1",
-        "max": "1"
+        "max": "1",
+        "uniqueItems": [
+          "unique_sylvan"
+        ]
       },
       {
         "name": "STORE_HOSTILE_ANCIENT",

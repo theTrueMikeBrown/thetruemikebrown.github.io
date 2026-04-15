@@ -8,7 +8,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "IMMUNE"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -21,7 +22,8 @@
       "stackable": "true",
       "value": "0.50",
       "_id": "ION_ARMOR"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -34,7 +36,8 @@
       "stackable": "false",
       "value": "0.15",
       "_id": "CLOAK_FIRE"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -47,7 +50,8 @@
       "stackable": "true",
       "value": "0.10",
       "_id": "AUTO_COOLDOWN"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -60,7 +64,8 @@
       "stackable": "true",
       "value": "0.15",
       "_id": "SHIELD_RECHARGE"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -73,7 +78,8 @@
       "stackable": "true",
       "value": "0.25",
       "_id": "FTL_BOOSTER"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -85,7 +91,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "FTL_JUMPER"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -98,7 +105,8 @@
       "value": "2",
       "stackable": "false",
       "_id": "FTL_JAMMER"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -110,7 +118,8 @@
       "rarity": "0",
       "stackable": "true",
       "_id": "ANURAK_PRAYER"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -122,7 +131,8 @@
       "stackable": "false",
       "bp": "0",
       "_id": "FOR_MULTIVERSE"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -134,7 +144,8 @@
       "stackable": "false",
       "bp": "0",
       "_id": "FEDERATION_DATABASE"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -146,7 +157,8 @@
       "stackable": "false",
       "bp": "0",
       "_id": "NO_WEAPON"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -158,7 +170,8 @@
       "stackable": "false",
       "bp": "0",
       "_id": "SKIP_START"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -170,7 +183,8 @@
       "stackable": "false",
       "bp": "0",
       "_id": "STAGE_2"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -182,7 +196,8 @@
       "stackable": "false",
       "bp": "0",
       "_id": "STAGE_3"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -194,7 +209,8 @@
       "stackable": "false",
       "bp": "0",
       "_id": "DRONE_AI_ENABLED"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -206,7 +222,8 @@
       "stackable": "false",
       "bp": "0",
       "_id": "MARKER_STAGE3_SURGE1"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -218,7 +235,8 @@
       "stackable": "false",
       "bp": "0",
       "_id": "MARKER_STAGE3_SURGE2"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -230,7 +248,8 @@
       "stackable": "false",
       "bp": "0",
       "_id": "MARKER_STAGE3_SURGE3"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -242,7 +261,8 @@
       "stackable": "false",
       "bp": "0",
       "_id": "MARKER_MFK_SURGE"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -254,7 +274,8 @@
       "stackable": "false",
       "bp": "0",
       "_id": "SHIP_MULTIVERSE"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -266,7 +287,8 @@
       "stackable": "false",
       "bp": "0",
       "_id": "SHIP_PLEASURE"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -278,7 +300,8 @@
       "stackable": "false",
       "bp": "0",
       "_id": "SHIP_TUCO"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -290,7 +313,8 @@
       "stackable": "false",
       "bp": "0",
       "_id": "SHIP_GAMBLING"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -302,7 +326,8 @@
       "stackable": "false",
       "bp": "0",
       "_id": "SHIP_TUCO_GOLD"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -314,7 +339,8 @@
       "stackable": "false",
       "bp": "0",
       "_id": "SHIP_GHOSTHUNTER"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -326,7 +352,8 @@
       "stackable": "false",
       "bp": "0",
       "_id": "SHIP_ANCIENT"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -338,7 +365,8 @@
       "stackable": "false",
       "bp": "0",
       "_id": "SHIP_SIREN"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -350,7 +378,8 @@
       "stackable": "false",
       "bp": "0",
       "_id": "SHIP_AUGMENTED"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -362,7 +391,8 @@
       "stackable": "false",
       "bp": "0",
       "_id": "SHIP_ENGI"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -374,7 +404,8 @@
       "stackable": "false",
       "bp": "0",
       "_id": "SHIP_ZOLTAN"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -386,7 +417,8 @@
       "stackable": "false",
       "bp": "0",
       "_id": "SHIP_ZOLTAN_OLD"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -398,7 +430,8 @@
       "stackable": "false",
       "bp": "0",
       "_id": "SHIP_DUSKBRINGER"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -410,7 +443,8 @@
       "stackable": "false",
       "bp": "0",
       "_id": "SHIP_MONK"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -422,7 +456,8 @@
       "stackable": "false",
       "bp": "0",
       "_id": "SHIP_HIVE"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -434,7 +469,8 @@
       "stackable": "false",
       "bp": "0",
       "_id": "SHIP_FREEMANTIS"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -446,7 +482,8 @@
       "stackable": "false",
       "bp": "0",
       "_id": "SHIP_ROCK"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -458,7 +495,8 @@
       "stackable": "false",
       "bp": "0",
       "_id": "SHIP_OUTCAST"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -470,7 +508,8 @@
       "stackable": "false",
       "bp": "0",
       "_id": "SHIP_LOSTSUN"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -482,7 +521,8 @@
       "stackable": "false",
       "bp": "0",
       "_id": "SHIP_CULTIST"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -494,7 +534,8 @@
       "stackable": "false",
       "bp": "0",
       "_id": "SHIP_CRYSTAL"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -506,7 +547,8 @@
       "stackable": "false",
       "bp": "0",
       "_id": "SHIP_SLUG"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -518,7 +560,8 @@
       "stackable": "false",
       "bp": "0",
       "_id": "SHIP_COALITION"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -530,7 +573,8 @@
       "stackable": "false",
       "bp": "0",
       "_id": "SHIP_ORCHID"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -542,7 +586,8 @@
       "stackable": "false",
       "bp": "0",
       "_id": "SHIP_VAMPWEED"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -554,7 +599,8 @@
       "stackable": "false",
       "bp": "0",
       "_id": "SHIP_SHELL"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -566,7 +612,8 @@
       "stackable": "false",
       "bp": "0",
       "_id": "SHIP_MORPH"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -578,7 +625,8 @@
       "stackable": "false",
       "bp": "0",
       "_id": "SHIP_LEECH"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -590,7 +638,8 @@
       "stackable": "false",
       "bp": "0",
       "_id": "SHIP_LANIUS"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -602,7 +651,8 @@
       "stackable": "false",
       "bp": "0",
       "_id": "SHIP_SALT"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -614,7 +664,8 @@
       "stackable": "false",
       "bp": "0",
       "_id": "SHIP_SPIDER"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -626,7 +677,8 @@
       "stackable": "false",
       "bp": "0",
       "_id": "SHIP_DYNASTY"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -638,7 +690,8 @@
       "stackable": "false",
       "bp": "0",
       "_id": "SHIP_UNION"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -650,7 +703,8 @@
       "stackable": "false",
       "bp": "0",
       "_id": "SHIP_FEDERATION"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -662,7 +716,8 @@
       "stackable": "false",
       "bp": "0",
       "_id": "SHIP_REBEL"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -674,7 +729,8 @@
       "stackable": "false",
       "bp": "0",
       "_id": "SHIP_AUTO"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -686,7 +742,8 @@
       "stackable": "false",
       "bp": "0",
       "_id": "SHIP_AUTO_FED"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -698,7 +755,8 @@
       "stackable": "false",
       "bp": "0",
       "_id": "SHIP_TECH"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -710,7 +768,8 @@
       "stackable": "false",
       "bp": "0",
       "_id": "SHIP_KESTREL"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -722,7 +781,8 @@
       "stackable": "false",
       "bp": "0",
       "_id": "SHIP_STEALTH"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -734,7 +794,8 @@
       "stackable": "false",
       "bp": "0",
       "_id": "SHIP_ANGEL"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -746,7 +807,8 @@
       "stackable": "false",
       "bp": "0",
       "_id": "SHIP_ALPHA"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -758,7 +820,8 @@
       "stackable": "false",
       "bp": "0",
       "_id": "SHIP_GHOST"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -770,7 +833,8 @@
       "stackable": "false",
       "bp": "0",
       "_id": "SHIP_PIRATE"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -782,7 +846,8 @@
       "stackable": "false",
       "bp": "0",
       "_id": "SHIP_SPLICE"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -794,7 +859,8 @@
       "stackable": "false",
       "bp": "0",
       "_id": "SHIP_PROTOTYPE"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -806,7 +872,8 @@
       "stackable": "false",
       "bp": "0",
       "_id": "SHIP_PONY"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -818,7 +885,8 @@
       "stackable": "false",
       "bp": "0",
       "_id": "SHIP_FLAGSHIP"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -830,7 +898,8 @@
       "stackable": "false",
       "bp": "0",
       "_id": "SHIP_GYGES"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -842,7 +911,8 @@
       "stackable": "false",
       "bp": "0",
       "_id": "SHIP_SYLVAN"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -854,7 +924,8 @@
       "stackable": "false",
       "bp": "0",
       "_id": "SHIP_TULLY"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -866,7 +937,8 @@
       "stackable": "false",
       "bp": "0",
       "_id": "SHIP_LIMIT"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -878,7 +950,8 @@
       "stackable": "false",
       "bp": "0",
       "_id": "SHIP_PROPHET"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -890,7 +963,8 @@
       "stackable": "false",
       "bp": "0",
       "_id": "TASK_SCHOOLID"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -902,7 +976,8 @@
       "stackable": "false",
       "bp": "0",
       "_id": "TASK_DRAWING"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -914,7 +989,8 @@
       "stackable": "false",
       "bp": "0",
       "_id": "TASK_CRUSH"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -926,7 +1002,8 @@
       "stackable": "false",
       "bp": "0",
       "_id": "TASK_TOILET"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -938,7 +1015,8 @@
       "stackable": "false",
       "bp": "0",
       "_id": "TASK_PLUSHIE"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -950,7 +1028,8 @@
       "stackable": "false",
       "bp": "0",
       "_id": "TASK_PETE"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -962,7 +1041,8 @@
       "stackable": "false",
       "bp": "0",
       "_id": "TASK_USB"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -974,7 +1054,8 @@
       "stackable": "false",
       "bp": "0",
       "_id": "TASK_SURVIVOR"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -986,7 +1067,8 @@
       "stackable": "false",
       "bp": "0",
       "_id": "TASK_WEDDING"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -998,7 +1080,8 @@
       "stackable": "false",
       "bp": "0",
       "_id": "TASK_WILL"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -1010,7 +1093,8 @@
       "stackable": "false",
       "bp": "0",
       "_id": "TASK_SCANDAL"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -1022,7 +1106,8 @@
       "stackable": "false",
       "bp": "0",
       "_id": "TASK_TORTURE"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -1034,7 +1119,8 @@
       "stackable": "false",
       "bp": "0",
       "_id": "TASK_OUTPOST"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -1046,7 +1132,8 @@
       "stackable": "false",
       "bp": "0",
       "_id": "TASK_SHIP"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -1058,7 +1145,8 @@
       "stackable": "false",
       "bp": "0",
       "_id": "TASK_DUSK"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -1070,7 +1158,8 @@
       "stackable": "false",
       "bp": "0",
       "_id": "TASK_CONTRACT"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -1082,7 +1171,125 @@
       "stackable": "false",
       "bp": "0",
       "_id": "COMIC_DEVORAK"
-    }
+    },
+    "sources": [
+      {
+        "sector": "SECRET_NIGHTS",
+        "event": "TONY_COMICS"
+      },
+      {
+        "sector": "SECTOR_ABANDONED_GENERIC",
+        "event": "TONY_COMICS"
+      },
+      {
+        "sector": "SECTOR_ASTEROID_GENERIC",
+        "event": "TONY_COMICS"
+      },
+      {
+        "sector": "SECTOR_CLAN_UNIQUE",
+        "event": "TONY_COMICS"
+      },
+      {
+        "sector": "SECTOR_COALITION_UNIQUE",
+        "event": "TONY_COMICS"
+      },
+      {
+        "sector": "SECTOR_CONFEDERATE",
+        "event": "TONY_COMICS"
+      },
+      {
+        "sector": "SECTOR_CONFEDERATE_UNIQUE",
+        "event": "TONY_COMICS"
+      },
+      {
+        "sector": "SECTOR_FEDERATION",
+        "event": "TONY_COMICS"
+      },
+      {
+        "sector": "SECTOR_FEDERATION_UNIQUE",
+        "event": "TONY_COMICS"
+      },
+      {
+        "sector": "SECTOR_GATHERING",
+        "event": "TONY_COMICS"
+      },
+      {
+        "sector": "SECTOR_GATHERING_UNIQUE",
+        "event": "TONY_COMICS"
+      },
+      {
+        "sector": "SECTOR_IMPERIAL",
+        "event": "TONY_COMICS"
+      },
+      {
+        "sector": "SECTOR_IMPERIAL_UNIQUE",
+        "event": "TONY_COMICS"
+      },
+      {
+        "sector": "SECTOR_KLEPTOCRACY",
+        "event": "TONY_COMICS"
+      },
+      {
+        "sector": "SECTOR_KLEPTOCRACY_UNIQUE",
+        "event": "TONY_COMICS"
+      },
+      {
+        "sector": "SECTOR_MILITIA_UNIQUE",
+        "event": "TONY_COMICS"
+      },
+      {
+        "sector": "SECTOR_MINISTRY",
+        "event": "TONY_COMICS"
+      },
+      {
+        "sector": "SECTOR_MINISTRY_UNIQUE",
+        "event": "TONY_COMICS"
+      },
+      {
+        "sector": "SECTOR_OUTCAST",
+        "event": "TONY_COMICS"
+      },
+      {
+        "sector": "SECTOR_OUTCAST_UNIQUE",
+        "event": "TONY_COMICS"
+      },
+      {
+        "sector": "SECTOR_PIRATE",
+        "event": "TONY_COMICS"
+      },
+      {
+        "sector": "SECTOR_PIRATE_UNIQUE",
+        "event": "TONY_COMICS"
+      },
+      {
+        "sector": "SECTOR_REPUBLIC",
+        "event": "TONY_COMICS"
+      },
+      {
+        "sector": "SECTOR_REPUBLIC_UNIQUE",
+        "event": "TONY_COMICS"
+      },
+      {
+        "sector": "SECTOR_THEOCRACY",
+        "event": "TONY_COMICS"
+      },
+      {
+        "sector": "SECTOR_THEOCRACY_UNIQUE",
+        "event": "TONY_COMICS"
+      },
+      {
+        "sector": "SECTOR_UNEXPLORED_GENERIC",
+        "event": "TONY_COMICS"
+      },
+      {
+        "sector": "SECTOR_UNION",
+        "event": "TONY_COMICS"
+      },
+      {
+        "sector": "SECTOR_UNION_UNIQUE",
+        "event": "TONY_COMICS"
+      }
+    ]
   },
   {
     "augBlueprint": {
@@ -1094,7 +1301,125 @@
       "stackable": "false",
       "bp": "0",
       "_id": "COMIC_TULLY"
-    }
+    },
+    "sources": [
+      {
+        "sector": "SECRET_NIGHTS",
+        "event": "TONY_COMICS"
+      },
+      {
+        "sector": "SECTOR_ABANDONED_GENERIC",
+        "event": "TONY_COMICS"
+      },
+      {
+        "sector": "SECTOR_ASTEROID_GENERIC",
+        "event": "TONY_COMICS"
+      },
+      {
+        "sector": "SECTOR_CLAN_UNIQUE",
+        "event": "TONY_COMICS"
+      },
+      {
+        "sector": "SECTOR_COALITION_UNIQUE",
+        "event": "TONY_COMICS"
+      },
+      {
+        "sector": "SECTOR_CONFEDERATE",
+        "event": "TONY_COMICS"
+      },
+      {
+        "sector": "SECTOR_CONFEDERATE_UNIQUE",
+        "event": "TONY_COMICS"
+      },
+      {
+        "sector": "SECTOR_FEDERATION",
+        "event": "TONY_COMICS"
+      },
+      {
+        "sector": "SECTOR_FEDERATION_UNIQUE",
+        "event": "TONY_COMICS"
+      },
+      {
+        "sector": "SECTOR_GATHERING",
+        "event": "TONY_COMICS"
+      },
+      {
+        "sector": "SECTOR_GATHERING_UNIQUE",
+        "event": "TONY_COMICS"
+      },
+      {
+        "sector": "SECTOR_IMPERIAL",
+        "event": "TONY_COMICS"
+      },
+      {
+        "sector": "SECTOR_IMPERIAL_UNIQUE",
+        "event": "TONY_COMICS"
+      },
+      {
+        "sector": "SECTOR_KLEPTOCRACY",
+        "event": "TONY_COMICS"
+      },
+      {
+        "sector": "SECTOR_KLEPTOCRACY_UNIQUE",
+        "event": "TONY_COMICS"
+      },
+      {
+        "sector": "SECTOR_MILITIA_UNIQUE",
+        "event": "TONY_COMICS"
+      },
+      {
+        "sector": "SECTOR_MINISTRY",
+        "event": "TONY_COMICS"
+      },
+      {
+        "sector": "SECTOR_MINISTRY_UNIQUE",
+        "event": "TONY_COMICS"
+      },
+      {
+        "sector": "SECTOR_OUTCAST",
+        "event": "TONY_COMICS"
+      },
+      {
+        "sector": "SECTOR_OUTCAST_UNIQUE",
+        "event": "TONY_COMICS"
+      },
+      {
+        "sector": "SECTOR_PIRATE",
+        "event": "TONY_COMICS"
+      },
+      {
+        "sector": "SECTOR_PIRATE_UNIQUE",
+        "event": "TONY_COMICS"
+      },
+      {
+        "sector": "SECTOR_REPUBLIC",
+        "event": "TONY_COMICS"
+      },
+      {
+        "sector": "SECTOR_REPUBLIC_UNIQUE",
+        "event": "TONY_COMICS"
+      },
+      {
+        "sector": "SECTOR_THEOCRACY",
+        "event": "TONY_COMICS"
+      },
+      {
+        "sector": "SECTOR_THEOCRACY_UNIQUE",
+        "event": "TONY_COMICS"
+      },
+      {
+        "sector": "SECTOR_UNEXPLORED_GENERIC",
+        "event": "TONY_COMICS"
+      },
+      {
+        "sector": "SECTOR_UNION",
+        "event": "TONY_COMICS"
+      },
+      {
+        "sector": "SECTOR_UNION_UNIQUE",
+        "event": "TONY_COMICS"
+      }
+    ]
   },
   {
     "augBlueprint": {
@@ -1106,7 +1431,125 @@
       "stackable": "false",
       "bp": "0",
       "_id": "COMIC_WAR"
-    }
+    },
+    "sources": [
+      {
+        "sector": "SECRET_NIGHTS",
+        "event": "TONY_COMICS"
+      },
+      {
+        "sector": "SECTOR_ABANDONED_GENERIC",
+        "event": "TONY_COMICS"
+      },
+      {
+        "sector": "SECTOR_ASTEROID_GENERIC",
+        "event": "TONY_COMICS"
+      },
+      {
+        "sector": "SECTOR_CLAN_UNIQUE",
+        "event": "TONY_COMICS"
+      },
+      {
+        "sector": "SECTOR_COALITION_UNIQUE",
+        "event": "TONY_COMICS"
+      },
+      {
+        "sector": "SECTOR_CONFEDERATE",
+        "event": "TONY_COMICS"
+      },
+      {
+        "sector": "SECTOR_CONFEDERATE_UNIQUE",
+        "event": "TONY_COMICS"
+      },
+      {
+        "sector": "SECTOR_FEDERATION",
+        "event": "TONY_COMICS"
+      },
+      {
+        "sector": "SECTOR_FEDERATION_UNIQUE",
+        "event": "TONY_COMICS"
+      },
+      {
+        "sector": "SECTOR_GATHERING",
+        "event": "TONY_COMICS"
+      },
+      {
+        "sector": "SECTOR_GATHERING_UNIQUE",
+        "event": "TONY_COMICS"
+      },
+      {
+        "sector": "SECTOR_IMPERIAL",
+        "event": "TONY_COMICS"
+      },
+      {
+        "sector": "SECTOR_IMPERIAL_UNIQUE",
+        "event": "TONY_COMICS"
+      },
+      {
+        "sector": "SECTOR_KLEPTOCRACY",
+        "event": "TONY_COMICS"
+      },
+      {
+        "sector": "SECTOR_KLEPTOCRACY_UNIQUE",
+        "event": "TONY_COMICS"
+      },
+      {
+        "sector": "SECTOR_MILITIA_UNIQUE",
+        "event": "TONY_COMICS"
+      },
+      {
+        "sector": "SECTOR_MINISTRY",
+        "event": "TONY_COMICS"
+      },
+      {
+        "sector": "SECTOR_MINISTRY_UNIQUE",
+        "event": "TONY_COMICS"
+      },
+      {
+        "sector": "SECTOR_OUTCAST",
+        "event": "TONY_COMICS"
+      },
+      {
+        "sector": "SECTOR_OUTCAST_UNIQUE",
+        "event": "TONY_COMICS"
+      },
+      {
+        "sector": "SECTOR_PIRATE",
+        "event": "TONY_COMICS"
+      },
+      {
+        "sector": "SECTOR_PIRATE_UNIQUE",
+        "event": "TONY_COMICS"
+      },
+      {
+        "sector": "SECTOR_REPUBLIC",
+        "event": "TONY_COMICS"
+      },
+      {
+        "sector": "SECTOR_REPUBLIC_UNIQUE",
+        "event": "TONY_COMICS"
+      },
+      {
+        "sector": "SECTOR_THEOCRACY",
+        "event": "TONY_COMICS"
+      },
+      {
+        "sector": "SECTOR_THEOCRACY_UNIQUE",
+        "event": "TONY_COMICS"
+      },
+      {
+        "sector": "SECTOR_UNEXPLORED_GENERIC",
+        "event": "TONY_COMICS"
+      },
+      {
+        "sector": "SECTOR_UNION",
+        "event": "TONY_COMICS"
+      },
+      {
+        "sector": "SECTOR_UNION_UNIQUE",
+        "event": "TONY_COMICS"
+      }
+    ]
   },
   {
     "augBlueprint": {
@@ -1118,7 +1561,17 @@
       "stackable": "false",
       "bp": "0",
       "_id": "TRINKET_WAR"
-    }
+    },
+    "sources": [
+      {
+        "sector": "SECTOR_DYNASTY",
+        "event": "NEBULA_DYNASTY_TRINKETS_WAR"
+      },
+      {
+        "sector": "SECTOR_DYNASTY_UNIQUE",
+        "event": "NEBULA_DYNASTY_TRINKETS_WAR"
+      }
+    ]
   },
   {
     "augBlueprint": {
@@ -1130,7 +1583,17 @@
       "stackable": "false",
       "bp": "0",
       "_id": "TRINKET_SPEED"
-    }
+    },
+    "sources": [
+      {
+        "sector": "SECTOR_DYNASTY",
+        "event": "NEBULA_DYNASTY_TRINKETS_SPEED"
+      },
+      {
+        "sector": "SECTOR_DYNASTY_UNIQUE",
+        "event": "NEBULA_DYNASTY_TRINKETS_SPEED"
+      }
+    ]
   },
   {
     "augBlueprint": {
@@ -1142,7 +1605,17 @@
       "stackable": "false",
       "bp": "0",
       "_id": "TRINKET_SHIELD"
-    }
+    },
+    "sources": [
+      {
+        "sector": "SECTOR_DYNASTY",
+        "event": "NEBULA_DYNASTY_TRINKETS_SHIELD"
+      },
+      {
+        "sector": "SECTOR_DYNASTY_UNIQUE",
+        "event": "NEBULA_DYNASTY_TRINKETS_SHIELD"
+      }
+    ]
   },
   {
     "augBlueprint": {
@@ -1154,7 +1627,13 @@
       "stackable": "false",
       "bp": "0",
       "_id": "HAT_RANGER"
-    }
+    },
+    "sources": [
+      {
+        "sector": "SECRET_SYLVAN",
+        "event": "NEXUS_HAT"
+      }
+    ]
   },
   {
     "augBlueprint": {
@@ -1166,7 +1645,13 @@
       "stackable": "false",
       "bp": "0",
       "_id": "HAT_MASK"
-    }
+    },
+    "sources": [
+      {
+        "sector": "SECRET_SYLVAN",
+        "event": "NEXUS_HAT"
+      }
+    ]
   },
   {
     "augBlueprint": {
@@ -1178,7 +1663,13 @@
       "stackable": "false",
       "bp": "0",
       "_id": "HAT_FEDORA"
-    }
+    },
+    "sources": [
+      {
+        "sector": "SECRET_SYLVAN",
+        "event": "NEXUS_HAT"
+      }
+    ]
   },
   {
     "augBlueprint": {
@@ -1189,7 +1680,8 @@
       "rarity": "0",
       "stackable": "true",
       "_id": "UPG_ARM_SCRAP"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -1202,7 +1694,8 @@
       "stackable": "true",
       "value": "0.10",
       "_id": "SCRAP_COLLECTOR"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -1213,7 +1706,8 @@
       "rarity": "0",
       "stackable": "true",
       "_id": "UPG_ARM_MAGNETIC"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -1224,7 +1718,8 @@
       "rarity": "0",
       "stackable": "true",
       "_id": "MAGNET_ARM"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -1235,7 +1730,8 @@
       "rarity": "0",
       "stackable": "true",
       "_id": "UPG_ARM_DRONES"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -1247,7 +1743,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "DRONE_RECOVERY"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -1258,7 +1755,8 @@
       "rarity": "0",
       "stackable": "true",
       "_id": "UPG_ARM_REPAIR"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -1271,7 +1769,8 @@
       "stackable": "false",
       "value": "0.10",
       "_id": "REPAIR_ARM"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -1282,7 +1781,8 @@
       "rarity": "0",
       "stackable": "true",
       "_id": "UPG_TECH_SEALANT"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -1295,7 +1795,8 @@
       "stackable": "false",
       "value": "1.f",
       "_id": "EX_BREACH_SEALANT"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -1306,7 +1807,8 @@
       "rarity": "0",
       "stackable": "true",
       "_id": "UPG_TECH_EXTINGUISHERS"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -1319,7 +1821,13 @@
       "stackable": "false",
       "value": "1.f",
       "_id": "EX_FIRE_EXTINGUISHERS"
-    }
+    },
+    "sources": [
+      {
+        "sector": "SECTOR_UNEXPLORED_GENERIC",
+        "event": "WATER_PLANET_INVESTIGATE"
+      }
+    ]
   },
   {
     "augBlueprint": {
@@ -1330,7 +1838,8 @@
       "rarity": "0",
       "stackable": "true",
       "_id": "UPG_TECH_BYPASS"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -1343,7 +1852,13 @@
       "stackable": "false",
       "value": "0.0",
       "_id": "EX_ZOLTAN_BYPASS"
-    }
+    },
+    "sources": [
+      {
+        "sector": "SECTOR_FREEMANTIS_UNIQUE",
+        "event": "FREEMANTIS_ZOLTAN_KILLER"
+      }
+    ]
   },
   {
     "augBlueprint": {
@@ -1354,7 +1869,8 @@
       "rarity": "0",
       "stackable": "true",
       "_id": "UPG_TECH_LIFEFORM"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -1367,7 +1883,8 @@
       "stackable": "false",
       "value": "0.0",
       "_id": "EX_LIFE_SCANNER"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -1378,7 +1895,8 @@
       "rarity": "0",
       "stackable": "true",
       "_id": "UPG_TECH_SCRAMBLER"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -1389,7 +1907,8 @@
       "rarity": "0",
       "stackable": "true",
       "_id": "UPG_TECH_SCRAMBLER_ENEMY"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -1402,7 +1921,8 @@
       "stackable": "false",
       "value": "0.0",
       "_id": "EX_DEFENSE_SCRAMBLER"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -1413,7 +1933,8 @@
       "rarity": "0",
       "stackable": "true",
       "_id": "UPG_TECH_RESPIRATOR"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -1426,7 +1947,8 @@
       "stackable": "false",
       "value": "0.5",
       "_id": "EX_O2_MASKS"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -1437,7 +1959,8 @@
       "rarity": "0",
       "stackable": "true",
       "_id": "UPG_PILOT_REPAIR"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -1448,7 +1971,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "UPG_PILOT_REROUTE"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -1460,7 +1984,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "EX_PILOT_REROUTE"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -1471,7 +1996,8 @@
       "rarity": "0",
       "stackable": "true",
       "_id": "UPG_DOOR_NOPHASE"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -1482,7 +2008,8 @@
       "rarity": "0",
       "stackable": "true",
       "_id": "UPG_AETHER_ENGINES"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -1493,7 +2020,8 @@
       "rarity": "0",
       "stackable": "true",
       "_id": "UPG_AETHER_SCANNERS"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -1504,7 +2032,8 @@
       "rarity": "0",
       "stackable": "true",
       "_id": "UPG_AETHER_TRANSLATOR"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -1515,7 +2044,8 @@
       "rarity": "0",
       "stackable": "true",
       "_id": "UPG_AETHER_PREIGNITER"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -1526,7 +2056,8 @@
       "rarity": "0",
       "stackable": "true",
       "_id": "UPG_AETHER_SHIELDS"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -1538,7 +2069,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "UPG_ENGINES_JUMPER"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -1550,7 +2082,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "EX_FTL_JUMPER"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -1561,7 +2094,8 @@
       "rarity": "0",
       "stackable": "true",
       "_id": "UPG_ENGINES_PERFORMANCE"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -1574,7 +2108,8 @@
       "stackable": "true",
       "value": "0.3",
       "_id": "EX_FTL_BOOSTER"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -1585,7 +2120,8 @@
       "rarity": "0",
       "stackable": "true",
       "_id": "UPG_SHIELD_ION"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -1598,7 +2134,8 @@
       "stackable": "true",
       "value": "0.50",
       "_id": "EX_ION_ARMOR"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -1609,7 +2146,8 @@
       "rarity": "0",
       "stackable": "true",
       "_id": "UPG_SHIELDS_PERFORMANCE"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -1622,7 +2160,8 @@
       "stackable": "true",
       "value": "0.15",
       "_id": "EX_SHIELD_RECHARGE"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -1633,7 +2172,8 @@
       "rarity": "0",
       "stackable": "true",
       "_id": "UPG_SHIELDS_STUN"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -1644,7 +2184,8 @@
       "rarity": "0",
       "stackable": "true",
       "_id": "UPG_WEAPONS_PERFORMANCE"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -1657,7 +2198,13 @@
       "stackable": "true",
       "value": "0.10",
       "_id": "EX_AUTO_COOLDOWN"
-    }
+    },
+    "sources": [
+      {
+        "sector": "SECRET_NIGHTS",
+        "event": "KNIGHT_PALACE_RESOLUTION_SLOCKNOG_REAL"
+      }
+    ]
   },
   {
     "augBlueprint": {
@@ -1668,7 +2215,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "UPG_WEAPONS_REPLICATOR"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -1681,7 +2229,8 @@
       "stackable": "false",
       "value": "0.5",
       "_id": "EX_EXPLOSIVE_REPLICATOR"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -1692,7 +2241,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "UPG_ARTILLERY_TARGETING"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -1704,7 +2254,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "EX_ARTILLERY_TARGETING"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -1715,7 +2266,8 @@
       "rarity": "0",
       "stackable": "true",
       "_id": "UPG_CLOAK_FIRE"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -1728,7 +2280,8 @@
       "stackable": "false",
       "value": "0.15",
       "_id": "EX_CLOAK_FIRE"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -1739,7 +2292,8 @@
       "rarity": "0",
       "stackable": "true",
       "_id": "UPG_TELEPORTER_HEAL"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -1752,7 +2306,8 @@
       "stackable": "false",
       "value": "1.f",
       "_id": "EX_TELEPORT_HEAL"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -1764,7 +2319,8 @@
       "stackable": "true",
       "value": "3",
       "_id": "UPG_TELEPORTER_POWER"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -1775,7 +2331,8 @@
       "rarity": "0",
       "stackable": "true",
       "_id": "EX_MEDBAY_NANO"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -1786,7 +2343,8 @@
       "rarity": "0",
       "stackable": "true",
       "_id": "UPG_MEDBAY_NANO"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -1797,7 +2355,8 @@
       "rarity": "0",
       "stackable": "true",
       "_id": "EX_MEDBAY_SPEED"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -1808,7 +2367,8 @@
       "rarity": "0",
       "stackable": "true",
       "_id": "UPG_MEDBAY_SPEED"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -1819,7 +2379,8 @@
       "rarity": "0",
       "stackable": "true",
       "_id": "EX_MEDBAY_RESISTANCE"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -1830,7 +2391,8 @@
       "rarity": "0",
       "stackable": "true",
       "_id": "UPG_MEDBAY_RESISTANCE"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -1841,7 +2403,8 @@
       "rarity": "0",
       "stackable": "true",
       "_id": "UPG_CLONEBAY_DNA"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -1854,7 +2417,53 @@
       "stackable": "false",
       "value": "0.0",
       "_id": "EX_BACKUP_DNA"
-    }
+    },
+    "sources": [
+      {
+        "sector": "SECRET_NIGHTS",
+        "event": "STOREEVENT_SHELL_BIOLOGIST"
+      },
+      {
+        "sector": "SECTOR_CLAN_UNIQUE",
+        "event": "STOREEVENT_SHELL_BIOLOGIST"
+      },
+      {
+        "sector": "SECTOR_CONFEDERATE",
+        "event": "STOREEVENT_SHELL_BIOLOGIST"
+      },
+      {
+        "sector": "SECTOR_CONFEDERATE_UNIQUE",
+        "event": "STOREEVENT_SHELL_BIOLOGIST"
+      },
+      {
+        "sector": "SECTOR_DUSKBRINGER_UNIQUE",
+        "event": "DUSK_DNA_INSIDE"
+      },
+      {
+        "sector": "SECTOR_GENIOCRACY",
+        "event": "STOREEVENT_SHELL_BIOLOGIST"
+      },
+      {
+        "sector": "SECTOR_GENIOCRACY_UNIQUE",
+        "event": "STOREEVENT_SHELL_BIOLOGIST"
+      },
+      {
+        "sector": "SECTOR_KLEPTOCRACY",
+        "event": "STOREEVENT_SHELL_BIOLOGIST"
+      },
+      {
+        "sector": "SECTOR_KLEPTOCRACY_UNIQUE",
+        "event": "STOREEVENT_SHELL_BIOLOGIST"
+      },
+      {
+        "sector": "SECTOR_MORPH_UNIQUE",
+        "event": "STOREEVENT_SHELL_BIOLOGIST"
+      },
+      {
+        "sector": "SECTOR_UNEXPLORED_GENERIC",
+        "event": "STOREEVENT_SHELL_BIOLOGIST"
+      }
+    ]
   },
   {
     "augBlueprint": {
@@ -1865,7 +2474,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "UPG_DRONE_SPEED"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -1878,7 +2488,8 @@
       "value": "0.25",
       "stackable": "true",
       "_id": "EX_DRONE_SPEED"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -1889,7 +2500,8 @@
       "rarity": "0",
       "stackable": "true",
       "_id": "UPG_MIND_IMMUNITY"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -1902,7 +2514,8 @@
       "value": "2",
       "stackable": "false",
       "_id": "EX_MIND_IMMUNITY"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -1913,7 +2526,8 @@
       "rarity": "0",
       "stackable": "true",
       "_id": "UPG_MIND_BUFF"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -1926,7 +2540,8 @@
       "value": "2",
       "stackable": "false",
       "_id": "EX_MIND_BUFF"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -1937,7 +2552,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "UPG_MIND_KILLSWITCH"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -1948,7 +2564,8 @@
       "rarity": "0",
       "stackable": "true",
       "_id": "UPG_HACK_JAMMER"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -1961,7 +2578,13 @@
       "value": "2",
       "stackable": "false",
       "_id": "EX_FTL_JAMMER"
-    }
+    },
+    "sources": [
+      {
+        "sector": "SECTOR_CLAN_UNIQUE",
+        "event": "NEBULA_CLAN_JAMMER_SALESMAN"
+      }
+    ]
   },
   {
     "augBlueprint": {
@@ -1972,7 +2595,8 @@
       "rarity": "0",
       "stackable": "true",
       "_id": "UPG_HACK_STUN"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -1984,7 +2608,8 @@
       "stackable": "false",
       "value": "0.0",
       "_id": "EX_HACKING_STUN"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -1995,7 +2620,8 @@
       "rarity": "0",
       "stackable": "true",
       "_id": "UPG_BATTERY_BOOSTER"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -2008,7 +2634,8 @@
       "stackable": "false",
       "value": "0.5",
       "_id": "EX_BATTERY_BOOSTER"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -2019,7 +2646,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "DEBUG_GENERATOR"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -2030,7 +2658,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "UPG_BATTERY_GENERATOR"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -2041,7 +2670,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "EX_BATTERY_GENERATOR"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -2053,7 +2683,13 @@
       "stackable": "false",
       "bp": "0",
       "_id": "LAB_INSTALLED"
-    }
+    },
+    "sources": [
+      {
+        "sector": "SECTOR_HACKER_UNIQUE",
+        "event": "HOSPITAL_SAVED"
+      }
+    ]
   },
   {
     "augBlueprint": {
@@ -2065,7 +2701,13 @@
       "stackable": "false",
       "bp": "0",
       "_id": "LAB_UPGRADE"
-    }
+    },
+    "sources": [
+      {
+        "sector": "SECTOR_HACKER_UNIQUE",
+        "event": "HOSPITAL_SAVED"
+      }
+    ]
   },
   {
     "augBlueprint": {
@@ -2076,7 +2718,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "LAB_HUMAN_INSTALLED"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -2087,7 +2730,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "LAB_HUMAN_DIVERSE"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -2098,7 +2742,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "LAB_HUMAN_TEAMWORK"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -2109,7 +2754,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "LAB_HUMAN_INTUITION"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -2120,7 +2766,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "LAB_HUMAN_BASIC_SACRIFICE"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -2131,7 +2778,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "LAB_MEDIC_OATH"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -2142,7 +2790,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "LAB_ENGINEER_DRONES"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -2153,7 +2802,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "LAB_ENGI_INSTALLED"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -2164,7 +2814,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "LAB_ENGI_COMBAT"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -2175,7 +2826,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "EX_LAB_ENGI_COMBAT"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -2186,7 +2838,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "LAB_ENGI_EFFICIENCY"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -2197,7 +2850,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "LAB_ENGI_ADAPT"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -2208,7 +2862,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "EX_LAB_ENGI_ADAPT"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -2219,7 +2874,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "LAB_SEPARATIST_HEAL"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -2230,7 +2886,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "LAB_DEFENDER_REPAIRS"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -2241,7 +2898,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "LAB_ZOLTAN_INSTALLED"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -2252,7 +2910,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "LAB_ZOLTAN_OVERCLOCK"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -2263,7 +2922,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "EX_LAB_ZOLTAN_OVERCLOCK"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -2274,7 +2934,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "LAB_ZOLTAN_SHIELD"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -2285,7 +2946,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "LAB_ZOLTAN_EMITTER"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -2296,7 +2958,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "LAB_MONK_COMBAT"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -2307,7 +2970,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "LAB_ORCHID_INSTALLED"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -2318,7 +2982,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "LAB_ORCHID_THORNS"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -2329,7 +2994,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "LAB_ORCHID_PETRIFIED"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -2340,7 +3006,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "LAB_ORCHID_TOTIPOTENCY"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -2351,7 +3018,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "LAB_ORCHID_DEPRESSURIZED"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -2362,7 +3030,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "EX_LAB_ORCHID_DEPRESSURIZED"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -2373,7 +3042,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "LAB_CARETAKER_HAZARD"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -2384,7 +3054,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "LAB_VAMPWEED_HEAL"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -2395,7 +3066,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "LAB_MANTIS_INSTALLED"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -2406,7 +3078,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "LAB_MANTIS_MELEE"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -2417,7 +3090,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "LAB_MANTIS_FIRE"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -2428,7 +3102,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "LAB_MANTIS_SPEED"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -2439,7 +3114,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "LAB_SUZERAIN_SLAVES"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -2450,7 +3126,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "LAB_HIVE_SLASH"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -2461,7 +3138,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "EX_LAB_MANTIS_FIRE"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -2472,7 +3150,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "EX_LAB_SUZERAIN_SLAVES"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -2483,7 +3162,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "LAB_ROCK_INSTALLED"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -2494,7 +3174,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "LAB_ROCK_DOORS"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -2505,7 +3186,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "LAB_ROCK_SKIN"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -2516,7 +3198,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "LAB_ROCK_SPEED"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -2527,7 +3210,17 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "EX_LAB_ROCK_SKIN"
-    }
+    },
+    "sources": [
+      {
+        "sector": "SECTOR_OUTCAST",
+        "event": "OUTCAST_CHUNGUS_WIN"
+      },
+      {
+        "sector": "SECTOR_OUTCAST_UNIQUE",
+        "event": "OUTCAST_CHUNGUS_WIN"
+      }
+    ]
   },
   {
     "augBlueprint": {
@@ -2538,7 +3231,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "LAB_CULTIST_MIND"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -2549,7 +3243,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "EX_LAB_CULTIST_MIND"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -2560,7 +3255,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "LAB_CRYSTAL_INSTALLED"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -2571,7 +3267,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "LAB_CRYSTAL_SUFFOCATION"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -2582,7 +3279,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "LAB_CRYSTAL_SABOTAGE"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -2593,7 +3291,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "LAB_CRYSTAL_FIRE"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -2604,7 +3303,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "EX_LAB_CRYSTAL_SUFFOCATION"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -2615,7 +3315,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "LAB_SLUG_INSTALLED"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -2626,7 +3327,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "LAB_SLUG_STUN"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -2637,7 +3339,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "LAB_SLUG_BUFF"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -2648,7 +3351,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "LAB_SLUG_MIND"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -2659,7 +3363,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "LAB_SHELL_INSTALLED"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -2670,7 +3375,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "LAB_SHELL_SUFFOCATION"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -2681,7 +3387,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "LAB_SHELL_TELEPATHY"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -2692,7 +3399,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "LAB_SHELL_SPEED"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -2703,7 +3411,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "LAB_SCIENTIST_DOT"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -2714,7 +3423,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "LAB_MECH_REPAIR"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -2725,7 +3435,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "LAB_GUARDIAN_DEFEND"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -2736,7 +3447,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "LAB_LEECH_INSTALLED"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -2747,7 +3459,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "LAB_LEECH_DOOR"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -2758,7 +3471,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "LAB_LEECH_POWER"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -2769,7 +3483,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "LAB_LEECH_PARASITE"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -2780,7 +3495,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "LAB_LANIUS_INSTALLED"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -2791,7 +3507,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "LAB_LANIUS_RUST"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -2802,7 +3519,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "LAB_LANIUS_METAL"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -2813,7 +3531,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "LAB_LANIUS_HEALTH"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -2824,7 +3543,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "EX_LAB_LANIUS_HEALTH"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -2835,7 +3555,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "LAB_GHOST_INSTALLED"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -2846,7 +3567,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "LAB_GHOST_HEALTH"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -2857,7 +3579,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "LAB_GHOST_FIRE"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -2868,7 +3591,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "LAB_GHOST_SPEED"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -2879,7 +3603,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "LAB_VAGABOND_STABLE"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -2890,7 +3615,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "LAB_PHANTOM_SABOTAGE"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -2901,7 +3627,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "EX_LAB_GHOST_FIRE"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -2912,7 +3639,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "EX_LAB_PHANTOM_SABOTAGE"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -2923,7 +3651,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "LAB_MORPH_INSTALLED"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -2934,7 +3663,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "LAB_MORPH_FIRE"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -2945,7 +3675,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "LAB_MORPH_DOOR"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -2956,7 +3687,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "LAB_MORPH_HEALTH"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -2967,7 +3699,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "EX_LAB_MORPH_DOOR"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -2978,7 +3711,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "EX_LAB_MORPH_HEALTH"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -2989,7 +3723,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "LAB_TECHNO_BAY"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -3000,7 +3735,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "LAB_SPIDER_INSTALLED"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -3011,7 +3747,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "LAB_SPIDER_WEBS"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -3022,7 +3759,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "LAB_SPIDER_SILK"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -3033,7 +3771,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "LAB_SPIDER_PREDATOR"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -3044,7 +3783,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "EX_LAB_SPIDER_SILK"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -3055,7 +3795,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "EX_LAB_SPIDER_WEBS"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -3066,7 +3807,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "LAB_LIZARD_INSTALLED"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -3077,7 +3819,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "LAB_LIZARD_STRENGTH"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -3088,7 +3831,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "LAB_LIZARD_TECH"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -3099,7 +3843,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "LAB_LIZARD_FIRE"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -3110,7 +3855,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "EX_LAB_LIZARD_TECH"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -3121,7 +3867,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "LAB_ANCIENT_INSTALLED"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -3132,7 +3879,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "LAB_ANCIENT_MORTAL"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -3143,7 +3891,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "LAB_ANCIENT_NEURAL"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -3154,7 +3903,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "LAB_ANCIENT_ONEPUNCH"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -3165,7 +3915,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "EX_LAB_ANCIENT_ONEPUNCH"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -3176,7 +3927,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "LAB_COGNITIVE_INSTALLED"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -3187,7 +3939,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "LAB_COGNITIVE_RAGE"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -3198,7 +3951,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "LAB_COGNITIVE_FIRE"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -3209,7 +3963,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "LAB_COGNITIVE_POWER"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -3220,7 +3975,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "EX_LAB_COGNITIVE_RAGE"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -3231,7 +3987,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "JUDGE_BOON_HUMAN"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -3242,7 +3999,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "JUDGE_BOON_HUMAN_2"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -3253,7 +4011,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "JUDGE_BOON_ENGI"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -3264,7 +4023,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "JUDGE_BOON_ZOLTAN"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -3275,7 +4035,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "JUDGE_BOON_OSMIAN"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -3286,7 +4047,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "JUDGE_BOON_ORCHID"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -3297,7 +4059,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "JUDGE_BOON_MANTIS"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -3308,7 +4071,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "JUDGE_BOON_MANTIS_2"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -3319,7 +4083,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "JUDGE_BOON_ROCK"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -3330,7 +4095,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "JUDGE_BOON_ROCK_2"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -3341,7 +4107,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "JUDGE_BOON_CRYSTAL"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -3352,7 +4119,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "JUDGE_BOON_SLUG"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -3363,7 +4131,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "JUDGE_BOON_SLUG_2"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -3374,7 +4143,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "JUDGE_BOON_SHELL"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -3385,7 +4155,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "JUDGE_BOON_LEECH"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -3396,7 +4167,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "JUDGE_BOON_GHOST"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -3407,7 +4179,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "JUDGE_BOON_LANIUS"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -3418,7 +4191,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "JUDGE_BOON_MORPH"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -3429,7 +4203,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "JUDGE_BOON_LIZARD"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -3440,7 +4215,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "JUDGE_BOON_SPIDER"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -3451,7 +4227,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "JUDGE_BOON_OBELISK"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -3462,7 +4239,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "JUDGE_BOON_SIREN"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -3473,7 +4251,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "JUDGE_BOON_UNIQUE"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -3484,7 +4263,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "JUDGE_BOON_UNIQUEMECH"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -3495,7 +4275,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "JUDGE_BOON_KIDS"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -3506,7 +4287,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "JUDGE_BOON_WEAPONS"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -3517,7 +4299,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "JUDGE_BOON_SHIELDS"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -3528,7 +4311,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "JUDGE_BOON_ENGINES"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -3539,7 +4323,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "JUDGE_BOON_MEDBAY"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -3550,7 +4335,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "JUDGE_BOON_CLONEBAY"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -3561,7 +4347,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "JUDGE_BOON_OXYGEN"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -3572,7 +4359,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "JUDGE_BOON_TELEPORTER"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -3583,7 +4371,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "JUDGE_BOON_MIND"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -3594,7 +4383,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "JUDGE_BOON_HACKING"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -3605,7 +4395,8 @@
       "rarity": "0",
       "stackable": "true",
       "_id": "JUDGE_BOON_CLOAKING"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -3616,7 +4407,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "JUDGE_BOON_TEMPORAL"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -3627,7 +4419,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "JUDGE_BOON_DRONES"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -3638,7 +4431,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "JUDGE_BOON_DOORS"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -3649,7 +4443,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "JUDGE_BOON_PILOT"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -3660,7 +4455,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "JUDGE_BOON_BATTERY"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -3671,7 +4467,8 @@
       "rarity": "0",
       "stackable": "true",
       "_id": "JUDGE_BOON_CRYSTALELITE"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -3682,7 +4479,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "JUDGE_BOON_NEWGEN"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -3693,7 +4491,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "JUDGE_BOON_AETHER"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -3704,7 +4503,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "JUDGE_BOON_SPECIAL"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -3715,7 +4515,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "JUDGE_BOON_TRANSPORT"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -3726,7 +4527,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "JUDGE_BOON_MATH"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -3737,7 +4539,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "JUDGE_BOON_RENEGADE"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -3748,7 +4551,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "JUDGE_BOON_CURA"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -3759,7 +4563,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "JUDGE_BOON_SENTRY"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -3770,7 +4575,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "JUDGE_BOON_GATLING"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -3781,7 +4587,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "JUDGE_BOON_MADNESS"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -3793,7 +4600,8 @@
       "rarity": "0",
       "stackable": "true",
       "_id": "OBSIDIAN_ARMOR_1"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -3805,7 +4613,8 @@
       "rarity": "0",
       "stackable": "true",
       "_id": "OBSIDIAN_ARMOR_2"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -3817,7 +4626,8 @@
       "rarity": "0",
       "stackable": "true",
       "_id": "OBSIDIAN_ARMOR_3"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -3829,7 +4639,8 @@
       "rarity": "0",
       "stackable": "true",
       "_id": "OBSIDIAN_ARMOR_4"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -3841,7 +4652,8 @@
       "rarity": "0",
       "stackable": "true",
       "_id": "OBSIDIAN_ARMOR_5"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -3853,7 +4665,8 @@
       "rarity": "0",
       "stackable": "true",
       "_id": "OBSIDIAN_ARMOR_6"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -3865,7 +4678,8 @@
       "rarity": "0",
       "stackable": "true",
       "_id": "OBSIDIAN_ARMOR_7"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -3877,7 +4691,8 @@
       "rarity": "0",
       "stackable": "true",
       "_id": "OBSIDIAN_ARMOR_8"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -3889,7 +4704,8 @@
       "rarity": "0",
       "stackable": "true",
       "_id": "OBSIDIAN_ARMOR_9"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -3901,7 +4717,8 @@
       "rarity": "0",
       "stackable": "true",
       "_id": "OBSIDIAN_ARMOR_10"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -3913,7 +4730,8 @@
       "rarity": "0",
       "stackable": "true",
       "_id": "OBSIDIAN_ARMOR_11"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -3925,7 +4743,8 @@
       "rarity": "0",
       "stackable": "true",
       "_id": "OBSIDIAN_ARMOR_12"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -3937,7 +4756,8 @@
       "rarity": "0",
       "stackable": "true",
       "_id": "OBSIDIAN_ARMOR_13"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -3949,7 +4769,8 @@
       "rarity": "0",
       "stackable": "true",
       "_id": "OBSIDIAN_ARMOR_ION"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -3961,7 +4782,8 @@
       "rarity": "0",
       "stackable": "true",
       "_id": "OBSIDIAN_ARMOR_SYSTEM"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -3973,7 +4795,8 @@
       "rarity": "0",
       "stackable": "true",
       "_id": "OBSIDIAN_ARMOR_SHARD"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -3986,7 +4809,8 @@
       "value": "3",
       "stackable": "false",
       "_id": "FTL_JUMPER_GOOD"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -3999,7 +4823,8 @@
       "value": "7",
       "stackable": "false",
       "_id": "SECTOR_SCANNER"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -4011,7 +4836,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "BOARDER_RECOVERY"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -4023,7 +4849,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "MIND_ORDER"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -4035,7 +4862,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "ARTILLERY_ORDER"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -4046,7 +4874,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "TELEPORT_RECALL"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -4058,7 +4887,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "FTL_JUMPER_SCANNER"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -4070,7 +4900,13 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "ADV_SCANNERS_CLOAK"
-    }
+    },
+    "sources": [
+      {
+        "sector": "SECTOR_STARGROVE_UNIQUE",
+        "event": "STARGROVE_AUTOSHIP_RETURN"
+      }
+    ]
   },
   {
     "augBlueprint": {
@@ -4082,7 +4918,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "ASTROMETRICS"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -4094,7 +4931,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "PECULIAR_GAS"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -4107,7 +4945,8 @@
       "value": "3",
       "stackable": "false",
       "_id": "MULTIVERSE_DRIVE_GOOD"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -4120,7 +4959,8 @@
       "value": "3",
       "stackable": "false",
       "_id": "MULTIVERSE_DRIVE"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -4133,7 +4973,8 @@
       "value": "0",
       "stackable": "false",
       "_id": "EX_PAYLOAD_CREATOR"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -4146,7 +4987,8 @@
       "value": "0",
       "stackable": "false",
       "_id": "PAYLOAD_CREATOR"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -4159,7 +5001,8 @@
       "value": "0",
       "stackable": "false",
       "_id": "ATM_MACHINE"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -4172,7 +5015,8 @@
       "value": "0",
       "stackable": "false",
       "_id": "INFINITE_BEANS"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -4184,7 +5028,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "EXTRA_LIFE"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -4196,7 +5041,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "MODULAR_STORE"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -4208,7 +5054,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "SUICIDE_BUTTON"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -4220,7 +5067,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "EMERGENCY_DRIVE"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -4232,7 +5080,8 @@
       "rarity": "0",
       "stackable": "true",
       "_id": "SUPER_ARMOR"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -4244,7 +5093,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "EQUINOID_DUPLICATOR"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -4256,7 +5106,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "STORY_TELLER"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -4267,7 +5118,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "SOLAR_PANELS"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -4278,7 +5130,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "FLEET_LURE"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -4290,7 +5143,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "GOLD_ARMOR"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -4302,7 +5156,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "SCRAP_HULL"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -4313,7 +5168,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "GHOST_SPAWNER"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -4324,7 +5180,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "ZOLTAN_SPAWNER"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -4335,7 +5192,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "LOCKED_GLOBAL_TELEPORT"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -4346,7 +5204,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "LOCKED_SHIP_TELEPORT"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -4357,7 +5216,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "SLUG_DUPLICATOR"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -4368,7 +5228,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "SLUG_DUPLICATOR_GHOST"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -4380,7 +5241,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "LOCKED_XENOPHOBIA"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -4392,7 +5254,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "LOCKED_NEWORDER"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -4404,7 +5267,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "MEDBAY_DEFENSE"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -4417,7 +5281,8 @@
       "value": "0",
       "stackable": "false",
       "_id": "CURA_SURGES_DRONES"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -4430,7 +5295,8 @@
       "value": "0",
       "stackable": "false",
       "_id": "CURA_SURGES_FIRE"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -4443,7 +5309,8 @@
       "value": "0",
       "stackable": "false",
       "_id": "CURA_SURGES_DAMAGE"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -4455,7 +5322,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "CRYSTAL_ARMOR_100"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -4466,7 +5334,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "STORE_BEACON_SYLVAN"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -4477,7 +5346,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "GATLING_MAKER"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -4488,7 +5358,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "STORE_BEACON_SUPER"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -4500,7 +5371,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "SYLVAN_SHIELD"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -4512,7 +5384,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "LOCKED_SYLVAN_SHIELD"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -4524,7 +5397,197 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "SYLVAN_SHIELD_REWARD"
-    }
+    },
+    "sources": [
+      {
+        "sector": "FINAL",
+        "event": "SYLVAN_DESTRUCTION_2_SHIELD"
+      },
+      {
+        "sector": "SECRET_HEKTAR",
+        "event": "SYLVAN_DESTRUCTION_NEXUSPORTAL"
+      },
+      {
+        "sector": "SECRET_NIGHTS",
+        "event": "SYLVAN_DESTRUCTION_2_SHIELD"
+      },
+      {
+        "sector": "SECTOR_ABANDONED_GENERIC",
+        "event": "SYLVAN_DESTRUCTION_2_SHIELD"
+      },
+      {
+        "sector": "SECTOR_ABANDONED_GENERIC_HEKTAR",
+        "event": "SYLVAN_DESTRUCTION_2_SHIELD"
+      },
+      {
+        "sector": "SECTOR_ASTEROID_GENERIC",
+        "event": "SYLVAN_DESTRUCTION_2_SHIELD"
+      },
+      {
+        "sector": "SECTOR_COALITION_UNIQUE",
+        "event": "SYLVAN_DESTRUCTION_2_SHIELD"
+      },
+      {
+        "sector": "SECTOR_CONFEDERATE",
+        "event": "SYLVAN_DESTRUCTION_2_SHIELD"
+      },
+      {
+        "sector": "SECTOR_CONFEDERATE_UNIQUE",
+        "event": "SYLVAN_DESTRUCTION_2_SHIELD"
+      },
+      {
+        "sector": "SECTOR_DYNASTY",
+        "event": "SYLVAN_DESTRUCTION_2_SHIELD"
+      },
+      {
+        "sector": "SECTOR_DYNASTY_UNIQUE",
+        "event": "SYLVAN_DESTRUCTION_2_SHIELD"
+      },
+      {
+        "sector": "SECTOR_FEDERATION",
+        "event": "SYLVAN_DESTRUCTION_2_SHIELD"
+      },
+      {
+        "sector": "SECTOR_FEDERATION_UNIQUE",
+        "event": "SYLVAN_DESTRUCTION_2_SHIELD"
+      },
+      {
+        "sector": "SECTOR_FREEMANTIS",
+        "event": "SYLVAN_DESTRUCTION_2_SHIELD"
+      },
+      {
+        "sector": "SECTOR_FREEMANTIS_UNIQUE",
+        "event": "SYLVAN_DESTRUCTION_2_SHIELD"
+      },
+      {
+        "sector": "SECTOR_GATHERING",
+        "event": "SYLVAN_DESTRUCTION_2_SHIELD"
+      },
+      {
+        "sector": "SECTOR_GATHERING_UNIQUE",
+        "event": "SYLVAN_DESTRUCTION_2_SHIELD"
+      },
+      {
+        "sector": "SECTOR_GENIOCRACY",
+        "event": "SYLVAN_DESTRUCTION_2_SHIELD"
+      },
+      {
+        "sector": "SECTOR_GENIOCRACY_UNIQUE",
+        "event": "SYLVAN_DESTRUCTION_2_SHIELD"
+      },
+      {
+        "sector": "SECTOR_HARMONY",
+        "event": "SYLVAN_DESTRUCTION_2_SHIELD"
+      },
+      {
+        "sector": "SECTOR_HARMONY_UNIQUE",
+        "event": "SYLVAN_DESTRUCTION_2_SHIELD"
+      },
+      {
+        "sector": "SECTOR_IMPERIAL",
+        "event": "SYLVAN_DESTRUCTION_2_SHIELD"
+      },
+      {
+        "sector": "SECTOR_IMPERIAL_UNIQUE",
+        "event": "SYLVAN_DESTRUCTION_2_SHIELD"
+      },
+      {
+        "sector": "SECTOR_KLEPTOCRACY",
+        "event": "SYLVAN_DESTRUCTION_2_SHIELD"
+      },
+      {
+        "sector": "SECTOR_KLEPTOCRACY_HEKTAR",
+        "event": "SYLVAN_DESTRUCTION_2_SHIELD"
+      },
+      {
+        "sector": "SECTOR_KLEPTOCRACY_UNIQUE",
+        "event": "SYLVAN_DESTRUCTION_2_SHIELD"
+      },
+      {
+        "sector": "SECTOR_MILITIA_UNIQUE",
+        "event": "SYLVAN_DESTRUCTION_2_SHIELD"
+      },
+      {
+        "sector": "SECTOR_MINISTRY",
+        "event": "SYLVAN_DESTRUCTION_2_SHIELD"
+      },
+      {
+        "sector": "SECTOR_MINISTRY_UNIQUE",
+        "event": "SYLVAN_DESTRUCTION_2_SHIELD"
+      },
+      {
+        "sector": "SECTOR_MONK_UNIQUE",
+        "event": "SYLVAN_DESTRUCTION_2_SHIELD"
+      },
+      {
+        "sector": "SECTOR_MORPH_UNIQUE",
+        "event": "SYLVAN_DESTRUCTION_2_SHIELD"
+      },
+      {
+        "sector": "SECTOR_OUTCAST",
+        "event": "SYLVAN_DESTRUCTION_2_SHIELD"
+      },
+      {
+        "sector": "SECTOR_OUTCAST_UNIQUE",
+        "event": "SYLVAN_DESTRUCTION_2_SHIELD"
+      },
+      {
+        "sector": "SECTOR_PIRATE",
+        "event": "SYLVAN_DESTRUCTION_2_SHIELD"
+      },
+      {
+        "sector": "SECTOR_PIRATE_HEKTAR",
+        "event": "SYLVAN_DESTRUCTION_2_SHIELD"
+      },
+      {
+        "sector": "SECTOR_PIRATE_UNIQUE",
+        "event": "SYLVAN_DESTRUCTION_2_SHIELD"
+      },
+      {
+        "sector": "SECTOR_REPUBLIC",
+        "event": "SYLVAN_DESTRUCTION_2_SHIELD"
+      },
+      {
+        "sector": "SECTOR_REPUBLIC_HEKTAR",
+        "event": "SYLVAN_DESTRUCTION_2_SHIELD"
+      },
+      {
+        "sector": "SECTOR_REPUBLIC_UNIQUE",
+        "event": "SYLVAN_DESTRUCTION_2_SHIELD"
+      },
+      {
+        "sector": "SECTOR_SEPARATIST",
+        "event": "SYLVAN_DESTRUCTION_2_SHIELD"
+      },
+      {
+        "sector": "SECTOR_SEPARATIST_UNIQUE",
+        "event": "SYLVAN_DESTRUCTION_2_SHIELD"
+      },
+      {
+        "sector": "SECTOR_UNEXPLORED_GENERIC",
+        "event": "SYLVAN_DESTRUCTION_2_SHIELD"
+      },
+      {
+        "sector": "SECTOR_UNION",
+        "event": "SYLVAN_DESTRUCTION_2_SHIELD"
+      },
+      {
+        "sector": "SECTOR_UNION_UNIQUE",
+        "event": "SYLVAN_DESTRUCTION_2_SHIELD"
+      },
+      {
+        "sector": "SECTOR_VAGABOND",
+        "event": "SYLVAN_DESTRUCTION_2_SHIELD"
+      },
+      {
+        "sector": "SECTOR_VAGABOND_UNIQUE",
+        "event": "SYLVAN_DESTRUCTION_2_SHIELD"
+      },
+      {
+        "sector": "STANDARD_SPACE",
+        "event": "SYLVAN_DESTRUCTION_2_SHIELD"
+      }
+    ]
   },
   {
     "augBlueprint": {
@@ -4536,7 +5599,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "SYLVAN_SHIELD_CONTINUITY"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -4548,7 +5612,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "LOCKED_SYLVAN_SHIELD_CONTINUITY"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -4560,7 +5625,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "SYLVAN_SHIELD_CONTINUITY_PROBE"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -4572,7 +5638,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "SYLVAN_SHIELD_PRIME"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -4584,7 +5651,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "CHUNGUS_MAKER"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -4594,7 +5662,8 @@
       "cost": "999",
       "stackable": "false",
       "_id": "CREW_STIMS_ULTRA"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -4606,7 +5675,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "FLAGSHIP_SHIELD"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -4618,7 +5688,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "FLAGSHIP_SHIELD_FULL"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -4630,7 +5701,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "SYSTEM_UNBREAKING"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -4642,7 +5714,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "HULL_UNBREAKING"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -4654,7 +5727,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "ENEMY_RESIST_50"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -4666,7 +5740,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "NO_GHOST"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -4678,7 +5753,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "NO_SUFFOCATE"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -4690,7 +5766,8 @@
       "rarity": "0",
       "stackable": "true",
       "_id": "LOCKED_UNION_JACKETS"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -4702,7 +5779,8 @@
       "rarity": "0",
       "stackable": "true",
       "_id": "UNION_JACKETS"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -4715,7 +5793,13 @@
       "stackable": "true",
       "value": "0.17",
       "_id": "ROCK_ARMOR"
-    }
+    },
+    "sources": [
+      {
+        "sector": "SECTOR_COALITION_UNIQUE",
+        "event": "RECON_EXPLAIN_MISSION"
+      }
+    ]
   },
   {
     "augBlueprint": {
@@ -4727,7 +5811,8 @@
       "rarity": "0",
       "stackable": "true",
       "_id": "LOCKED_ROCK_ARMOR"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -4740,7 +5825,8 @@
       "stackable": "true",
       "value": "0.4",
       "_id": "PALADIN_ARMOR"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -4753,7 +5839,8 @@
       "stackable": "true",
       "value": "0.4",
       "_id": "LOCKED_PALADIN_ARMOR"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -4766,7 +5853,8 @@
       "stackable": "true",
       "value": "0.5",
       "_id": "PALADIN_ARMOR_PLAYER"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -4778,7 +5866,8 @@
       "rarity": "0",
       "stackable": "true",
       "_id": "SALT_ARMOR"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -4790,7 +5879,8 @@
       "rarity": "0",
       "stackable": "true",
       "_id": "REGEN_ARMOR"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -4802,7 +5892,8 @@
       "rarity": "0",
       "stackable": "true",
       "_id": "LOCKED_REGEN_ARMOR"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -4815,7 +5906,8 @@
       "stackable": "true",
       "value": "0.3",
       "_id": "CRYSTAL_ARMOR_ENEMY"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -4828,7 +5920,8 @@
       "stackable": "true",
       "value": "0.75",
       "_id": "CRYSTAL_ARMOR"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -4840,7 +5933,8 @@
       "rarity": "0",
       "stackable": "true",
       "_id": "LOCKED_CRYSTAL_ARMOR"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -4853,7 +5947,13 @@
       "stackable": "false",
       "value": "2",
       "_id": "ENERGY_SHIELD"
-    }
+    },
+    "sources": [
+      {
+        "sector": "SECTOR_MONK_UNIQUE",
+        "event": "MONK_PEACE_QUEST_REWARD"
+      }
+    ]
   },
   {
     "augBlueprint": {
@@ -4866,7 +5966,8 @@
       "stackable": "false",
       "value": "2",
       "_id": "LOCKED_ENERGY_SHIELD"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -4878,7 +5979,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "OSMIAN_BATTERIES"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -4891,7 +5993,8 @@
       "stackable": "false",
       "value": "1",
       "_id": "SLUG_GEL"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -4904,7 +6007,8 @@
       "stackable": "false",
       "value": "1",
       "_id": "LOCKED_SLUG_GEL"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -4917,7 +6021,8 @@
       "stackable": "false",
       "value": "1",
       "_id": "HEKTAR_GEL"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -4930,7 +6035,8 @@
       "stackable": "false",
       "value": "1",
       "_id": "PLEASURE_GEL"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -4943,7 +6049,13 @@
       "value": "0",
       "stackable": "false",
       "_id": "CREW_STIMS"
-    }
+    },
+    "sources": [
+      {
+        "sector": "SECTOR_CLAN_UNIQUE",
+        "event": "NEBULA_CLAN_PHEROMONES"
+      }
+    ]
   },
   {
     "augBlueprint": {
@@ -4955,7 +6067,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "LOCKED_CREW_STIMS"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -4967,7 +6080,13 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "SUPER_CREW_STIMS"
-    }
+    },
+    "sources": [
+      {
+        "sector": "SECTOR_FREEMANTIS_UNIQUE",
+        "event": "FREEMANTIS_PHEROMONES_WIN"
+      }
+    ]
   },
   {
     "augBlueprint": {
@@ -4979,7 +6098,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "LOCKED_SUPER_CREW_STIMS"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -4991,7 +6111,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "LOCKED_ELITE_STIMS"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -5003,7 +6124,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "SUZERAIN_CREW_STIMS"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -5015,7 +6137,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "LOCKED_SUZERAIN_CREW_STIMS"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -5027,7 +6150,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "KERNEL_REPLICATOR"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -5039,7 +6163,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "LOCKED_KERNEL_REPLICATOR"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -5051,7 +6176,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "CARETAKER_BUFF"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -5063,7 +6189,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "PRAETOR_BUFF"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -5075,7 +6202,8 @@
       "rarity": "0",
       "stackable": "true",
       "_id": "LOCKED_WOOD_PLATING"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -5087,7 +6215,8 @@
       "rarity": "0",
       "stackable": "true",
       "_id": "WOOD_PLATING"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -5099,7 +6228,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "SPORE_AIR_TOXIC"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -5111,7 +6241,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "SPORE_AIR_BUFF"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -5123,7 +6254,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "SPORE_AIR_ELITE"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -5135,7 +6267,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "SPORE_AIR_STRONG"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -5147,7 +6280,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "SPORE_SHIPMENT"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -5159,7 +6293,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "MORPH_DATABASE"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -5171,7 +6306,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "MORPH_DATABASE_ADV"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -5183,7 +6319,13 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "TOXIC_GAS"
-    }
+    },
+    "sources": [
+      {
+        "sector": "SECTOR_GENIOCRACY_UNIQUE",
+        "event": "SHIP_SHELL_DONUTBOSS.deadCrew"
+      }
+    ]
   },
   {
     "augBlueprint": {
@@ -5195,7 +6337,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "LOCKED_TOXIC_GAS"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -5207,7 +6350,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "RADIANT_GAS"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -5219,7 +6363,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "NANITE_GAS"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -5231,7 +6376,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "LOCKED_NANITE_GAS"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -5243,7 +6389,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "REGEN_GAS"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -5255,7 +6402,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "LOCKED_REGEN_GAS"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -5267,7 +6415,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "REPAIR_HULL"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -5279,7 +6428,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "LOCKED_COAL_AUG"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -5291,7 +6441,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "ANTICOAL_AUG"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -5303,7 +6454,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "ANTICOAL_AUG_CHAOS"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -5315,7 +6467,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "ANCIENT_PREIGNITE"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -5327,7 +6480,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "ANCIENT_REPLICATOR"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -5339,7 +6493,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "ANCIENT_PROTECTANT"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -5351,7 +6506,13 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "ANCIENT_DNA"
-    }
+    },
+    "sources": [
+      {
+        "sector": "SECTOR_DUSKBRINGER_UNIQUE",
+        "event": "DUSK_INFILTRATION_TECH"
+      }
+    ]
   },
   {
     "augBlueprint": {
@@ -5363,7 +6524,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "ANCIENT_SHIELD"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -5375,7 +6537,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "ROYAL_SHIELD"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -5387,7 +6550,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "ANCIENT_SHIELD_PLAYER"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -5399,7 +6563,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "LOCKED_ANCIENT_SHIELD"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -5411,7 +6576,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "ROYAL_SHIELD_PLAYER"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -5423,7 +6589,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "LOCKED_ROYAL_SHIELD"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -5435,7 +6602,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "SIREN_ENEMY_MC"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -5447,7 +6615,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "RHYME_SHIELDS"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -5459,7 +6628,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "RHYME_SHIELDS_B"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -5471,7 +6641,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "RHYME_SHIELDS_C"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -5483,7 +6654,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "CHAOS"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -5494,7 +6666,21 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "COMBAT_PANIC_BUTTON"
-    }
+    },
+    "sources": [
+      {
+        "sector": "SECTOR_KLEPTOCRACY",
+        "event": "NEBULA_SLUG_MYSTERIOUS_TECH"
+      },
+      {
+        "sector": "SECTOR_KLEPTOCRACY_HEKTAR",
+        "event": "NEBULA_SLUG_MYSTERIOUS_TECH"
+      },
+      {
+        "sector": "SECTOR_KLEPTOCRACY_UNIQUE",
+        "event": "NEBULA_SLUG_MYSTERIOUS_TECH"
+      }
+    ]
   },
   {
     "augBlueprint": {
@@ -5505,7 +6691,13 @@
       "rarity": "3",
       "stackable": "true",
       "_id": "COMBAT_EXPLOSIVE"
-    }
+    },
+    "sources": [
+      {
+        "sector": "SECRET_AUGMENTED",
+        "event": "STOREEVENT_AUGMENTED_GRUDGE"
+      }
+    ]
   },
   {
     "augBlueprint": {
@@ -5516,7 +6708,8 @@
       "rarity": "4",
       "stackable": "false",
       "_id": "EXTRA_PREP"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -5527,7 +6720,8 @@
       "rarity": "5",
       "stackable": "false",
       "_id": "COMBAT_REPAIR"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -5538,7 +6732,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "COMBAT_HAZARD"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -5549,7 +6744,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "COMBAT_IONSTORM"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -5560,7 +6756,45 @@
       "rarity": "4",
       "stackable": "false",
       "_id": "COMBAT_WEAPON_JAMMER"
-    }
+    },
+    "sources": [
+      {
+        "sector": "SECRET_AUGMENTED",
+        "event": "STOREEVENT_DYNASTY_DOOMSDAY"
+      },
+      {
+        "sector": "SECTOR_ABANDONED_GENERIC",
+        "event": "STOREEVENT_DYNASTY_DOOMSDAY"
+      },
+      {
+        "sector": "SECTOR_ASTEROID_GENERIC",
+        "event": "STOREEVENT_DYNASTY_DOOMSDAY"
+      },
+      {
+        "sector": "SECTOR_CLAN_UNIQUE",
+        "event": "NEBULA_CLAN_JAMMER_SALESMAN"
+      },
+      {
+        "sector": "SECTOR_DYNASTY",
+        "event": "STOREEVENT_DYNASTY_DOOMSDAY"
+      },
+      {
+        "sector": "SECTOR_DYNASTY_UNIQUE",
+        "event": "STOREEVENT_DYNASTY_DOOMSDAY"
+      },
+      {
+        "sector": "SECTOR_UNEXPLORED_GENERIC",
+        "event": "STOREEVENT_DYNASTY_DOOMSDAY"
+      },
+      {
+        "sector": "SECTOR_VAGABOND",
+        "event": "STOREEVENT_DYNASTY_DOOMSDAY"
+      },
+      {
+        "sector": "SECTOR_VAGABOND_UNIQUE",
+        "event": "STOREEVENT_DYNASTY_DOOMSDAY"
+      }
+    ]
   },
   {
     "augBlueprint": {
@@ -5571,7 +6805,45 @@
       "rarity": "4",
       "stackable": "false",
       "_id": "COMBAT_SHIELDS_JAMMER"
-    }
+    },
+    "sources": [
+      {
+        "sector": "SECRET_AUGMENTED",
+        "event": "STOREEVENT_DYNASTY_DOOMSDAY"
+      },
+      {
+        "sector": "SECTOR_ABANDONED_GENERIC",
+        "event": "STOREEVENT_DYNASTY_DOOMSDAY"
+      },
+      {
+        "sector": "SECTOR_ASTEROID_GENERIC",
+        "event": "STOREEVENT_DYNASTY_DOOMSDAY"
+      },
+      {
+        "sector": "SECTOR_CLAN_UNIQUE",
+        "event": "NEBULA_CLAN_JAMMER_SALESMAN"
+      },
+      {
+        "sector": "SECTOR_DYNASTY",
+        "event": "STOREEVENT_DYNASTY_DOOMSDAY"
+      },
+      {
+        "sector": "SECTOR_DYNASTY_UNIQUE",
+        "event": "STOREEVENT_DYNASTY_DOOMSDAY"
+      },
+      {
+        "sector": "SECTOR_UNEXPLORED_GENERIC",
+        "event": "STOREEVENT_DYNASTY_DOOMSDAY"
+      },
+      {
+        "sector": "SECTOR_VAGABOND",
+        "event": "STOREEVENT_DYNASTY_DOOMSDAY"
+      },
+      {
+        "sector": "SECTOR_VAGABOND_UNIQUE",
+        "event": "STOREEVENT_DYNASTY_DOOMSDAY"
+      }
+    ]
   },
   {
     "augBlueprint": {
@@ -5582,7 +6854,45 @@
       "rarity": "3",
       "stackable": "false",
       "_id": "COMBAT_ENGINE_JAMMER"
-    }
+    },
+    "sources": [
+      {
+        "sector": "SECRET_AUGMENTED",
+        "event": "STOREEVENT_DYNASTY_DOOMSDAY"
+      },
+      {
+        "sector": "SECTOR_ABANDONED_GENERIC",
+        "event": "STOREEVENT_DYNASTY_DOOMSDAY"
+      },
+      {
+        "sector": "SECTOR_ASTEROID_GENERIC",
+        "event": "STOREEVENT_DYNASTY_DOOMSDAY"
+      },
+      {
+        "sector": "SECTOR_CLAN_UNIQUE",
+        "event": "NEBULA_CLAN_JAMMER_SALESMAN"
+      },
+      {
+        "sector": "SECTOR_DYNASTY",
+        "event": "STOREEVENT_DYNASTY_DOOMSDAY"
+      },
+      {
+        "sector": "SECTOR_DYNASTY_UNIQUE",
+        "event": "STOREEVENT_DYNASTY_DOOMSDAY"
+      },
+      {
+        "sector": "SECTOR_UNEXPLORED_GENERIC",
+        "event": "STOREEVENT_DYNASTY_DOOMSDAY"
+      },
+      {
+        "sector": "SECTOR_VAGABOND",
+        "event": "STOREEVENT_DYNASTY_DOOMSDAY"
+      },
+      {
+        "sector": "SECTOR_VAGABOND_UNIQUE",
+        "event": "STOREEVENT_DYNASTY_DOOMSDAY"
+      }
+    ]
   },
   {
     "augBlueprint": {
@@ -5593,7 +6903,13 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "COMBAT_PILOT_JAMMER"
-    }
+    },
+    "sources": [
+      {
+        "sector": "SECTOR_DYNASTY_UNIQUE",
+        "event": "NEBULA_DYNASTY_UNIQUE_HACKERBID"
+      }
+    ]
   },
   {
     "augBlueprint": {
@@ -5604,7 +6920,45 @@
       "rarity": "5",
       "stackable": "false",
       "_id": "COMBAT_CLOAKING_JAMMER"
-    }
+    },
+    "sources": [
+      {
+        "sector": "SECRET_AUGMENTED",
+        "event": "STOREEVENT_DYNASTY_DOOMSDAY"
+      },
+      {
+        "sector": "SECTOR_ABANDONED_GENERIC",
+        "event": "STOREEVENT_DYNASTY_DOOMSDAY"
+      },
+      {
+        "sector": "SECTOR_ASTEROID_GENERIC",
+        "event": "STOREEVENT_DYNASTY_DOOMSDAY"
+      },
+      {
+        "sector": "SECTOR_CLAN_UNIQUE",
+        "event": "NEBULA_CLAN_JAMMER_SALESMAN"
+      },
+      {
+        "sector": "SECTOR_DYNASTY",
+        "event": "STOREEVENT_DYNASTY_DOOMSDAY"
+      },
+      {
+        "sector": "SECTOR_DYNASTY_UNIQUE",
+        "event": "STOREEVENT_DYNASTY_DOOMSDAY"
+      },
+      {
+        "sector": "SECTOR_UNEXPLORED_GENERIC",
+        "event": "STOREEVENT_DYNASTY_DOOMSDAY"
+      },
+      {
+        "sector": "SECTOR_VAGABOND",
+        "event": "STOREEVENT_DYNASTY_DOOMSDAY"
+      },
+      {
+        "sector": "SECTOR_VAGABOND_UNIQUE",
+        "event": "STOREEVENT_DYNASTY_DOOMSDAY"
+      }
+    ]
   },
   {
     "augBlueprint": {
@@ -5615,7 +6969,13 @@
       "rarity": "5",
       "stackable": "false",
       "_id": "COMBAT_WARP_JAMMER"
-    }
+    },
+    "sources": [
+      {
+        "sector": "SECTOR_CLAN_UNIQUE",
+        "event": "NEBULA_CLAN_JAMMER_SALESMAN"
+      }
+    ]
   },
   {
     "augBlueprint": {
@@ -5626,7 +6986,13 @@
       "rarity": "5",
       "stackable": "false",
       "_id": "COMBAT_REACTOR_JAMMER"
-    }
+    },
+    "sources": [
+      {
+        "sector": "SECTOR_CLAN_UNIQUE",
+        "event": "NEBULA_CLAN_JAMMER_SALESMAN"
+      }
+    ]
   },
   {
     "augBlueprint": {
@@ -5637,7 +7003,13 @@
       "rarity": "5",
       "stackable": "false",
       "_id": "COMBAT_OXYGEN_JAMMER"
-    }
+    },
+    "sources": [
+      {
+        "sector": "SECTOR_CLAN_UNIQUE",
+        "event": "NEBULA_CLAN_JAMMER_SALESMAN"
+      }
+    ]
   },
   {
     "augBlueprint": {
@@ -5648,7 +7020,21 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "COMBAT_OXYGEN_UNSTABLE"
-    }
+    },
+    "sources": [
+      {
+        "sector": "SECTOR_KLEPTOCRACY",
+        "event": "NEBULA_SLUG_BIOLAB"
+      },
+      {
+        "sector": "SECTOR_KLEPTOCRACY_HEKTAR",
+        "event": "NEBULA_SLUG_BIOLAB"
+      },
+      {
+        "sector": "SECTOR_KLEPTOCRACY_UNIQUE",
+        "event": "NEBULA_SLUG_BIOLAB"
+      }
+    ]
   },
   {
     "augBlueprint": {
@@ -5660,7 +7046,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "ANCIENT_COMBAT_EQUALIZER"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -5672,7 +7059,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "ANCIENT_COMBAT_ASB"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -5684,7 +7072,13 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "ANCIENT_ACTIVATOR"
-    }
+    },
+    "sources": [
+      {
+        "sector": "SECRET_AUGMENTED",
+        "event": "ANOINTED_SURRENDER_ACCEPT"
+      }
+    ]
   },
   {
     "augBlueprint": {
@@ -5695,7 +7089,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "ANCIENT_CONSTRUCTOR"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -5706,7 +7101,13 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "TULLY_PRESENT"
-    }
+    },
+    "sources": [
+      {
+        "sector": "SECTOR_FEDERATION_UNIQUE",
+        "event": "FED_MEMORIAL_WIN"
+      }
+    ]
   },
   {
     "augBlueprint": {
@@ -5717,7 +7118,13 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "ZOLTAN_STATUE"
-    }
+    },
+    "sources": [
+      {
+        "sector": "SECTOR_MONK_UNIQUE",
+        "event": "SHIP_ZOLTAN_AUTO_TEMPLE.destroyed"
+      }
+    ]
   },
   {
     "augBlueprint": {
@@ -5728,7 +7135,13 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "QUARP_JUICE"
-    }
+    },
+    "sources": [
+      {
+        "sector": "SECRET_ESTATE",
+        "event": "ELLIE_STUDIO_NORMAL"
+      }
+    ]
   },
   {
     "augBlueprint": {
@@ -5739,7 +7152,13 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "SMUGGLER_RAID_CARGO"
-    }
+    },
+    "sources": [
+      {
+        "sector": "SECTOR_PIRATE_UNIQUE",
+        "event": "QUEST_SMUGGLER_RAID_VAULT"
+      }
+    ]
   },
   {
     "augBlueprint": {
@@ -5750,7 +7169,13 @@
       "rarity": "0",
       "stackable": "true",
       "_id": "NEBULA_GASSES"
-    }
+    },
+    "sources": [
+      {
+        "sector": "SECTOR_COALITION_UNIQUE",
+        "event": "SHIP_COALITION_NEBULA_HARVEST"
+      }
+    ]
   },
   {
     "augBlueprint": {
@@ -5761,7 +7186,13 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "BEACON_PARTS"
-    }
+    },
+    "sources": [
+      {
+        "sector": "SECTOR_LANIUS_UNIQUE",
+        "event": "BEACON_EATER_START_WIN"
+      }
+    ]
   },
   {
     "augBlueprint": {
@@ -5772,7 +7203,17 @@
       "rarity": "0",
       "stackable": "true",
       "_id": "ORCHID_KIDS"
-    }
+    },
+    "sources": [
+      {
+        "sector": "SECTOR_GATHERING",
+        "event": "ORCHID_FIELD_NORMAL"
+      },
+      {
+        "sector": "SECTOR_GATHERING_UNIQUE",
+        "event": "ORCHID_FIELD_NORMAL"
+      }
+    ]
   },
   {
     "augBlueprint": {
@@ -5783,7 +7224,13 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "SLUG_NARCOTICS"
-    }
+    },
+    "sources": [
+      {
+        "sector": "SECRET_NIGHTS",
+        "event": "NEBULA_KNIGHT_SMUGGLER"
+      }
+    ]
   },
   {
     "augBlueprint": {
@@ -5795,7 +7242,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "LOSTSUN_BLESSING"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -5807,7 +7255,13 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "ZOLTAN_BLESSING"
-    }
+    },
+    "sources": [
+      {
+        "sector": "SECTOR_MONK_UNIQUE",
+        "event": "MONK_TEMPLE_REWARD"
+      }
+    ]
   },
   {
     "augBlueprint": {
@@ -5819,7 +7273,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "NO_GHOST_PLAYER"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -5831,7 +7286,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "DEATH_VESTS"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -5843,7 +7299,13 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "WEAPON_PREIGNITE"
-    }
+    },
+    "sources": [
+      {
+        "sector": "SECTOR_KLEPTOCRACY_UNIQUE",
+        "event": "SYLVAN_PREIGNITER_WIN"
+      }
+    ]
   },
   {
     "augBlueprint": {
@@ -5856,7 +7318,8 @@
       "value": "3",
       "stackable": "false",
       "_id": "LOOT_COMPASS"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -5867,7 +7330,13 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "GAMBLING_MACHINE"
-    }
+    },
+    "sources": [
+      {
+        "sector": "SECTOR_PIRATE_UNIQUE",
+        "event": "CASINO_WIN"
+      }
+    ]
   },
   {
     "augBlueprint": {
@@ -5878,7 +7347,13 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "PROTON_PACK"
-    }
+    },
+    "sources": [
+      {
+        "sector": "SECTOR_VAGABOND_UNIQUE",
+        "event": "UNLOCK_GHOST_QUEST_WIN"
+      }
+    ]
   },
   {
     "augBlueprint": {
@@ -5889,7 +7364,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "LOCKED_PROTON_PACK"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -5900,7 +7376,13 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "MVBOSS_SPAWNER"
-    }
+    },
+    "sources": [
+      {
+        "sector": "SECTOR_DYNASTY_UNIQUE",
+        "event": "DYNASTY_SPECIALRUIN_LOG"
+      }
+    ]
   },
   {
     "augBlueprint": {
@@ -5911,7 +7393,117 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "FLEET_SKIP"
-    }
+    },
+    "sources": [
+      {
+        "sector": "SECRET_AUGMENTED",
+        "event": "STOREEVENT_PIRATE_ODDSHOP"
+      },
+      {
+        "sector": "SECRET_ESTATE",
+        "event": "STOREEVENT_PIRATE_ODDSHOP"
+      },
+      {
+        "sector": "SECRET_NIGHTS",
+        "event": "STOREEVENT_PIRATE_ODDSHOP"
+      },
+      {
+        "sector": "SECTOR_ABANDONED_GENERIC",
+        "event": "STOREEVENT_PIRATE_ODDSHOP"
+      },
+      {
+        "sector": "SECTOR_ASTEROID_GENERIC",
+        "event": "STOREEVENT_PIRATE_ODDSHOP"
+      },
+      {
+        "sector": "SECTOR_AUTO",
+        "event": "STOREEVENT_PIRATE_ODDSHOP"
+      },
+      {
+        "sector": "SECTOR_AUTO_UNIQUE",
+        "event": "STOREEVENT_PIRATE_ODDSHOP"
+      },
+      {
+        "sector": "SECTOR_CLAN_UNIQUE",
+        "event": "STOREEVENT_PIRATE_ODDSHOP"
+      },
+      {
+        "sector": "SECTOR_CONFEDERATE",
+        "event": "STOREEVENT_PIRATE_ODDSHOP"
+      },
+      {
+        "sector": "SECTOR_CONFEDERATE_UNIQUE",
+        "event": "STOREEVENT_PIRATE_ODDSHOP"
+      },
+      {
+        "sector": "SECTOR_GENIOCRACY",
+        "event": "STOREEVENT_PIRATE_ODDSHOP"
+      },
+      {
+        "sector": "SECTOR_GENIOCRACY_UNIQUE",
+        "event": "STOREEVENT_PIRATE_ODDSHOP"
+      },
+      {
+        "sector": "SECTOR_HIVE",
+        "event": "STOREEVENT_PIRATE_ODDSHOP"
+      },
+      {
+        "sector": "SECTOR_HIVE_UNIQUE",
+        "event": "STOREEVENT_PIRATE_ODDSHOP"
+      },
+      {
+        "sector": "SECTOR_KLEPTOCRACY",
+        "event": "STOREEVENT_PIRATE_ODDSHOP"
+      },
+      {
+        "sector": "SECTOR_KLEPTOCRACY_UNIQUE",
+        "event": "STOREEVENT_PIRATE_ODDSHOP"
+      },
+      {
+        "sector": "SECTOR_LANIUS_UNIQUE",
+        "event": "STOREEVENT_PIRATE_ODDSHOP"
+      },
+      {
+        "sector": "SECTOR_LOSTSUN_UNIQUE",
+        "event": "STOREEVENT_PIRATE_ODDSHOP"
+      },
+      {
+        "sector": "SECTOR_OUTCAST",
+        "event": "STOREEVENT_PIRATE_ODDSHOP"
+      },
+      {
+        "sector": "SECTOR_OUTCAST_UNIQUE",
+        "event": "STOREEVENT_PIRATE_ODDSHOP"
+      },
+      {
+        "sector": "SECTOR_PIRATE",
+        "event": "STOREEVENT_PIRATE_ODDSHOP"
+      },
+      {
+        "sector": "SECTOR_PIRATE_UNIQUE",
+        "event": "STOREEVENT_PIRATE_ODDSHOP"
+      },
+      {
+        "sector": "SECTOR_REPUBLIC",
+        "event": "STOREEVENT_PIRATE_ODDSHOP"
+      },
+      {
+        "sector": "SECTOR_REPUBLIC_UNIQUE",
+        "event": "STOREEVENT_PIRATE_ODDSHOP"
+      },
+      {
+        "sector": "SECTOR_SEPARATIST",
+        "event": "STOREEVENT_PIRATE_ODDSHOP"
+      },
+      {
+        "sector": "SECTOR_SEPARATIST_UNIQUE",
+        "event": "STOREEVENT_PIRATE_ODDSHOP"
+      },
+      {
+        "sector": "SECTOR_UNEXPLORED_GENERIC",
+        "event": "STOREEVENT_PIRATE_ODDSHOP"
+      }
+    ]
   },
   {
     "augBlueprint": {
@@ -5922,7 +7514,13 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "PANDORA_BOX"
-    }
+    },
+    "sources": [
+      {
+        "sector": "FINAL",
+        "event": "NODE17_PANDORAS_BOX"
+      }
+    ]
   },
   {
     "augBlueprint": {
@@ -5933,7 +7531,13 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "PANDORA_BOX_ANCIENT"
-    }
+    },
+    "sources": [
+      {
+        "sector": "SECRET_ROYAL",
+        "event": "ROYAL_PANDORA_FACTORY"
+      }
+    ]
   },
   {
     "augBlueprint": {
@@ -5946,7 +7550,25 @@
       "value": "0",
       "stackable": "false",
       "_id": "NANOBOT_DEFENSE_SYSTEM"
-    }
+    },
+    "sources": [
+      {
+        "sector": "SECTOR_HARMONY",
+        "event": "DISTRESS_ENGI_REBEL_LIST2"
+      },
+      {
+        "sector": "SECTOR_HARMONY_UNIQUE",
+        "event": "DISTRESS_ENGI_REBEL_LIST2"
+      },
+      {
+        "sector": "SECTOR_SEPARATIST",
+        "event": "SEPARATIST_DISGUISE"
+      },
+      {
+        "sector": "SECTOR_SEPARATIST_UNIQUE",
+        "event": "SEPARATIST_DISGUISE"
+      }
+    ]
   },
   {
     "augBlueprint": {
@@ -5958,7 +7580,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "LOCKED_NANOBOT_DEFENSE_SYSTEM"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -5971,7 +7594,8 @@
       "stackable": "true",
       "value": "0.15",
       "_id": "SYSTEM_CASING"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -5984,7 +7608,13 @@
       "stackable": "true",
       "value": "0.15",
       "_id": "SYSTEM_CASING_NEW"
-    }
+    },
+    "sources": [
+      {
+        "sector": "SECTOR_FEDERATION_UNIQUE",
+        "event": "STEALTH_UNLOCK_4"
+      }
+    ]
   },
   {
     "augBlueprint": {
@@ -5996,7 +7626,8 @@
       "rarity": "0",
       "stackable": "true",
       "_id": "LOCKED_SYSTEM_CASING"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -6008,7 +7639,13 @@
       "rarity": "1",
       "stackable": "false",
       "_id": "ADV_SCANNERS"
-    }
+    },
+    "sources": [
+      {
+        "sector": "SECTOR_THEOCRACY_UNIQUE",
+        "event": "ROCK_RAVINE_LEFT"
+      }
+    ]
   },
   {
     "augBlueprint": {
@@ -6019,7 +7656,21 @@
       "rarity": "3",
       "stackable": "false",
       "_id": "RECYCLER"
-    }
+    },
+    "sources": [
+      {
+        "sector": "SECTOR_FREEMANTIS",
+        "event": "STORAGE_CHECK_WEAPON_RECYCLER"
+      },
+      {
+        "sector": "SECTOR_FREEMANTIS_UNIQUE",
+        "event": "STORAGE_CHECK_WEAPON_RECYCLER"
+      },
+      {
+        "sector": "SECTOR_REPUBLIC_UNIQUE",
+        "event": "STORAGE_CHECK_WEAPON_RECYCLER"
+      }
+    ]
   },
   {
     "augBlueprint": {
@@ -6030,7 +7681,8 @@
       "rarity": "3",
       "stackable": "false",
       "_id": "RECYCLER_REVERSE"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -6041,7 +7693,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "GHOST_DUPLICATOR"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -6052,7 +7705,13 @@
       "rarity": "5",
       "stackable": "false",
       "_id": "STORE_BEACON"
-    }
+    },
+    "sources": [
+      {
+        "sector": "SECTOR_REBEL_UNIQUE",
+        "event": "REBELHOLD_ARCHIVE_WIN"
+      }
+    ]
   },
   {
     "augBlueprint": {
@@ -6064,7 +7723,8 @@
       "rarity": "3",
       "stackable": "false",
       "_id": "DISTRACTION_BUOY"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -6076,7 +7736,8 @@
       "rarity": "4",
       "stackable": "false",
       "_id": "PRE_SCANNER"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -6088,7 +7749,8 @@
       "rarity": "2",
       "stackable": "false",
       "_id": "FUEL_CONSERVER"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -6099,7 +7761,8 @@
       "rarity": "4",
       "stackable": "false",
       "_id": "PDS_DISABLE"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -6110,7 +7773,45 @@
       "rarity": "4",
       "stackable": "false",
       "_id": "ANTI_VIRUS"
-    }
+    },
+    "sources": [
+      {
+        "sector": "SECRET_AUGMENTED",
+        "event": "STOREEVENT_DYNASTY_DOOMSDAY"
+      },
+      {
+        "sector": "SECTOR_ABANDONED_GENERIC",
+        "event": "STOREEVENT_DYNASTY_DOOMSDAY"
+      },
+      {
+        "sector": "SECTOR_ASTEROID_GENERIC",
+        "event": "STOREEVENT_DYNASTY_DOOMSDAY"
+      },
+      {
+        "sector": "SECTOR_CLAN_UNIQUE",
+        "event": "STOREEVENT_DYNASTY_DOOMSDAY"
+      },
+      {
+        "sector": "SECTOR_DYNASTY",
+        "event": "STOREEVENT_DYNASTY_DOOMSDAY"
+      },
+      {
+        "sector": "SECTOR_DYNASTY_UNIQUE",
+        "event": "STOREEVENT_DYNASTY_DOOMSDAY"
+      },
+      {
+        "sector": "SECTOR_UNEXPLORED_GENERIC",
+        "event": "STOREEVENT_DYNASTY_DOOMSDAY"
+      },
+      {
+        "sector": "SECTOR_VAGABOND",
+        "event": "STOREEVENT_DYNASTY_DOOMSDAY"
+      },
+      {
+        "sector": "SECTOR_VAGABOND_UNIQUE",
+        "event": "STOREEVENT_DYNASTY_DOOMSDAY"
+      }
+    ]
   },
   {
     "augBlueprint": {
@@ -6121,7 +7822,8 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "FLARE_DISTRACTION"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -6132,7 +7834,13 @@
       "rarity": "3",
       "stackable": "false",
       "_id": "CREW_FIREARMS"
-    }
+    },
+    "sources": [
+      {
+        "sector": "SECTOR_REBEL_UNIQUE",
+        "event": "REMOTE_COLONY_MENU"
+      }
+    ]
   },
   {
     "augBlueprint": {
@@ -6144,7 +7852,8 @@
       "rarity": "3",
       "stackable": "false",
       "_id": "SPEED_SUITS"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -6155,7 +7864,8 @@
       "rarity": "2",
       "stackable": "false",
       "_id": "CREW_OXYGEN"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -6166,7 +7876,8 @@
       "rarity": "0",
       "stackable": "true",
       "_id": "CRATE_SCRAP"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -6177,7 +7888,8 @@
       "rarity": "0",
       "stackable": "true",
       "_id": "CRATE_SCRAP_HUGE"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -6188,7 +7900,8 @@
       "rarity": "0",
       "stackable": "true",
       "_id": "CRATE_FUEL"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -6199,7 +7912,8 @@
       "rarity": "0",
       "stackable": "true",
       "_id": "CRATE_MISSILES"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -6210,7 +7924,8 @@
       "rarity": "0",
       "stackable": "true",
       "_id": "CRATE_DRONES"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -6222,7 +7937,13 @@
       "rarity": "0",
       "stackable": "false",
       "_id": "PART_GATLING_AUGMENT"
-    }
+    },
+    "sources": [
+      {
+        "sector": "SECTOR_UNION_UNIQUE",
+        "event": "QUEST_GATLING_AUGMENT"
+      }
+    ]
   },
   {
     "augBlueprint": {
@@ -6235,7 +7956,8 @@
       "stackable": "false",
       "value": "0.5",
       "_id": "O2_MASKS"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -6248,7 +7970,8 @@
       "stackable": "false",
       "value": "0.5",
       "_id": "EXPLOSIVE_REPLICATOR"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -6261,7 +7984,8 @@
       "stackable": "false",
       "value": "1.f",
       "_id": "FIRE_EXTINGUISHERS"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -6274,7 +7998,8 @@
       "stackable": "false",
       "value": "1.f",
       "_id": "FLEET_DISTRACTION"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -6287,7 +8012,8 @@
       "stackable": "false",
       "value": "1.f",
       "_id": "TELEPORT_HEAL"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -6300,7 +8026,8 @@
       "stackable": "false",
       "value": "0.5",
       "_id": "BATTERY_BOOSTER"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -6313,7 +8040,8 @@
       "stackable": "false",
       "value": "0.0",
       "_id": "DEFENSE_SCRAMBLER"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -6326,7 +8054,8 @@
       "stackable": "false",
       "value": "0.0",
       "_id": "BACKUP_DNA"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -6338,7 +8067,8 @@
       "stackable": "false",
       "value": "0.0",
       "_id": "HACKING_STUN"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -6351,7 +8081,8 @@
       "stackable": "false",
       "value": "0.0",
       "_id": "LIFE_SCANNER"
-    }
+    },
+    "sources": []
   },
   {
     "augBlueprint": {
@@ -6364,6 +8095,7 @@
       "stackable": "false",
       "value": "0.0",
       "_id": "ZOLTAN_BYPASS"
-    }
+    },
+    "sources": []
   }
 ]
